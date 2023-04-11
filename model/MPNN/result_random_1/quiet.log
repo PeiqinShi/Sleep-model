@@ -1,0 +1,20 @@
+Fold 0
+Model 0 best validation f1 = 0.789474 on epoch 23
+Model 0 test f1 = 0.829630
+Model 0 test auc = 0.918731
+Model 0 test ba = 0.845833
+Model 0 test mcc = 0.686081
+Ensemble test f1 = 0.829630
+Ensemble test auc = 0.918731
+Ensemble test ba = 0.845833
+Ensemble test mcc = 0.686081
+1-fold cross validation
+	Seed 200 ==> test f1 = 0.829630
+	Seed 200 ==> test auc = 0.918731
+	Seed 200 ==> test ba = 0.845833
+	Seed 200 ==> test mcc = 0.686081
+Overall test f1 = 0.829630 +/- 0.000000
+Overall test auc = 0.918731 +/- 0.000000
+Overall test ba = 0.845833 +/- 0.000000
+Overall test mcc = 0.686081 +/- 0.000000
+Elapsed time = 0:02:30

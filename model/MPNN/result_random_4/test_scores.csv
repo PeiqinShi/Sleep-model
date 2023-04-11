@@ -1,0 +1,2 @@
+Task,Mean f1,Standard deviation f1,Fold 0 f1,Mean auc,Standard deviation auc,Fold 0 auc,Mean ba,Standard deviation ba,Fold 0 ba,Mean mcc,Standard deviation mcc,Fold 0 mcc
+label,0.8353982300884956,0.0,0.8353982300884956,0.9288753237143914,0.0,0.9288753237143914,0.8463928967813541,0.0,0.8463928967813541,0.690913856039332,0.0,0.690913856039332
