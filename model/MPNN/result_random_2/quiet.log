@@ -1,20 +1,20 @@
 Fold 0
-Model 0 best validation f1 = 0.850877 on epoch 22
-Model 0 test f1 = 0.852140
-Model 0 test auc = 0.926188
-Model 0 test ba = 0.866220
-Model 0 test mcc = 0.731908
-Ensemble test f1 = 0.852140
-Ensemble test auc = 0.926188
-Ensemble test ba = 0.866220
-Ensemble test mcc = 0.731908
+Model 0 best validation auc = 0.842725 on epoch 27
+Model 0 test auc = 0.813060
+Model 0 test accuracy = 0.738095
+Model 0 test pre = 0.671875
+Model 0 test rec = 0.781818
+Ensemble test auc = 0.813060
+Ensemble test accuracy = 0.738095
+Ensemble test pre = 0.671875
+Ensemble test rec = 0.781818
 1-fold cross validation
-	Seed 300 ==> test f1 = 0.852140
-	Seed 300 ==> test auc = 0.926188
-	Seed 300 ==> test ba = 0.866220
-	Seed 300 ==> test mcc = 0.731908
-Overall test f1 = 0.852140 +/- 0.000000
-Overall test auc = 0.926188 +/- 0.000000
-Overall test ba = 0.866220 +/- 0.000000
-Overall test mcc = 0.731908 +/- 0.000000
-Elapsed time = 0:02:26
+	Seed 300 ==> test auc = 0.813060
+	Seed 300 ==> test accuracy = 0.738095
+	Seed 300 ==> test pre = 0.671875
+	Seed 300 ==> test rec = 0.781818
+Overall test auc = 0.813060 +/- 0.000000
+Overall test accuracy = 0.738095 +/- 0.000000
+Overall test pre = 0.671875 +/- 0.000000
+Overall test rec = 0.781818 +/- 0.000000
+Elapsed time = 0:04:16

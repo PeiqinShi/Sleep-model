@@ -1,0 +1,1254 @@
+name,smiles,source,class
+"1-[(3-{6-chloroimidazo[1,2-a]pyridin-2-yl}benzene)sulfonyl]azepane",Clc1ccc2nc(cn2c1)-c1cccc(c1)S(=O)(=O)N1CCCCCC1,Topscience,GABAA agonist
+"1-[(3-{8-methylimidazo[1,2-a]pyridin-2-yl}benzene)sulfonyl]azepane",Cc1cccn2cc(nc12)-c1cccc(c1)S(=O)(=O)N1CCCCCC1,Topscience,GABAA agonist
+"3-(4-chlorophenyl)-6-(3,4,5-trimethoxyphenyl)-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",COc1cc(cc(OC)c1OC)-c1nn2c(nnc2s1)-c1ccc(Cl)cc1,Topscience,GABAA agonist
+"2-[2-(4-chlorophenyl)imidazo[1,2-a]pyridin-3-yl]acetic acid",OC(=O)Cc1c(nc2ccccn12)-c1ccc(Cl)cc1,Topscience,GABAA agonist
+"2-[10-(5-chloro-2-methylphenyl)-3,4,6,8,10,11-hexaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaen-5-yl]phenol",Cc1ccc(Cl)cc1-n1ncc2c1ncn1c(nnc21)-c1ccccc1O,Topscience,GABAA agonist
+"6-fluoro-2-methyl-3-(1,2,3,4-tetrahydroisoquinolin-2-ylmethyl)quinolin-4-ol",Cc1nc2ccc(F)cc2c(O)c1CN1CCc2ccccc2C1,Topscience,GABAA agonist
+"5-[1-(3-chloro-4-fluorophenyl)-5-methyl-1H-1,2,3-triazol-4-yl]-3-(2-fluorophenyl)-1,2,4-oxadiazole",Cc1c(nnn1-c1ccc(F)c(Cl)c1)-c1nc(no1)-c1ccccc1F,Topscience,GABAA agonist
+"2-[10-(2-methylphenyl)-3,4,6,8,10,11-hexaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaen-5-yl]phenol",Cc1ccccc1-n1ncc2c1ncn1c(nnc21)-c1ccccc1O,Topscience,GABAA agonist
+"10-(2-chlorophenyl)-5-(4-methylphenyl)-3,4,6,8,10,11-hexaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaene",Cc1ccc(cc1)-c1nnc2c3cnn(-c4ccccc4Cl)c3ncn12,Topscience,GABAA agonist
+"5-[(4-chlorobenzene)sulfonyl]-2-(2-fluorophenyl)-1,3-oxazole-4-carbonitrile",Fc1ccccc1-c1nc(C#N)c(o1)S(=O)(=O)c1ccc(Cl)cc1,Topscience,GABAA agonist
+"5-{[(2,4-dichlorophenyl)methane]sulfonyl}-2-phenyl-1,3-oxazole-4-carbonitrile",Clc1ccc(CS(=O)(=O)c2oc(nc2C#N)-c2ccccc2)c(Cl)c1,Topscience,GABAA agonist
+"8-(3-chlorophenyl)-1,3-dimethyl-7-(3-nitrophenyl)-1H,2H,3H,4H,8H-imidazo[1,2-g]purine-2,4-dione",Cn1c2nc3n(c(cn3c2c(=O)n(C)c1=O)-c1cccc(c1)[N+]([O-])=O)-c1cccc(Cl)c1,Topscience,GABAA agonist
+"2-(2-fluorophenyl)-5-[(4-methylphenyl)sulfanyl]-1,3-oxazole-4-carbonitrile",Cc1ccc(Sc2oc(nc2C#N)-c2ccccc2F)cc1,Topscience,GABAA agonist
+"5-(2-chlorophenyl)-10-(2,4-dimethylphenyl)-3,4,6,8,10,11-hexaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaene",Cc1ccc(c(C)c1)-n1ncc2c1ncn1c(nnc21)-c1ccccc1Cl,Topscience,GABAA agonist
+"5-[1-(4-bromophenyl)-5-methyl-1H-1,2,3-triazol-4-yl]-3-(2-fluorophenyl)-1,2,4-oxadiazole",Cc1c(nnn1-c1ccc(Br)cc1)-c1nc(no1)-c1ccccc1F,Topscience,GABAA agonist
+"3-[10-(4-fluorophenyl)-3,4,6,8,10,11-hexaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaen-5-yl]naphthalen-2-ol",Oc1cc2ccccc2cc1-c1nnc2c3cnn(-c4ccc(F)cc4)c3ncn12,Topscience,GABAA agonist
+"2-(2-fluorophenyl)-5-[(4-methylbenzene)sulfonyl]-1,3-oxazole-4-carbonitrile",Cc1ccc(cc1)S(=O)(=O)c1oc(nc1C#N)-c1ccccc1F,Topscience,GABAA agonist
+"10-(4-chlorophenyl)-5-(3,4-dimethoxyphenyl)-3,4,6,8,10,11-hexaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaene",COc1ccc(cc1OC)-c1nnc2c3cnn(-c4ccc(Cl)cc4)c3ncn12,Topscience,GABAA agonist
+"1-({1,3-dimethyl-6-phenyl-1H-pyrazolo[3,4-b]pyridin-4-yl}carbonyl)-4-ethylpiperazine",CCN1CCN(CC1)C(=O)c1cc(nc2n(C)nc(C)c12)-c1ccccc1,Topscience,GABAA agonist
+"2-[2-(3,4-dimethylphenyl)-8-methylimidazo[1,2-a]pyridin-3-yl]acetic acid",Cc1ccc(cc1C)-c1nc2c(C)cccn2c1CC(O)=O,Topscience,GABAA agonist
+"ethyl 2-amino-1-(3-chloro-4-methylphenyl)-1H-pyrrolo[2,3-b]quinoxaline-3-carboxylate",CCOC(=O)c1c(N)n(-c2ccc(C)c(Cl)c2)c2nc3ccccc3nc12,Topscience,GABAA agonist
+"7-(3-chloro-4-ethoxyphenyl)-8-(4-fluorophenyl)-1,3-dimethyl-1H,2H,3H,4H,8H-imidazo[1,2-g]purine-2,4-dione",CCOc1ccc(cc1Cl)-c1cn2c(nc3n(C)c(=O)n(C)c(=O)c23)n1-c1ccc(F)cc1,Topscience,GABAA agonist
+2-hydroxy-6-phenylpyrimidine-4-carboxylic acid,OC(=O)c1cc(nc(O)n1)-c1ccccc1,Topscience,GABAA agonist
+"1-benzyl-4-[1-(3-chlorophenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]piperazine",Clc1cccc(c1)-n1ncc2c(ncnc12)N1CCN(Cc2ccccc2)CC1,Topscience,GABAA agonist
+"5,7-diphenyl-N-[3-(propan-2-yloxy)propyl]-7H-pyrrolo[2,3-d]pyrimidin-4-amine",CC(C)OCCCNc1ncnc2n(cc(-c3ccccc3)c12)-c1ccccc1,Topscience,GABAA agonist
+"5-[({3-bromo-6-chloroimidazo[1,2-a]pyridin-2-yl}methyl)sulfanyl]-1-phenyl-1H-1,2,3,4-tetrazole",Clc1ccc2nc(CSc3nnnn3-c3ccccc3)c(Br)n2c1,Topscience,GABAA agonist
+"8-(4-fluorophenyl)-7-(3-methoxyphenyl)-1,3-dimethyl-1H,2H,3H,4H,8H-imidazo[1,2-g]purine-2,4-dione",COc1cccc(c1)-c1cn2c(nc3n(C)c(=O)n(C)c(=O)c23)n1-c1ccc(F)cc1,Topscience,GABAA agonist
+"ethyl 2-{[2-(1H-1,2,3,4-tetrazol-1-yl)benzene]amido}-1,3-thiazole-4-carboxylate",CCOC(=O)c1csc(NC(=O)c2ccccc2-n2cnnn2)n1,Topscience,GABAA agonist
+"ethyl 3-[(2,4-dichlorophenyl)methyl]-5-methyl-4-oxo-3H,4H-thieno[2,3-d]pyrimidine-6-carboxylate",CCOC(=O)c1sc2ncn(Cc3ccc(Cl)cc3Cl)c(=O)c2c1C,Topscience,GABAA agonist
+6-methyl-3-[(4-methylpiperazin-1-yl)methyl]-2-phenylquinolin-4-ol,CN1CCN(Cc2c(O)c3cc(C)ccc3nc2-c2ccccc2)CC1,Topscience,GABAA agonist
+"2-[2-(3,4-dimethylphenyl)-7-methylimidazo[1,2-a]pyridin-3-yl]acetic acid",Cc1ccn2c(CC(O)=O)c(nc2c1)-c1ccc(C)c(C)c1,Topscience,GABAA agonist
+"3-{6-chloroimidazo[1,2-a]pyridin-2-yl}-N,N-diethylbenzene-1-sulfonamide",CCN(CC)S(=O)(=O)c1cccc(c1)-c1cn2cc(Cl)ccc2n1,Topscience,GABAA agonist
+"10-(3-chloro-4-methylphenyl)-5-(4-methylphenyl)-3,4,6,8,10,11-hexaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaene",Cc1ccc(cc1)-c1nnc2c3cnn(-c4ccc(C)c(Cl)c4)c3ncn12,Topscience,GABAA agonist
+2-[2-amino-5-(4-chlorophenyl)-6-methylpyrimidin-4-yl]-5-ethoxyphenol,CCOc1ccc(c(O)c1)-c1nc(N)nc(C)c1-c1ccc(Cl)cc1,Topscience,GABAA agonist
+2-[5-(4-bromophenyl)pyrimidin-4-yl]-5-ethoxyphenol,CCOc1ccc(c(O)c1)-c1ncncc1-c1ccc(Br)cc1,Topscience,GABAA agonist
+"4-[(3-{imidazo[1,2-a]pyridin-2-yl}benzene)sulfonyl]-2,6-dimethylmorpholine",CC1CN(CC(C)O1)S(=O)(=O)c1cccc(c1)-c1cn2ccccc2n1,Topscience,GABAA agonist
+"4-(2-fluorophenyl)-3-(2-hydroxyphenyl)-5-(pyridin-4-ylmethyl)-1H,4H,5H,6H-pyrrolo[3,4-c]pyrazol-6-one",Oc1ccccc1-c1n[nH]c2C(=O)N(Cc3ccncc3)C(c12)c1ccccc1F,Topscience,GABAA agonist
+"2-methyl-3-(1,2,3,4-tetrahydroisoquinolin-2-ylmethyl)quinolin-4-ol",Cc1nc2ccccc2c(O)c1CN1CCc2ccccc2C1,Topscience,GABAA agonist
+"7-(3-chloro-4-hydroxyphenyl)-1,3-dimethyl-8-phenyl-1H,2H,3H,4H,8H-imidazo[1,2-g]purine-2,4-dione",Cn1c2nc3n(c(cn3c2c(=O)n(C)c1=O)-c1ccc(O)c(Cl)c1)-c1ccccc1,Topscience,GABAA agonist
+"8-(4-chlorophenyl)-7-(3-methoxyphenyl)-1,3-dimethyl-1H,2H,3H,4H,8H-imidazo[1,2-g]purine-2,4-dione",COc1cccc(c1)-c1cn2c(nc3n(C)c(=O)n(C)c(=O)c23)n1-c1ccc(Cl)cc1,Topscience,GABAA agonist
+"tert-butyl 4-({6-bromo-8-methylimidazo[1,2-a]pyridin-3-yl}methyl)piperazine-1-carboxylate",Cc1cc(Br)cn2c(CN3CCN(CC3)C(=O)OC(C)(C)C)cnc12,Topscience,GABAA agonist
+"5-[1-(2,5-difluorophenyl)-5-methyl-1H-1,2,3-triazol-4-yl]-3-(2-methylphenyl)-1,2,4-oxadiazole",Cc1c(nnn1-c1cc(F)ccc1F)-c1nc(no1)-c1ccccc1C,Topscience,GABAA agonist
+"2-(2-{6,8-dichloroimidazo[1,2-a]pyridin-2-yl}ethyl)-2,3-dihydro-1H-isoindole-1,3-dione",Clc1cc(Cl)c2nc(CCN3C(=O)c4ccccc4C3=O)cn2c1,Topscience,GABAA agonist
+"6-bromo-2-methyl-3-(1,2,3,4-tetrahydroisoquinolin-2-ylmethyl)quinolin-4-ol",Cc1nc2ccc(Br)cc2c(O)c1CN1CCc2ccccc2C1,Topscience,GABAA agonist
+"2-(2-{5-methylimidazo[1,2-a]pyridin-2-yl}ethyl)-2,3-dihydro-1H-isoindole-1,3-dione",Cc1cccc2nc(CCN3C(=O)c4ccccc4C3=O)cn12,Topscience,GABAA agonist
+"5-bromo-2-[5-(4-fluorophenyl)-1H-1,2,3,4-tetrazol-1-yl]pyridine",Fc1ccc(cc1)-c1nnnn1-c1ccc(Br)cn1,Topscience,GABAA agonist
+"1-{6-ethyl-2-methylthieno[2,3-d]pyrimidin-4-yl}-4-[(4-methylphenyl)carbonyl]piperazine",CCc1cc2c(nc(C)nc2s1)N1CCN(CC1)C(=O)c1ccc(C)cc1,Topscience,GABAA agonist
+"methyl 2-{[5-(3-chloro-1-benzothiophen-2-yl)-4-methyl-4H-1,2,4-triazol-3-yl]sulfanyl}acetate",COC(=O)CSc1nnc(-c2sc3ccccc3c2Cl)n1C,Topscience,GABAA agonist
+"5-amino-N-benzyl-1-(4-chloro-3-methoxyphenyl)-1H-1,2,3-triazole-4-carboxamide",COc1cc(ccc1Cl)-n1nnc(C(=O)NCc2ccccc2)c1N,Topscience,GABAA agonist
+"3,4-dimethyl-N-[5-(oxolan-2-yl)-1,3,4-thiadiazol-2-yl]-2-(1H-1,2,3,4-tetrazol-1-yl)benzamide",Cc1ccc(C(=O)Nc2nnc(s2)C2CCCO2)c(c1C)-n1cnnn1,Topscience,GABAA agonist
+7-bromo-N-(furan-2-ylmethyl)-N-[(4-methoxyphenyl)methyl]-4-oxo-4H-chromene-2-carboxamide,COc1ccc(CN(Cc2ccco2)C(=O)c2cc(=O)c3ccc(Br)cc3o2)cc1,Topscience,GABAA agonist
+"N-[2-(dimethylamino)-2-phenylethyl]-5-(5,6,7,8-tetrahydronaphthalen-2-yl)-1,2-oxazole-3-carboxamide",CN(C)C(CNC(=O)c1cc(on1)-c1ccc2CCCCc2c1)c1ccccc1,Topscience,GABAA agonist
+benzyl 2-{[4-(4-methoxyphenyl)-2-oxo-2H-chromen-7-yl]oxy}acetate,COc1ccc(cc1)-c1cc(=O)oc2cc(OCC(=O)OCc3ccccc3)ccc12,Topscience,GABAA agonist
+ethyl 6-chloro-4-[(5-chloro-2-hydroxyphenyl)amino]quinoline-3-carboxylate,CCOC(=O)c1cnc2ccc(Cl)cc2c1Nc1cc(Cl)ccc1O,Topscience,GABAA agonist
+"N-(2,6-difluorophenyl)-2-({2-methyl-6-phenylthieno[2,3-d]pyrimidin-4-yl}sulfanyl)acetamide",Cc1nc(SCC(=O)Nc2c(F)cccc2F)c2cc(sc2n1)-c1ccccc1,Topscience,GABAA agonist
+"4-[6-(3,5-dimethyl-1H-pyrazol-1-yl)-[1,2,4]triazolo[4,3-b]pyridazin-3-yl]-N-(3,4,5-trifluorophenyl)butanamide",Cc1cc(C)n(n1)-c1ccc2nnc(CCCC(=O)Nc3cc(F)c(F)c(F)c3)n2n1,Topscience,GABAA agonist
+"N-[2-(2-fluorophenyl)ethyl]-2-{4,6,7-trimethyl-2-oxo-2H-furo[3,2-g]chromen-3-yl}acetamide",Cc1oc2cc3oc(=O)c(CC(=O)NCCc4ccccc4F)c(C)c3cc2c1C,Topscience,GABAA agonist
+"1-(1-benzofuran-2-yl)-2-{[1,2,4]triazolo[4,3-a]quinolin-1-ylsulfanyl}ethan-1-one",O=C(CSc1nnc2ccc3ccccc3n12)c1cc2ccccc2o1,Topscience,GABAA agonist
+"N-[3-(1H-1,3-benzodiazol-2-yl)propyl]-2-(7,8-dimethoxy-1-oxo-1,2-dihydrophthalazin-2-yl)acetamide",COc1ccc2cnn(CC(=O)NCCCc3nc4ccccc4[nH]3)c(=O)c2c1OC,Topscience,GABAA agonist
+"N'-[1-(3-chlorophenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]-2-(naphthalen-1-yl)acetohydrazide",Clc1cccc(c1)-n1ncc2c(NNC(=O)Cc3cccc4ccccc34)ncnc12,Topscience,GABAA agonist
+"N-[(2-chlorophenyl)methyl]-6-(3-methoxypropyl)-2-oxo-1,6,8-triazatricyclo[7.4.0.0^{3,7}]trideca-3(7),4,8,10,12-pentaene-5-carboxamide",COCCCn1c(cc2c1nc1ccccn1c2=O)C(=O)NCc1ccccc1Cl,Topscience,GABAA agonist
+"1-(3,4-dimethylphenyl)-N-[3-(1H-imidazol-1-yl)propyl]-1H-pyrazolo[3,4-d]pyrimidin-4-amine",Cc1ccc(cc1C)-n1ncc2c(NCCCn3ccnc3)ncnc12,Topscience,GABAA agonist
+"N-[(4-methylphenyl)methyl]-2-{3,4,9-trimethyl-7-oxo-7H-furo[2,3-f]chromen-8-yl}acetamide",Cc1coc2c1c(C)cc1oc(=O)c(CC(=O)NCc3ccc(C)cc3)c(C)c21,Topscience,GABAA agonist
+"N-(furan-2-ylmethyl)-2-{4,6,7,9-tetramethyl-2-oxo-2H-furo[3,2-g]chromen-3-yl}acetamide",Cc1oc2c(C)c3oc(=O)c(CC(=O)NCc4ccco4)c(C)c3cc2c1C,Topscience,GABAA agonist
+"2-{4,7-dimethyl-2-oxo-6-phenyl-2H-furo[3,2-g]chromen-3-yl}-N-(furan-2-ylmethyl)acetamide",Cc1oc2cc3oc(=O)c(CC(=O)NCc4ccco4)c(C)c3cc2c1-c1ccccc1,Topscience,GABAA agonist
+"1-[1-(3-chlorophenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]-4-(2-fluorophenyl)piperazine",Fc1ccccc1N1CCN(CC1)c1ncnc2n(ncc12)-c1cccc(Cl)c1,Topscience,GABAA agonist
+"3,4-dimethyl-2-(1H-1,2,3,4-tetrazol-1-yl)-N-(2-{[1,2,4]triazolo[4,3-a]pyridin-3-yl}ethyl)benzamide",Cc1ccc(C(=O)NCCc2nnc3ccccn23)c(c1C)-n1cnnn1,Topscience,GABAA agonist
+"3-[6-(3,5-dimethyl-1H-pyrazol-1-yl)-[1,2,4]triazolo[4,3-b]pyridazin-3-yl]-N-(4-methyl-1,3-thiazol-2-yl)propanamide",Cc1csc(NC(=O)CCc2nnc3ccc(nn23)-n2nc(C)cc2C)n1,Topscience,GABAA agonist
+"N-[3-(1H-1,3-benzodiazol-2-yl)propyl]-3,4-dimethyl-2-(1H-1,2,3,4-tetrazol-1-yl)benzamide",Cc1ccc(C(=O)NCCCc2nc3ccccc3[nH]2)c(c1C)-n1cnnn1,Topscience,GABAA agonist
+"2-{[1,2,3,4]tetrazolo[1,5-c]quinazolin-5-ylsulfanyl}-N-{[(1,2,4-thiadiazol-5-yl)carbamoyl]methyl}acetamide",O=C(CNC(=O)CSc1nc2ccccc2c2nnnn12)Nc1ncns1,Topscience,GABAA agonist
+"N-[(3-chlorophenyl)methyl]-2-{[1,2,3,4]tetrazolo[1,5-c]quinazolin-5-ylsulfanyl}acetamide",Clc1cccc(CNC(=O)CSc2nc3ccccc3c3nnnn23)c1,Topscience,GABAA agonist
+"2-[5-(4-chlorophenyl)-2H-1,2,3,4-tetrazol-2-yl]-N-(2,5-dimethylphenyl)acetamide",Cc1ccc(C)c(NC(=O)Cn2nnc(n2)-c2ccc(Cl)cc2)c1,Topscience,GABAA agonist
+"3-{4-methyl-2-oxo-6-phenyl-2H-furo[3,2-g]chromen-3-yl}-N-(4H-1,2,4-triazol-4-yl)propanamide",Cc1c(CCC(=O)Nn2cnnc2)c(=O)oc2cc3occ(-c4ccccc4)c3cc12,Topscience,GABAA agonist
+"2-({5,6-dimethylthieno[2,3-d]pyrimidin-4-yl}sulfanyl)-1-(naphthalen-2-yl)ethan-1-one",Cc1sc2ncnc(SCC(=O)c3ccc4ccccc4c3)c2c1C,Topscience,GABAA agonist
+"N-[2-(1H-1,3-benzodiazol-2-yl)ethyl]-5-chloro-2-(1H-1,2,3,4-tetrazol-1-yl)benzamide",Clc1ccc(c(c1)C(=O)NCCc1nc2ccccc2[nH]1)-n1cnnn1,Topscience,GABAA agonist
+"4,6,7-trimethyl-3-[3-oxo-3-(1,2,3,4-tetrahydroisoquinolin-2-yl)propyl]-2H-furo[3,2-g]chromen-2-one",Cc1oc2cc3oc(=O)c(CCC(=O)N4CCc5ccccc5C4)c(C)c3cc2c1C,Topscience,GABAA agonist
+"N-[2-(pyridin-2-yl)ethyl]-3-{4,6,7,9-tetramethyl-2-oxo-2H-furo[3,2-g]chromen-3-yl}propanamide",Cc1oc2c(C)c3oc(=O)c(CCC(=O)NCCc4ccccn4)c(C)c3cc2c1C,Topscience,GABAA agonist
+"2-{[1-(3-chloro-4-methylphenyl)-1H-1,2,3,4-tetrazol-5-yl]sulfanyl}-N-(quinoxalin-6-yl)acetamide",Cc1ccc(cc1Cl)-n1nnnc1SCC(=O)Nc1ccc2nccnc2c1,Topscience,GABAA agonist
+"N-[(3,4-dimethoxyphenyl)methyl]-2-{3,4,9-trimethyl-7-oxo-7H-furo[2,3-f]chromen-8-yl}acetamide",COc1ccc(CNC(=O)Cc2c(C)c3c4occ(C)c4c(C)cc3oc2=O)cc1OC,Topscience,GABAA agonist
+"2,4-dichloro-N-[4-(4-methoxyphenyl)-1,2,5-oxadiazol-3-yl]benzamide",COc1ccc(cc1)-c1nonc1NC(=O)c1ccc(Cl)cc1Cl,Topscience,GABAA agonist
+7-chloro-2-(4-fluorophenyl)-3-hydroxy-4H-chromen-4-one,Oc1c(oc2cc(Cl)ccc2c1=O)-c1ccc(F)cc1,Topscience,GABAA agonist
+"methyl 4,5-dimethyl-2-[2-({6-phenylthieno[2,3-d]pyrimidin-4-yl}sulfanyl)acetamido]thiophene-3-carboxylate",COC(=O)c1c(NC(=O)CSc2ncnc3sc(cc23)-c2ccccc2)sc(C)c1C,Topscience,GABAA agonist
+"2-({5-methyl-7-phenyl-[1,2,4]triazolo[4,3-c]pyrimidin-3-yl}sulfanyl)-N-(4-methylphenyl)acetamide",Cc1ccc(NC(=O)CSc2nnc3cc(nc(C)n23)-c2ccccc2)cc1,Topscience,GABAA agonist
+"1,5-dimethyl-4-{[1-(3-methylphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]amino}-2-phenyl-2,3-dihydro-1H-pyrazol-3-one",Cc1c(Nc2ncnc3n(ncc23)-c2cccc(C)c2)c(=O)n(-c2ccccc2)n1C,Topscience,GABAA agonist
+"2-amino-1-[2-(4-fluorophenyl)ethyl]-N-[2-(4-methoxyphenyl)ethyl]-1H-pyrrolo[2,3-b]quinoxaline-3-carboxamide",COc1ccc(CCNC(=O)c2c(N)n(CCc3ccc(F)cc3)c3nc4ccccc4nc23)cc1,Topscience,GABAA agonist
+"7-(1-benzofuran-2-yl)-2-(2-methoxyphenyl)-[1,2,4]triazolo[1,5-a]pyrimidine",COc1ccccc1-c1nc2nccc(-c3cc4ccccc4o3)n2n1,Topscience,GABAA agonist
+"N'-[1-(2,4-dimethylphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]-4-methoxybenzohydrazide",COc1ccc(cc1)C(=O)NNc1ncnc2n(ncc12)-c1ccc(C)cc1C,Topscience,GABAA agonist
+"diethyl(3-{[1-(4-fluorophenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]amino}propyl)amine",CCN(CC)CCCNc1ncnc2n(ncc12)-c1ccc(F)cc1,Topscience,GABAA agonist
+"13-methyl-5-(2-phenylethyl)-10-thia-3,4,6,8-tetraazatetracyclo[7.7.0.0^{2,6}.0^{11,16}]hexadeca-1(9),2,4,7,11(16)-pentaene",CC1CCc2c(C1)sc1ncn3c(CCc4ccccc4)nnc3c21,Topscience,GABAA agonist
+"1-(4-fluorophenyl)-4-[(2-phenoxyethyl)sulfanyl]-1H-pyrazolo[3,4-d]pyrimidine",Fc1ccc(cc1)-n1ncc2c(SCCOc3ccccc3)ncnc12,Topscience,GABAA agonist
+"2-({6-[4-(2-fluorophenyl)piperazin-1-yl]-1-(4-methylphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl}amino)ethan-1-ol",Cc1ccc(cc1)-n1ncc2c(NCCO)nc(nc12)N1CCN(CC1)c1ccccc1F,Topscience,GABAA agonist
+"13-(furan-2-ylmethyl)-17-(2-phenylethyl)-2,9,13,15,17-pentaazatetracyclo[8.7.0.0^{3,8}.0^{11,16}]heptadeca-1,3(8),4,6,9,11(16),14-heptaen-12-one",O=c1n(Cc2ccco2)cnc2n(CCc3ccccc3)c3nc4ccccc4nc3c12,Topscience,GABAA agonist
+"N-[2-(3,4-dimethoxyphenyl)ethyl]-1-(4-fluorophenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",COc1ccc(CCNc2ncnc3n(ncc23)-c2ccc(F)cc2)cc1OC,Topscience,GABAA agonist
+"1-benzyl-4-[1-(3,4-dimethylphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]piperazine",Cc1ccc(cc1C)-n1ncc2c(ncnc12)N1CCN(Cc2ccccc2)CC1,Topscience,GABAA agonist
+"2-(7-methoxy-4-methyl-2-oxo-2H-chromen-3-yl)-N-(5-methyl-1,3,4-thiadiazol-2-yl)acetamide",COc1ccc2c(C)c(CC(=O)Nc3nnc(C)s3)c(=O)oc2c1,Topscience,GABAA agonist
+"2-(4-ethylphenoxy)-N-[4-(4-methoxyphenyl)-1,2,5-oxadiazol-3-yl]propanamide",CCc1ccc(OC(C)C(=O)Nc2nonc2-c2ccc(OC)cc2)cc1,Topscience,GABAA agonist
+"N-[(3-chlorophenyl)methyl]-2-(5-hydroxy-4,7-dimethyl-2-oxo-2H-chromen-3-yl)acetamide",Cc1cc(O)c2c(C)c(CC(=O)NCc3cccc(Cl)c3)c(=O)oc2c1,Topscience,GABAA agonist
+"3-({11-methyl-8-thia-4,6-diazatricyclo[7.4.0.0^{2,7}]trideca-1(9),2(7),3,5-tetraen-3-yl}sulfanyl)butan-2-one",CC(Sc1ncnc2sc3CC(C)CCc3c12)C(C)=O,Topscience,GABAA agonist
+6-(diethylamino)-3-[(4-ethylpiperazin-1-yl)methyl]-2-methylquinolin-4-ol,CCN(CC)c1ccc2nc(C)c(CN3CCN(CC)CC3)c(O)c2c1,Topscience,GABAA agonist
+"N-[4-(4-fluorophenyl)-1,2,5-oxadiazol-3-yl]-4-(prop-2-en-1-yloxy)benzamide",Fc1ccc(cc1)-c1nonc1NC(=O)c1ccc(OCC=C)cc1,Topscience,GABAA agonist
+"3-ethyl 6-methyl 4-[(2-hydroxyethyl)amino]quinoline-3,6-dicarboxylate",CCOC(=O)c1cnc2ccc(cc2c1NCCO)C(=O)OC,Topscience,GABAA agonist
+"2-methyl-4-{[5-(4-methylphenyl)-1,2-oxazol-3-yl]carbonyl}-3,4-dihydro-2H-1,4-benzoxazine",CC1CN(C(=O)c2cc(on2)-c2ccc(C)cc2)c2ccccc2O1,Topscience,GABAA agonist
+"N'-[1-(3,4-dimethylphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]-3-phenylpropanehydrazide",Cc1ccc(cc1C)-n1ncc2c(NNC(=O)CCc3ccccc3)ncnc12,Topscience,GABAA agonist
+"2-(2,6-dimethylphenoxy)-N-{4-methyl-5-[3-(thiophen-2-yl)-1,2,4-oxadiazol-5-yl]-1,3-thiazol-2-yl}acetamide",Cc1nc(NC(=O)COc2c(C)cccc2C)sc1-c1nc(no1)-c1cccs1,Topscience,GABAA agonist
+"13-(2,5-dichlorophenyl)-10-thia-1,8,13-triazatetracyclo[7.6.0.0^{2,7}.0^{11,15}]pentadeca-2(7),3,5,8,11(15)-pentaene-12,14-dione",Clc1ccc(Cl)c(c1)N1C(=O)c2sc3nc4ccccc4n3c2C1=O,Topscience,GABAA agonist
+6-bromo-2-methyl-3-[(4-methylpiperidin-1-yl)methyl]quinolin-4-ol,CC1CCN(Cc2c(C)nc3ccc(Br)cc3c2O)CC1,Topscience,GABAA agonist
+"5-(3,4-dimethylphenyl)-N-(pyridin-2-yl)-1,2-oxazole-3-carboxamide",Cc1ccc(cc1C)-c1cc(no1)C(=O)Nc1ccccn1,Topscience,GABAA agonist
+"methyl 2-{[4-oxo-3-(2,3,5-trimethylphenoxy)-4H-chromen-7-yl]oxy}propanoate",COC(=O)C(C)Oc1ccc2c(c1)occ(Oc1cc(C)cc(C)c1C)c2=O,Topscience,GABAA agonist
+"2-(4,6-dimethyl-1-benzofuran-3-yl)-N-(6-methanesulfonyl-1,3-benzothiazol-2-yl)acetamide",Cc1cc(C)c2c(CC(=O)Nc3nc4ccc(cc4s3)S(C)(=O)=O)coc2c1,Topscience,GABAA agonist
+"4-(3-methoxyphenoxy)-6-phenylthieno[2,3-d]pyrimidine",COc1cccc(Oc2ncnc3sc(cc23)-c2ccccc2)c1,Topscience,GABAA agonist
+"2-(4-chloro-3,5-dimethylphenoxy)-N-{[5-(4-methylphenyl)-1,3,4-oxadiazol-2-yl]methyl}acetamide",Cc1ccc(cc1)-c1nnc(CNC(=O)COc2cc(C)c(Cl)c(C)c2)o1,Topscience,GABAA agonist
+"N-[2-(1H-1,3-benzodiazol-2-yl)ethyl]-11-methyl-8-thia-4,6-diazatricyclo[7.4.0.0^{2,7}]trideca-1(9),2(7),3,5-tetraen-3-amine",CC1CCc2c(C1)sc1ncnc(NCCc3nc4ccccc4[nH]3)c21,Topscience,GABAA agonist
+"N'-[1-(3,4-dichlorophenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]furan-2-carbohydrazide",Clc1ccc(cc1Cl)-n1ncc2c(NNC(=O)c3ccco3)ncnc12,Topscience,GABAA agonist
+"2-[2-({6-phenylthieno[2,3-d]pyrimidin-4-yl}sulfanyl)ethyl]-2,3-dihydro-1H-isoindole-1,3-dione",O=C1N(CCSc2ncnc3sc(cc23)-c2ccccc2)C(=O)c2ccccc12,Topscience,GABAA agonist
+"10-(2,4-dimethylphenyl)-5-(3-nitrophenyl)-3,4,6,8,10,11-hexaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaene",Cc1ccc(c(C)c1)-n1ncc2c1ncn1c(nnc21)-c1cccc(c1)[N+]([O-])=O,Topscience,GABAA agonist
+"5-(furan-2-yl)-10-(4-methylphenyl)-3,4,6,8,10,11-hexaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaene",Cc1ccc(cc1)-n1ncc2c1ncn1c(nnc21)-c1ccco1,Topscience,GABAA agonist
+"4-{8-hydroxy-2,4-dioxo-3-azatricyclo[7.3.1.0^{5,13}]trideca-1(12),5,7,9(13),10-pentaen-3-yl}butanoic acid",OC(=O)CCCN1C(=O)c2cccc3c(O)ccc(C1=O)c23,Topscience,GABAA agonist
+"2-methoxy-N-{5-methyl-4-[3-oxo-4-(prop-2-en-1-yl)-3,4-dihydro-2H-1,4-benzoxazin-6-yl]-1,3-thiazol-2-yl}acetamide",COCC(=O)Nc1nc(c(C)s1)-c1ccc2OCC(=O)N(CC=C)c2c1,Topscience,GABAA agonist
+"N-[4-(4-ethyl-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-6-yl)-5-methyl-1,3-thiazol-2-yl]acetamide",CCN1C(=O)COc2ccc(cc12)-c1nc(NC(C)=O)sc1C,Topscience,GABAA agonist
+"(1S,10R,11S,13R,14R,15S)-15-methyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-2(7),3,5-triene-5,13,14-triol",[H][C@@]12C[C@@H](O)[C@H](O)[C@@]1(C)CC[C@]1([H])c3ccc(O)cc3CC[C@@]21[H],Topscience,GABAA agonist
+4-{[(5-amino-4-methylpyridin-2-yl)amino]methyl}benzoic acid dihydrochloride,Cl.Cl.Cc1cc(NCc2ccc(cc2)C(O)=O)ncc1N,Topscience,GABAA agonist
+"(13R,14R,15S)-5-[(4-fluorophenyl)methoxy]-15-methyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-2(7),3,5-triene-13,14-diol",C[C@]12CCC3C(CCc4cc(OCc5ccc(F)cc5)ccc34)C1C[C@@H](O)[C@@H]2O,Topscience,GABAA agonist
+"3-({2-[(4-amino-5-methyl-4H-1,2,4-triazol-3-yl)sulfanyl]ethyl}sulfanyl)-5-methyl-4H-1,2,4-triazol-4-amine",Cc1nnc(SCCSc2nnc(C)n2N)n1N,Topscience,GABAA agonist
+"2-({4-amino-5,6-dimethylfuro[2,3-d]pyrimidin-2-yl}sulfanyl)-N-(3-hydroxypropyl)acetamide",Cc1oc2nc(SCC(=O)NCCCO)nc(N)c2c1C,Topscience,GABAA agonist
+"8-(2-hydroxyethyl)-1,6,7-trimethyl-1H,2H,3H,4H,8H-imidazo[1,2-g]purine-2,4-dione",Cc1c(C)n2c(nc3n(C)c(=O)[nH]c(=O)c23)n1CCO,Topscience,GABAA agonist
+"N-{2-[2-(pyridin-4-yl)-1,3-thiazol-4-yl]ethyl}methanesulfonamide",CS(=O)(=O)NCCc1csc(n1)-c1ccncc1,Topscience,GABAA agonist
+"7-(2,4-dichlorophenyl)-2-(3-hydroxypropyl)-5-methyl-4H,7H-[1,2,4]triazolo[1,5-a]pyrimidine-6-carboxamide",CC1=C(C(c2ccc(Cl)cc2Cl)n2nc(CCCO)nc2N1)C(N)=O,Topscience,GABAA agonist
+5-[(6-bromoquinazolin-4-yl)amino]pentan-1-ol,OCCCCCNc1ncnc2ccc(Br)cc12,Topscience,GABAA agonist
+"3-[(3,5-dimethyl-1,2-oxazol-4-yl)methyl]-5-methyl-4-oxo-3H,4H-thieno[2,3-d]pyrimidine-6-carboxamide",Cc1noc(C)c1Cn1cnc2sc(C(N)=O)c(C)c2c1=O,Topscience,GABAA agonist
+"1-benzyl-3,7-dimethyl-8-(9H-purin-6-ylsulfanyl)-2,3,6,7-tetrahydro-1H-purine-2,6-dione",Cn1c(Sc2ncnc3[nH]cnc23)nc2n(C)c(=O)n(Cc3ccccc3)c(=O)c12,Topscience,GABAA agonist
+"methyl 4-({[5-(2-hydroxyethyl)-4-methyl-6-oxo-1,6-dihydropyrimidin-2-yl]sulfanyl}methyl)benzoate",COC(=O)c1ccc(CSc2nc(C)c(CCO)c(=O)[nH]2)cc1,Topscience,GABAA agonist
+4-[(7-hydroxy-2-methyl-4-oxo-4H-chromen-3-yl)oxy]benzoic acid,Cc1oc2cc(O)ccc2c(=O)c1Oc1ccc(cc1)C(O)=O,Topscience,GABAA agonist
+"6-{[(3-hydroxy-1H-pyrazol-5-yl)methyl]sulfanyl}-2,3,4,5-tetrahydro-1,2,4-triazine-3,5-dione",Oc1cc(CSc2n[nH]c(=O)[nH]c2=O)[nH]n1,Topscience,GABAA agonist
+"6-amino-2-{[(2-{[(4-amino-6-oxo-1,6-dihydropyrimidin-2-yl)sulfanyl]methyl}phenyl)methyl]sulfanyl}-3,4-dihydropyrimidin-4-one",Nc1cc(=O)[nH]c(SCc2ccccc2CSc2nc(N)cc(=O)[nH]2)n1,Topscience,GABAA agonist
+"5-methyl-3-[3-(3-methylphenoxy)propyl]-4-oxo-3H,4H-thieno[2,3-d]pyrimidine-6-carboxamide",Cc1c(sc2ncn(CCCOc3cccc(C)c3)c(=O)c12)C(N)=O,Topscience,GABAA agonist
+"1-[(4-chlorophenyl)methyl]-8-[(3-hydroxypropyl)sulfanyl]-3,7-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione",Cn1c(SCCCO)nc2n(C)c(=O)n(Cc3ccc(Cl)cc3)c(=O)c12,Topscience,GABAA agonist
+"N-(5-acetyl-4-methyl-1,3-thiazol-2-yl)-2-{[5-(2-hydroxyethyl)-4-methyl-6-oxo-1,6-dihydropyrimidin-2-yl]sulfanyl}acetamide",CC(=O)c1sc(NC(=O)CSc2nc(C)c(CCO)c(=O)[nH]2)nc1C,Topscience,GABAA agonist
+"3-({[2-(3,4-dimethoxyphenyl)ethyl]carbamoyl}methyl)-5-methyl-4-oxo-3H,4H-thieno[2,3-d]pyrimidine-6-carboxamide",COc1ccc(CCNC(=O)Cn2cnc3sc(C(N)=O)c(C)c3c2=O)cc1OC,Topscience,GABAA agonist
+"7-(2-hydroxyethyl)-3-methyl-8-[(pyridin-3-ylmethyl)amino]-2,3,6,7-tetrahydro-1H-purine-2,6-dione",Cn1c2nc(NCc3cccnc3)n(CCO)c2c(=O)[nH]c1=O,Topscience,GABAA agonist
+"3-hydroxy-1-[2-(4-methoxyphenoxy)ethyl]-2-methyl-1,4-dihydropyridin-4-one",COc1ccc(OCCn2ccc(=O)c(O)c2C)cc1,Topscience,GABAA agonist
+"N-(furan-2-ylmethyl)-2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d][1,2,3]triazin-3-yl}acetamide",O=C(Cn1nnc2sc(cc2c1=O)-c1ccccc1)NCc1ccco1,Topscience,GABAA agonist
+"2-methoxyethyl 2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d][1,2,3]triazin-3-yl}acetate",COCCOC(=O)Cn1nnc2sc(cc2c1=O)-c1ccccc1,Topscience,GABAA agonist
+"N-(4-methyl-1,3-thiazol-2-yl)-1-(propan-2-yl)-6-(thiophen-2-yl)-1H-pyrazolo[3,4-b]pyridine-4-carboxamide",CC(C)n1ncc2c(cc(nc12)-c1cccs1)C(=O)Nc1nc(C)cs1,Topscience,GABAA agonist
+"2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d][1,2,3]triazin-3-yl}-N-(2-phenylethyl)acetamide",O=C(Cn1nnc2sc(cc2c1=O)-c1ccccc1)NCCc1ccccc1,Topscience,GABAA agonist
+"N-(3-methoxypropyl)-3-methyl-6-phenyl-[1,2]oxazolo[5,4-b]pyridine-4-carboxamide",COCCCNC(=O)c1cc(nc2onc(C)c12)-c1ccccc1,Topscience,GABAA agonist
+"N-(4-methoxyphenyl)-1-methyl-6-(pyrrolidin-1-yl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",COc1ccc(Nc2nc(nc3n(C)ncc23)N2CCCC2)cc1,Topscience,GABAA agonist
+"N-(3-acetylphenyl)-3-methyl-6-phenyl-[1,2]oxazolo[5,4-b]pyridine-4-carboxamide",CC(=O)c1cccc(NC(=O)c2cc(nc3onc(C)c23)-c2ccccc2)c1,Topscience,GABAA agonist
+"3-methyl-N-[5-(2-methylpropyl)-1H-1,2,4-triazol-3-yl]-6-phenyl-[1,2]oxazolo[5,4-b]pyridine-4-carboxamide",CC(C)Cc1nc(NC(=O)c2cc(nc3onc(C)c23)-c2ccccc2)n[nH]1,Topscience,GABAA agonist
+"ethyl 4-[(4-methoxyphenyl)amino]-5-methylthieno[2,3-d]pyrimidine-6-carboxylate",CCOC(=O)c1sc2ncnc(Nc3ccc(OC)cc3)c2c1C,Topscience,GABAA agonist
+"(2R)-2-[2-(7,8-dimethoxy-1-oxo-1,2-dihydrophthalazin-2-yl)acetamido]-2-phenylacetic acid",COc1ccc2cnn(CC(=O)N[C@@H](C(O)=O)c3ccccc3)c(=O)c2c1OC,Topscience,GABAA agonist
+"N-(furan-2-ylmethyl)-2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d]pyrimidin-3-yl}acetamide",O=C(Cn1cnc2sc(cc2c1=O)-c1ccccc1)NCc1ccco1,Topscience,GABAA agonist
+"3-[(4-chlorophenyl)methyl]-6-ethoxy-1,2-benzoxazole",CCOc1ccc2c(Cc3ccc(Cl)cc3)noc2c1,Topscience,GABAA agonist
+"6-N-cyclopentyl-4-N-(4-methoxyphenyl)-1-methyl-1H-pyrazolo[3,4-d]pyrimidine-4,6-diamine",COc1ccc(Nc2nc(NC3CCCC3)nc3n(C)ncc23)cc1,Topscience,GABAA agonist
+"N-[2-chloro-5-(trifluoromethyl)phenyl]-2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d]pyrimidin-3-yl}acetamide",FC(F)(F)c1ccc(Cl)c(NC(=O)Cn2cnc3sc(cc3c2=O)-c2ccccc2)c1,Topscience,GABAA agonist
+"5-[(4-methylphenyl)sulfanyl]-2-phenyl-[1,3]oxazolo[5,4-d]pyrimidin-7-amine",Cc1ccc(Sc2nc(N)c3nc(oc3n2)-c2ccccc2)cc1,Topscience,GABAA agonist
+"ethyl 3-{[(4-chloro-2-methylphenyl)carbamoyl]methyl}-5-methyl-4-oxo-3H,4H-thieno[2,3-d]pyrimidine-6-carboxylate",CCOC(=O)c1sc2ncn(CC(=O)Nc3ccc(Cl)cc3C)c(=O)c2c1C,Topscience,GABAA agonist
+"methyl 5-methyl-3-[(3-methylphenyl)methyl]-4-oxo-3H,4H-thieno[2,3-d]pyrimidine-6-carboxylate",COC(=O)c1sc2ncn(Cc3cccc(C)c3)c(=O)c2c1C,Topscience,GABAA agonist
+"N-cyclohexyl-2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d]pyrimidin-3-yl}acetamide",O=C(Cn1cnc2sc(cc2c1=O)-c1ccccc1)NC1CCCCC1,Topscience,GABAA agonist
+"N-(2-ethoxyphenyl)-2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d]pyrimidin-3-yl}acetamide",CCOc1ccccc1NC(=O)Cn1cnc2sc(cc2c1=O)-c1ccccc1,Topscience,GABAA agonist
+"2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d][1,2,3]triazin-3-yl}-N-phenylacetamide",O=C(Cn1nnc2sc(cc2c1=O)-c1ccccc1)Nc1ccccc1,Topscience,GABAA agonist
+"3-(2-phenoxyethyl)-6-phenyl-3H,4H-thieno[2,3-d]pyrimidin-4-one",O=c1n(CCOc2ccccc2)cnc2sc(cc12)-c1ccccc1,Topscience,GABAA agonist
+"4-[3-(3-methylphenoxymethyl)-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazol-6-yl]pyridine",Cc1cccc(OCc2nnc3sc(nn23)-c2ccncc2)c1,Topscience,GABAA agonist
+"2-({6-[(2-chlorophenyl)methyl]-7-oxo-7H,8H-[1,2,4]triazolo[4,3-b][1,2,4]triazin-3-yl}sulfanyl)-N-(2-ethylphenyl)acetamide",CCc1ccccc1NC(=O)CSc1nnc2[nH]c(=O)c(Cc3ccccc3Cl)nn12,Topscience,GABAA agonist
+"ethyl 3-[(cyclohexylcarbamoyl)methyl]-5-methyl-4-oxo-3H,4H-thieno[2,3-d]pyrimidine-6-carboxylate",CCOC(=O)c1sc2ncn(CC(=O)NC3CCCCC3)c(=O)c2c1C,Topscience,GABAA agonist
+"6-cyclopropyl-N-(3,5-dimethoxyphenyl)-3-methyl-[1,2]oxazolo[5,4-b]pyridine-4-carboxamide",COc1cc(NC(=O)c2cc(nc3onc(C)c23)C2CC2)cc(OC)c1,Topscience,GABAA agonist
+"N-[2-(cyclohex-1-en-1-yl)ethyl]-2-(7,8-dimethoxy-1-oxo-1,2-dihydrophthalazin-2-yl)acetamide",COc1ccc2cnn(CC(=O)NCCC3=CCCCC3)c(=O)c2c1OC,Topscience,GABAA agonist
+"butan-2-yl 2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d]pyrimidin-3-yl}propanoate",CCC(C)OC(=O)C(C)n1cnc2sc(cc2c1=O)-c1ccccc1,Topscience,GABAA agonist
+"6-(3,4-dimethoxyphenyl)-3-(3-methylphenoxymethyl)-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",COc1ccc(cc1OC)-c1nn2c(COc3cccc(C)c3)nnc2s1,Topscience,GABAA agonist
+"2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d]pyrimidin-3-yl}-N-(1H-1,2,4-triazol-3-yl)acetamide",O=C(Cn1cnc2sc(cc2c1=O)-c1ccccc1)Nc1nc[nH]n1,Topscience,GABAA agonist
+"4-methyl-2-(4-methylphenoxymethyl)-N-(propan-2-yl)-1,3-thiazole-5-carboxamide",CC(C)NC(=O)c1sc(COc2ccc(C)cc2)nc1C,Topscience,GABAA agonist
+"N-(furan-2-ylmethyl)-2,4-dioxo-3-azatricyclo[7.3.1.0^{5,13}]trideca-1(12),5,7,9(13),10-pentaene-7-sulfonamide",O=C1NC(=O)c2cc(cc3cccc1c23)S(=O)(=O)NCc1ccco1,Topscience,GABAA agonist
+"3-methyl-2,4-dioxo-N-(1,3-thiazol-2-yl)-3-azatricyclo[7.3.1.0^{5,13}]trideca-1(12),5,7,9(13),10-pentaene-7-sulfonamide",CN1C(=O)c2cccc3cc(cc(C1=O)c23)S(=O)(=O)Nc1nccs1,Topscience,GABAA agonist
+"methyl 2-{3-ethyl-2,4-dioxo-3-azatricyclo[7.3.1.0^{5,13}]trideca-1(12),5,7,9(13),10-pentaene-7-sulfonamido}benzoate",CCN1C(=O)c2cccc3cc(cc(C1=O)c23)S(=O)(=O)Nc1ccccc1C(=O)OC,Topscience,GABAA agonist
+"N-(3-methylphenyl)-2-{[1,2,4]triazolo[1,5-c]quinazolin-2-ylsulfanyl}acetamide",Cc1cccc(NC(=O)CSc2nc3c4ccccc4ncn3n2)c1,Topscience,GABAA agonist
+"1,3,7-trimethyl-8-(2-phenylethyl)-1H,2H,3H,4H,8H-imidazo[1,2-g]purine-2,4-dione",Cc1cn2c(nc3n(C)c(=O)n(C)c(=O)c23)n1CCc1ccccc1,Topscience,GABAA agonist
+"2-{5H-indolo[2,3-b]quinoxalin-5-yl}-1-(4-methoxyphenyl)ethan-1-one",COc1ccc(cc1)C(=O)Cn1c2ccccc2c2nc3ccccc3nc12,Topscience,GABAA agonist
+"5-({6-methyl-5-phenylthieno[2,3-d]pyrimidin-4-yl}sulfanyl)-1-phenyl-1H-1,2,3,4-tetrazole",Cc1sc2ncnc(Sc3nnnn3-c3ccccc3)c2c1-c1ccccc1,Topscience,GABAA agonist
+"5-({5,6-dimethylthieno[2,3-d]pyrimidin-4-yl}sulfanyl)-1-phenyl-1H-1,2,3,4-tetrazole",Cc1sc2ncnc(Sc3nnnn3-c3ccccc3)c2c1C,Topscience,GABAA agonist
+"N-[2-(1H-1,3-benzodiazol-2-yl)ethyl]-5,6-dimethylthieno[2,3-d]pyrimidin-4-amine",Cc1sc2ncnc(NCCc3nc4ccccc4[nH]3)c2c1C,Topscience,GABAA agonist
+"3-{3-[5-(phenylamino)-1,3,4-thiadiazol-2-yl]propyl}-3-azatricyclo[7.3.1.0^{5,13}]trideca-1(12),5,7,9(13),10-pentaene-2,4-dione",O=C1N(CCCc2nnc(Nc3ccccc3)s2)C(=O)c2cccc3cccc1c23,Topscience,GABAA agonist
+"6-[(1-phenyl-1H-1,2,3,4-tetrazol-5-yl)sulfanyl]-8-thia-3,5-diazatricyclo[7.4.0.0^{2,7}]trideca-1(9),2(7),3,5-tetraene",C1CCc2c(C1)sc1c(Sc3nnnn3-c3ccccc3)ncnc21,Topscience,GABAA agonist
+"3,6-dimethyl-N-[(1S)-3-methyl-1-{[1,2,4]triazolo[4,3-a]pyridin-3-yl}butyl]-[1,2]oxazolo[5,4-b]pyridine-4-carboxamide",CC(C)C[C@H](NC(=O)c1cc(C)nc2onc(C)c12)c1nnc2ccccn12,Topscience,GABAA agonist
+"1-[(3-phenyl-2,1-benzoxazol-5-yl)carbonyl]-1,2,3,4-tetrahydroquinoline",O=C(N1CCCc2ccccc12)c1ccc2noc(-c3ccccc3)c2c1,Topscience,GABAA agonist
+"2-amino-1-[(3-methylphenyl)amino]-1H-pyrrolo[2,3-b]quinoxaline-3-carbonitrile",Cc1cccc(Nn2c(N)c(C#N)c3nc4ccccc4nc23)c1,Topscience,GABAA agonist
+"ethyl 2-[2-(2-bromophenoxy)acetamido]-4,5,6,7-tetrahydro-1-benzothiophene-3-carboxylate",CCOC(=O)c1c(NC(=O)COc2ccccc2Br)sc2CCCCc12,Topscience,GABAA agonist
+"2-ethoxy-N-{2-[3-(4-fluorophenyl)-1,2,4-oxadiazol-5-yl]phenyl}benzamide",CCOc1ccccc1C(=O)Nc1ccccc1-c1nc(no1)-c1ccc(F)cc1,Topscience,GABAA agonist
+"4-methyl-N-{2-[3-(4-methylphenyl)-1,2,4-oxadiazol-5-yl]phenyl}benzamide",Cc1ccc(cc1)C(=O)Nc1ccccc1-c1nc(no1)-c1ccc(C)cc1,Topscience,GABAA agonist
+"2-(3,5-dimethyl-1H-pyrazol-1-yl)-6-methyl-N-[(4-methylphenyl)methyl]pyrimidin-4-amine",Cc1cc(C)n(n1)-c1nc(C)cc(NCc2ccc(C)cc2)n1,Topscience,GABAA agonist
+"N-[2-(4-methoxyphenyl)ethyl]-5,6-dimethylthieno[2,3-d]pyrimidin-4-amine",COc1ccc(CCNc2ncnc3sc(C)c(C)c23)cc1,Topscience,GABAA agonist
+"5,6-dimethyl-4-[(2-phenylethyl)sulfanyl]thieno[2,3-d]pyrimidine",Cc1sc2ncnc(SCCc3ccccc3)c2c1C,Topscience,GABAA agonist
+"2-(4-chloro-3-methylphenoxymethyl)-5-[(pyridin-4-ylmethyl)amino]-1,3-oxazole-4-carbonitrile",Cc1cc(OCc2nc(C#N)c(NCc3ccncc3)o2)ccc1Cl,Topscience,GABAA agonist
+"12-[(4-methoxyphenyl)amino]-4,5-dimethyl-8-(prop-2-en-1-yl)-3-thia-1,8,10,11-tetraazatricyclo[7.3.0.0^{2,6}]dodeca-2(6),4,9,11-tetraen-7-one",COc1ccc(Nc2nnc3n(CC=C)c(=O)c4c(C)c(C)sc4n23)cc1,Topscience,GABAA agonist
+"N-(furan-2-ylmethyl)-4-[(4-methylbenzene)sulfonyl]-2-(propane-1-sulfonyl)-1,3-thiazol-5-amine",CCCS(=O)(=O)c1nc(c(NCc2ccco2)s1)S(=O)(=O)c1ccc(C)cc1,Topscience,GABAA agonist
+4-fluoro-N-{[5-(2-fluorophenyl)furan-2-yl]methyl}-3-methylbenzene-1-sulfonamide,Cc1cc(ccc1F)S(=O)(=O)NCc1ccc(o1)-c1ccccc1F,Topscience,GABAA agonist
+"3-(2-bromophenyl)-N-(3-chloro-2-methylphenyl)-7H-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazin-6-amine",Cc1c(Cl)cccc1NC1=Nn2c(SC1)nnc2-c1ccccc1Br,Topscience,GABAA agonist
+"5-(furan-2-ylmethyl)-3-(2-hydroxy-5-methylphenyl)-4-(3-hydroxyphenyl)-1H,4H,5H,6H-pyrrolo[3,4-c]pyrazol-6-one",Cc1ccc(O)c(c1)-c1n[nH]c2C(=O)N(Cc3ccco3)C(c12)c1cccc(O)c1,Topscience,GABAA agonist
+"3-(phenylamino)-7-(prop-2-en-1-yl)-15-thia-2,4,5,7-tetraazatetracyclo[7.6.0.0^{2,6}.0^{10,14}]pentadeca-1(9),3,5,10(14)-tetraen-8-one",C=CCn1c2nnc(Nc3ccccc3)n2c2sc3CCCc3c2c1=O,Topscience,GABAA agonist
+"1-S-benzene-3-N-(2,6-dimethylphenyl)-1-N,4,6-trimethylbenzene-1,3-disulfonamido",CN(c1cc(c(C)cc1C)S(=O)(=O)Nc1c(C)cccc1C)S(=O)(=O)c1ccccc1,Topscience,GABAA agonist
+2-(2-methylphenoxy)-N-[7-(trifluoromethyl)quinolin-4-yl]acetamide,Cc1ccccc1OCC(=O)Nc1ccnc2cc(ccc12)C(F)(F)F,Topscience,GABAA agonist
+"7-(furan-2-ylmethyl)-6-imino-2-oxo-N-(oxolan-2-ylmethyl)-1,7,9-triazatricyclo[8.4.0.0^{3,8}]tetradeca-3(8),4,9,11,13-pentaene-5-carboxamide",N=c1c(cc2c(nc3ccccn3c2=O)n1Cc1ccco1)C(=O)NCC1CCCO1,Topscience,GABAA agonist
+"3-ethyl-N-(2-methylphenyl)-2,4-dioxo-3-azatricyclo[7.3.1.0^{5,13}]trideca-1(12),5,7,9(13),10-pentaene-7-sulfonamide",CCN1C(=O)c2cccc3cc(cc(C1=O)c23)S(=O)(=O)Nc1ccccc1C,Topscience,GABAA agonist
+"3-[3-({3-amino-8-thia-4,6-diazatricyclo[7.4.0.0^{2,7}]trideca-1(9),2(7),3,5-tetraen-5-yl}sulfanyl)propyl]-3-azatricyclo[7.3.1.0^{5,13}]trideca-1(12),5,7,9(13),10-pentaene-2,4-dione",Nc1nc(SCCCN2C(=O)c3cccc4cccc(C2=O)c34)nc2sc3CCCCc3c12,Topscience,GABAA agonist
+"2-{[2-(1,3-benzoxazol-2-ylsulfanyl)ethyl]sulfanyl}-1,3-benzoxazole",C(CSc1nc2ccccc2o1)Sc1nc2ccccc2o1,Topscience,GABAA agonist
+"5-[2-(3-methoxyphenyl)-2-oxoethoxy]-3,4,7-trimethyl-2H-chromen-2-one",COc1cccc(c1)C(=O)COc1cc(C)cc2oc(=O)c(C)c(C)c12,Topscience,GABAA agonist
+"N-[(3,4-dimethoxyphenyl)methyl]-1-methyl-4-(pyrrolidin-1-yl)-1H-pyrazolo[3,4-d]pyrimidin-6-amine",COc1ccc(CNc2nc(N3CCCC3)c3cnn(C)c3n2)cc1OC,Topscience,GABAA agonist
+ethyl 4-[(pyridin-3-ylmethyl)amino]benzo[h]quinoline-3-carboxylate,CCOC(=O)c1cnc2c(ccc3ccccc23)c1NCc1cccnc1,Topscience,GABAA agonist
+"2-[({3-bromoimidazo[1,2-a]pyridin-2-yl}methyl)sulfanyl]-1,3-benzoxazole",Brc1c(CSc2nc3ccccc3o2)nc2ccccn12,Topscience,GABAA agonist
+"N-(4-methylphenyl)-2,4-dioxo-3-azatricyclo[7.3.1.0^{5,13}]trideca-1(12),5,7,9(13),10-pentaene-7-sulfonamide",Cc1ccc(NS(=O)(=O)c2cc3C(=O)NC(=O)c4cccc(c2)c34)cc1,Topscience,GABAA agonist
+"3-({5,6-dimethylthieno[2,3-d]pyrimidin-4-yl}sulfanyl)-N-(thiophen-2-ylmethyl)propanamide",Cc1sc2ncnc(SCCC(=O)NCc3cccs3)c2c1C,Topscience,GABAA agonist
+"N-[2-(4-methoxyphenyl)ethyl]-2-{8-thia-4,6-diazatricyclo[7.4.0.0^{2,7}]trideca-1(9),2(7),3,5-tetraen-3-ylsulfanyl}acetamide",COc1ccc(CCNC(=O)CSc2ncnc3sc4CCCCc4c23)cc1,Topscience,GABAA agonist
+"1-(2,4-dichlorophenyl)-2-{[4-methyl-5-(pyridin-3-yl)-4H-1,2,4-triazol-3-yl]sulfanyl}ethan-1-one",Cn1c(SCC(=O)c2ccc(Cl)cc2Cl)nnc1-c1cccnc1,Topscience,GABAA agonist
+"2-methyl-3-oxo-N-(pyridin-2-yl)-2-azatricyclo[6.3.1.0^{4,12}]dodeca-1(11),4,6,8(12),9-pentaene-9-sulfonamide",CN1C(=O)c2cccc3c(ccc1c23)S(=O)(=O)Nc1ccccn1,Topscience,GABAA agonist
+"N-(3,5-dimethoxyphenyl)-2-methyl-3-oxo-2-azatricyclo[6.3.1.0^{4,12}]dodeca-1(11),4,6,8(12),9-pentaene-9-sulfonamide",COc1cc(NS(=O)(=O)c2ccc3N(C)C(=O)c4cccc2c34)cc(OC)c1,Topscience,GABAA agonist
+"2-methyl-N-(2-methylphenyl)-3-oxo-2-azatricyclo[6.3.1.0^{4,12}]dodeca-1(11),4,6,8(12),9-pentaene-9-sulfonamide",CN1C(=O)c2cccc3c(ccc1c23)S(=O)(=O)Nc1ccccc1C,Topscience,GABAA agonist
+ethyl 6-fluoro-4-[(pyridin-3-ylmethyl)amino]quinoline-3-carboxylate,CCOC(=O)c1cnc2ccc(F)cc2c1NCc1cccnc1,Topscience,GABAA agonist
+"2-[(2H-1,3-benzodioxol-5-ylmethyl)sulfanyl]-5,6-dimethyl-3-(prop-2-en-1-yl)-3H,4H-thieno[2,3-d]pyrimidin-4-one",Cc1sc2nc(SCc3ccc4OCOc4c3)n(CC=C)c(=O)c2c1C,Topscience,GABAA agonist
+6-bromo-N-(1-phenylethyl)quinazolin-4-amine,CC(Nc1ncnc2ccc(Br)cc12)c1ccccc1,Topscience,GABAA agonist
+"5-[({5,7-dimethyl-[1,2,4]triazolo[4,3-a]pyrimidin-3-yl}sulfanyl)methyl]-1-phenyl-1H-1,2,3,4-tetrazole",Cc1cc(C)n2c(SCc3nnnn3-c3ccccc3)nnc2n1,Topscience,GABAA agonist
+"ethyl 4-({4-amino-6-benzyl-5-methylthieno[2,3-d]pyrimidin-2-yl}sulfanyl)butanoate",CCOC(=O)CCCSc1nc(N)c2c(C)c(Cc3ccccc3)sc2n1,Topscience,GABAA agonist
+"10-methyl-N-(2-phenylethyl)-7-thia-9,11-diazatricyclo[6.4.0.0^{2,6}]dodeca-1(8),2(6),9,11-tetraen-12-amine",Cc1nc(NCCc2ccccc2)c2c3CCCc3sc2n1,Topscience,GABAA agonist
+"1-(2H-1,3-benzodioxol-5-yl)-2-({10-methyl-7-thia-9,11-diazatricyclo[6.4.0.0^{2,6}]dodeca-1(8),2(6),9,11-tetraen-12-yl}sulfanyl)ethan-1-one",Cc1nc(SCC(=O)c2ccc3OCOc3c2)c2c3CCCc3sc2n1,Topscience,GABAA agonist
+"2-{8-thia-4,6-diazatricyclo[7.4.0.0^{2,7}]trideca-1(9),2(7),3,5-tetraen-3-ylsulfanyl}-1-(thiophen-2-yl)ethan-1-one",O=C(CSc1ncnc2sc3CCCCc3c12)c1cccs1,Topscience,GABAA agonist
+"N-[2-(4-methoxyphenyl)ethyl]-8-thia-4,6-diazatricyclo[7.4.0.0^{2,7}]trideca-1(9),2(7),3,5-tetraen-3-amine; oxalic acid",OC(=O)C(O)=O.COc1ccc(CCNc2ncnc3sc4CCCCc4c23)cc1,Topscience,GABAA agonist
+"5-[({5-bromo-3-methylimidazo[2,1-b][1,3]thiazol-6-yl}methyl)sulfanyl]-1-phenyl-1H-1,2,3,4-tetrazole",Cc1csc2nc(CSc3nnnn3-c3ccccc3)c(Br)n12,Topscience,GABAA agonist
+"N-(7-methoxyquinolin-3-yl)-4-{[1,2,4]triazolo[4,3-a]pyridin-3-yl}butanamide",COc1ccc2cc(NC(=O)CCCc3nnc4ccccn34)cnc2c1,Topscience,GABAA agonist
+"N-(4-{[1-(2,4-dimethylphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]amino}phenyl)acetamide",CC(=O)Nc1ccc(Nc2ncnc3n(ncc23)-c2ccc(C)cc2C)cc1,Topscience,GABAA agonist
+"N-benzyl-1-(5-chloro-2-methylphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",Cc1ccc(Cl)cc1-n1ncc2c(NCc3ccccc3)ncnc12,Topscience,GABAA agonist
+"2-amino-N-benzyl-1-(furan-2-ylmethyl)-1H-pyrrolo[2,3-b]quinoxaline-3-carboxamide",Nc1c(C(=O)NCc2ccccc2)c2nc3ccccc3nc2n1Cc1ccco1,Topscience,GABAA agonist
+ethyl 4-({2-[(4-methylphenyl)carbonyloxy]ethyl}amino)benzo[h]quinoline-3-carboxylate,CCOC(=O)c1cnc2c(ccc3ccccc23)c1NCCOC(=O)c1ccc(C)cc1,Topscience,GABAA agonist
+N-(2-benzoyl-1-benzofuran-3-yl)-2-(2-methoxyphenoxy)acetamide,COc1ccccc1OCC(=O)Nc1c(oc2ccccc12)C(=O)c1ccccc1,Topscience,GABAA agonist
+"N-[3-(1H-imidazol-1-yl)propyl]-[1,2,4]triazolo[3,4-a]phthalazin-6-amine",C(CNc1nn2cnnc2c2ccccc12)Cn1ccnc1,Topscience,GABAA agonist
+N-(1H-indazol-6-yl)-2-(propan-2-yl)quinazolin-4-amine,CC(C)c1nc(Nc2ccc3cn[nH]c3c2)c2ccccc2n1,Topscience,GABAA agonist
+"2-(1H-1,2,3,4-tetrazol-1-yl)-N-(5-{[1,2,4]triazolo[4,3-a]pyridin-3-yl}pentyl)benzamide",O=C(NCCCCCc1nnc2ccccn12)c1ccccc1-n1cnnn1,Topscience,GABAA agonist
+"5-ethoxy-4-ethyl-2-[4-(4-methyl-1,3-thiazol-2-yl)-1H-pyrazol-3-yl]phenol",CCOc1cc(O)c(cc1CC)-c1n[nH]cc1-c1nc(C)cs1,Topscience,GABAA agonist
+"2-N-(3-chlorophenyl)-4-N-(4-methoxyphenyl)pteridine-2,4-diamine",COc1ccc(Nc2nc(Nc3cccc(Cl)c3)nc3nccnc23)cc1,Topscience,GABAA agonist
+ethyl 6-methyl-4-[(2-phenylethyl)amino]quinoline-3-carboxylate,CCOC(=O)c1cnc2ccc(C)cc2c1NCCc1ccccc1,Topscience,GABAA agonist
+"3-{[5-(4-methylphenyl)thieno[2,3-d]pyrimidin-4-yl]amino}benzoic acid",Cc1ccc(cc1)-c1csc2ncnc(Nc3cccc(c3)C(O)=O)c12,Topscience,GABAA agonist
+"4-(3-methylphenoxy)thieno[2,3-d]pyrimidine",Cc1cccc(Oc2ncnc3sccc23)c1,Topscience,GABAA agonist
+"2-N-(3,4-dimethylphenyl)-4-N,6-N-diethyl-1,3,5-triazine-2,4,6-triamine hydrochloride",Cl.CCNc1nc(NCC)nc(Nc2ccc(C)c(C)c2)n1,Topscience,GABAA agonist
+N-(naphthalen-1-ylmethyl)-4-oxo-N-(pyridin-2-yl)-4H-chromene-2-carboxamide,O=C(N(Cc1cccc2ccccc12)c1ccccn1)c1cc(=O)c2ccccc2o1,Topscience,GABAA agonist
+"1-benzyl-4-{5,6-dimethylthieno[2,3-d]pyrimidin-4-yl}piperazine",Cc1sc2ncnc(N3CCN(Cc4ccccc4)CC3)c2c1C,Topscience,GABAA agonist
+"2,6-dimethyl-N-(pyridin-3-ylmethyl)quinolin-4-amine dihydrochloride",Cl.Cl.Cc1ccc2nc(C)cc(NCc3cccnc3)c2c1,Topscience,GABAA agonist
+"(15S)-15-methyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-2(7),3,5-triene-5,14-diol",C[C@]12CCC3C(CCc4cc(O)ccc34)C1CCC2O,Topscience,GABAA agonist
+"1-(4-fluorophenyl)-N-(3-phenylpropyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",Fc1ccc(cc1)-n1ncc2c(NCCCc3ccccc3)ncnc12,Topscience,GABAA agonist
+"3-(2-bromophenyl)-N-(2,3-dimethylphenyl)-7H-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazin-6-amine",Cc1cccc(NC2=Nn3c(SC2)nnc3-c2ccccc2Br)c1C,Topscience,GABAA agonist
+"N-benzyl-2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d][1,2,3]triazin-3-yl}acetamide",O=C(Cn1nnc2sc(cc2c1=O)-c1ccccc1)NCc1ccccc1,Topscience,GABAA agonist
+"2-(1-{[2-(7,8-dimethoxy-1-oxo-1,2-dihydrophthalazin-2-yl)acetamido]methyl}cyclohexyl)acetic acid",COc1ccc2cnn(CC(=O)NCC3(CC(O)=O)CCCCC3)c(=O)c2c1OC,Topscience,GABAA agonist
+"3-[(4-methoxyphenyl)amino]-7-(prop-2-en-1-yl)-15-thia-2,4,5,7-tetraazatetracyclo[7.6.0.0^{2,6}.0^{10,14}]pentadeca-1(9),3,5,10(14)-tetraen-8-one",COc1ccc(Nc2nnc3n(CC=C)c(=O)c4c5CCCc5sc4n23)cc1,Topscience,GABAA agonist
+"3-methyl-6-phenyl-N-[3-(propan-2-yloxy)propyl]-[1,2]oxazolo[5,4-b]pyridine-4-carboxamide",CC(C)OCCCNC(=O)c1cc(nc2onc(C)c12)-c1ccccc1,Topscience,GABAA agonist
+"4-(2H-1,3-benzodioxol-5-yloxy)-5-(4-methylphenyl)thieno[2,3-d]pyrimidine",Cc1ccc(cc1)-c1csc2ncnc(Oc3ccc4OCOc4c3)c12,Topscience,GABAA agonist
+"3-{3-ethyl-2,4-dioxo-3-azatricyclo[7.3.1.0^{5,13}]trideca-1(12),5,7,9(13),10-pentaene-7-sulfonamido}benzoic acid",CCN1C(=O)c2cccc3cc(cc(C1=O)c23)S(=O)(=O)Nc1cccc(c1)C(O)=O,Topscience,GABAA agonist
+"4-(2-fluorophenyl)-5-(furan-2-ylmethyl)-3-(2-hydroxy-5-methylphenyl)-1H,4H,5H,6H-pyrrolo[3,4-c]pyrazol-6-one",Cc1ccc(O)c(c1)-c1n[nH]c2C(=O)N(Cc3ccco3)C(c12)c1ccccc1F,Topscience,GABAA agonist
+"7-(2-fluorophenyl)-2-(3-hydroxypropyl)-5-methyl-4H,7H-[1,2,4]triazolo[1,5-a]pyrimidine-6-carboxamide",CC1=C(C(c2ccccc2F)n2nc(CCCO)nc2N1)C(N)=O,Topscience,GABAA agonist
+"N-{2-[3-(4-fluorophenyl)-1,2,4-oxadiazol-5-yl]phenyl}-4-(prop-2-en-1-yloxy)benzamide",Fc1ccc(cc1)-c1noc(n1)-c1ccccc1NC(=O)c1ccc(OCC=C)cc1,Topscience,GABAA agonist
+"6-{[(5-hydroxy-1H-pyrazol-3-yl)methyl]sulfanyl}-2,3,4,5-tetrahydro-1,2,4-triazine-3,5-dione",Oc1cc(CSc2n[nH]c(=O)[nH]c2=O)n[nH]1,Topscience,GABAA agonist
+"11-methyl-12-phenyl-10-thia-3,4,5,6,8-pentaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaene",Cc1sc2ncn3nnnc3c2c1-c1ccccc1,Topscience,GABAA agonist
+"methyl 3-[(3-chlorophenyl)methyl]-5-methyl-4-oxo-3H,4H-thieno[2,3-d]pyrimidine-6-carboxylate",COC(=O)c1sc2ncn(Cc3cccc(Cl)c3)c(=O)c2c1C,Topscience,GABAA agonist
+"13-(4-methoxyphenyl)-10-thia-1,8,13-triazatetracyclo[7.6.0.0^{2,7}.0^{11,15}]pentadeca-2(7),3,5,8,11(15)-pentaene-12,14-dione",COc1ccc(cc1)N1C(=O)c2sc3nc4ccccc4n3c2C1=O,Topscience,GABAA agonist
+"ethyl 4-{[2-(3,4-dimethoxyphenyl)ethyl]amino}-6-fluoroquinoline-3-carboxylate",CCOC(=O)c1cnc2ccc(F)cc2c1NCCc1ccc(OC)c(OC)c1,Topscience,GABAA agonist
+"N-ethyl-6-imino-2-oxo-7-(pyridin-3-ylmethyl)-1,7,9-triazatricyclo[8.4.0.0^{3,8}]tetradeca-3(8),4,9,11,13-pentaene-5-carboxamide",CCNC(=O)c1cc2c(nc3ccccn3c2=O)n(Cc2cccnc2)c1=N,Topscience,GABAA agonist
+"N-(furan-2-ylmethyl)-2-[5-(4-methoxyphenyl)-4-oxo-3H,4H-thieno[2,3-d]pyrimidin-3-yl]acetamide",COc1ccc(cc1)-c1csc2ncn(CC(=O)NCc3ccco3)c(=O)c12,Topscience,GABAA agonist
+"5-methoxy-2-[10-(2-methylphenyl)-3,4,6,8,10,11-hexaazatricyclo[7.3.0.0^{2,6}]dodeca-1(9),2,4,7,11-pentaen-5-yl]phenol",COc1ccc(-c2nnc3c4cnn(-c5ccccc5C)c4ncn23)c(O)c1,Topscience,GABAA agonist
+"1-(furan-2-yl)-2-{8-thia-4,6-diazatricyclo[7.4.0.0^{2,7}]trideca-1(9),2(7),3,5-tetraen-3-ylsulfanyl}ethan-1-one",O=C(CSc1ncnc2sc3CCCCc3c12)c1ccco1,Topscience,GABAA agonist
+"3-[(2-chlorophenyl)methyl]-8-(2-hydroxyethyl)-1,7-dimethyl-1H,2H,3H,4H,8H-imidazo[1,2-g]purine-2,4-dione",Cc1cn2c(nc3n(C)c(=O)n(Cc4ccccc4Cl)c(=O)c23)n1CCO,Topscience,GABAA agonist
+"8-(3-hydroxypropyl)-1,6,7-trimethyl-1H,2H,3H,4H,8H-imidazo[1,2-g]purine-2,4-dione",Cc1c(C)n2c(nc3n(C)c(=O)[nH]c(=O)c23)n1CCCO,Topscience,GABAA agonist
+"N-[(3-methoxyphenyl)methyl]-2-{4,6,7-trimethyl-2-oxo-2H-furo[3,2-g]chromen-3-yl}acetamide",COc1cccc(CNC(=O)Cc2c(C)c3cc4c(C)c(C)oc4cc3oc2=O)c1,Topscience,GABAA agonist
+"N-phenyl-2-({7-phenyl-[1,2,4]triazolo[4,3-c]pyrimidin-3-yl}sulfanyl)acetamide",O=C(CSc1nnc2cc(ncn12)-c1ccccc1)Nc1ccccc1,Topscience,GABAA agonist
+"1-[(4-chlorophenyl)methyl]-3,7-dimethyl-8-(9H-purin-6-ylsulfanyl)-2,3,6,7-tetrahydro-1H-purine-2,6-dione",Cn1c(Sc2ncnc3[nH]cnc23)nc2n(C)c(=O)n(Cc3ccc(Cl)cc3)c(=O)c12,Topscience,GABAA agonist
+"N-(4,5-dimethyl-1,3-thiazol-2-yl)-3-[6-(3,5-dimethyl-1H-pyrazol-1-yl)-[1,2,4]triazolo[4,3-b]pyridazin-3-yl]propanamide",Cc1cc(C)n(n1)-c1ccc2nnc(CCC(=O)Nc3nc(C)c(C)s3)n2n1,Topscience,GABAA agonist
+"N'-[1-(3,4-dimethylphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yl]-3,4-dimethoxybenzohydrazide",COc1ccc(cc1OC)C(=O)NNc1ncnc2n(ncc12)-c1ccc(C)c(C)c1,Topscience,GABAA agonist
+"2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d]pyrimidin-3-yl}-N-[5-(propan-2-yl)-1H-1,2,4-triazol-3-yl]acetamide",CC(C)c1nc(NC(=O)Cn2cnc3sc(cc3c2=O)-c2ccccc2)n[nH]1,Topscience,GABAA agonist
+"5-methyl-N-(2-phenylethyl)-8-thia-4,6-diazatricyclo[7.4.0.0^{2,7}]trideca-1(9),2(7),3,5-tetraen-3-amine",Cc1nc(NCCc2ccccc2)c2c3CCCCc3sc2n1,Topscience,GABAA agonist
+"N-{5-methyl-4-[3-oxo-4-(prop-2-en-1-yl)-3,4-dihydro-2H-1,4-benzoxazin-6-yl]-1,3-thiazol-2-yl}acetamide",CC(=O)Nc1nc(c(C)s1)-c1ccc2OCC(=O)N(CC=C)c2c1,Topscience,GABAA agonist
+"2-(2-fluorophenoxy)-N-[4-(4-methoxy-3-methylphenyl)-1,2,5-oxadiazol-3-yl]butanamide",CCC(Oc1ccccc1F)C(=O)Nc1nonc1-c1ccc(OC)c(C)c1,Topscience,GABAA agonist
+"N-(4-methoxyphenyl)-6-phenylthieno[2,3-d]pyrimidin-4-amine",COc1ccc(Nc2ncnc3sc(cc23)-c2ccccc2)cc1,Topscience,GABAA agonist
+"3-[3-(4-methoxyphenoxy)propyl]-5-methyl-4-oxo-3H,4H-thieno[2,3-d]pyrimidine-6-carboxamide",COc1ccc(OCCCn2cnc3sc(C(N)=O)c(C)c3c2=O)cc1,Topscience,GABAA agonist
+"ethyl 4-(benzylamino)-7,8-dimethylquinoline-3-carboxylate",CCOC(=O)c1cnc2c(C)c(C)ccc2c1NCc1ccccc1,Topscience,GABAA agonist
+"10-methyl-12-[(1-phenyl-1H-1,2,3,4-tetrazol-5-yl)sulfanyl]-7-thia-9,11-diazatricyclo[6.4.0.0^{2,6}]dodeca-1(8),2(6),9,11-tetraene",Cc1nc(Sc2nnnn2-c2ccccc2)c2c3CCCc3sc2n1,Topscience,GABAA agonist
+"N-(5-chloro-2-methylphenyl)-2-{4-oxo-6-phenyl-3H,4H-thieno[2,3-d]pyrimidin-3-yl}propanamide",CC(C(=O)Nc1cc(Cl)ccc1C)n1cnc2sc(cc2c1=O)-c1ccccc1,Topscience,GABAA agonist
+2-(2-methoxyphenoxy)-N-{2-[(4-methylphenyl)carbonyl]-1-benzofuran-3-yl}acetamide,COc1ccccc1OCC(=O)Nc1c(oc2ccccc12)C(=O)c1ccc(C)cc1,Topscience,GABAA agonist
+"3-[3-({4-amino-5,6-dimethylthieno[2,3-d]pyrimidin-2-yl}sulfanyl)propyl]-3-azatricyclo[7.3.1.0^{5,13}]trideca-1(12),5,7,9(13),10-pentaene-2,4-dione",Cc1sc2nc(SCCCN3C(=O)c4cccc5cccc(C3=O)c45)nc(N)c2c1C,Topscience,GABAA agonist
+"(1S,2S,7R,10R,11S,14S,15S)-2,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadecan-14-ol",[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CCCC[C@]12C,Topscience,GABAA agonist
+"(1S,2S,7R,10R,11S,14S,15S)-2,14,15-trimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadecan-14-ol",[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CCCC[C@]12C,Topscience,GABAA agonist
+"6-benzyl-5H,6H,7H,8H-pyrido[4,3-d]pyrimidine-2,4-diol",Oc1nc(O)c2CN(Cc3ccccc3)CCc2n1,Topscience,GABAA agonist
+"methyl (4R)-4-[(1S,2S,5R,7R,10R,11S,14R,15R,16S)-5-hydroxy-16-methoxy-2,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadecan-14-yl]pentanoate",[H][C@@]12CC[C@H]([C@H](C)CCC(=O)OC)[C@@]1(C)[C@H](C[C@@]1([H])[C@@]2([H])CC[C@]2([H])C[C@H](O)CC[C@]12C)OC,Topscience,GABAA agonist
+"methyl (1S,2R,5S,10S,11S,14S,15S)-5-hydroxy-2,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-7-ene-14-carboxylate",[H][C@@]12CC[C@H](C(=O)OC)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C,Topscience,GABAA agonist
+"methyl 6-benzyl-2-chloro-5,6,7,8-tetrahydro-1,6-naphthyridine-4-carboxylate",COC(=O)c1cc(Cl)nc2CCN(Cc3ccccc3)Cc12,Topscience,GABAA agonist
+"(1S,2R,5S,10S,11S,14S,15S)-5-(acetyloxy)-2,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-7-ene-14-carboxylic acid",[H][C@@]12CC[C@H](C(O)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OC(C)=O,Topscience,GABAA agonist
+"methyl 6-benzyl-5,6,7,8-tetrahydro-1,6-naphthyridine-4-carboxylate",COC(=O)c1ccnc2CCN(Cc3ccccc3)Cc12,Topscience,GABAA agonist
+"ethyl 2-(3,4-dichlorophenyl)-1,3-oxazole-4-carboxylate",CCOC(=O)c1coc(n1)-c1ccc(Cl)c(Cl)c1,Topscience,GABAA agonist
+"5-benzyl-4H,5H,6H,7H-[1,3]thiazolo[5,4-c]pyridin-2-amine",Nc1nc2CCN(Cc3ccccc3)Cc2s1,Topscience,GABAA agonist
+"ethyl 6-fluoroimidazo[1,2-a]pyridine-2-carboxylate",CCOC(=O)c1cn2cc(F)ccc2n1,Topscience,GABAA agonist
+"ethyl 5-chloroimidazo[1,2-a]pyridine-2-carboxylate",CCOC(=O)c1cn2c(Cl)cccc2n1,Topscience,GABAA agonist
+"ethyl 2-[4-(trifluoromethyl)phenyl]-1,3-oxazole-4-carboxylate",CCOC(=O)c1coc(n1)-c1ccc(cc1)C(F)(F)F,Topscience,GABAA agonist
+"ethyl 3-(4-methylphenyl)imidazo[2,1-b][1,3]thiazole-6-carboxylate",CCOC(=O)c1cn2c(csc2n1)-c1ccc(C)cc1,Topscience,GABAA agonist
+"2-[2-(4-fluoro-3-methylphenyl)-6-methylimidazo[1,2-a]pyridin-3-yl]acetic acid",Cc1ccc2nc(c(CC(O)=O)n2c1)-c1ccc(F)c(C)c1,Topscience,GABAA agonist
+"ethyl 2-(5-chloro-2-hydroxyphenyl)-1,3-thiazole-4-carboxylate",CCOC(=O)c1csc(n1)-c1cc(Cl)ccc1O,Topscience,GABAA agonist
+"2,15-dimethyl-14-(2-methyl-5-oxooxolan-2-yl)tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-7-en-5-yl acetate",CC(=O)OC1CCC2(C)C3CCC4(C)C(CCC4C4(C)CCC(=O)O4)C3CC=C2C1,Topscience,GABAA agonist
+"(1S,2R,5S,10S,11S,14R,15S)-2,15-dimethyl-14-(2-methyl-5-oxooxolan-2-yl)tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-7-en-5-yl acetate",[H][C@@]12CC[C@@]([H])(C3(C)CCC(=O)O3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OC(C)=O,Topscience,GABAA agonist
+"7-cyclopropyl-2-(2-fluorophenyl)pyrazolo[1,5-a]pyrimidine-5-carboxylic acid",OC(=O)c1cc(C2CC2)n2nc(cc2n1)-c1ccccc1F,Topscience,GABAA agonist
+"ethyl 6-methylimidazo[1,2-a]pyridine-2-carboxylate",CCOC(=O)c1cn2cc(C)ccc2n1,Topscience,GABAA agonist
+"2-phenylimidazo[1,2-a]pyridine-8-carboxylic acid",OC(=O)c1cccn2cc(nc12)-c1ccccc1,Topscience,GABAA agonist
+"2-amino-6-benzyl-4H,5H,6H,7H-thieno[2,3-c]pyridine-3-carbonitrile",Nc1sc2CN(Cc3ccccc3)CCc2c1C#N,Topscience,GABAA agonist
+"2-benzyl-7-nitro-1,2,3,4-tetrahydroisoquinoline",[O-][N+](=O)c1ccc2CCN(Cc3ccccc3)Cc2c1,Topscience,GABAA agonist
+"ethyl imidazo[1,2-a]pyridine-2-carboxylate",CCOC(=O)c1cn2ccccc2n1,Topscience,GABAA agonist
+ethyl 1-(4-chlorophenyl)-4-hydroxy-1H-pyrazole-3-carboxylate,CCOC(=O)c1nn(cc1O)-c1ccc(Cl)cc1,Topscience,GABAA agonist
+"ethyl 7-methylimidazo[1,2-a]pyridine-2-carboxylate",CCOC(=O)c1cn2ccc(C)cc2n1,Topscience,GABAA agonist
+"4-{6-nitroimidazo[1,2-a]pyridin-2-yl}phenol",Oc1ccc(cc1)-c1cn2cc(ccc2n1)[N+]([O-])=O,Topscience,GABAA agonist
+"6-methyl-8-nitro-2-(4-phenylphenyl)imidazo[1,2-a]pyridine",Cc1cc([N+]([O-])=O)c2nc(cn2c1)-c1ccc(cc1)-c1ccccc1,Topscience,GABAA agonist
+"ethyl 4-(4-methoxyphenyl)-3-methyl-1-phenyl-1H-pyrazolo[3,4-b]pyridine-6-carboxylate",CCOC(=O)c1cc(-c2ccc(OC)cc2)c2c(C)nn(-c3ccccc3)c2n1,Topscience,GABAA agonist
+"6-nitro-2-(4-phenylphenyl)imidazo[1,2-a]pyridine",[O-][N+](=O)c1ccc2nc(cn2c1)-c1ccc(cc1)-c1ccccc1,Topscience,GABAA agonist
+"8-nitro-2-(4-phenylphenyl)imidazo[1,2-a]pyridine",[O-][N+](=O)c1cccn2cc(nc12)-c1ccc(cc1)-c1ccccc1,Topscience,GABAA agonist
+"5-benzyl-1H,4H,5H,6H,7H-pyrrolo[3,2-c]pyridine",C(N1CCc2[nH]ccc2C1)c1ccccc1,Topscience,GABAA agonist
+"4-(1,2,3,4-tetrahydroisoquinolin-2-ylmethyl)phenol",Oc1ccc(CN2CCc3ccccc3C2)cc1,Topscience,GABAA agonist
+"6-methyl-2-(4-phenylphenyl)imidazo[1,2-a]pyridin-8-amine",Cc1cc(N)c2nc(cn2c1)-c1ccc(cc1)-c1ccccc1,Topscience,GABAA agonist
+"2-(4-fluoro-3-methylphenyl)-6-methylimidazo[1,2-a]pyridine",Cc1ccc2nc(cn2c1)-c1ccc(F)c(C)c1,Topscience,GABAA agonist
+"2-{[5-(4-chlorophenyl)-4-phenyl-4H-1,2,4-triazol-3-yl]sulfanyl}acetic acid",OC(=O)CSc1nnc(-c2ccc(Cl)cc2)n1-c1ccccc1,Topscience,GABAA agonist
+"2-{[5-(2,4-dichlorophenyl)-4-phenyl-4H-1,2,4-triazol-3-yl]sulfanyl}acetic acid",OC(=O)CSc1nnc(-c2ccc(Cl)cc2Cl)n1-c1ccccc1,Topscience,GABAA agonist
+"3-{3-[(dimethylamino)methyl]-6-methylimidazo[1,2-a]pyridin-2-yl}aniline trihydrochloride",Cl.Cl.Cl.CN(C)Cc1c(nc2ccc(C)cn12)-c1cccc(N)c1,Topscience,GABAA agonist
+"2-(4-fluorophenyl)imidazo[1,2-a]pyridine",Fc1ccc(cc1)-c1cn2ccccc2n1,Topscience,GABAA agonist
+ethyl 1-(4-bromophenyl)-4-hydroxy-1H-pyrazole-3-carboxylate,CCOC(=O)c1nn(cc1O)-c1ccc(Br)cc1,Topscience,GABAA agonist
+"2-[(1R,4S,12R,14R,17S)-4,17-dimethyl-2-oxo-18-oxapentacyclo[12.3.1.0^{1,9}.0^{4,8}.0^{12,17}]octadecan-5-yl]propanoic acid",[H][C@]12CCC3C4CCC(C(C)C(O)=O)[C@@]4(C)CC(=O)[C@@]33O[C@H](CC[C@@]13C)C2,Topscience,GABAA agonist
+"(2S)-2-[(1R,4S,5R,8S,9S,12R,14R,17S)-4,17-dimethyl-2-oxo-18-oxapentacyclo[12.3.1.0^{1,9}.0^{4,8}.0^{12,17}]octadecan-5-yl]propanoic acid",[H][C@@]12CC[C@H]([C@H](C)C(O)=O)[C@@]1(C)CC(=O)[C@]13O[C@@H]4CC[C@@]1(C)[C@]([H])(CC[C@@]23[H])C4,Topscience,GABAA agonist
+"6-methyl-2-(4-methylphenyl)imidazo[1,2-a]pyridine",Cc1ccc(cc1)-c1cn2cc(C)ccc2n1,Topscience,GABAA agonist
+4-(2-hydroxypropan-2-yl)-1-methylcyclohexan-1-ol,CC(C)(O)C1CCC(C)(O)CC1,Topscience,GABAA agonist
+"6-nitro-2-phenylimidazo[1,2-a]pyridine",[O-][N+](=O)c1ccc2nc(cn2c1)-c1ccccc1,Topscience,GABAA agonist
+"2-(4-fluorophenyl)imidazo[1,2-a]pyridin-6-amine",Nc1ccc2nc(cn2c1)-c1ccc(F)cc1,Topscience,GABAA agonist
+"2-(4-phenylphenyl)imidazo[1,2-a]pyridin-8-amine",Nc1cccn2cc(nc12)-c1ccc(cc1)-c1ccccc1,Topscience,GABAA agonist
+"ethyl 5H,6H,7H-pyrrolo[1,2-a]imidazole-2-carboxylate",CCOC(=O)c1cn2CCCc2n1,Topscience,GABAA agonist
+"6-(4-fluorophenyl)-2-[(2-fluorophenyl)methyl]imidazo[2,1-b][1,3]thiazole",Fc1ccc(cc1)-c1cn2cc(Cc3ccccc3F)sc2n1,Topscience,GABAA agonist
+"2-(3,4-dichlorophenyl)-8-methylimidazo[1,2-a]pyridine",Cc1cccn2cc(nc12)-c1ccc(Cl)c(Cl)c1,Topscience,GABAA agonist
+"2-benzyl-1,2,3,4-tetrahydroisoquinolin-7-amine",Nc1ccc2CCN(Cc3ccccc3)Cc2c1,Topscience,GABAA agonist
+"ethyl 2-(4-methylphenyl)-1,3-thiazole-5-carboxylate",CCOC(=O)c1cnc(s1)-c1ccc(C)cc1,Topscience,GABAA agonist
+"2-(4-phenylphenyl)imidazo[1,2-a]pyridin-6-amine",Nc1ccc2nc(cn2c1)-c1ccc(cc1)-c1ccccc1,Topscience,GABAA agonist
+"3-({[5-(4-chlorophenyl)-4-phenyl-4H-1,2,4-triazol-3-yl]sulfanyl}methyl)-4,5-dihydro-1H-pyrazol-5-one",Clc1ccc(cc1)-c1nnc(SCC2=NNC(=O)C2)n1-c1ccccc1,Topscience,GABAA agonist
+"5-[(2-fluorophenyl)carbonyl]-2-(methoxymethyl)-4H,5H,6H,7H-[1,3]thiazolo[5,4-c]pyridine",COCc1nc2CCN(Cc2s1)C(=O)c1ccccc1F,Topscience,GABAA agonist
+"ethyl 2-[(E)-2-[(4-chlorophenyl)methylidene]hydrazin-1-yl]-1,3-thiazole-4-carboxylate",CCOC(=O)c1csc(N\N=C\c2ccc(Cl)cc2)n1,Topscience,GABAA agonist
+"ethyl 2-phenyl-4-(trifluoromethyl)-1,3-thiazole-5-carboxylate",CCOC(=O)c1sc(nc1C(F)(F)F)-c1ccccc1,Topscience,GABAA agonist
+"2-(2,4-dichlorophenyl)-6-fluoroimidazo[1,2-a]pyridine",Fc1ccc2nc(cn2c1)-c1ccc(Cl)cc1Cl,Topscience,GABAA agonist
+"ethyl 2-[(4,5-diphenyl-4H-1,2,4-triazol-3-yl)sulfanyl]acetate",CCOC(=O)CSc1nnc(-c2ccccc2)n1-c1ccccc1,Topscience,GABAA agonist
+"1-{[2-(2-fluorophenyl)-5-methyl-1,3-thiazol-4-yl]carbonyl}-4-methylpiperazine dihydrochloride",Cl.Cl.CN1CCN(CC1)C(=O)c1nc(sc1C)-c1ccccc1F,Topscience,GABAA agonist
+"2-(4-fluorophenyl)-7-methylimidazo[1,2-a]pyridine",Cc1ccn2cc(nc2c1)-c1ccc(F)cc1,Topscience,GABAA agonist
+"ethyl 4-(4-bromophenyl)-2,7,7-trimethyl-5-oxo-5,6,7,8-tetrahydroquinoline-3-carboxylate",CCOC(=O)c1c(C)nc2CC(C)(C)CC(=O)c2c1-c1ccc(Br)cc1,Topscience,GABAA agonist
+"2-phenylimidazo[1,2-a]pyridine",c1c(nc2ccccn12)-c1ccccc1,Topscience,GABAA agonist
+"6-methyl-2-(4-methylphenyl)imidazo[1,2-a]pyridine-3-carboxylic acid",Cc1ccc(cc1)-c1nc2ccc(C)cn2c1C(O)=O,Topscience,GABAA agonist
+"2-(4-fluorophenyl)-7-methylimidazo[1,2-a]pyridin-6-amine",Cc1cc2nc(cn2cc1N)-c1ccc(F)cc1,Topscience,GABAA agonist
+ethyl 4-cyano-1-(4-fluorophenyl)-5-phenyl-1H-pyrazole-3-carboxylate,CCOC(=O)c1nn(c(c1C#N)-c1ccccc1)-c1ccc(F)cc1,Topscience,GABAA agonist
+"[2-(2,4-dichlorophenyl)imidazo[1,2-a]pyridin-3-yl]methanol",OCc1c(nc2ccccn12)-c1ccc(Cl)cc1Cl,Topscience,GABAA agonist
+"2-(3,4-dimethylphenyl)-8-methylimidazo[1,2-a]pyridine",Cc1ccc(cc1C)-c1cn2cccc(C)c2n1,Topscience,GABAA agonist
+"ethyl 2-(4-fluorophenyl)-4-methyl-1,3-thiazole-5-carboxylate",CCOC(=O)c1sc(nc1C)-c1ccc(F)cc1,Topscience,GABAA agonist
+"7-methyl-2-(4-phenylphenyl)imidazo[1,2-a]pyridine",Cc1ccn2cc(nc2c1)-c1ccc(cc1)-c1ccccc1,Topscience,GABAA agonist
+CHEMBL2332216,C#Cc1ccc2c(c1)C(c1ccccn1)=NCc1c(C(=O)NC)ncn1-2,CHEMBL,GABAA agonist
+CHEMBL2332218,C#Cc1ccc2c(c1)C(c1ccccc1)=NCc1c(-c3nc(C(C)C)no3)ncn1-2,CHEMBL,GABAA agonist
+CHEMBL2332217,C#Cc1ccc2c(c1)C(c1ccccc1F)=NCc1c(C(=O)NC)ncn1-2,CHEMBL,GABAA agonist
+CHEMBL96,NCCCC(=O)O,CHEMBL,GABAA agonist
+CHEMBL223707,Cc1ccc(CNC(=O)C(=O)c2c[nH]c3ccc([N+](=O)[O-])cc23)cc1,CHEMBL,GABAA agonist
+CHEMBL2315226,NCc1cn(O)nc1-c1ccc(-c2ccccc2)cc1,CHEMBL,GABAA agonist
+CHEMBL456576,Cl.Sc1nnc(C2CCNCC2)o1,CHEMBL,GABAA agonist
+CHEMBL2332215,C#Cc1ccc2c(c1)C(c1ccccc1)=NCc1c(C(=O)NC)ncn1-2,CHEMBL,GABAA agonist
+CHEMBL1289626,Oc1ccc2c(c1)CCN(CCCCc1ccccc1)CC2O,CHEMBL,GABAA agonist
+CHEMBL2332219,C#Cc1ccc2c(c1)C(c1ccccn1)=NCc1c(-c3nc(C(C)C)no3)ncn1-2,CHEMBL,GABAA agonist
+CHEMBL307783,CC(C)(C)OC(=O)c1cc2c3ccccc3nc-2c[nH]1,CHEMBL,GABAA agonist
+CHEMBL75456,C[C@@H](NC(=O)C(=O)c1c[nH]c2ccc([N+](=O)[O-])cc12)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL520652,CCCN(CCC)C(=O)Cc1c(-c2ccc(N)cc2)nc2c(Cl)cc(Cl)cn12.Cl,CHEMBL,GABAA agonist
+CHEMBL484758,CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)cc2)nc2c(NC(=O)CCCC(=O)O)cccn12,CHEMBL,GABAA agonist
+CHEMBL485217,CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)c([N+](=O)[O-])c2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL520662,CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)cc2)nc2c(NC(=O)CC(=O)O)cccn12,CHEMBL,GABAA agonist
+CHEMBL3962969,Cc1ccc(-c2nc3ccc(F)cn3c2CC(=O)N(C)C)cc1,CHEMBL,GABAA agonist
+CHEMBL3971200,Cc1ccc2nc(-c3ccc(F)cc3)c(CC(=O)N(C)C)n2c1,CHEMBL,GABAA agonist
+CHEMBL485219,CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)c(N)c2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL509917,CCCN(CCC)C(=O)Cc1c(-c2ccc(OC)cc2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL4566832,CC1(CC(=O)O)CSC(N)=N1,CHEMBL,GABAA agonist
+CHEMBL481537,CCC(C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1,CHEMBL,GABAA agonist
+CHEMBL485435,CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)cc2)nc2c(NC(=O)CN)cccn12.Cl,CHEMBL,GABAA agonist
+CHEMBL484573,CCCN(CCC)C(=O)Cc1c(-c2ccc(O)cc2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL520465,CCCN(CCC)C(=O)Cc1c(-c2ccc([N+](=O)[O-])cc2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL484188,CCCN(CCC)C(=O)Cc1c(-c2ccc(N)cc2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL483383,CCCCN(C)C(=O)Cc1c(-c2ccc(Cl)c(N)c2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL485218,CCCCN(C)C(=O)Cc1c(-c2ccc(Cl)c([N+](=O)[O-])c2)nc2c(Cl)cccn12,CHEMBL,GABAA agonist
+CHEMBL520847,CCCCN(C)C(=O)Cc1c(-c2ccc(Cl)c(N)c2)nc2c(Cl)cccn12,CHEMBL,GABAA agonist
+CHEMBL2315214,NCc1cnn(O)c1Cl,CHEMBL,GABAA agonist
+CHEMBL521186,CCCCN(C)C(=O)Cc1c(-c2ccc(OC)cc2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL254600,COc1ccc2c(c1)CCc1cc(O)cc(OC)c1-2,CHEMBL,GABAA agonist
+CHEMBL450788,COc1cc(O)cc(CCc2cccc(O)c2)c1,CHEMBL,GABAA agonist
+CHEMBL485589,CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)c(NC(=O)CCC(=O)O)c2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL279998,O=C(O)C1CCNCC1,CHEMBL,GABAA agonist
+CHEMBL4797104,CN1CC[C@]2(O)c3cc(Br)ccc3N(C)[C@]12c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL488414,COc1cc(CCc2ccc(O)cc2)cc(OC)c1,CHEMBL,GABAA agonist
+CHEMBL407,CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(F)ccc1-2,CHEMBL,GABAA agonist
+CHEMBL3115200,COc1cc(O)cc(/C=C\c2cccc(O)c2)c1,CHEMBL,GABAA agonist
+CHEMBL484741,CN(C(=O)Cc1c(-c2ccc(O)cc2)nc2c(Cl)cc(Cl)cn12)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL4744848,COc1ccc2c(c1)-n1ncc(C(=O)Nc3ccccc3)c1NC2,CHEMBL,GABAA agonist
+CHEMBL4204250,COC(=O)C1=C(C)NC(=S)NC1c1cccc(O)c1,CHEMBL,GABAA agonist
+CHEMBL127135,O=C(NCc1ccc(F)cc1)C(=O)c1c[nH]c2ccccc12,CHEMBL,GABAA agonist
+CHEMBL211350,NCCCCc1nonc1O,CHEMBL,GABAA agonist
+CHEMBL519743,COc1cc(CCc2ccc(OC)c(OC)c2)cc(OC)c1,CHEMBL,GABAA agonist
+CHEMBL519654,CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)c(N)c2)nc2c(Cl)cc(Cl)cn12.Cl,CHEMBL,GABAA agonist
+CHEMBL483596,CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)cc2)nc2c(NC(=O)CCC(=O)OCC)cccn12,CHEMBL,GABAA agonist
+CHEMBL484932,CCCN(CCC)C(=O)Cc1c(-c2ccc(OC(=O)CN)cc2)nc2c(Cl)cc(Cl)cn12.Cl,CHEMBL,GABAA agonist
+CHEMBL484750,CCCN(CCC)C(=O)Cc1c(-c2ccc(Cl)cc2)nc2c(NC(=O)CCC(=O)O)cccn12,CHEMBL,GABAA agonist
+CHEMBL220661,CCCN(CCC)C(=O)Cc1c(-c2nccs2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL521180,CCCCN(C)C(=O)Cc1c(-c2ccc(Cl)c([N+](=O)[O-])c2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL521304,CN(C(=O)Cc1c(-c2nccs2)nc2c(Cl)cc(Cl)cn12)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL484574,CCCCN(C)C(=O)Cc1c(-c2ccc(O)cc2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL5069550,O=C(Nc1c(-c2cccs2)nc2ccc(F)cn12)c1ccc(Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL485606,COc1ccc(-c2nc3c(Cl)cc(Cl)cn3c2CC(=O)N(C)c2ccccc2)cc1,CHEMBL,GABAA agonist
+CHEMBL12,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,CHEMBL,GABAA agonist
+CHEMBL1270261,CCOC(=O)c1cncn1C(C)c1ccc(C2(C(F)(F)F)N=N2)cc1,CHEMBL,GABAA agonist
+CHEMBL4099890,Cl.NCC(Cl)CC(=O)O,CHEMBL,GABAA agonist
+CHEMBL4061638,Cl.NCC(Br)CC(=O)O,CHEMBL,GABAA agonist
+CHEMBL81327,Cc1c(O)noc1CN,CHEMBL,GABAA agonist
+CHEMBL483172,CCCN(CCC)C(=O)Cc1c(-c2ccc(OC(=O)CCC(=O)OC)cc2)nc2c(Cl)cc(Cl)cn12,CHEMBL,GABAA agonist
+CHEMBL521901,O=C(N[C@@H]1CCc2ccccc21)C(=O)c1c[nH]c2ccc([N+](=O)[O-])cc12,CHEMBL,GABAA agonist
+CHEMBL379553,O=C(Nc1c(-c2ccccc2)nc2ccccn12)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL211542,NCCCc1nonc1O,CHEMBL,GABAA agonist
+CHEMBL5087818,O=C(Nc1c(-c2cccs2)nc2ccc(I)cn12)c1ccc(Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL1996501,CCOC(=O)C1=C(C)N(C)C(=S)NC1c1cccc(O)c1,CHEMBL,GABAA agonist
+CHEMBL1334361,COC(=O)C1=C(C)NC(=O)NC1c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL444096,CCOC(=O)C1=C(C)NC(=O)NC1c1cccc(O)c1,CHEMBL,GABAA agonist
+CHEMBL4793157,COc1ccc2c(c1)-n1ncc(C(=O)NCc3ccco3)c1NC2,CHEMBL,GABAA agonist
+CHEMBL4757992,CN1CC[C@]2(O)c3cc(I)ccc3N(C)[C@]12c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL236789,CCOC(=O)C1=C(C)NC(=S)NC1c1cccc(O)c1,CHEMBL,GABAA agonist
+CHEMBL3769507,CCn1cc(-c2cccc(C(F)(F)F)c2)c2sc(C(=N)NC3CCS(=O)(=O)CC3)cc2c1=O,CHEMBL,GABAA agonist
+CHEMBL211176,NCCc1nonc1O,CHEMBL,GABAA agonist
+CHEMBL393502,CCOC(=O)C1=C(C)NC(=S)NC1c1ccc(O)c(O)c1,CHEMBL,GABAA agonist
+CHEMBL334014,N[C@]1(C(=O)O)[C@H]2[C@@H](C[C@@H]1F)[C@@H]2C(=O)O,CHEMBL,GABAA agonist
+CHEMBL5071286,CC[C@@H]1CN2CC[C@@]3(O)C(=Nc4cccc(-c5ccoc5)c43)[C@@H]2C[C@@H]1/C(=C\OC)C(=O)OC,CHEMBL,GABAA agonist
+CHEMBL4781406,COc1ccc2cnc3c(C(=O)NCc4cccs4)cnn3c2c1,CHEMBL,GABAA agonist
+CHEMBL4205630,CCOC(=O)C1=C(CC)NC(=S)NC1c1cccc(O)c1,CHEMBL,GABAA agonist
+CHEMBL3954951,CN(C)C(=O)Cc1c(-c2ccc(F)cc2)nc2ccc(F)cn12,CHEMBL,GABAA agonist
+CHEMBL5088545,O=C(Nc1c(-c2cccs2)nc2ccc(-c3cccs3)cn12)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL5081682,Cc1ccc2nc(-c3cccs3)c(NC(=O)c3ccc(Cl)cc3)n2c1,CHEMBL,GABAA agonist
+CHEMBL5094124,O=C(Nc1c(-c2cccs2)nc2ccc(Br)cn12)c1ccc(Oc2ccccc2)cc1,CHEMBL,GABAA agonist
+CHEMBL5089175,O=C(Nc1c(-c2cccs2)nc2ccc(Br)cn12)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL5074977,CC[C@@H]1CN2CC[C@@]3(O)C(=Nc4cccc(C)c43)[C@@H]2C[C@@H]1/C(=C\OC)C(=O)OC,CHEMBL,GABAA agonist
+CHEMBL4785891,COc1ccc2cnc3c(C(=O)NCc4ccco4)cnn3c2c1,CHEMBL,GABAA agonist
+CHEMBL5087705,O=C(Nc1c(-c2cccs2)nc2ccc(-c3ccccc3)cn12)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL5086786,CC[C@@H]1CN2CC[C@@]3(O)C(=Nc4cccc(-c5ccccc5)c43)[C@@H]2C[C@@H]1/C(=C\OC)C(=O)OC,CHEMBL,GABAA agonist
+CHEMBL4793451,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1OC(=O)O[C@@H](C)OC(=O)[C@H]1[C@@H]2C[C@H](F)[C@@](N)(C(=O)O)[C@@H]21,CHEMBL,GABAA agonist
+CHEMBL5076944,O=C(Nc1c(-c2cccs2)nc2cc(Br)ccn12)c1ccc(Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL5091099,O=C(Nc1c(C2CCCC2)nc2ccc(Br)cn12)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL5090382,O=C(Nc1c(-c2cccs2)nc2ccc(C(F)(F)F)cn12)c1ccc(Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL1788265,O=C(O)C[C@H]1CCNC1,CHEMBL,GABAA agonist
+CHEMBL79325,NC1=NC(CC(=O)O)CS1,CHEMBL,GABAA agonist
+CHEMBL2315213,NCc1cnn(O)c1,CHEMBL,GABAA agonist
+CHEMBL2322937,COC(c1ccc(C(C)=O)cc1)C(F)(F)C(=O)C12CC3CC(CC(C3)C1)C2,CHEMBL,GABAA agonist
+CHEMBL39071,O=C(O)C1=CCNCC1,CHEMBL,GABAA agonist
+CHEMBL2322934,CC(=O)c1ccc(C(O)C(F)(F)C(=O)C23CC4CC(CC(C4)C2)C3)cc1,CHEMBL,GABAA agonist
+CHEMBL2322943,CCC/C=C/C(O)C(F)(F)C(=O)c1ccc(Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL2322944,C/C=C/C=C/C(O)C(F)(F)C(=O)/C=C/CCCC,CHEMBL,GABAA agonist
+CHEMBL526,CC(C)c1cccc(C(C)C)c1O,CHEMBL,GABAA agonist
+CHEMBL2315215,NCc1cnn(O)c1Br,CHEMBL,GABAA agonist
+CHEMBL2315222,NCc1cn(O)nc1-c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL2315223,NCc1cn(O)nc1Cc1ccccc1,CHEMBL,GABAA agonist
+CHEMBL4458674,O=C(O)CC1CNC=N1,CHEMBL,GABAA agonist
+CHEMBL4586460,C[C@@H]1SC(N)=N[C@@H]1CC(=O)O,CHEMBL,GABAA agonist
+CHEMBL32991,Oc1c(Br)cc(Br)cc1-c1cc(Br)cc(Br)c1O,CHEMBL,GABAA agonist
+CHEMBL454608,Cl.NCc1nnc(O)o1,CHEMBL,GABAA agonist
+CHEMBL3322871,CCc1nc(N)ccc1C(=O)O,CHEMBL,GABAA agonist
+CHEMBL4442696,C[C@@H](C(=O)O)[C@@H]1CSC(N)=N1,CHEMBL,GABAA agonist
+CHEMBL4464494,CC(C(=O)O)C1CSC(N)=N1,CHEMBL,GABAA agonist
+CHEMBL1084038,CC(C)(O)C(=O)c1oc2nc(-c3ccc(Cl)cc3Cl)c(-c3ccc(Cl)cc3)cc2c1NC(=O)CO,CHEMBL,GABAA agonist
+CHEMBL312443,Oc1noc2c1CCNC2,CHEMBL,GABAA agonist
+CHEMBL4554798,NC1=N[C@@H](CC(=O)O)CS1,CHEMBL,GABAA agonist
+CHEMBL3322870,Cc1nc(N)ccc1C(=O)O,CHEMBL,GABAA agonist
+CHEMBL3322873,Nc1ccc(C(=O)O)c(-c2ccccc2)n1,CHEMBL,GABAA agonist
+CHEMBL2311576,NCc1cn(O)nc1-c1cccc(-c2ccccc2)c1,CHEMBL,GABAA agonist
+CHEMBL273481,NCc1cc(O)no1,CHEMBL,GABAA agonist
+CHEMBL449007,CP(=O)(O)[C@]1(O)C[C@@H](N)C1,CHEMBL,GABAA agonist
+CHEMBL451118,CP(=O)(O)[C@H]1C[C@@H](N)C1,CHEMBL,GABAA agonist
+CHEMBL784,O=C(O)Cc1c[nH]cn1,CHEMBL,GABAA agonist
+CHEMBL3322874,Nc1ccc(C(=O)O)c(Cl)n1,CHEMBL,GABAA agonist
+CHEMBL3322882,NC1=NCC(C(=O)O)CC1,CHEMBL,GABAA agonist
+CHEMBL3322872,CCCCc1nc(N)ccc1C(=O)O,CHEMBL,GABAA agonist
+CHEMBL33086,NC/C=C/C(=O)O,CHEMBL,GABAA agonist
+CHEMBL3322876,CCc1cc(N)ncc1C(=O)O,CHEMBL,GABAA agonist
+CHEMBL4245403,CC(C)CC(=O)C(F)(F)C(NC(=O)OC(C)(C)C)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL4241188,CC(C)(C)OC(=O)NC(c1ccccc1)C(F)(F)C(=O)c1ccc2c(c1)OCO2,CHEMBL,GABAA agonist
+CHEMBL3322886,NC1=NCC(C(=O)O)CN1,CHEMBL,GABAA agonist
+CHEMBL509338,CP(=O)(O)[C@]1(O)C[C@H](N)C1,CHEMBL,GABAA agonist
+CHEMBL4250786,CCc1ccc(C(O)C(F)(F)C(=O)C23CC4CC(CC(C4)C2)C3)cc1,CHEMBL,GABAA agonist
+CHEMBL3322864,Nc1ccc(C(=O)O)cn1,CHEMBL,GABAA agonist
+CHEMBL3322877,CCCCc1cc(N)ncc1C(=O)O,CHEMBL,GABAA agonist
+CHEMBL3322881,CCc1cc(C(=O)O)cnc1N,CHEMBL,GABAA agonist
+CHEMBL3322875,Cc1cc(N)ncc1C(=O)O,CHEMBL,GABAA agonist
+CHEMBL3322879,Nc1ncc(C(=O)O)cc1I,CHEMBL,GABAA agonist
+CHEMBL3322880,Cc1cc(C(=O)O)cnc1N,CHEMBL,GABAA agonist
+CHEMBL2322939,COc1ccc(C(O)C(F)(F)C(=O)c2ccc3ccccc3c2)cc1,CHEMBL,GABAA agonist
+CHEMBL2322940,CCC/C=C/C(O)C(F)(F)C(=O)c1ccc2ccccc2c1,CHEMBL,GABAA agonist
+CHEMBL301742,NC[C@H](CC(=O)O)c1ccc(Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL2322932,CC(C)[Si](O[C@H](C)C[C@@H](O)C(F)(F)C(=O)c1ccc2c(c1)OCO2)(C(C)C)C(C)C,CHEMBL,GABAA agonist
+CHEMBL701,NCC(CC(=O)O)c1ccc(Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL2315228,On1cc2c(n1)CCNC2,CHEMBL,GABAA agonist
+CHEMBL2315224,NCc1cn(O)nc1CCc1ccccc1,CHEMBL,GABAA agonist
+CHEMBL4244933,O=C(C12CC3CC(CC(C3)C1)C2)C(F)(F)C(O)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL2315221,NCc1cn(O)nc1N,CHEMBL,GABAA agonist
+CHEMBL2315218,NCc1cn(O)nc1I,CHEMBL,GABAA agonist
+CHEMBL2315220,CCc1nn(O)cc1CN,CHEMBL,GABAA agonist
+CHEMBL2322938,CC(=O)c1ccc(C(O)CC(=O)C23CC4CC(CC(C4)C2)C3)cc1,CHEMBL,GABAA agonist
+CHEMBL235168,CNc1ccc(C(=O)O)cn1,CHEMBL,GABAA agonist
+CHEMBL2315216,Cc1c(CN)cnn1O,CHEMBL,GABAA agonist
+CHEMBL2322935,O=C(C12CC3CC(CC(C3)C1)C2)C(F)(F)C(O)/C=C/c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL2322946,CC(C)(C)c1cc(C(C)(C)C)c2c(c1)C(O)(C(F)(F)F)C(=O)O2,CHEMBL,GABAA agonist
+CHEMBL2315227,On1ncc2c1CCNC2,CHEMBL,GABAA agonist
+CHEMBL2315225,NCc1cn(O)nc1CCc1ccncc1,CHEMBL,GABAA agonist
+CHEMBL2315219,Cc1nn(O)cc1CN,CHEMBL,GABAA agonist
+CHEMBL2322941,C/C=C/C=C/C(O)C(F)(F)C(=O)c1ccc2ccccc2c1,CHEMBL,GABAA agonist
+CHEMBL2322942,O=C(c1ccc2ccccc2c1)C(F)(F)C(O)C1CCCCC1,CHEMBL,GABAA agonist
+CHEMBL4247210,O=C(C12CC3CC(CC(C3)C1)C2)C(F)(F)C(NS(=O)(=O)c1ccccc1)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL4238634,CC(C)(C)OC(=O)NC(c1ccccc1)C(F)(F)C(=O)c1ccc2ccccc2c1,CHEMBL,GABAA agonist
+CHEMBL4246158,O=C(C12CC3CC(CC(C3)C1)C2)C(F)(F)C(O)c1ccc(Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL2322933,CC1(C)C2CCC(C(O)C(F)(F)C(=O)c3ccc4c(c3)OCO4)C1C2,CHEMBL,GABAA agonist
+CHEMBL2315217,Cc1nn(O)c(C)c1CN,CHEMBL,GABAA agonist
+CHEMBL2322936,O=C(c1ccc2ccccc2c1)C(F)F,CHEMBL,GABAA agonist
+CHEMBL2322945,C/C=C/C=C/C(O)C(F)(F)C(=O)C(C)(C)C,CHEMBL,GABAA agonist
+CHEMBL4244940,CC(=O)c1ccc(C(O)C(F)(F)C(=O)c2ccccn2)cc1,CHEMBL,GABAA agonist
+CHEMBL3322878,Nc1cc(-c2ccccc2)c(C(=O)O)cn1,CHEMBL,GABAA agonist
+CHEMBL4249205,O=C1c2ccccc2C(=O)N1CC(O)C(F)(F)C(=O)C12CC3CC(CC(C3)C1)C2,CHEMBL,GABAA agonist
+CHEMBL4238315,O=C(c1ccc(Cl)cc1)C(F)(F)C(NCc1ccccc1)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL4238712,O=C(c1ccc2ccccc2c1)C(F)(F)C(NS(=O)(=O)c1ccccc1)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL4248377,C/C=C/C=C/C(NCc1ccccc1)C(F)(F)C(=O)c1ccc2ccccc2c1,CHEMBL,GABAA agonist
+CHEMBL4244129,O=C(c1ccc2ccccc2c1)C(F)(F)C(NCc1ccccc1)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL1681894,Clc1ccc(COc2c3cnc4c(c3nn2-c2ccc(Cl)cc2)CCCC4)cc1,CHEMBL,GABAA agonist
+CHEMBL1681897,Fc1ccc(COc2c3cnc4c(c3nn2-c2ccc(Cl)cc2)CCCC4)cc1,CHEMBL,GABAA agonist
+CHEMBL1681887,Fc1ccccc1-n1nc2c(cnc3ccccc32)c1OCc1ccccc1Cl,CHEMBL,GABAA agonist
+CHEMBL1681895,Fc1ccccc1COc1c2cnc3c(c2nn1-c1ccc(Cl)cc1)CCCC3,CHEMBL,GABAA agonist
+CHEMBL1092169,CC(C)(O)C(=O)c1oc2nc(-c3ccccc3Cl)c(-c3ccc(Cl)cc3)cc2c1NC(=O)CO,CHEMBL,GABAA agonist
+CHEMBL1681889,Clc1ccc(-n2nc3c4c(ncc3c2OCc2ccccc2Cl)CCCC4)cc1,CHEMBL,GABAA agonist
+CHEMBL1681898,Clc1ccc(-n2nc3c4c(ncc3c2Oc2ccccc2Cl)CCCC4)cc1,CHEMBL,GABAA agonist
+CHEMBL1681891,Clc1ccc(-n2nc3c4c(ncc3c2OCc2ccccc2Cl)CCOC4)cc1,CHEMBL,GABAA agonist
+CHEMBL1681885,Clc1ccc(-n2nc3c(cnc4ccccc43)c2OCC2CC2)cc1,CHEMBL,GABAA agonist
+CHEMBL1681892,CC1(C)CCc2ncc3c(OCc4ccccc4Cl)n(-c4ccc(Cl)cc4)nc3c2C1,CHEMBL,GABAA agonist
+CHEMBL1681890,Clc1ccc(-n2nc3c4c(ncc3c2OCc2ccccc2Cl)CCCCC4)cc1,CHEMBL,GABAA agonist
+CHEMBL1681893,Clc1ccc(-n2nc3c4c(ncc3c2OCc2cccc(Cl)c2)CCCC4)cc1,CHEMBL,GABAA agonist
+CHEMBL1681896,FC(F)(F)c1ccccc1COc1c2cnc3c(c2nn1-c1ccc(Cl)cc1)CCCC3,CHEMBL,GABAA agonist
+CHEMBL1681900,Clc1ccc(-n2nc3c4c(ncc3c2OCC2CC2)CCCC4)cc1,CHEMBL,GABAA agonist
+CHEMBL1681886,Clc1ccc(-n2nc3c(cnc4ccccc43)c2OCc2ccccc2Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL1681888,Clc1ccccc1COc1c2cnc3ccccc3c2nn1-c1ccc2c(c1)OCO2,CHEMBL,GABAA agonist
+CHEMBL1681899,Clc1ccc(-n2nc3c(cnc4ccc(-n5ccnc5)cc43)c2OCC2CC2)cc1,CHEMBL,GABAA agonist
+CHEMBL4229086,CCCCNC(=O)c1cc(-c2ccc(F)cc2F)ccc1O,CHEMBL,GABAA agonist
+CHEMBL59874,CC(=O)NCCCCNC(=O)CCCN.Cl,CHEMBL,GABAA agonist
+CHEMBL61851,Cl.Cl.NCCCC(=O)NCCNC(=O)CCCN,CHEMBL,GABAA agonist
+CHEMBL1160281,NCCCC(N)=O.O=C(O)C(F)(F)F,CHEMBL,GABAA agonist
+CHEMBL61834,Cl.Cl.NCCCC(=O)NCCCCCCNC(=O)CCCN,CHEMBL,GABAA agonist
+CHEMBL543334,CCCCNC(=O)CCCN.Cl,CHEMBL,GABAA agonist
+CHEMBL60421,Cl.Cl.NCCCCNC(=O)CCCN,CHEMBL,GABAA agonist
+CHEMBL2165414,CC(C)c1cc(CCCC2(C)N=N2)cc(C(C)C)c1O,CHEMBL,GABAA agonist
+CHEMBL681,CCOC(=O)c1cncn1[C@H](C)c1ccccc1,CHEMBL,GABAA agonist
+CHEMBL1270457,CCOC(=O)c1cncn1[C@@H](C)c1ccc(C2(C(F)(F)F)N=N2)cc1,CHEMBL,GABAA agonist
+CHEMBL54341,O=c1cc(-c2cccc([N+](=O)[O-])c2)oc2ccc(Br)cc12,CHEMBL,GABAA agonist
+CHEMBL311761,Oc1cc(C2CCNCC2)on1,CHEMBL,GABAA agonist
+CHEMBL1204071,Cl.On1cc(C2CCNCC2)cn1,CHEMBL,GABAA agonist
+CHEMBL4446619,COc1ccccc1-c1oc2ccc(C)cc2c(=O)c1O,CHEMBL,GABAA agonist
+CHEMBL1270361,CCOC(=O)c1cncn1[C@H](C)c1ccc(C2(C(F)(F)F)N=N2)cc1,CHEMBL,GABAA agonist
+CHEMBL14060,Oc1ccccc1,CHEMBL,GABAA agonist
+CHEMBL30018,CC(C)c1ccccc1O,CHEMBL,GABAA agonist
+CHEMBL3899169,Cc1ccc2c(c1)Oc1sc(Cl)cc1C(N1CCN(CC(C)(C)C(=O)O)CC1)=N2,CHEMBL,GABAA agonist
+CHEMBL1271047,CCOC(=O)c1ncc2[nH]c3cccc(OC(C)C)c3c2c1C,CHEMBL,GABAA agonist
+CHEMBL4471977,C[C@H]1SC(N)=N[C@@H]1CC(=O)O,CHEMBL,GABAA agonist
+CHEMBL71460,Nc1nc(CC(=O)O)cs1,CHEMBL,GABAA agonist
+CHEMBL4213357,O=C(Nc1c(-c2cccs2)nc2c(Br)cc(Br)cn12)c1ccc(Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL4212818,O=C(Nc1c(-c2cccs2)nc2ccccn12)c1ccc(Cl)cc1,CHEMBL,GABAA agonist
+CHEMBL4547372,NC1=N[C@H](CC(=O)O)CS1,CHEMBL,GABAA agonist
+CHEMBL4455221,C[C@@H](C(=O)O)[C@H]1CSC(N)=N1,CHEMBL,GABAA agonist
+CHEMBL349005,O=C(O)C[C@@H]1CCNC1,CHEMBL,GABAA agonist
+CHEMBL4526098,NC1=NC(CC(=O)O)CN1,CHEMBL,GABAA agonist
+CHEMBL3311308,COc1ccc(S(=O)(=O)Nc2c(C)cc(C)cc2C)cc1,CHEMBL,GABAA agonist
+TACA,C(/C=C/C(=O)O)N,MedChemExpress,GABAA agonist
+Isoguvacine hydrochloride,C1CNCC=C1C(=O)O.Cl ,MedChemExpress,GABAA agonist
+CP-409092 (hydrochloride),CNCC1=CC=C(C=C1)NC(=O)C2=CNC3=C2C(=O)CCC3.Cl  ,MedChemExpress,GABAA agonist
+Clomethiazole,CC1=C(SC=N1)CCCl  ,MedChemExpress,GABAA agonist
+Imepitoin,C1COCCN1C2=NC(=O)N(C2)C3=CC=C(C=C3)Cl  ,MedChemExpress,GABAA agonist
+Acamprosate (calcium),CC(=O)NCCCS(=O)(=O)[O-].CC(=O)NCCCS(=O)(=O)[O-].[Ca+2]  ,MedChemExpress,GABAA agonist
+Piperazine (citrate),C1CNCCN1.C1CNCCN1.C1CNCCN1.C(C(=O)O)C(CC(=O)O)(C(=O)O)O.C(C(=O)O)C(CC(=O)O)(C(=O)O)O  ,MedChemExpress,GABAA agonist
+DAA-1106,CC(=O)N(CC1=C(C=CC(=C1)OC)OC)C2=C(C=CC(=C2)F)OC3=CC=CC=C3  ,MedChemExpress,GABAA agonist
+Progabide,C1=CC(=CC=C1C(=NCCCC(=O)N)C2=C(C=CC(=C2)F)O)Cl  ,MedChemExpress,GABAA agonist
+Etomidate,CCOC(=O)C1=CN=CN1[C@H](C)C2=CC=CC=C2 ,MedChemExpress,GABAA agonist
+Etomidate (hydrochloride),CCOC(=O)C1=CN=CN1[C@H](C)C2=CC=CC=C2.Cl  ,MedChemExpress,GABAA agonist
+Afloqualone,CC1=CC=CC=C1N2C(=NC3=C(C2=O)C=C(C=C3)N)CF,MedChemExpress,GABAA agonist
+Ginsenoside Rc,CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CCC4C3(CCC(C4(C)C)OC5C(C(C(C(O5)CO)O)O)OC6C(C(C(C(O6)CO)O)O)O)C)C)O)C)OC7C(C(C(C(O7)COC8C(C(C(O8)CO)O)O)O)O)O)C,MedChemExpress,GABAA agonist
+¦Ã-Aminobutyric acid,C(CC(=O)O)CN,MedChemExpress,GABAA agonist
+Jujuboside A,CC1C(C(C(C(O1)OC2C(C(COC2OC3CCC4(C5CCC6C7C(CC(OC78CC6(C5(CCC4C3(C)C)C)CO8)C=C(C)C)(C)O)C)O)OC9C(C(C(C(O9)COC1C(C(C(C(O1)CO)O)O)O)O)O)OC1C(C(C(CO1)O)O)O)O)O)O,MedChemExpress,GABAA agonist
+Miltirone,CC(C)C1=CC2=C(C3=C(C=C2)C(CCC3)(C)C)C(=O)C1=O,MedChemExpress,GABAA agonist
+"3,4,5-Trimethoxycinnamic acid",COC1=CC(=CC(=C1OC)OC)/C=C/C(=O)O,MedChemExpress,GABAA agonist
+Muscimol,C1=C(ONC1=O)CN ,Literature,GABAA agonist
+Propofol,CC(C)C1=C(C(=CC=C1)C(C)C)O,Literature,GABAA agonist
+Diazepam,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3  ,Literature,GABAA agonist
+Zolpidem,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C,Literature,GABAA agonist
+L-838417,CC(C)(C)C1=CC2=NN=C(N2N=C1OCC3=NC=NN3C)C4=C(C=CC(=C4)F)F,Literature,GABAA agonist
+Gaboxadol,C1CNCC2=C1C(=O)NO2,Literature,GABAA agonist
+Muscimol hydrobromide,C1=C(ONC1=O)CN.Br,Literature,GABAA agonist
+Piperidine-4-Sulphonic Acid,C1CNCCC1S(=O)(=O)O  ,Literature,GABAA agonist
+Isonipecotic Acid,C1CNCCC1C(=O)O,Literature,GABAA agonist
+"6-fluoro-9-methyl-2-phenyl-4-(pyrrolidine-1-carbonyl)pyrido[3,4-b]indol-1-one",CN1C2=C(C=C(C=C2)F)C3=C1C(=O)N(C=C3C(=O)N4CCCC4)C5=CC=CC=C5  ,Literature,GABAA agonist
+Moxidectin,CC1CC(=CCC2CC(CC3(O2)CC(=NOC)C(C(O3)C(=CC(C)C)C)C)OC(=O)C4C=C(C(C5C4(C(=CC=C1)CO5)O)O)C)C,Literature,GABAA agonist
+L-Lactic Acid,CC(C(=O)O)O,Literature,GABAA agonist
+3-Hydroxybutyric Acid,CC(CC(=O)O)O,Literature,GABAA agonist
+Pyruvic Acid,CC(=O)C(=O)O ,Literature,GABAA agonist
+2-Oxoglutaric acid,C(CC(=O)O)C(=O)C(=O)O,Literature,GABAA agonist
+Glycolic Acid,C(C(=O)O)O,Literature,GABAA agonist
+Citric Acid,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,Literature,GABAA agonist
+Quinic Acid,C1C(C(C(CC1(C(=O)O)O)O)O)O,Literature,GABAA agonist
+Isoguvacine oxide,C1CNCC2C1(O2)C(=O)O,Literature,GABAA agonist
+Z-3-[(aminoiminomethyl)thio]prop-2-enoic acid,C(=C\SC=NN)\C(=O)O,Literature,GABAA agonist
+3-Aminopropanesulphonic Acid,C(CN)CS(=O)(=O)O,Literature,GABAA agonist
+CINAZEPAM,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Br)OC(=O)CCC(=O)O)Cl,Literature,GABAA agonist
+Sh-I-048A,C[C@H]1C(=O)NC2=C(C=C(C=C2)Br)C(=N1)C3=CC=CC=C3F,Literature,GABAA agonist
+"5-aminomethyl-3H-[1,3,4]oxadiazol-2-one",CC(C)(C)OC(=O)NCC1=NNC(=O)O1.C(C1=NNC(=O)O1)N ,Literature,GABAA agonist
+Ro15-4513,CCOC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CC(=C3)N=[N+]=[N-])C  ,Literature,GABAA agonist
+CHEMBL1202303,Br.O=[N+]([O-])c1cccc(-c2c(O)noc2C2CCNCC2)c1,CHEMBL,GABAA antagonist
+CHEMBL1202310,Br.Oc1noc(C2CCNCC2)c1-c1csc(-c2ccccc2)c1,CHEMBL,GABAA antagonist
+CHEMBL1202307,Br.CC(C)(C)c1ccc(-c2c(O)noc2C2CCNCC2)cc1,CHEMBL,GABAA antagonist
+CHEMBL370714,Oc1noc(C2CCNCC2)c1-c1cccc2ccccc12,CHEMBL,GABAA antagonist
+CHEMBL2398115,NC(=O)C1=CCC(N)C1,CHEMBL,GABAA antagonist
+CHEMBL2398121,NC1CC=C(C(=O)O)C1,CHEMBL,GABAA antagonist
+CHEMBL2398118,CCCCCNC(=O)C1=CCC(N)C1,CHEMBL,GABAA antagonist
+CHEMBL1672298,O=P1(O)CCC(CO)C1,CHEMBL,GABAA antagonist
+CHEMBL2398123,CCONC(=O)C1=CCC(N)C1,CHEMBL,GABAA antagonist
+CHEMBL4588159,N=c1ccc(-c2cccc(OCc3ccccc3)c2)nn1CCCC(=O)O,CHEMBL,GABAA antagonist
+CHEMBL1202336,Br.Cc1nn(O)cc1C1CCNCC1,CHEMBL,GABAA antagonist
+CHEMBL4570040,N=c1ccc(-c2cccc(N)c2)nn1CCCC(=O)O,CHEMBL,GABAA antagonist
+CHEMBL2170373,CCOC(=O)c1ncn2c1CN=C(c1ccc(F)cc1)c1cc(F)ccc1-2,CHEMBL,GABAA antagonist
+CHEMBL446306,CCCCP(=O)(O)C1=CC[C@H](N)C1,CHEMBL,GABAA antagonist
+CHEMBL3652872,CC1=NN=C(c2cc3c(C(F)(F)F)cccc3s2)c2cc3oc(=O)[nH]c3cc2C1,CHEMBL,GABAA antagonist
+CHEMBL32823,c1ccc2c(NCCCCCCCNc3c4c(nc5ccccc35)CCCC4)c3c(nc2c1)CCCC3,CHEMBL,GABAA antagonist
+CHEMBL193370,Oc1noc(C2CCNCC2)c1Cc1ccc2ccccc2c1-c1ccccc1,CHEMBL,GABAA antagonist
+CHEMBL1202304,Br.Br.Nc1cccc(-c2c(O)noc2C2CCNCC2)c1,CHEMBL,GABAA antagonist
+CHEMBL1202305,Br.Oc1noc(C2CCNCC2)c1-c1cccnc1,CHEMBL,GABAA antagonist
+CHEMBL373716,Oc1noc(C2CCNCC2)c1C(Br)c1ccc2ccccc2c1,CHEMBL,GABAA antagonist
+CHEMBL457192,Cl.Oc1nnc(C2CCNCC2)o1,CHEMBL,GABAA antagonist
+CHEMBL550225,CCC[C@@H](O)CC/C=C/C=C/C#CC#C/C=C/CO,CHEMBL,GABAA antagonist
+CHEMBL2337486,CCCCP(=O)(O)C1=CC[C@H](NC(=O)CCCCCNc2ccc([N+](=O)[O-])c3nonc23)C1,CHEMBL,GABAA antagonist
+CHEMBL4740948,COc1ccc2cnc3c(C(=O)NCc4ccccc4OC)cnn3c2c1,CHEMBL,GABAA antagonist
+CHEMBL1202335,Br.On1ncc(C2CCNCC2)c1-c1ccccc1,CHEMBL,GABAA antagonist
+CHEMBL191991,Oc1noc(C2CCNCC2)c1Cc1ccc2ccccc2c1Br,CHEMBL,GABAA antagonist
+CHEMBL1204076,Cc1cccc(-c2nn(O)cc2C2CCNCC2)c1.Cl,CHEMBL,GABAA antagonist
+CHEMBL1204074,Cl.On1ncc(C2CCNCC2)c1-c1cccc(-c2ccccc2)c1,CHEMBL,GABAA antagonist
+CHEMBL195164,Oc1noc(C2CCNCC2)c1-c1ccccc1,CHEMBL,GABAA antagonist
+CHEMBL1204073,Cl.On1ncc(C2CCNCC2)c1Cc1ccc2ccccc2c1Br,CHEMBL,GABAA antagonist
+CHEMBL1672297,O=C(O)C1CCP(=O)(O)C1,CHEMBL,GABAA antagonist
+CHEMBL2398117,CCCNC(=O)C1=CCC(N)C1,CHEMBL,GABAA antagonist
+CHEMBL1202309,Br.Oc1noc(C2CCNCC2)c1-c1ccc(Oc2ccccc2)cc1,CHEMBL,GABAA antagonist
+CHEMBL1202338,Br.Cc1ccc(-c2nn(O)cc2C2CCNCC2)cc1,CHEMBL,GABAA antagonist
+CHEMBL1204072,Cl.On1ncc(C2CCNCC2)c1Cc1ccc2ccccc2c1,CHEMBL,GABAA antagonist
+CHEMBL2398122,CONC(=O)C1=CCC(N)C1,CHEMBL,GABAA antagonist
+CHEMBL2398120,NC1CC=C(C(=O)NO)C1,CHEMBL,GABAA antagonist
+CHEMBL2170369,CCOC(=O)c1ncn2c1CN=C(c1ccc(Cl)cc1)c1ccccc1-2,CHEMBL,GABAA antagonist
+CHEMBL1204079,Cl.On1nc(-c2ccccc2)c(C2CCNCC2)c1Cc1ccc2ccccc2c1,CHEMBL,GABAA antagonist
+CHEMBL1204075,Cc1ccccc1-c1nn(O)cc1C1CCNCC1.Cl,CHEMBL,GABAA antagonist
+CHEMBL4074873,CN1C(=O)[C@@H]2CN(S(=O)(=O)c3ccc4occc4c3)C[C@@H]2c2cnccc21,CHEMBL,GABAA antagonist
+CHEMBL1672301,N=C(N)NC1CCP(=O)(O)C1,CHEMBL,GABAA antagonist
+CHEMBL1672300,NC1CCP(=O)(O)C1,CHEMBL,GABAA antagonist
+CHEMBL1202300,Br.Oc1noc(C2CCNCC2)c1-c1cccc(Cl)c1,CHEMBL,GABAA antagonist
+CHEMBL4515872,N=c1ccc(-c2ccc(O)cc2)nn1CCCC(=O)O,CHEMBL,GABAA antagonist
+CHEMBL32503,COc1ccc(-c2ccc(=N)n(CCCC(=O)O)n2)cc1,CHEMBL,GABAA antagonist
+CHEMBL133180,N=c1ccc(-c2ccccc2)nn1CCCC(=O)O,CHEMBL,GABAA antagonist
+CHEMBL4586737,N=c1ccc(-c2cccc([N+](=O)[O-])c2)nn1CCCC(=O)O,CHEMBL,GABAA antagonist
+CHEMBL223324,Oc1noc(C2CCNCC2)c1-c1cccc(-c2ccccc2)c1,CHEMBL,GABAA antagonist
+CHEMBL2420450,On1cc(C2CCNCC2)c(-c2cn(Cc3ccccc3)c(-c3ccccc3)n2)n1,CHEMBL,GABAA antagonist
+CHEMBL1090917,On1cc(C2CCNCC2)cn1,CHEMBL,GABAA antagonist
+CHEMBL397209,CP(=O)(O)C1=CCNCC1,CHEMBL,GABAA antagonist
+CHEMBL1202302,Br.Oc1noc(C2CCNCC2)c1-c1cc(Cl)cc(Cl)c1,CHEMBL,GABAA antagonist
+CHEMBL4093915,CN1C(=O)[C@H]2CN(S(=O)(=O)c3ccc4c(c3)OCO4)C[C@H]2c2cnccc21,CHEMBL,GABAA antagonist
+CHEMBL1204077,Cl.On1cc(C2CCNCC2)c(-c2cccc(-c3ccccc3)c2)n1,CHEMBL,GABAA antagonist
+CHEMBL2420455,On1ncc(C2CCNCC2)c1-c1cn(Cc2ccccc2)c(-c2ccccc2)n1,CHEMBL,GABAA antagonist
+CHEMBL570308,CCC[C@@H](O)CC/C=C/C=C/C#CC#CCCCO,CHEMBL,GABAA antagonist
+CHEMBL2420449,On1cc(C2CCNCC2)c(-c2c[nH]c(-c3ccccc3)n2)n1,CHEMBL,GABAA antagonist
+CHEMBL1202339,Br.On1cc(C2CCNCC2)c(-c2ccc(-c3ccccc3)cc2)n1,CHEMBL,GABAA antagonist
+CHEMBL1202337,Br.On1cc(C2CCNCC2)c(-c2ccccc2)n1,CHEMBL,GABAA antagonist
+CHEMBL1241328,Cl.Cn1c(=O)[nH]c2c([nH]c(=O)n2C)c1=N,CHEMBL,GABAA antagonist
+CHEMBL1202340,Br.On1cc(C2CCNCC2)c(Cc2ccc3ccccc3c2)n1,CHEMBL,GABAA antagonist
+CHEMBL144718,Oc1noc(C2CCNCC2)c1Cc1ccc2ccccc2c1,CHEMBL,GABAA antagonist
+CHEMBL1202306,Br.Oc1noc(C2CCNCC2)c1-c1ccsc1,CHEMBL,GABAA antagonist
+CHEMBL4760833,COc1ccc2c(c1)-n1ncc(C(=O)NCc3ccccc3)c1NC2,CHEMBL,GABAA antagonist
+CHEMBL4589563,N=c1ccc(-c2cccc(O)c2)nn1CCCC(=O)O,CHEMBL,GABAA antagonist
+CHEMBL382320,Oc1noc(C2CCNCC2)c1-c1ccc2ccccc2c1,CHEMBL,GABAA antagonist
+CHEMBL34155,O=S(=O)(O)C1CCNCC1,CHEMBL,GABAA antagonist
+CHEMBL467559,CCOC(=O)c1ncn2c1CN=C(c1cccc([N+](=O)[O-])c1)c1cc(F)ccc1-2,CHEMBL,GABAA antagonist
+CHEMBL2170370,CCOC(=O)c1ncn2c1CN=C(c1ccc(C)cc1)c1ccccc1-2,CHEMBL,GABAA antagonist
+CHEMBL2420447,On1cc(C2CCNCC2)c(-c2c[nH]cn2)n1,CHEMBL,GABAA antagonist
+CHEMBL1091277,On1cc(C2CCNCC2)c(-c2cccc(-c3ccccc3)c2)n1,CHEMBL,GABAA antagonist
+CHEMBL4586160,N=c1ccc(-c2cccc(Cl)c2)nn1CCCC(=O)O,CHEMBL,GABAA antagonist
+CHEMBL1202341,Br.On1nc(Cc2ccc3ccccc3c2)c(C2CCNCC2)c1-c1ccccc1,CHEMBL,GABAA antagonist
+CHEMBL2420453,On1ncc(C2CCNCC2)c1-c1cn(Cc2ccccc2)c(Cl)n1,CHEMBL,GABAA antagonist
+CHEMBL2398119,Cc1ccc(NC(=O)C2=CCC(N)C2)cc1,CHEMBL,GABAA antagonist
+CHEMBL1202301,Br.Oc1noc(C2CCNCC2)c1-c1ccc(Cl)cc1,CHEMBL,GABAA antagonist
+CHEMBL4744377,COc1ccc2c(c1)-n1ncc(C(N)=O)c1NC2,CHEMBL,GABAA antagonist
+CHEMBL2420454,On1ncc(C2CCNCC2)c1-c1c[nH]c(-c2ccccc2)n1,CHEMBL,GABAA antagonist
+CHEMBL2420452,On1ncc(C2CCNCC2)c1-c1c[nH]cn1,CHEMBL,GABAA antagonist
+CHEMBL2337481,CCCCP(=O)(O)C1=CC[C@H](NC(=O)CCCCCNC(=O)c2ccccc2NC)C1,CHEMBL,GABAA antagonist
+CHEMBL4783290,COc1ccc2cnc3c(C(=O)NCC4CCCCC4)cnn3c2c1,CHEMBL,GABAA antagonist
+CHEMBL4093093,COc1ccc2cnc3c(C(=O)OCc4ccccc4OC)cnn3c2c1,CHEMBL,GABAA antagonist
+CHEMBL4066349,CN1C(=O)[C@@H]2CN(S(=O)(=O)c3ccc4c(c3)OCO4)C[C@@H]2c2cnccc21,CHEMBL,GABAA antagonist
+CHEMBL1672299,NCC1CCP(=O)(O)C1,CHEMBL,GABAA antagonist
+CHEMBL4543048,N=c1ccc(-c2ccc([N+](=O)[O-])cc2)nn1CCCC(=O)O,CHEMBL,GABAA antagonist
+CHEMBL393506,CP(=O)(O)OCCN,CHEMBL,GABAA antagonist
+CHEMBL486434,CCCCP(=O)(O)C1=CC[C@@H](N)C1,CHEMBL,GABAA antagonist
+CHEMBL2337482,CCCCP(=O)(O)C1=CC[C@@H](NC(=O)CCCCCNC(=O)c2ccccc2NC)C1,CHEMBL,GABAA antagonist
+CHEMBL112797,CCCCP(=O)(O)CCCN,CHEMBL,GABAA antagonist
+CHEMBL2420451,On1cc(C2CCNCC2)c(-c2cn(Cc3ccccc3)cn2)n1,CHEMBL,GABAA antagonist
+CHEMBL2337889,CCCCP(=O)(O)C1=CC[C@H](NC(=O)CCCCCNC(=O)CCCC[C@@H]2SC[C@@H]3NC(=O)N[C@@H]32)C1,CHEMBL,GABAA antagonist
+CHEMBL417990,CN1CCc2cc3c(cc2[C@H]1[C@@H]1OC(=O)c2c1ccc1c2OCO1)OCO3,CHEMBL,GABAA antagonist
+CHEMBL4799162,COc1ccc2c(c1)-n1ncc(C(=O)NCc3ccccc3OC)c1NC2,CHEMBL,GABAA antagonist
+CHEMBL1204078,Cl.On1cc(C2CCNCC2)c(Cc2ccccc2)n1,CHEMBL,GABAA antagonist
+CHEMBL4645888,CCOC(=O)[C@]1(C#N)[C@@H](c2ccccc2)Cc2c(c3ccccc3n2C(=O)OC(C)(C)C)[C@@H]1CC=O,CHEMBL,GABAA antagonist
+CHEMBL46,Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,CHEMBL,GABAA antagonist
+CHEMBL2398114,C=CCONC(=O)C1=CCC(N)C1,CHEMBL,GABAA antagonist
+CHEMBL1202308,Br.Oc1noc(C2CCNCC2)c1-c1ccc(-c2ccccc2)cc1,CHEMBL,GABAA antagonist
+CHEMBL17603,CC1(C)CC(=O)c2c(SCCO)sc(-c3nccs3)c2C1,CHEMBL,GABAA antagonist
+CHEMBL4463578,N.N.N.N.Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)CP(=O)(O)OP(=O)(O)O)[C@H]2OC3(CCCCC3)O[C@H]21,CHEMBL,GABAA antagonist
+CHEMBL4777469,CCCCCSc1nnc(COc2ccc3c(c2)CCC(=O)N3)o1,CHEMBL,GABAA antagonist
+CHEMBL1082407,CNC(=O)c1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F,CHEMBL,GABAA antagonist
+CHEMBL1204123,Br.Oc1noc(C2CCNCC2)c1-c1cccc(-c2ccccc2)c1,CHEMBL,GABAA antagonist
+CHEMBL2337487,CCCCP(=O)(O)C1=CC[C@H](NC(=O)CCCCCNC(=O)CCC2=C3C(C)=CC(C)=[N+]3[B-](F)(F)n3c(C)cc(C)c32)C1,CHEMBL,GABAA antagonist
+CHEMBL4792089,COc1ccc2c(c1)-n1ncc(C(=O)NC(C)C)c1NC2,CHEMBL,GABAA antagonist
+CHEMBL4462568,CC1(C)O[C@@H]2[C@H](O1)[C@@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O[C@H]2n1cnc2c(N)ncnc21.N.N.N.N,CHEMBL,GABAA antagonist
+CHEMBL2420448,On1cc(C2CCNCC2)c(-c2cn(Cc3ccccc3)c(Cl)n2)n1,CHEMBL,GABAA antagonist
+CHEMBL2398116,CNC(=O)C1=CCC(N)C1,CHEMBL,GABAA antagonist
+CHEMBL32350,Cc1ccc2c(c1)c1c3n2CCNC3CCC1,CHEMBL,GABAA antagonist
+CHEMBL131516,N=c1ccc(-c2ccc(Cl)cc2)nn1CCCC(=O)O,CHEMBL,GABAA antagonist
+CHEMBL1851667,N=c1ccc(-c2ccc(OCc3ccccc3)cc2)nn1CCCC(=O)O,CHEMBL,GABAA antagonist
+CHEMBL1093534,On1ncc(C2CCNCC2)c1-c1cccc(-c2ccccc2)c1,CHEMBL,GABAA antagonist
+CHEMBL1202299,Br.Oc1noc(C2CCNCC2)c1-c1ccccc1Cl,CHEMBL,GABAA antagonist
+CHEMBL4761914,COc1ccc2cnc3c(C(=O)NC(C)C)cnn3c2c1,CHEMBL,GABAA antagonist
+CHEMBL4785935,COc1ccc2cnc3c(C(N)=O)cnn3c2c1,CHEMBL,GABAA antagonist
+CHEMBL4641509,CCOC(=O)[C@]1(C#N)[C@@H](c2ccccc2)Cc2c(c3ccccc3n2Cc2ccccc2)[C@@H]1CC=O,CHEMBL,GABAA antagonist
+MRK-016,CC1=CC(=NO1)C2=NN=CC3=C(C(=NN32)OCC4=NC=NN4C)C(C)(C)C,MedChemExpress,GABAA antagonist
+(-)-BICUCULLINE METHOBROMIDE,C[N+]1(CCC2=CC3=C(C=C2C1C4C5=C(C6=C(C=C5)OCO6)C(=O)O4)OCO3)C.[Br-] ,MedChemExpress,GABAA antagonist
+Gabazine,COC1=CC=C(C=C1)C2=NN(C(=N)C=C2)CCCC(=O)O.Br,MedChemExpress,GABAA antagonist
+Pivagabine,CC(C)(C)C(=O)NCCCC(=O)O ,MedChemExpress,GABAA antagonist
+Lotilaner,CC1=C(SC(=C1)C2=NO[C@@](C2)(C3=CC(=C(C(=C3)Cl)Cl)Cl)C(F)(F)F)C(=O)NCC(=O)NCC(F)(F)F,MedChemExpress,GABAA antagonist
+Afizagabar,CC1=NN=C(C2=CC3=C(C=C2C1)NC(=O)O3)C4=CC5=C(C=CC=C5S4)F,MedChemExpress,GABAA antagonist
+Flumazenil,CCOC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CC(=C3)F)C,MedChemExpress,GABAA antagonist
+Furosemide,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl,MedChemExpress,GABAA antagonist
+Sodium Furosemide,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)[O-])S(=O)(=O)N)Cl.[Na+] ,MedChemExpress,GABAA antagonist
+Picrotoxinin,CC(=C)C1C2C3C4(C(C1C(=O)O2)(CC5C4(O5)C(=O)O3)O)C,MedChemExpress,GABAA antagonist
+(+)-Bicuculline,CN1CCC2=CC3=C(C=C2C1C4C5=C(C6=C(C=C5)OCO6)C(=O)O4)OCO3,MedChemExpress,GABAA antagonist
+Thiocolchicoside,CC(=O)NC1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)SC)OC)OC)OC4C(C(C(C(O4)CO)O)O)O,MedChemExpress,GABAA antagonist
+Securinine,C1CCN2C(C1)C34CC2C=CC3=CC(=O)O4,MedChemExpress,GABAA antagonist
+Songorine,CCN1CC2(CCC(C34C2CC(C31)C56C4CC(=O)C(C5)C(=C)C6O)O)C,MedChemExpress,GABAA antagonist
+"6,2'-Dihydroxyflavone",C1=CC=C(C(=C1)C2=CC(=O)C3=C(O2)C=CC(=C3)O)O,MedChemExpress,GABAA antagonist
+4-Hydroxybenzaldehyde,C1=CC(=CC=C1C=O)O,MedChemExpress,GABAA antagonist
+"2-(2,3-dihydro-1,4-benzodioxin-6-yl)-6-fluorochromen-4-one",O=c1cc(-c2ccc3c(c2)OCCO3)oc2ccc(F)cc12,Topscience,GABAA antagonist
+"2-[1-(2-methoxyphenyl)-2,5-dioxopyrrolidin-3-yl]sulfanylbenzoic acid",COc1ccccc1N1C(=O)CC(Sc2ccccc2C(=O)O)C1=O,Topscience,GABAA antagonist
+N-(4-fluorophenyl)-3-(1-phenyltetrazol-5-yl)sulfanylpropanamide,O=C(CCSc1nnnn1-c1ccccc1)Nc1ccc(F)cc1,Topscience,GABAA antagonist
+ethyl 6-chloro-4-oxo-1H-quinoline-3-carboxylate,CCOC(=O)c1c[nH]c2ccc(Cl)cc2c1=O,Topscience,GABAA antagonist
+"ethyl 4,5-dimethyl-2-[[2-(4-phenylphenoxy)acetyl]amino]thiophene-3-carboxylate",CCOC(=O)c1c(NC(=O)COc2ccc(-c3ccccc3)cc2)sc(C)c1C,Topscience,GABAA antagonist
+"N-(5-methyl-1,3,4-thiadiazol-2-yl)-2-naphthalen-2-yloxyacetamide",Cc1nnc(NC(=O)COc2ccc3ccccc3c2)s1,Topscience,GABAA antagonist
+ethyl 6-ethyl-4-oxo-1H-quinoline-3-carboxylate,CCOC(=O)c1cnc2ccc(CC)cc2c1O,Topscience,GABAA antagonist
+N-(1H-benzimidazol-2-ylmethyl)benzamide,O=C(NCc1nc2ccccc2[nH]1)c1ccccc1,Topscience,GABAA antagonist
+"3,3,6,6-tetramethyl-9-(3-nitrophenyl)-2,4,5,7-tetrahydroacridine-1,8-dione",CC1(C)CC(=O)c2c(nc3c(c2-c2cccc([N+](=O)[O-])c2)C(=O)CC(C)(C)C3)C1,Topscience,GABAA antagonist
+"N-(4-fluorophenyl)-2-(3-oxo-4H-1,4-benzothiazin-2-yl)acetamide",O=C(CC1Sc2ccccc2NC1=O)Nc1ccc(F)cc1,Topscience,GABAA antagonist
+ethyl 5-[(2-chloro-5-nitrophenyl)sulfonylamino]-2-methyl-1-benzofuran-3-carboxylate,CCOC(=O)c1c(C)oc2ccc(NS(=O)(=O)c3cc([N+](=O)[O-])ccc3Cl)cc12,Topscience,GABAA antagonist
+ethyl 2-methyl-5-(naphthalen-2-ylsulfonylamino)-1-benzofuran-3-carboxylate,CCOC(=O)c1c(C)oc2ccc(NS(=O)(=O)c3ccc4ccccc4c3)cc12,Topscience,GABAA antagonist
+"N-(3-acetyl-2-methyl-1-benzofuran-5-yl)-2,4,6-trimethylbenzenesulfonamide",CC(=O)c1c(C)oc2ccc(NS(=O)(=O)c3c(C)cc(C)cc3C)cc12,Topscience,GABAA antagonist
+"2-(1,3-dioxoisoindol-2-yl)ethyl 2-(4-chlorobenzoyl)benzoate",O=C(OCCN1C(=O)c2ccccc2C1=O)c1ccccc1C(=O)c1ccc(Cl)cc1,Topscience,GABAA antagonist
+"3-(1,3-dioxobenzo[de]isoquinolin-2-yl)-N-(4-methylphenyl)propanamide",Cc1ccc(NC(=O)CCN2C(=O)c3cccc4cccc(c34)C2=O)cc1,Topscience,GABAA antagonist
+"2-[(3-bromoimidazo[1,2-a]pyrimidin-2-yl)methylsulfanyl]-1,3-benzoxazole",Brc1c(CSc2nc3ccccc3o2)nc2ncccn12,Topscience,GABAA antagonist
+"6-chloro-2-(2,3-dihydro-1,4-benzodioxin-6-yl)chromen-4-one",O=c1cc(-c2ccc3c(c2)OCCO3)oc2ccc(Cl)cc12,Topscience,GABAA antagonist
+"2-(6-bromo-4H-1,3-benzodioxin-8-yl)-6-chlorochromen-4-one",O=c1cc(-c2cc(Br)cc3c2OCOC3)oc2ccc(Cl)cc12,Topscience,GABAA antagonist
+"2-(6-chloro-4H-1,3-benzodioxin-8-yl)-6-fluorochromen-4-one",O=c1cc(-c2cc(Cl)cc3c2OCOC3)oc2ccc(F)cc12,Topscience,GABAA antagonist
+"2-(1,3-dioxoisoindol-2-yl)-N-(4-phenyl-1,3-thiazol-2-yl)acetamide",O=C(CN1C(=O)c2ccccc2C1=O)Nc1nc(-c2ccccc2)cs1,Topscience,GABAA antagonist
+"1-(1,3-benzothiazol-2-ylsulfanylmethyl)benzo[cd]indol-2-one",O=C1c2cccc3cccc(c23)N1CSc1nc2ccccc2s1,Topscience,GABAA antagonist
+"4-phenyl-3-pyridin-4-yl-1H-1,2,4-triazole-5-thione",Sc1nnc(-c2ccncc2)n1-c1ccccc1,Topscience,GABAA antagonist
+"5-methyl-1-[(2-nitrophenyl)methylsulfanyl]-[1,2,4]triazolo[4,3-a]quinoline",Cc1cc2nnc(SCc3ccccc3[N+](=O)[O-])n2c2ccccc12,Topscience,GABAA antagonist
+N-(3-nitrophenyl)-2-(1-phenyltetrazol-5-yl)sulfanylacetamide,O=C(CSc1nnnn1-c1ccccc1)Nc1cccc([N+](=O)[O-])c1,Topscience,GABAA antagonist
+"2-[5-[(4-bromophenyl)methyl]-1,3-thiazol-2-yl]isoindole-1,3-dione",O=C1c2ccccc2C(=O)N1c1ncc(Cc2ccc(Br)cc2)s1,Topscience,GABAA antagonist
+"5-bromo-N-[4-(1,3-thiazol-2-ylsulfamoyl)phenyl]thiophene-2-carboxamide",O=C(Nc1ccc(S(=O)(=O)Nc2nccs2)cc1)c1ccc(Br)s1,Topscience,GABAA antagonist
+"2-methyl-1,4-bis[(2,3,4-trimethylphenyl)sulfonyl]piperazine",Cc1ccc(S(=O)(=O)N2CCN(S(=O)(=O)c3ccc(C)c(C)c3C)C(C)C2)c(C)c1C,Topscience,GABAA antagonist
+"N-[2-chloro-5-(trifluoromethyl)phenyl]-1,3-dimethyl-2-oxobenzimidazole-5-sulfonamide",Cn1c(=O)n(C)c2cc(S(=O)(=O)Nc3cc(C(F)(F)F)ccc3Cl)ccc21,Topscience,GABAA antagonist
+"2-[1-(2,6-dimethylphenyl)tetrazol-5-yl]sulfanyl-N-(2-methylphenyl)acetamide",Cc1ccccc1NC(=O)CSc1nnnn1-c1c(C)cccc1C,Topscience,GABAA antagonist
+"N-[1-(1H-benzimidazol-2-yl)-2-methylpropyl]-2-[1-(2,5-dimethylphenyl)tetrazol-5-yl]sulfanylacetamide",Cc1ccc(C)c(-n2nnnc2SCC(=O)NC(c2nc3ccccc3[nH]2)C(C)C)c1,Topscience,GABAA antagonist
+N-methyl-2-[1-(2-methylphenyl)tetrazol-5-yl]sulfanyl-N-[(2-oxo-1H-quinolin-4-yl)methyl]acetamide,Cc1ccccc1-n1nnnc1SCC(=O)N(C)Cc1cc(O)nc2ccccc12,Topscience,GABAA antagonist
+"N-(5-benzyl-1,3-thiazol-2-yl)-6-methyl-4-oxochromene-2-carboxamide",Cc1ccc2oc(C(=O)Nc3ncc(Cc4ccccc4)s3)cc(=O)c2c1,Topscience,GABAA antagonist
+"3-[1-(2,3-dimethylphenyl)tetrazol-5-yl]sulfanyl-N-(2-methoxyphenyl)propanamide",COc1ccccc1NC(=O)CCSc1nnnn1-c1cccc(C)c1C,Topscience,GABAA antagonist
+"N-(2,6-dimethylphenyl)-2-[5-(2-methylphenyl)tetrazol-2-yl]acetamide",Cc1ccccc1-c1nnn(CC(=O)Nc2c(C)cccc2C)n1,Topscience,GABAA antagonist
+N-(2-ethylphenyl)-2-[5-(2-methylphenyl)tetrazol-2-yl]acetamide,CCc1ccccc1NC(=O)Cn1nnc(-c2ccccc2C)n1,Topscience,GABAA antagonist
+"3-[3-chloro-4-(trifluoromethyl)phenyl]-5-(3-phenyl-1,2,4-oxadiazol-5-yl)triazol-4-amine",Nc1c(-c2nc(-c3ccccc3)no2)nnn1-c1ccc(C(F)(F)F)c(Cl)c1,Topscience,GABAA antagonist
+"5-[3-(2-chlorophenyl)-1,2,4-oxadiazol-5-yl]-3-(4-propan-2-ylphenyl)triazol-4-amine",CC(C)c1ccc(-n2nnc(-c3nc(-c4ccccc4Cl)no3)c2N)cc1,Topscience,GABAA antagonist
+"5-[1-(3-chloro-4-fluorophenyl)-5-methyltriazol-4-yl]-3-(2-methylphenyl)-1,2,4-oxadiazole",Cc1ccccc1-c1noc(-c2nnn(-c3ccc(F)c(Cl)c3)c2C)n1,Topscience,GABAA antagonist
+"3-(2-methylphenyl)-5-[5-methyl-1-[3-(trifluoromethyl)phenyl]triazol-4-yl]-1,2,4-oxadiazole",Cc1ccccc1-c1noc(-c2nnn(-c3cccc(C(F)(F)F)c3)c2C)n1,Topscience,GABAA antagonist
+"3-(2-chlorophenyl)-5-[1-(4-fluorophenyl)-5-methyltriazol-4-yl]-1,2,4-oxadiazole",Cc1c(-c2nc(-c3ccccc3Cl)no2)nnn1-c1ccc(F)cc1,Topscience,GABAA antagonist
+2-[3-[3-(trifluoromethyl)phenyl]triazol-4-yl]acetic acid,O=C(O)Cc1cnnn1-c1cccc(C(F)(F)F)c1,Topscience,GABAA antagonist
+"2-[3-(2,4-dichlorophenyl)triazol-4-yl]acetic acid",O=C(O)Cc1cnnn1-c1ccc(Cl)cc1Cl,Topscience,GABAA antagonist
+6-amino-2-phenylchromen-4-one,Nc1ccc2oc(-c3ccccc3)cc(=O)c2c1,Topscience,GABAA antagonist
+"3-[(2S)-1-(4-benzylpiperazin-1-yl)-1-oxopropan-2-yl]-1,2,3-benzotriazin-4-one",C[C@@H](C(=O)N1CCN(Cc2ccccc2)CC1)n1nnc2ccccc2c1=O,Topscience,GABAA antagonist
+6-bromo-2-(2-methoxyphenyl)chromen-4-one,COc1ccccc1-c1cc(=O)c2cc(Br)ccc2o1,Topscience,GABAA antagonist
+"2-(2,4-dichlorophenyl)-7-methoxychromen-4-one",COc1ccc2c(=O)cc(-c3ccc(Cl)cc3Cl)oc2c1,Topscience,GABAA antagonist
+ethyl 2-[(6-hydroxy-7-methyl-2-oxochromen-4-yl)methylamino]benzoate,CCOC(=O)c1ccccc1NCc1cc(=O)oc2cc(C)c(O)cc12,Topscience,GABAA antagonist
+"3-[(2,6-difluorophenyl)methoxy]-1-hydroxyxanthen-9-one",O=c1c2ccccc2oc2cc(OCc3c(F)cccc3F)cc(O)c12,Topscience,GABAA antagonist
+"(2S)-2-[3-(3,5-dimethyl-7-oxofuro[3,2-g]chromen-6-yl)propanoylamino]-2-phenylacetic acid",Cc1coc2cc3oc(=O)c(CCC(=O)N[C@H](C(=O)O)c4ccccc4)c(C)c3cc12,Topscience,GABAA antagonist
+"4-[(4-chlorophenyl)methoxy]-N-[2-methyl-1-[3-(1H-1,2,4-triazol-5-yl)-1,2,4-oxadiazol-5-yl]propyl]benzamide",CC(C)C(NC(=O)c1ccc(OCc2ccc(Cl)cc2)cc1)c1nc(-c2nnc[nH]2)no1,Topscience,GABAA antagonist
+"methyl 5-benzyl-2-[4-([1,2,4]triazolo[4,3-a]pyridin-3-yl)butanoylamino]-1,3-thiazole-4-carboxylate",COC(=O)c1nc(NC(=O)CCCc2nnc3ccccn23)sc1Cc1ccccc1,Topscience,GABAA antagonist
+N-[(1S)-1-(1H-benzimidazol-2-yl)-2-methylpropyl]-1-(4-fluoro-1H-indazol-3-yl)-5-oxopyrrolidine-3-carboxamide,CC(C)[C@H](NC(=O)C1CC(=O)N(c2n[nH]c3cccc(F)c23)C1)c1nc2ccccc2[nH]1,Topscience,GABAA antagonist
+N-[3-(1H-benzimidazol-2-yl)propyl]-8-chloro-4-oxo-1H-quinoline-3-carboxamide,O=C(NCCCc1nc2ccccc2[nH]1)c1cnc2c(Cl)cccc2c1O,Topscience,GABAA antagonist
+8-fluoro-4-oxo-N-[3-(1-propan-2-ylbenzimidazol-2-yl)propyl]-1H-quinoline-3-carboxamide,CC(C)n1c(CCCNC(=O)c2cnc3c(F)cccc3c2O)nc2ccccc21,Topscience,GABAA antagonist
+8-fluoro-N-[5-(1-methylbenzimidazol-2-yl)pentyl]-4-oxo-1H-quinoline-3-carboxamide,Cn1c(CCCCCNC(=O)c2cnc3c(F)cccc3c2O)nc2ccccc21,Topscience,GABAA antagonist
+"(2S)-3-(1H-indol-3-yl)-2-[[2-[(2-oxo-3,4-dihydro-1H-quinolin-7-yl)oxy]acetyl]amino]propanoic acid",O=C1CCc2ccc(OCC(=O)N[C@@H](Cc3c[nH]c4ccccc34)C(=O)O)cc2N1,Topscience,GABAA antagonist
+"N-[3-(2-methyltetrazol-5-yl)phenyl]-2-(4-oxothieno[3,2-d]pyrimidin-3-yl)acetamide",Cn1nnc(-c2cccc(NC(=O)Cn3cnc4ccsc4c3=O)c2)n1,Topscience,GABAA antagonist
+"2-(7,8-dimethoxy-1-oxophthalazin-2-yl)-N-[(1S)-2-methyl-1-(1-methylbenzimidazol-2-yl)propyl]acetamide",COc1ccc2cnn(CC(=O)N[C@H](c3nc4ccccc4n3C)C(C)C)c(=O)c2c1OC,Topscience,GABAA antagonist
+[4-(1H-benzimidazol-2-yl)piperidin-1-yl]-[2-(5-methyltetrazol-1-yl)phenyl]methanone,Cc1nnnn1-c1ccccc1C(=O)N1CCC(c2nc3ccccc3[nH]2)CC1,Topscience,GABAA antagonist
+1-(1H-indazol-3-yl)-N-[(1S)-2-methyl-1-(1-methylbenzimidazol-2-yl)propyl]-5-oxopyrrolidine-3-carboxamide,CC(C)[C@H](NC(=O)C1CC(=O)N(c2n[nH]c3ccccc23)C1)c1nc2ccccc2n1C,Topscience,GABAA antagonist
+2-[3-(4-chlorophenyl)-5-methyl-1H-pyrazol-4-yl]-N-[(2S)-1-hydroxy-3-phenylpropan-2-yl]acetamide,Cc1n[nH]c(-c2ccc(Cl)cc2)c1CC(=O)N[C@H](CO)Cc1ccccc1,Topscience,GABAA antagonist
+"2-(phenoxymethyl)-7-pyridin-3-yl-[1,2,4]triazolo[1,5-a]pyrimidine",c1ccc(OCc2nc3nccc(-c4cccnc4)n3n2)cc1,Topscience,GABAA antagonist
+"2-(phenoxymethyl)-7-pyridin-4-yl-[1,2,4]triazolo[1,5-a]pyrimidine",c1ccc(OCc2nc3nccc(-c4ccncc4)n3n2)cc1,Topscience,GABAA antagonist
+3-(1H-indol-3-yl)-2-phenylpropanoic acid,O=C(O)C(Cc1c[nH]c2ccccc12)c1ccccc1,Topscience,GABAA antagonist
+6-chloro-2-(4-hydroxy-3-methoxyphenyl)chromen-4-one,COc1cc(-c2cc(=O)c3cc(Cl)ccc3o2)ccc1O,Topscience,GABAA antagonist
+6-bromo-2-(4-hydroxy-3-methoxyphenyl)chromen-4-one,COc1cc(-c2cc(=O)c3cc(Br)ccc3o2)ccc1O,Topscience,GABAA antagonist
+N-[2-(5-fluoro-1H-indol-3-yl)ethyl]-4-methoxybenzenesulfonamide,COc1ccc(S(=O)(=O)NCCc2c[nH]c3ccc(F)cc23)cc1,Topscience,GABAA antagonist
+"4-(2,4-dioxo-1H-quinazolin-3-yl)-N-(pyridin-4-ylmethyl)butanamide",O=C(CCCn1c(=O)[nH]c2ccccc2c1=O)NCc1ccncc1,Topscience,GABAA antagonist
+2-acetyl-N-[2-(5-fluoro-1H-indol-3-yl)ethyl]benzamide,CC(=O)c1ccccc1C(=O)NCCc1c[nH]c2ccc(F)cc12,Topscience,GABAA antagonist
+N-[2-(1H-indol-3-yl)ethyl]-2-oxo-1H-quinoline-4-carboxamide,O=C(NCCc1c[nH]c2ccccc12)c1cc(O)nc2ccccc12,Topscience,GABAA antagonist
+"N-(3,5-dimethoxyphenyl)-2-(tetrazol-1-yl)benzamide",COc1cc(NC(=O)c2ccccc2-n2cnnn2)cc(OC)c1,Topscience,GABAA antagonist
+"2-[(5-anilino-1,3,4-thiadiazol-2-yl)methyl]benzo[de]isoquinoline-1,3-dione",O=C1c2cccc3cccc(c23)C(=O)N1Cc1nnc(Nc2ccccc2)s1,Topscience,GABAA antagonist
+"7-[3-(3,4-dimethylphenoxy)-2-hydroxypropyl]-3-methyl-8-morpholin-4-ylpurine-2,6-dione",Cc1ccc(OCC(O)Cn2c(N3CCOCC3)nc3c2c(=O)[nH]c(=O)n3C)cc1C,Topscience,GABAA antagonist
+"N-(furan-2-ylmethyl)-7-(3-methoxypropyl)-1,3-dimethyl-2,4-dioxopyrrolo[2,3-d]pyrimidine-6-carboxamide",COCCCn1c(C(=O)NCc2ccco2)cc2c(=O)n(C)c(=O)n(C)c21,Topscience,GABAA antagonist
+"3-(2-hydroxy-5-methylphenyl)-4-(4-methoxyphenyl)-5-(3-propan-2-yloxypropyl)-1,4-dihydropyrrolo[3,4-c]pyrazol-6-one",COc1ccc(C2c3c(-c4cc(C)ccc4O)n[nH]c3C(=O)N2CCCOC(C)C)cc1,Topscience,GABAA antagonist
+"N-[5-[(3-methylphenyl)methylsulfanyl]-1,3,4-thiadiazol-2-yl]-5-thiophen-2-yl-1,2-oxazole-3-carboxamide",Cc1cccc(CSc2nnc(NC(=O)c3cc(-c4cccs4)on3)s2)c1,Topscience,GABAA antagonist
+"N-[5-[(4-methylphenyl)methylsulfanyl]-1,3,4-thiadiazol-2-yl]-5-thiophen-2-yl-1,2-oxazole-3-carboxamide",Cc1ccc(CSc2nnc(NC(=O)c3cc(-c4cccs4)on3)s2)cc1,Topscience,GABAA antagonist
+"N-(6-fluoro-1,3-benzothiazol-2-yl)-2-[4-(tetrazol-1-yl)phenoxy]acetamide",O=C(COc1ccc(-n2cnnn2)cc1)Nc1nc2ccc(F)cc2s1,Topscience,GABAA antagonist
+"N-(4,6-dimethyl-1,3-benzothiazol-2-yl)-2-[4-(tetrazol-1-yl)phenoxy]acetamide",Cc1cc(C)c2nc(NC(=O)COc3ccc(-n4cnnn4)cc3)sc2c1,Topscience,GABAA antagonist
+"2-ethyl-N-[4-(5,6,7,8-tetrahydronaphthalen-2-yl)-1,2,5-oxadiazol-3-yl]butanamide",CCC(CC)C(=O)Nc1nonc1-c1ccc2c(c1)CCCC2,Topscience,GABAA antagonist
+"4-[(4-methyl-1,2,5-oxadiazol-3-yl)methoxy]-N-[5-(naphthalen-1-ylmethylsulfanyl)-1,3,4-thiadiazol-2-yl]benzamide",Cc1nonc1COc1ccc(C(=O)Nc2nnc(SCc3cccc4ccccc34)s2)cc1,Topscience,GABAA antagonist
+[4-(1H-benzimidazol-2-yl)piperidin-1-yl]-(5-chloro-3-methyl-1-benzofuran-2-yl)methanone,Cc1c(C(=O)N2CCC(c3nc4ccccc4[nH]3)CC2)oc2ccc(Cl)cc12,Topscience,GABAA antagonist
+"N-benzyl-N-methyl-[1,2,4]triazolo[3,4-a]phthalazin-6-amine",CN(Cc1ccccc1)c1nn2cnnc2c2ccccc12,Topscience,GABAA antagonist
+[4-(1H-benzimidazol-2-yl)piperidin-1-yl]-(3-methyl-1-benzofuran-2-yl)methanone,Cc1c(C(=O)N2CCC(c3nc4ccccc4[nH]3)CC2)oc2ccccc12,Topscience,GABAA antagonist
+"methyl 2-[(5,7-dimethyl-4-oxochromene-2-carbonyl)amino]-5,6-dihydro-4H-cyclopenta[b]thiophene-3-carboxylate",COC(=O)c1c(NC(=O)c2cc(=O)c3c(C)cc(C)cc3o2)sc2c1CCC2,Topscience,GABAA antagonist
+"N-[3-(4-ethoxy-3-methoxyphenyl)-1,2,4-thiadiazol-5-yl]benzamide",CCOc1ccc(-c2nsc(NC(=O)c3ccccc3)n2)cc1OC,Topscience,GABAA antagonist
+"2-nitro-N-[(2-phenyl-1,3-thiazol-4-yl)methyl]benzamide",O=C(NCc1csc(-c2ccccc2)n1)c1ccccc1[N+](=O)[O-],Topscience,GABAA antagonist
+"5-(4-bromophenyl)-N-(2-methyl-2-morpholin-4-ylpropyl)-1,2-oxazole-3-carboxamide",CC(C)(CNC(=O)c1cc(-c2ccc(Br)cc2)on1)N1CCOCC1,Topscience,GABAA antagonist
+6-chloro-N-[2-(furan-2-yl)-2-pyrrolidin-1-ylethyl]-7-methyl-4-oxochromene-2-carboxamide;hydrochloride,Cc1cc2oc(C(=O)NCC(c3ccco3)N3CCCC3)cc(=O)c2cc1Cl.Cl,Topscience,GABAA antagonist
+"6,7-dimethoxy-1-(2-nitrophenyl)-3,4-dihydroisoquinoline",COc1cc2c(cc1OC)C(c1ccccc1[N+](=O)[O-])=NCC2,Topscience,GABAA antagonist
+3-(1H-indol-3-yl)-3-oxopropanenitrile,N#CCC(=O)c1c[nH]c2ccccc12,Topscience,GABAA antagonist
+"1-methyl-4-N-(2-methylphenyl)-6-N-phenylpyrazolo[3,4-d]pyrimidine-4,6-diamine",Cc1ccccc1Nc1nc(Nc2ccccc2)nc2c1cnn2C,Topscience,GABAA antagonist
+"1-[3-(dimethylamino)propyl]-5-(4-ethylphenyl)-4-[hydroxy-(4-methoxy-2-methylphenyl)methylidene]pyrrolidine-2,3-dione",CCc1ccc(C2C(C(=O)c3ccc(OC)cc3C)=C(O)C(=O)N2CCCN(C)C)cc1,Topscience,GABAA antagonist
+"2-methyl-5-[(2Z)-2-[(6-methyl-4-oxochromen-3-yl)methylidene]hydrazinyl]-1,3-oxazole-4-carbonitrile",Cc1ccc2occ(/C=N/Nc3oc(C)nc3C#N)c(=O)c2c1,Topscience,GABAA antagonist
+"N-ethyl-2-[2-(2-methoxyphenoxy)propanoylamino]-4,5,6,7-tetrahydro-1-benzothiophene-3-carboxamide",CCNC(=O)c1c(NC(=O)C(C)Oc2ccccc2OC)sc2c1CCCC2,Topscience,GABAA antagonist
+"6-imino-7-(3-methoxypropyl)-2-oxo-N-(1-phenylethyl)-1,7,9-triazatricyclo[8.4.0.03,8]tetradeca-3(8),4,9,11,13-pentaene-5-carboxamide",COCCCn1c(=N)c(C(=O)NC(C)c2ccccc2)cc2c(=O)n3ccccc3nc21,Topscience,GABAA antagonist
+"prop-2-enyl 6-(4-butoxy-3-ethoxyphenyl)-8-methyl-4-oxo-3,6-dihydro-2H-pyrimido[2,1-b][1,3]thiazine-7-carboxylate",C=CCOC(=O)C1=C(C)N=C2SCCC(=O)N2C1c1ccc(OCCCC)c(OCC)c1,Topscience,GABAA antagonist
+"4-[(2,5-dimethylphenyl)-hydroxymethylidene]-1-(5-methyl-1,3,4-thiadiazol-2-yl)-5-(4-propan-2-ylphenyl)pyrrolidine-2,3-dione",Cc1ccc(C)c(C(=O)C2=C(O)C(=O)N(c3nnc(C)s3)C2c2ccc(C(C)C)cc2)c1,Topscience,GABAA antagonist
+"3,5,6-trimethyl-N-(5-propan-2-yl-1,3,4-thiadiazol-2-yl)-1-benzofuran-2-carboxamide",Cc1cc2oc(C(=O)Nc3nnc(C(C)C)s3)c(C)c2cc1C,Topscience,GABAA antagonist
+"3,6,7-trimethyl-N-(5-prop-2-enylsulfanyl-1,3,4-thiadiazol-2-yl)-1-benzofuran-2-carboxamide",C=CCSc1nnc(NC(=O)c2oc3c(C)c(C)ccc3c2C)s1,Topscience,GABAA antagonist
+"3-methoxy-N-(5-prop-2-enylsulfanyl-1,3,4-thiadiazol-2-yl)benzamide",C=CCSc1nnc(NC(=O)c2cccc(OC)c2)s1,Topscience,GABAA antagonist
+"methyl 2-[(5-chloro-2-propylsulfanylpyrimidine-4-carbonyl)amino]-5,6-dihydro-4H-cyclopenta[b]thiophene-3-carboxylate",CCCSc1ncc(Cl)c(C(=O)Nc2sc3c(c2C(=O)OC)CCC3)n1,Topscience,GABAA antagonist
+"5-chloro-2-ethylsulfanyl-N-[5-[(4-methylphenyl)methylsulfanyl]-1,3,4-thiadiazol-2-yl]pyrimidine-4-carboxamide",CCSc1ncc(Cl)c(C(=O)Nc2nnc(SCc3ccc(C)cc3)s2)n1,Topscience,GABAA antagonist
+"1-(2-fluorophenyl)-2-(3-methoxypropyl)-1H-chromeno[2,3-c]pyrrole-3,9-dione",COCCCN1C(=O)c2oc3ccccc3c(=O)c2C1c1ccccc1F,Topscience,GABAA antagonist
+"methyl 2-[[2-(5-methyl-1-benzofuran-3-yl)acetyl]amino]-5,6-dihydro-4H-cyclopenta[b]thiophene-3-carboxylate",COC(=O)c1c(NC(=O)Cc2coc3ccc(C)cc23)sc2c1CCC2,Topscience,GABAA antagonist
+N-(4-methoxyphenyl)-3-[[2-(5-methyl-1-benzofuran-3-yl)acetyl]amino]-1-benzofuran-2-carboxamide,COc1ccc(NC(=O)c2oc3ccccc3c2NC(=O)Cc2coc3ccc(C)cc23)cc1,Topscience,GABAA antagonist
+"4-(4-bromophenyl)-3-(2-hydroxyphenyl)-5-(oxolan-2-ylmethyl)-1,4-dihydropyrrolo[3,4-c]pyrazol-6-one",O=C1c2[nH]nc(-c3ccccc3O)c2C(c2ccc(Br)cc2)N1CC1CCCO1,Topscience,GABAA antagonist
+"2-(5-ethyl-1-benzofuran-3-yl)-N-(5-prop-2-enylsulfanyl-1,3,4-thiadiazol-2-yl)acetamide",C=CCSc1nnc(NC(=O)Cc2coc3ccc(CC)cc23)s1,Topscience,GABAA antagonist
+"2-[[2-(4,6-dimethyl-1-benzofuran-3-yl)acetyl]amino]-N-(2-methoxyethyl)-4,5,6,7-tetrahydro-1-benzothiophene-3-carboxamide",COCCNC(=O)c1c(NC(=O)Cc2coc3cc(C)cc(C)c23)sc2c1CCCC2,Topscience,GABAA antagonist
+6-chloro-4-oxo-N-[3-(trifluoromethyl)phenyl]chromene-2-carboxamide,O=C(Nc1cccc(C(F)(F)F)c1)c1cc(=O)c2cc(Cl)ccc2o1,Topscience,GABAA antagonist
+"5-chloro-2-methylsulfonyl-N-(5-propylsulfanyl-1,3,4-thiadiazol-2-yl)pyrimidine-4-carboxamide",CCCSc1nnc(NC(=O)c2nc(S(C)(=O)=O)ncc2Cl)s1,Topscience,GABAA antagonist
+methyl 2-[(5-chloro-2-propylsulfonylpyrimidine-4-carbonyl)amino]benzoate,CCCS(=O)(=O)c1ncc(Cl)c(C(=O)Nc2ccccc2C(=O)OC)n1,Topscience,GABAA antagonist
+"1-(4,6-dimethyl-1,3-benzothiazol-2-yl)-5-(4-fluorophenyl)-4-[hydroxy(pyridin-4-yl)methylidene]pyrrolidine-2,3-dione",Cc1cc(C)c2nc(N3C(=O)C(O)=C(C(=O)c4ccncc4)C3c3ccc(F)cc3)sc2c1,Topscience,GABAA antagonist
+"N-(furan-2-ylmethyl)-2-[[2-(6-methyl-1-benzofuran-3-yl)acetyl]amino]-5,6-dihydro-4H-cyclopenta[b]thiophene-3-carboxamide",Cc1ccc2c(CC(=O)Nc3sc4c(c3C(=O)NCc3ccco3)CCC4)coc2c1,Topscience,GABAA antagonist
+"N-(3-ethoxypropyl)-2-[[2-(5-ethyl-1-benzofuran-3-yl)acetyl]amino]-5,6-dihydro-4H-cyclopenta[b]thiophene-3-carboxamide",CCOCCCNC(=O)c1c(NC(=O)Cc2coc3ccc(CC)cc23)sc2c1CCC2,Topscience,GABAA antagonist
+"2-(4-chloro-3-methylphenoxy)-N-(4-ethyl-1,2,5-oxadiazol-3-yl)acetamide",CCc1nonc1NC(=O)COc1ccc(Cl)c(C)c1,Topscience,GABAA antagonist
+1H-indol-3-yl(piperidin-4-yl)methanone,O=C(c1c[nH]c2ccccc12)C1CCNCC1,Topscience,GABAA antagonist
+1H-indol-3-yl(piperidin-3-yl)methanone,O=C(c1c[nH]c2ccccc12)C1CCCNC1,Topscience,GABAA antagonist
+1-[4-[2-(4-acetylphenoxy)ethoxy]phenyl]ethanone,CC(=O)c1ccc(OCCOc2ccc(C(C)=O)cc2)cc1,Topscience,GABAA antagonist
+5-phenyl-3-piperidin-4-yl-1H-indole,c1ccc(-c2ccc3[nH]cc(C4CCNCC4)c3c2)cc1,Topscience,GABAA antagonist
+N-[2-(furan-2-yl)-2-pyrrolidin-1-ylethyl]-7-methyl-4-oxochromene-2-carboxamide;hydrochloride,Cc1ccc2c(=O)cc(C(=O)NCC(c3ccco3)N3CCCC3)oc2c1.Cl,Topscience,GABAA antagonist
+"3,6,7-trimethyl-N-(2-morpholin-4-yl-2-thiophen-2-ylethyl)-1-benzofuran-2-carboxamide",Cc1ccc2c(C)c(C(=O)NCC(c3cccs3)N3CCOCC3)oc2c1C,Topscience,GABAA antagonist
+"N-[2-[(4-methoxyphenyl)methyl]pyrazol-3-yl]-6,7-dimethyl-4-oxochromene-2-carboxamide",COc1ccc(Cn2nccc2NC(=O)c2cc(=O)c3cc(C)c(C)cc3o2)cc1,Topscience,GABAA antagonist
+"5-ethyl-3-methyl-N-[2-(3-phenyl-1,2,4-oxadiazol-5-yl)ethyl]-1-benzofuran-2-carboxamide",CCc1ccc2oc(C(=O)NCCc3nc(-c4ccccc4)no3)c(C)c2c1,Topscience,GABAA antagonist
+"5-[1-(benzenesulfonyl)piperidin-4-yl]-3-(4-methylphenyl)-1,2,4-oxadiazole",Cc1ccc(-c2noc(C3CCN(S(=O)(=O)c4ccccc4)CC3)n2)cc1,Topscience,GABAA antagonist
+"5-[benzyl(methyl)amino]-2-(2-nitrophenyl)-1,3-oxazole-4-carbonitrile",CN(Cc1ccccc1)c1oc(-c2ccccc2[N+](=O)[O-])nc1C#N,Topscience,GABAA antagonist
+"N-(3-chloro-4-methoxyphenyl)-5-(4-chlorophenyl)-3-methyl-1,2-oxazole-4-carboxamide",COc1ccc(NC(=O)c2c(C)noc2-c2ccc(Cl)cc2)cc1Cl,Topscience,GABAA antagonist
+"2-(2,6-dimethylphenoxy)-N-[5-(2,4-dimethyl-1,3-thiazol-5-yl)-1,3,4-oxadiazol-2-yl]acetamide",Cc1nc(C)c(-c2nnc(NC(=O)COc3c(C)cccc3C)o2)s1,Topscience,GABAA antagonist
+"N-[5-(2,4-dimethyl-1,3-thiazol-5-yl)-1,3,4-oxadiazol-2-yl]-2-(2-methylphenoxy)acetamide",Cc1nc(C)c(-c2nnc(NC(=O)COc3ccccc3C)o2)s1,Topscience,GABAA antagonist
+methyl 2-[[5-chloro-2-[(4-methylphenyl)methylsulfanyl]pyrimidine-4-carbonyl]amino]acetate,COC(=O)CNC(=O)c1nc(SCc2ccc(C)cc2)ncc1Cl,Topscience,GABAA antagonist
+"methyl 2-[3-[3-(4-chlorophenyl)-1,2,4-oxadiazol-5-yl]propanoylamino]-4-methylpentanoate",COC(=O)C(CC(C)C)NC(=O)CCc1nc(-c2ccc(Cl)cc2)no1,Topscience,GABAA antagonist
+"5-(3,4-difluorophenyl)-N-[2-(2,3-dimethylphenoxy)ethyl]-1,2-oxazole-3-carboxamide",Cc1cccc(OCCNC(=O)c2cc(-c3ccc(F)c(F)c3)on2)c1C,Topscience,GABAA antagonist
+4-fluoro-N-[2-(2-methoxyphenoxy)ethyl]benzamide,COc1ccccc1OCCNC(=O)c1ccc(F)cc1,Topscience,GABAA antagonist
+"2-(2,3-dimethylphenoxy)-N-[2-(2-methoxyphenoxy)ethyl]propanamide",COc1ccccc1OCCNC(=O)C(C)Oc1cccc(C)c1C,Topscience,GABAA antagonist
+"5-methoxy-2-methyl-N-(6-methyl-1,3-benzothiazol-2-yl)-1-benzofuran-3-carboxamide",COc1ccc2oc(C)c(C(=O)Nc3nc4ccc(C)cc4s3)c2c1,Topscience,GABAA antagonist
+"6-bromo-2-(2,3-dihydro-1,4-benzodioxin-6-yl)chromen-4-one",O=c1cc(-c2ccc3c(c2)OCCO3)oc2ccc(Br)cc12,Topscience,GABAA antagonist
+5-(5-bromothiophen-2-yl)-1H-pyrazole,Brc1ccc(-c2cc[nH]n2)s1,Topscience,GABAA antagonist
+"6-chloro-3-phenyl-[1,2,4]triazolo[4,3-b]pyridazine",Clc1ccc2nnc(-c3ccccc3)n2n1,Topscience,GABAA antagonist
+"N-(1,3-benzothiazol-2-yl)-2-(2-fluoro-6-methoxyphenyl)-4-methyl-1,3-thiazole-5-carboxamide",COc1cccc(F)c1-c1nc(C)c(C(=O)Nc2nc3ccccc3s2)s1,Topscience,GABAA antagonist
+N-[2-(1H-indol-3-yl)ethyl]-2-pyridin-3-ylquinoline-4-carboxamide,O=C(NCCc1c[nH]c2ccccc12)c1cc(-c2cccnc2)nc2ccccc12,Topscience,GABAA antagonist
+N-[2-[(2-methoxybenzoyl)amino]ethyl]-1H-indole-3-carboxamide,COc1ccccc1C(=O)NCCNC(=O)c1c[nH]c2ccccc12,Topscience,GABAA antagonist
+"(2S)-2-[[2-[2-(2,6-dichlorophenyl)-1,3-thiazol-4-yl]acetyl]amino]-2-phenylacetic acid",O=C(Cc1csc(-c2c(Cl)cccc2Cl)n1)N[C@H](C(=O)O)c1ccccc1,Topscience,GABAA antagonist
+(2S)-2-[[2-(6-fluoroindol-1-yl)acetyl]amino]-2-phenylacetic acid,O=C(Cn1ccc2ccc(F)cc21)N[C@H](C(=O)O)c1ccccc1,Topscience,GABAA antagonist
+"1-(2,5-dimethoxyphenyl)-5-oxo-N-(1,3-thiazol-2-yl)pyrrolidine-3-carboxamide",COc1ccc(OC)c(N2CC(C(=O)Nc3nccs3)CC2=O)c1,Topscience,GABAA antagonist
+N-[4-[4-(2-methylquinoline-4-carbonyl)piperazin-1-yl]sulfonylphenyl]acetamide,CC(=O)Nc1ccc(S(=O)(=O)N2CCN(C(=O)c3cc(C)nc4ccccc34)CC2)cc1,Topscience,GABAA antagonist
+(2R)-2-[[2-(5-methoxyindol-1-yl)acetyl]amino]-2-phenylacetic acid,COc1ccc2c(ccn2CC(=O)N[C@@H](C(=O)O)c2ccccc2)c1,Topscience,GABAA antagonist
+3-(5-methoxy-1H-indol-3-yl)-3-oxopropanenitrile,COc1ccc2[nH]cc(C(=O)CC#N)c2c1,Topscience,GABAA antagonist
+"3-([1,3]oxazolo[4,5-b]pyridin-2-yl)benzonitrile",N#Cc1cccc(-c2nc3ncccc3o2)c1,Topscience,GABAA antagonist
+2-methoxy-4-(4-methylphenyl)-6-thiophen-2-ylpyridine-3-carbonitrile,COc1nc(-c2cccs2)cc(-c2ccc(C)cc2)c1C#N,Topscience,GABAA antagonist
+"6-(naphthalen-1-yloxymethyl)-3-pyridin-4-yl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",c1ccc2c(OCc3nn4c(-c5ccncc5)nnc4s3)cccc2c1,Topscience,GABAA antagonist
+"(5Z)-2-(2,3-dihydro-1,4-benzodioxin-3-yl)-5-(thiophen-2-ylmethylidene)-[1,3]thiazolo[3,2-b][1,2,4]triazol-6-one",O=c1/c(=C/c2cccs2)sc2nc(C3COc4ccccc4O3)nn12,Topscience,GABAA antagonist
+"N-[(4-fluorophenyl)methyl]-6-imino-2-oxo-7-propan-2-yl-1,7,9-triazatricyclo[8.4.0.03,8]tetradeca-3(8),4,9,11,13-pentaene-5-carboxamide",CC(C)n1c(=N)c(C(=O)NCc2ccc(F)cc2)cc2c(=O)n3ccccc3nc21,Topscience,GABAA antagonist
+methyl 4-oxo-1H-cinnoline-3-carboxylate,COC(=O)c1nnc2ccccc2c1O,Topscience,GABAA antagonist
+6-methoxy-N-[2-(6-methoxy-2-methylquinolin-4-yl)sulfanylethyl]-2-methylquinolin-4-amine,COc1ccc2nc(C)cc(NCCSc3cc(C)nc4ccc(OC)cc34)c2c1,Topscience,GABAA antagonist
+"3,3,6,6,9-pentamethyl-4,5,7,9-tetrahydro-2H-xanthene-1,8-dione",CC1C2=C(CC(C)(C)CC2=O)OC2=C1C(=O)CC(C)(C)C2,Topscience,GABAA antagonist
+"3-benzyl-2-pyridin-4-ylimidazo[4,5-b]pyridine",c1ccc(Cn2c(-c3ccncc3)nc3cccnc32)cc1,Topscience,GABAA antagonist
+"2-[3-[3-(2-hydroxyethyl)-5,6-dimethyl-4-oxothieno[2,3-d]pyrimidin-2-yl]propyl]benzo[de]isoquinoline-1,3-dione",Cc1sc2nc(CCCN3C(=O)c4cccc5cccc(c45)C3=O)n(CCO)c(=O)c2c1C,Topscience,GABAA antagonist
+"2-[2-[(4-ethoxycarbonylphenyl)methylamino]-2-oxoethyl]sulfanyl-5-methyl-4-oxo-3H-thieno[2,3-d]pyrimidine-6-carboxylic acid",CCOC(=O)c1ccc(CNC(=O)CSc2nc3sc(C(=O)O)c(C)c3c(=O)[nH]2)cc1,Topscience,GABAA antagonist
+"ethyl 2-[[2-[[5-[(2-amino-1,3-thiazol-4-yl)methyl]-4-methyl-1,2,4-triazol-3-yl]sulfanyl]acetyl]amino]-4,5-dimethylthiophene-3-carboxylate",CCOC(=O)c1c(NC(=O)CSc2nnc(Cc3csc(N)n3)n2C)sc(C)c1C,Topscience,GABAA antagonist
+"ethyl 2-[[2-(4-amino-5,6-dimethylthieno[2,3-d]pyrimidin-2-yl)sulfanylacetyl]amino]-4,5-dimethylthiophene-3-carboxylate",CCOC(=O)c1c(NC(=O)CSc2nc(N)c3c(C)c(C)sc3n2)sc(C)c1C,Topscience,GABAA antagonist
+"5-(3,5-dimethylpyrazol-1-yl)-2-(4-methylphenyl)-N-(7H-purin-6-yl)-1,3-oxazole-4-carboxamide",Cc1ccc(-c2nc(C(=O)Nc3ncnc4[nH]cnc34)c(-n3nc(C)cc3C)o2)cc1,Topscience,GABAA antagonist
+"5-(2-hydroxy-3,5-dimethylphenyl)-N-phenyl-1,2-oxazole-3-carboxamide",Cc1cc(C)c(O)c(-c2cc(C(=O)Nc3ccccc3)no2)c1,Topscience,GABAA antagonist
+"N-[2-(2,5-dimethylanilino)-2-oxoethyl]-2-(5,6-dimethyl-1-benzofuran-3-yl)acetamide",Cc1ccc(C)c(NC(=O)CNC(=O)Cc2coc3cc(C)c(C)cc23)c1,Topscience,GABAA antagonist
+"N-[2-(2,4-dimethylanilino)-2-oxoethyl]-2-(5,6-dimethyl-1-benzofuran-3-yl)acetamide",Cc1ccc(NC(=O)CNC(=O)Cc2coc3cc(C)c(C)cc23)c(C)c1,Topscience,GABAA antagonist
+"methyl 3-[[2-[[2-(5,6-dimethyl-1-benzofuran-3-yl)acetyl]amino]acetyl]amino]propanoate",COC(=O)CCNC(=O)CNC(=O)Cc1coc2cc(C)c(C)cc12,Topscience,GABAA antagonist
+"2-(1H-indol-3-yl)-N-[2-methyl-1-([1,2,4]triazolo[4,3-a]pyridin-3-yl)propyl]acetamide",CC(C)C(NC(=O)Cc1c[nH]c2ccccc12)c1nnc2ccccn12,Topscience,GABAA antagonist
+"3-[[[2-[2-(3-chlorophenyl)-1,3-thiazol-4-yl]acetyl]amino]methyl]benzoic acid",O=C(Cc1csc(-c2cccc(Cl)c2)n1)NCc1cccc(C(=O)O)c1,Topscience,GABAA antagonist
+"N-[2-(1H-indol-3-yl)ethyl]-3,6-dimethyl-[1,2]oxazolo[5,4-b]pyridine-4-carboxamide",Cc1cc(C(=O)NCCc2c[nH]c3ccccc23)c2c(C)noc2n1,Topscience,GABAA antagonist
+"N-benzyl-N-methyl-3-(trifluoromethyl)-[1,2,4]triazolo[4,3-b]pyridazin-6-amine",CN(Cc1ccccc1)c1ccc2nnc(C(F)(F)F)n2n1,Topscience,GABAA antagonist
+"3-(6,7-dimethoxy-4-oxoquinazolin-3-yl)-N-pyridin-2-ylpropanamide",COc1cc2ncn(CCC(=O)Nc3ccccn3)c(=O)c2cc1OC,Topscience,GABAA antagonist
+"N-(3-acetamidophenyl)-3,6-dimethyl-[1,2]oxazolo[5,4-b]pyridine-4-carboxamide",CC(=O)Nc1cccc(NC(=O)c2cc(C)nc3onc(C)c23)c1,Topscience,GABAA antagonist
+"3-[[[2-[2-(2-fluorophenyl)-1,3-thiazol-4-yl]acetyl]amino]methyl]benzoic acid",O=C(Cc1csc(-c2ccccc2F)n1)NCc1cccc(C(=O)O)c1,Topscience,GABAA antagonist
+N-(4-acetylphenyl)-4-phenylthiadiazole-5-carboxamide,CC(=O)c1ccc(NC(=O)c2snnc2-c2ccccc2)cc1,Topscience,GABAA antagonist
+"[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-(2-pyrrol-1-yl-5,6-dihydro-4H-cyclopenta[b]thiophen-3-yl)methanone",O=C(c1c(-n2cccc2)sc2c1CCC2)N1CCC(O)(c2ccc(Cl)cc2)CC1,Topscience,GABAA antagonist
+"N-(5-methyl-1,3,4-thiadiazol-2-yl)-2-(3,5,9-trimethyl-7-oxofuro[3,2-g]chromen-6-yl)acetamide",Cc1nnc(NC(=O)Cc2c(C)c3cc4c(C)coc4c(C)c3oc2=O)s1,Topscience,GABAA antagonist
+"N-(5-propan-2-yl-1,3,4-thiadiazol-2-yl)-2-(3,5,9-trimethyl-7-oxofuro[3,2-g]chromen-6-yl)acetamide",Cc1coc2c(C)c3oc(=O)c(CC(=O)Nc4nnc(C(C)C)s4)c(C)c3cc12,Topscience,GABAA antagonist
+"3-(5,6-dimethylthieno[2,3-d]pyrimidin-4-yl)sulfanyl-N-[(2-methoxyphenyl)methyl]propanamide",COc1ccccc1CNC(=O)CCSc1ncnc2sc(C)c(C)c12,Topscience,GABAA antagonist
+"3-(5,6-dimethylthieno[2,3-d]pyrimidin-4-yl)sulfanyl-1-(4-pyridin-2-ylpiperazin-1-yl)propan-1-one",Cc1sc2ncnc(SCCC(=O)N3CCN(c4ccccn4)CC3)c2c1C,Topscience,GABAA antagonist
+N-(4-butylphenyl)-2-[3-(4-fluoro-2-methoxyphenyl)-6-oxopyridazin-1-yl]acetamide,CCCCc1ccc(NC(=O)Cn2nc(-c3ccc(F)cc3OC)ccc2=O)cc1,Topscience,GABAA antagonist
+N-[2-[[2-(1H-indol-3-yl)acetyl]amino]ethyl]-1-methylindole-3-carboxamide,Cn1cc(C(=O)NCCNC(=O)Cc2c[nH]c3ccccc23)c2ccccc21,Topscience,GABAA antagonist
+6-methoxy-N-methyl-4-oxo-N-phenyl-1H-quinoline-3-carboxamide,COc1ccc2ncc(C(=O)N(C)c3ccccc3)c(O)c2c1,Topscience,GABAA antagonist
+(2S)-2-[[2-(3-naphthalen-1-yl-6-oxopyridazin-1-yl)acetyl]amino]-3-phenylpropanoic acid,O=C(Cn1nc(-c2cccc3ccccc23)ccc1=O)N[C@@H](Cc1ccccc1)C(=O)O,Topscience,GABAA antagonist
+N-(3-acetamidophenyl)-1-methyl-5-pyrrol-1-ylpyrazole-4-carboxamide,CC(=O)Nc1cccc(NC(=O)c2cnn(C)c2-n2cccc2)c1,Topscience,GABAA antagonist
+N-[(3-fluorophenyl)methyl]-1-methyl-5-pyrrol-1-ylpyrazole-4-carboxamide,Cn1ncc(C(=O)NCc2cccc(F)c2)c1-n1cccc1,Topscience,GABAA antagonist
+"N-(1H-indol-6-yl)-3-methyl-5-oxo-[1,3]thiazolo[3,2-a]pyrimidine-6-carboxamide",Cc1csc2ncc(C(=O)Nc3ccc4cc[nH]c4c3)c(=O)n12,Topscience,GABAA antagonist
+"N-(3-acetamidophenyl)-5-oxo-[1,3]thiazolo[3,2-a]pyrimidine-6-carboxamide",CC(=O)Nc1cccc(NC(=O)c2cnc3sccn3c2=O)c1,Topscience,GABAA antagonist
+"N-[2-(1H-indol-3-yl)ethyl]-1,3-dimethyl-6-propan-2-ylpyrazolo[3,4-b]pyridine-4-carboxamide",Cc1nn(C)c2nc(C(C)C)cc(C(=O)NCCc3c[nH]c4ccccc34)c12,Topscience,GABAA antagonist
+"N-cyclooctyl-3-[6-(3,5-dimethylpyrazol-1-yl)-[1,2,4]triazolo[4,3-b]pyridazin-3-yl]propanamide",Cc1cc(C)n(-c2ccc3nnc(CCC(=O)NC4CCCCCCC4)n3n2)n1,Topscience,GABAA antagonist
+"1-(3-phenyl-[1,2,4]triazolo[4,3-b]pyridazin-6-yl)-N-(pyridin-3-ylmethyl)piperidine-4-carboxamide",O=C(NCc1cccnc1)C1CCN(c2ccc3nnc(-c4ccccc4)n3n2)CC1,Topscience,GABAA antagonist
+"N-[2-(benzimidazol-1-yl)ethyl]-2-(7,8-dimethoxy-1-oxophthalazin-2-yl)acetamide",COc1ccc2cnn(CC(=O)NCCn3cnc4ccccc43)c(=O)c2c1OC,Topscience,GABAA antagonist
+"N-(4-bromophenyl)-N'-(4-methyl-1,3-thiazol-2-yl)butanediamide",Cc1csc(NC(=O)CCC(=O)Nc2ccc(Br)cc2)n1,Topscience,GABAA antagonist
+"N-[2-(2,3-dioxo-4H-quinoxalin-1-yl)ethyl]-1H-indazole-3-carboxamide",O=C(NCCn1c(=O)c(=O)[nH]c2ccccc21)c1n[nH]c2ccccc12,Topscience,GABAA antagonist
+4-hydroxy-N'-(1-methyl-2-oxobenzo[cd]indol-6-yl)sulfonylbenzohydrazide,CN1C(=O)c2cccc3c(S(=O)(=O)NNC(=O)c4ccc(O)cc4)ccc1c23,Topscience,GABAA antagonist
+2-[butyl-(4-methoxynaphthalen-1-yl)sulfonylamino]benzoic acid,CCCCN(c1ccccc1C(=O)O)S(=O)(=O)c1ccc(OC)c2ccccc12,Topscience,GABAA antagonist
+3-[(2-oxo-1-propylbenzo[cd]indol-6-yl)sulfonylamino]benzoic acid,CCCN1C(=O)c2cccc3c(S(=O)(=O)Nc4cccc(C(=O)O)c4)ccc1c23,Topscience,GABAA antagonist
+5-methyl-1-(2-methylphenyl)-N-(pyridin-2-ylmethyl)triazole-4-carboxamide,Cc1ccccc1-n1nnc(C(=O)NCc2ccccn2)c1C,Topscience,GABAA antagonist
+"2-[5-cyclopropyl-1-(4-methylphenyl)triazol-4-yl]-5-phenyl-1,3,4-oxadiazole",Cc1ccc(-n2nnc(-c3nnc(-c4ccccc4)o3)c2C2CC2)cc1,Topscience,GABAA antagonist
+"2-[5-(4-chlorophenyl)-2-methylfuran-3-yl]-5-pyridin-2-yl-1,3,4-oxadiazole",Cc1oc(-c2ccc(Cl)cc2)cc1-c1nnc(-c2ccccn2)o1,Topscience,GABAA antagonist
+"2-[5-(4-chlorophenyl)-2-methylfuran-3-yl]-5-pyridin-3-yl-1,3,4-oxadiazole",Cc1oc(-c2ccc(Cl)cc2)cc1-c1nnc(-c2cccnc2)o1,Topscience,GABAA antagonist
+"2-[5-(4-bromophenyl)furan-2-yl]-5-pyridin-4-yl-1,3,4-oxadiazole",Brc1ccc(-c2ccc(-c3nnc(-c4ccncc4)o3)o2)cc1,Topscience,GABAA antagonist
+"2-[(4-chlorophenyl)methyl]-5-[1-(4-fluorophenyl)-5-(methoxymethyl)triazol-4-yl]-1,3,4-oxadiazole",COCc1c(-c2nnc(Cc3ccc(Cl)cc3)o2)nnn1-c1ccc(F)cc1,Topscience,GABAA antagonist
+"2-[5-(methoxymethyl)-1-[3-(trifluoromethyl)phenyl]triazol-4-yl]-5-pyridin-3-yl-1,3,4-oxadiazole",COCc1c(-c2nnc(-c3cccnc3)o2)nnn1-c1cccc(C(F)(F)F)c1,Topscience,GABAA antagonist
+"3-phenyl-5-[(1-phenyltetrazol-5-yl)sulfanylmethyl]-1,2,4-oxadiazole",c1ccc(-c2noc(CSc3nnnn3-c3ccccc3)n2)cc1,Topscience,GABAA antagonist
+"N-[2-[3-(4-chlorophenyl)-1,2,4-oxadiazol-5-yl]ethyl]-7-methoxy-1-benzofuran-2-carboxamide",COc1cccc2cc(C(=O)NCCc3nc(-c4ccc(Cl)cc4)no3)oc12,Topscience,GABAA antagonist
+2-(3-fluorophenyl)-7-hydroxychromen-4-one,O=c1cc(-c2cccc(F)c2)oc2cc(O)ccc12,Topscience,GABAA antagonist
+N-(1-benzylpiperidin-4-yl)-2-(4-oxo-3H-phthalazin-1-yl)acetamide,O=C(Cc1n[nH]c(=O)c2ccccc12)NC1CCN(Cc2ccccc2)CC1,Topscience,GABAA antagonist
+N-(5-acetamido-2-methoxyphenyl)-2-(4-oxo-3H-phthalazin-1-yl)acetamide,COc1ccc(NC(C)=O)cc1NC(=O)Cc1n[nH]c(=O)c2ccccc12,Topscience,GABAA antagonist
+"2-(4-oxo-3H-phthalazin-1-yl)-N-(4-thiophen-2-yl-1,3-thiazol-2-yl)acetamide",O=C(Cc1n[nH]c(=O)c2ccccc12)Nc1nc(-c2cccs2)cs1,Topscience,GABAA antagonist
+"2-(2,3-dimethoxyphenyl)-1-methyl-N-(6-methyl-1,3-benzothiazol-2-yl)-5-oxopyrrolidine-3-carboxamide",COc1cccc(C2C(C(=O)Nc3nc4ccc(C)cc4s3)CC(=O)N2C)c1OC,Topscience,GABAA antagonist
+"ethyl 2-[2-[[2-(3-methylbutyl)-1-oxoisoquinoline-4-carbonyl]amino]-1,3-thiazol-4-yl]acetate",CCOC(=O)Cc1csc(NC(=O)c2cn(CCC(C)C)c(=O)c3ccccc23)n1,Topscience,GABAA antagonist
+"N-([1,2,4]triazolo[4,3-a]pyridin-3-ylmethyl)-3-(1,3,5-trimethylpyrazol-4-yl)-1H-pyrazole-5-carboxamide",Cc1nn(C)c(C)c1-c1cc(C(=O)NCc2nnc3ccccn23)n[nH]1,Topscience,GABAA antagonist
+"N-(2-phenylsulfanylethyl)-3-(1,3,5-trimethylpyrazol-4-yl)-1H-pyrazole-5-carboxamide",Cc1nn(C)c(C)c1-c1cc(C(=O)NCCSc2ccccc2)n[nH]1,Topscience,GABAA antagonist
+N-[2-(1H-benzimidazol-2-yl)ethyl]-2-phenyl-2-(tetrazol-1-yl)acetamide,O=C(NCCc1nc2ccccc2[nH]1)C(c1ccccc1)n1cnnn1,Topscience,GABAA antagonist
+"2-cyclobutyl-7-pyridin-4-yl-[1,2,4]triazolo[1,5-a]pyrimidine",c1cc(-c2ccnc3nc(C4CCC4)nn23)ccn1,Topscience,GABAA antagonist
+"2-cyclobutyl-7-thiophen-3-yl-[1,2,4]triazolo[1,5-a]pyrimidine",c1cc(-c2ccsc2)n2nc(C3CCC3)nc2n1,Topscience,GABAA antagonist
+"6-chloro-N-[3-([1,2,4]triazolo[4,3-a]pyridin-3-yl)propyl]-1-benzothiophene-2-carboxamide",O=C(NCCCc1nnc2ccccn12)c1cc2ccc(Cl)cc2s1,Topscience,GABAA antagonist
+"3-(3,4-dimethoxyphenyl)-N-[(1-methylbenzimidazol-2-yl)methyl]-1H-pyrazole-5-carboxamide",COc1ccc(-c2cc(C(=O)NCc3nc4ccccc4n3C)n[nH]2)cc1OC,Topscience,GABAA antagonist
+"2-(2-methoxyphenyl)-7-(3-methoxyphenyl)-[1,2,4]triazolo[1,5-a]pyrimidine",COc1cccc(-c2ccnc3nc(-c4ccccc4OC)nn23)c1,Topscience,GABAA antagonist
+"7-(1-benzofuran-2-yl)-2-(furan-2-yl)-[1,2,4]triazolo[1,5-a]pyrimidine",c1coc(-c2nc3nccc(-c4cc5ccccc5o4)n3n2)c1,Topscience,GABAA antagonist
+"2-[(3,5-difluorophenyl)methyl]-7-(2-fluoro-4-methoxyphenyl)-[1,2,4]triazolo[1,5-a]pyrimidine",COc1ccc(-c2ccnc3nc(Cc4cc(F)cc(F)c4)nn23)c(F)c1,Topscience,GABAA antagonist
+"7-(1-benzofuran-2-yl)-2-[(3,5-difluorophenyl)methyl]-[1,2,4]triazolo[1,5-a]pyrimidine",Fc1cc(F)cc(Cc2nc3nccc(-c4cc5ccccc5o4)n3n2)c1,Topscience,GABAA antagonist
+"N-(1H-benzimidazol-2-ylmethyl)-3,4-dimethyl-2-(tetrazol-1-yl)benzamide",Cc1ccc(C(=O)NCc2nc3ccccc3[nH]2)c(-n2cnnn2)c1C,Topscience,GABAA antagonist
+"7-(3-methoxyphenyl)-2-thiophen-2-yl-[1,2,4]triazolo[1,5-a]pyrimidine",COc1cccc(-c2ccnc3nc(-c4cccs4)nn23)c1,Topscience,GABAA antagonist
+"7-thiophen-3-yl-[1,2,4]triazolo[1,5-a]pyrimidine",c1cc(-c2ccsc2)n2ncnc2n1,Topscience,GABAA antagonist
+1-(4-fluoro-1H-indazol-3-yl)-N-[(2-methoxyphenyl)methyl]-5-oxopyrrolidine-3-carboxamide,COc1ccccc1CNC(=O)C1CC(=O)N(c2n[nH]c3cccc(F)c23)C1,Topscience,GABAA antagonist
+2-[3-(4-methoxyphenyl)-5-methyl-1H-pyrazol-4-yl]-N-(pyridin-4-ylmethyl)acetamide,COc1ccc(-c2[nH]nc(C)c2CC(=O)NCc2ccncc2)cc1,Topscience,GABAA antagonist
+"1-(4-fluoro-1H-indazol-3-yl)-N-(5-methyl-1,3,4-thiadiazol-2-yl)-5-oxopyrrolidine-3-carboxamide",Cc1nnc(NC(=O)C2CC(=O)N(c3n[nH]c4cccc(F)c34)C2)s1,Topscience,GABAA antagonist
+benzyl 3-(1H-indole-3-carbonyl)piperidine-1-carboxylate,O=C(c1c[nH]c2ccccc12)C1CCCN(C(=O)OCc2ccccc2)C1,Topscience,GABAA antagonist
+"5-[(5-amino-1,2,4-triazol-1-yl)sulfonyl]-2-phenyl-1,3-oxazole-4-carbonitrile",N#Cc1nc(-c2ccccc2)oc1S(=O)(=O)n1ncnc1N,Topscience,GABAA antagonist
+4-hydroxy-3-[(4-hydroxy-3-methoxyphenyl)-(4-hydroxy-6-methyl-2-oxopyran-3-yl)methyl]-6-methylpyran-2-one,COc1cc(C(c2c(O)cc(C)oc2=O)c2c(O)cc(C)oc2=O)ccc1O,Topscience,GABAA antagonist
+"6-N-butyl-1-methyl-4-N-phenylpyrazolo[3,4-d]pyrimidine-4,6-diamine",CCCCNc1nc(Nc2ccccc2)c2cnn(C)c2n1,Topscience,GABAA antagonist
+"10-(3,4-dimethylphenyl)-5-(2-phenylethyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",Cc1ccc(-n2ncc3c2ncn2c(CCc4ccccc4)nnc32)cc1C,Topscience,GABAA antagonist
+"10-(3,4-dimethylphenyl)-5-(4-methoxyphenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",COc1ccc(-c2nnc3c4cnn(-c5ccc(C)c(C)c5)c4ncn23)cc1,Topscience,GABAA antagonist
+"5-(4-ethylphenyl)-10-phenyl-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",CCc1ccc(-c2nnc3c4cnn(-c5ccccc5)c4ncn23)cc1,Topscience,GABAA antagonist
+"10-(3,5-dimethylphenyl)-5-(4-methoxyphenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",COc1ccc(-c2nnc3c4cnn(-c5cc(C)cc(C)c5)c4ncn23)cc1,Topscience,GABAA antagonist
+"10-(4-chlorophenyl)-5-cyclohexyl-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",Clc1ccc(-n2ncc3c2ncn2c(C4CCCCC4)nnc32)cc1,Topscience,GABAA antagonist
+"10-(4-chlorophenyl)-5-(naphthalen-1-ylmethyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",Clc1ccc(-n2ncc3c2ncn2c(Cc4cccc5ccccc45)nnc32)cc1,Topscience,GABAA antagonist
+"10-(4-chlorophenyl)-5-methyl-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",Cc1nnc2c3cnn(-c4ccc(Cl)cc4)c3ncn12,Topscience,GABAA antagonist
+"10-(4-chlorophenyl)-5-(4-methoxyphenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",COc1ccc(-c2nnc3c4cnn(-c5ccc(Cl)cc5)c4ncn23)cc1,Topscience,GABAA antagonist
+"5,10-bis(4-chlorophenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",Clc1ccc(-c2nnc3c4cnn(-c5ccc(Cl)cc5)c4ncn23)cc1,Topscience,GABAA antagonist
+"10-(4-chlorophenyl)-5-(4-ethylphenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",CCc1ccc(-c2nnc3c4cnn(-c5ccc(Cl)cc5)c4ncn23)cc1,Topscience,GABAA antagonist
+"5-cyclohexyl-10-(4-fluorophenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",Fc1ccc(-n2ncc3c2ncn2c(C4CCCCC4)nnc32)cc1,Topscience,GABAA antagonist
+"10-(4-fluorophenyl)-5-(2-phenylethyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",Fc1ccc(-n2ncc3c2ncn2c(CCc4ccccc4)nnc32)cc1,Topscience,GABAA antagonist
+"5-(4-tert-butylphenyl)-10-(4-fluorophenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",CC(C)(C)c1ccc(-c2nnc3c4cnn(-c5ccc(F)cc5)c4ncn23)cc1,Topscience,GABAA antagonist
+"10-(4-fluorophenyl)-5-(4-methoxyphenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",COc1ccc(-c2nnc3c4cnn(-c5ccc(F)cc5)c4ncn23)cc1,Topscience,GABAA antagonist
+"10-(2,4-dimethylphenyl)-5-(3-methylphenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",Cc1cccc(-c2nnc3c4cnn(-c5ccc(C)cc5C)c4ncn23)c1,Topscience,GABAA antagonist
+"5-(4-methoxyphenyl)-10-(2-methylphenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",COc1ccc(-c2nnc3c4cnn(-c5ccccc5C)c4ncn23)cc1,Topscience,GABAA antagonist
+"10-(2-methylphenyl)-5-(3-methylphenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",Cc1cccc(-c2nnc3c4cnn(-c5ccccc5C)c4ncn23)c1,Topscience,GABAA antagonist
+"5-(3,4-dimethoxyphenyl)-10-(2-methylphenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",COc1ccc(-c2nnc3c4cnn(-c5ccccc5C)c4ncn23)cc1OC,Topscience,GABAA antagonist
+"5-(4-ethylphenyl)-10-(3-methylphenyl)-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",CCc1ccc(-c2nnc3c4cnn(-c5cccc(C)c5)c4ncn23)cc1,Topscience,GABAA antagonist
+"5-(4-tert-butylphenyl)-10-phenyl-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",CC(C)(C)c1ccc(-c2nnc3c4cnn(-c5ccccc5)c4ncn23)cc1,Topscience,GABAA antagonist
+"5-(3,4-dimethoxyphenyl)-10-phenyl-3,4,6,8,10,11-hexazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene",COc1ccc(-c2nnc3c4cnn(-c5ccccc5)c4ncn23)cc1OC,Topscience,GABAA antagonist
+"2-(4-chlorophenyl)-4-hydroxy-1-(1,3,4-thiadiazol-2-yl)-3-(thiophene-2-carbonyl)-2H-pyrrol-5-one",O=C(C1=C(O)C(=O)N(c2nncs2)C1c1ccc(Cl)cc1)c1cccs1,Topscience,GABAA antagonist
+"4-[hydroxy-(4-methylphenyl)methylidene]-5-(4-methylphenyl)-1-pyridin-2-ylpyrrolidine-2,3-dione",Cc1ccc(C(=O)C2=C(O)C(=O)N(c3ccccn3)C2c2ccc(C)cc2)cc1,Topscience,GABAA antagonist
+"7-benzyl-1,3-dimethyl-2,4-dioxo-N-phenacylpyrrolo[2,3-d]pyrimidine-6-carboxamide",Cn1c(=O)c2cc(C(=O)NCC(=O)c3ccccc3)n(Cc3ccccc3)c2n(C)c1=O,Topscience,GABAA antagonist
+4-phenoxyquinazoline,c1ccc(Oc2ncnc3ccccc23)cc1,Topscience,GABAA antagonist
+4-(4-chlorophenoxy)quinazoline,Clc1ccc(Oc2ncnc3ccccc23)cc1,Topscience,GABAA antagonist
+N-(1H-indol-3-ylmethyl)-N-prop-2-enylprop-2-en-1-amine,C=CCN(CC=C)Cc1c[nH]c2ccccc12,Topscience,GABAA antagonist
+3-[(4-methylpiperazin-1-yl)methyl]-1H-indole,CN1CCN(Cc2c[nH]c3ccccc23)CC1,Topscience,GABAA antagonist
+"2-[4-[(5-methyl-[1,2,4]triazolo[4,3-a]quinolin-1-yl)sulfanyl]butyl]isoindole-1,3-dione",Cc1cc2nnc(SCCCCN3C(=O)c4ccccc4C3=O)n2c2ccccc12,Topscience,GABAA antagonist
+"2-amino-1-(2,4-dimethylphenyl)pyrrolo[3,2-b]quinoxaline-3-carbonitrile",Cc1ccc(-n2c(N)c(C#N)c3nc4ccccc4nc32)c(C)c1,Topscience,GABAA antagonist
+"2-amino-1-(3,4-dimethylphenyl)pyrrolo[3,2-b]quinoxaline-3-carbonitrile",Cc1ccc(-n2c(N)c(C#N)c3nc4ccccc4nc32)cc1C,Topscience,GABAA antagonist
+"2-amino-1-(2-bromo-4-methylphenyl)pyrrolo[3,2-b]quinoxaline-3-carbonitrile",Cc1ccc(-n2c(N)c(C#N)c3nc4ccccc4nc32)c(Br)c1,Topscience,GABAA antagonist
+"2-amino-1-(3-chloro-4-methylphenyl)pyrrolo[3,2-b]quinoxaline-3-carbonitrile",Cc1ccc(-n2c(N)c(C#N)c3nc4ccccc4nc32)cc1Cl,Topscience,GABAA antagonist
+"N-[5-[(4-chlorophenyl)methyl]-1,3,4-thiadiazol-2-yl]-2-(2,3,6-trimethylphenoxy)acetamide",Cc1ccc(C)c(OCC(=O)Nc2nnc(Cc3ccc(Cl)cc3)s2)c1C,Topscience,GABAA antagonist
+"2-(4-chloro-2-methylphenoxy)-N-(6-nitro-1,3-benzothiazol-2-yl)propanamide",Cc1cc(Cl)ccc1OC(C)C(=O)Nc1nc2ccc([N+](=O)[O-])cc2s1,Topscience,GABAA antagonist
+"2-[(6-methyl-1H-benzimidazol-2-yl)sulfanylmethyl]imidazo[1,2-a]pyrimidine",Cc1ccc2nc(SCc3cn4cccnc4n3)[nH]c2c1,Topscience,GABAA antagonist
+"butyl 2-[5-(3,4-dimethylphenyl)-4-oxothieno[2,3-d]pyrimidin-3-yl]acetate",CCCCOC(=O)Cn1cnc2scc(-c3ccc(C)c(C)c3)c2c1=O,Topscience,GABAA antagonist
+"butyl 2-(5,6-dimethylthieno[2,3-d]pyrimidin-4-yl)sulfanylacetate",CCCCOC(=O)CSc1ncnc2sc(C)c(C)c12,Topscience,GABAA antagonist
+"[2-(4-methylanilino)-2-oxoethyl] 2-bromo-3,4,5-trimethoxybenzoate",COc1cc(C(=O)OCC(=O)Nc2ccc(C)cc2)c(Br)c(OC)c1OC,Topscience,GABAA antagonist
+[2-(benzylamino)-2-oxoethyl] 3-methoxybenzoate,COc1cccc(C(=O)OCC(=O)NCc2ccccc2)c1,Topscience,GABAA antagonist
+"[2-(3-chloro-2-methylanilino)-2-oxoethyl] 3,4-dimethylbenzoate",Cc1ccc(C(=O)OCC(=O)Nc2cccc(Cl)c2C)cc1C,Topscience,GABAA antagonist
+"diethyl 5-[[2-(5,6-dimethyl-4-oxothieno[2,3-d]pyrimidin-3-yl)acetyl]amino]-3-methylthiophene-2,4-dicarboxylate",CCOC(=O)c1sc(NC(=O)Cn2cnc3sc(C)c(C)c3c2=O)c(C(=O)OCC)c1C,Topscience,GABAA antagonist
+2-(4-methoxyphenyl)-6-phenylmethoxychromen-4-one,COc1ccc(-c2cc(=O)c3cc(OCc4ccccc4)ccc3o2)cc1,Topscience,GABAA antagonist
+"ethyl 12-methyl-5-(2-phenylethyl)-10-thia-3,4,6,8-tetrazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene-11-carboxylate",CCOC(=O)c1sc2ncn3c(CCc4ccccc4)nnc3c2c1C,Topscience,GABAA antagonist
+"ethyl 12-methyl-5-phenyl-10-thia-3,4,6,8-tetrazatricyclo[7.3.0.02,6]dodeca-1(9),2,4,7,11-pentaene-11-carboxylate",CCOC(=O)c1sc2ncn3c(-c4ccccc4)nnc3c2c1C,Topscience,GABAA antagonist
+methyl 3-[(6-nitroquinazolin-4-yl)amino]benzoate,COC(=O)c1cccc(Nc2ncnc3ccc([N+](=O)[O-])cc23)c1,Topscience,GABAA antagonist
+[2-(4-ethoxyanilino)-2-oxoethyl] 3-phenylpropanoate,CCOc1ccc(NC(=O)COC(=O)CCc2ccccc2)cc1,Topscience,GABAA antagonist
+2-(6-chloro-4-oxochromen-2-yl)benzoic acid,O=C(O)c1ccccc1-c1cc(=O)c2cc(Cl)ccc2o1,Topscience,GABAA antagonist
+N-(4-ethoxyphenyl)-2-[(4-nitrophenyl)methylsulfanyl]acetamide,CCOc1ccc(NC(=O)CSCc2ccc([N+](=O)[O-])cc2)cc1,Topscience,GABAA antagonist
+"N-(3-cyano-5,6-dihydro-4H-cyclopenta[b]thiophen-2-yl)-2-[5-(3,4-dimethoxyphenyl)-4-oxothieno[2,3-d]pyrimidin-3-yl]acetamide",COc1ccc(-c2csc3ncn(CC(=O)Nc4sc5c(c4C#N)CCC5)c(=O)c23)cc1OC,Topscience,GABAA antagonist
+"methyl 2-[5-(3,4-dimethylphenyl)-6-methyl-4-oxothieno[2,3-d]pyrimidin-3-yl]propanoate",COC(=O)C(C)n1cnc2sc(C)c(-c3ccc(C)c(C)c3)c2c1=O,Topscience,GABAA antagonist
+"7-chloro-2,8-dimethyl-3-[(3-methylpiperidin-1-yl)methyl]-1H-quinolin-4-one",Cc1nc2c(C)c(Cl)ccc2c(O)c1CN1CCCC(C)C1,Topscience,GABAA antagonist
+"N-(3-cyano-5,6-dihydro-4H-cyclopenta[b]thiophen-2-yl)-2-(4-oxo-5,6,7,8-tetrahydro-[1]benzothiolo[2,3-d]triazin-3-yl)acetamide",N#Cc1c(NC(=O)Cn2nnc3sc4c(c3c2=O)CCCC4)sc2c1CCC2,Topscience,GABAA antagonist
+"2-(3-bromophenyl)-6,8-dimethylchromen-4-one",Cc1cc(C)c2oc(-c3cccc(Br)c3)cc(=O)c2c1,Topscience,GABAA antagonist
+2-(4-chlorophenyl)-6-hydroxychromen-4-one,O=c1cc(-c2ccc(Cl)cc2)oc2ccc(O)cc12,Topscience,GABAA antagonist
+2-(3-bromophenyl)-6-hydroxychromen-4-one,O=c1cc(-c2cccc(Br)c2)oc2ccc(O)cc12,Topscience,GABAA antagonist
+6-hydroxy-2-phenylchromen-4-one,O=c1cc(-c2ccccc2)oc2ccc(O)cc12,Topscience,GABAA antagonist
+ethyl 3-hydroxy-2-[3-(2-nitrobenzoyl)iminoisoindol-1-yl]but-2-enoate,CCOC(=O)/C(C(C)=O)=C1\N=C(NC(=O)c2ccccc2[N+](=O)[O-])c2ccccc21,Topscience,GABAA antagonist
+tert-butyl 3-hydroxy-2-[3-(2-nitrobenzoyl)iminoisoindol-1-yl]but-2-enoate,CC(=O)/C(C(=O)OC(C)(C)C)=C1/N=C(NC(=O)c2ccccc2[N+](=O)[O-])c2ccccc21,Topscience,GABAA antagonist
+2-(4-chlorophenyl)-6-prop-2-enoxychromen-4-one,C=CCOc1ccc2oc(-c3ccc(Cl)cc3)cc(=O)c2c1,Topscience,GABAA antagonist
+"3-[(2-fluorophenyl)methylsulfanyl]-5H-[1,2,4]triazino[5,6-b]indole",Fc1ccccc1CSc1nnc2c(n1)[nH]c1ccccc12,Topscience,GABAA antagonist
+ethyl 6-butyl-4-oxo-1H-quinoline-3-carboxylate,CCCCc1ccc2[nH]cc(C(=O)OCC)c(=O)c2c1,Topscience,GABAA antagonist
+"2-[[4-(4,6-dimethylpyrimidin-2-yl)oxyphenyl]carbamoyl]benzoic acid",Cc1cc(C)nc(Oc2ccc(NC(=O)c3ccccc3C(=O)O)cc2)n1,Topscience,GABAA antagonist
+"N-(3-acetylphenyl)-2-[(5-oxo-6-phenyl-4H-1,2,4-triazin-3-yl)sulfanyl]acetamide",CC(=O)c1cccc(NC(=O)CSc2nnc(-c3ccccc3)c(=O)[nH]2)c1,Topscience,GABAA antagonist
+"N-methyl-2-[(6-methyl-3-oxo-2H-1,2,4-triazin-5-yl)sulfanyl]-N-phenylacetamide",Cc1nnc(O)nc1SCC(=O)N(C)c1ccccc1,Topscience,GABAA antagonist
+1-(1H-indol-3-yl)-2-(6-methylpyrimidin-4-yl)sulfanylethanone,Cc1cc(SCC(=O)c2c[nH]c3ccccc23)ncn1,Topscience,GABAA antagonist
+"2-phenoxyethyl 2-[(5-methyl-[1,2,4]triazolo[4,3-a]quinolin-1-yl)sulfanyl]acetate",Cc1cc2nnc(SCC(=O)OCCOc3ccccc3)n2c2ccccc12,Topscience,GABAA antagonist
+"2-[(5,9-dimethyl-[1,2,4]triazolo[4,3-a]quinolin-1-yl)sulfanyl]-N-(2-phenylethyl)acetamide",Cc1cc2nnc(SCC(=O)NCCc3ccccc3)n2c2c(C)cccc12,Topscience,GABAA antagonist
+"N-(1,5-dimethyl-3-oxo-2-phenylpyrazol-4-yl)-2-[(5,9-dimethyl-[1,2,4]triazolo[4,3-a]quinolin-1-yl)sulfanyl]acetamide",Cc1cc2nnc(SCC(=O)Nc3c(C)n(C)n(-c4ccccc4)c3=O)n2c2c(C)cccc12,Topscience,GABAA antagonist
+"1-(4-fluorophenyl)-2-[(9-methoxy-5-methyl-[1,2,4]triazolo[4,3-a]quinolin-1-yl)sulfanyl]ethanone",COc1cccc2c(C)cc3nnc(SCC(=O)c4ccc(F)cc4)n3c12,Topscience,GABAA antagonist
+"N-(4,6-dimethyl-1,3-benzothiazol-2-yl)-2,4-dimethyl-1,3-thiazole-5-carboxamide",Cc1cc(C)c2nc(NC(=O)c3sc(C)nc3C)sc2c1,Topscience,GABAA antagonist
+"4-methyl-N-(4-methyl-1,3-benzothiazol-2-yl)-2-phenyl-1,3-thiazole-5-carboxamide",Cc1nc(-c2ccccc2)sc1C(=O)Nc1nc2c(C)cccc2s1,Topscience,GABAA antagonist
+"4-(4-methoxyanilino)quinoline-3,6-dicarboxylic acid;hydrochloride",COc1ccc(Nc2c(C(=O)O)cnc3ccc(C(=O)O)cc23)cc1.Cl,Topscience,GABAA antagonist
+"1-(1,3-benzodioxol-5-ylmethyl)-6,6-dioxo-4-phenyl-4a,5,7,7a-tetrahydro-2H-thieno[3,4-b]pyrazin-3-one",O=C1CN(Cc2ccc3c(c2)OCO3)C2CS(=O)(=O)CC2N1c1ccccc1,Topscience,GABAA antagonist
+"3,4,5-trimethoxy-N-[5-methyl-4-(2-methyl-3-oxo-4H-1,4-benzoxazin-6-yl)-1,3-thiazol-2-yl]benzamide",COc1cc(C(=O)Nc2nc(-c3ccc4c(c3)NC(=O)C(C)O4)c(C)s2)cc(OC)c1OC,Topscience,GABAA antagonist
+"(3S,4R)-4-(4-fluoro-3-methylphenyl)sulfonyl-1,1-dioxo-N-propylthiolan-3-amine",CCCN[C@H]1CS(=O)(=O)C[C@@H]1S(=O)(=O)c1ccc(F)c(C)c1,Topscience,GABAA antagonist
+"N-[2-(4-fluoro-3-methylphenyl)sulfonyl-2-pyridin-3-ylethyl]-2-methoxy-4,5-dimethylbenzenesulfonamide",COc1cc(C)c(C)cc1S(=O)(=O)NCC(c1cccnc1)S(=O)(=O)c1ccc(F)c(C)c1,Topscience,GABAA antagonist
+"N-[2-(1H-indol-3-yl)ethyl]-6,7-dimethoxyquinazolin-4-amine",COc1cc2ncnc(NCCc3c[nH]c4ccccc34)c2cc1OC,Topscience,GABAA antagonist
+ethyl 2-amino-5-(3-nitrophenyl)-1H-pyrrole-3-carboxylate,CCOC(=O)c1cc(-c2cccc([N+](=O)[O-])c2)[nH]c1N,Topscience,GABAA antagonist
+"2,3,4-trifluoro-N-[(2S)-1-[(5-methyl-1,2-oxazol-3-yl)amino]-1-oxo-3-phenylpropan-2-yl]benzamide",Cc1cc(NC(=O)[C@H](Cc2ccccc2)NC(=O)c2ccc(F)c(F)c2F)no1,Topscience,GABAA antagonist
+"N-(1,3-benzodioxol-5-ylmethyl)-2-chloro-5-(1,1-dioxothiazinan-2-yl)benzamide",O=C(NCc1ccc2c(c1)OCO2)c1cc(N2CCCCS2(=O)=O)ccc1Cl,Topscience,GABAA antagonist
+"1-[4-(1,3-benzoxazol-2-yl)piperidin-1-yl]-2-(4-chloro-3,5-dimethylphenoxy)ethanone",Cc1cc(OCC(=O)N2CCC(c3nc4ccccc4o3)CC2)cc(C)c1Cl,Topscience,GABAA antagonist
+"1-(1H-benzimidazol-2-ylmethylsulfanyl)-[1,2,4]triazolo[4,3-a]quinoline",c1ccc2c(c1)ccc1nnc(SCc3nc4ccccc4[nH]3)n12,Topscience,GABAA antagonist
+"N-[2-(1H-indol-3-yl)ethyl]-6-methylthieno[2,3-d]pyrimidin-4-amine",Cc1cc2c(NCCc3c[nH]c4ccccc34)ncnc2s1,Topscience,GABAA antagonist
+(2S)-1-(1H-indol-3-yl)-3-pyrrolidin-1-ylpropan-2-amine,N[C@@H](Cc1c[nH]c2ccccc12)CN1CCCC1,Topscience,GABAA antagonist
+(2S)-1-(1H-indol-3-yl)-3-piperidin-1-ylpropan-2-amine,N[C@@H](Cc1c[nH]c2ccccc12)CN1CCCCC1,Topscience,GABAA antagonist
+"ethyl 4-methyl-2-[[2-([1,2,4]triazolo[4,3-a]quinolin-1-ylsulfanyl)acetyl]amino]-1,3-thiazole-5-carboxylate",CCOC(=O)c1sc(NC(=O)CSc2nnc3ccc4ccccc4n23)nc1C,Topscience,GABAA antagonist
+"3-bromo-2-[(4-phenyl-1,2,4-triazol-3-yl)sulfanylmethyl]imidazo[1,2-a]pyrimidine",Brc1c(CSc2nncn2-c2ccccc2)nc2ncccn12,Topscience,GABAA antagonist
+"3-bromo-5-methyl-2-[(4-phenyl-1,2,4-triazol-3-yl)sulfanylmethyl]imidazo[1,2-a]pyridine",Cc1cccc2nc(CSc3nncn3-c3ccccc3)c(Br)n12,Topscience,GABAA antagonist
+1-(benzimidazol-1-yl)-3-phenoxypropan-2-ol,OC(COc1ccccc1)Cn1cnc2ccccc21,Topscience,GABAA antagonist
+"methyl 2-[(5-pyridin-4-yl-1H-1,2,4-triazol-3-yl)sulfanyl]acetate",COC(=O)CSc1nnc(-c2ccncc2)[nH]1,Topscience,GABAA antagonist
+"2-[2-(4-fluorophenyl)-2-oxoethyl]sulfanyl-5,6-dimethyl-3H-thieno[2,3-d]pyrimidin-4-one",Cc1sc2nc(SCC(=O)c3ccc(F)cc3)nc(O)c2c1C,Topscience,GABAA antagonist
+"4-[4-(1H-indol-3-yl)-5-methyl-1,3-thiazol-2-yl]phenol",Cc1sc(-c2ccc(O)cc2)nc1-c1c[nH]c2ccccc12,Topscience,GABAA antagonist
+"1-(1H-indol-3-yl)-2-[(5-pyridin-4-yl-1H-1,2,4-triazol-3-yl)sulfanyl]ethanone",O=C(CSc1nnc(-c2ccncc2)[nH]1)c1c[nH]c2ccccc12,Topscience,GABAA antagonist
+"2-[2-(1H-indol-3-yl)-2-oxoethyl]sulfanyl-5,7-dimethyl-3H-pyrido[2,3-d]pyrimidin-4-one",Cc1cc(C)c2c(O)nc(SCC(=O)c3c[nH]c4ccccc34)nc2n1,Topscience,GABAA antagonist
+"2-[(6,8-dibromo-2-oxochromene-3-carbonyl)amino]benzoic acid",O=C(O)c1ccccc1NC(=O)c1cc2cc(Br)cc(Br)c2oc1=O,Topscience,GABAA antagonist
+"4-(4-fluoro-3-methylphenyl)-N-(4-methylpyridin-2-yl)-1,3-thiazol-2-amine",Cc1ccnc(Nc2nc(-c3ccc(F)c(C)c3)cs2)c1,Topscience,GABAA antagonist
+2-[[[2-(4-tert-butylphenoxy)acetyl]amino]carbamoyl]benzoic acid,CC(C)(C)c1ccc(OCC(=O)NNC(=O)c2ccccc2C(=O)O)cc1,Topscience,GABAA antagonist
+1-ethyl-2-oxo-N-(pyridin-2-ylmethyl)benzo[cd]indole-6-sulfonamide,CCN1C(=O)c2cccc3c(S(=O)(=O)NCc4ccccn4)ccc1c23,Topscience,GABAA antagonist
+"3,5-dimethoxy-N-[(2-oxo-1H-benzo[cd]indol-6-yl)methyl]benzamide",COc1cc(OC)cc(C(=O)NCc2ccc3c4c(cccc24)C(=O)N3)c1,Topscience,GABAA antagonist
+4-chloro-N-[(2-oxo-1H-benzo[cd]indol-6-yl)methyl]benzenesulfonamide,O=C1Nc2ccc(CNS(=O)(=O)c3ccc(Cl)cc3)c3cccc1c23,Topscience,GABAA antagonist
+"N-(3-acetyl-2-methyl-1-benzofuran-5-yl)-N-(2,4,5-trimethylphenyl)sulfonylacetamide",CC(=O)c1c(C)oc2ccc(N(C(C)=O)S(=O)(=O)c3cc(C)c(C)cc3C)cc12,Topscience,GABAA antagonist
+"N-(3-acetyl-2-methyl-1-benzofuran-5-yl)-N-(2,5-dimethylphenyl)sulfonylbutanamide",CCCC(=O)N(c1ccc2oc(C)c(C(C)=O)c2c1)S(=O)(=O)c1cc(C)ccc1C,Topscience,GABAA antagonist
+"2-methyl-N-[5-(2-methylpropyl)-1,3,4-thiadiazol-2-yl]-3-nitrobenzamide",Cc1c(C(=O)Nc2nnc(CC(C)C)s2)cccc1[N+](=O)[O-],Topscience,GABAA antagonist
+"N-[5-(2-methylpropyl)-1,3,4-thiadiazol-2-yl]-2-(2-nitrophenyl)acetamide",CC(C)Cc1nnc(NC(=O)Cc2ccccc2[N+](=O)[O-])s1,Topscience,GABAA antagonist
+"2-(2,5-dimethoxyphenyl)-1-(6-fluoro-1,3-benzothiazol-2-yl)-4-hydroxy-3-(5-methylfuran-2-carbonyl)-2H-pyrrol-5-one",COc1ccc(OC)c(C2C(C(=O)c3ccc(C)o3)=C(O)C(=O)N2c2nc3ccc(F)cc3s2)c1,Topscience,GABAA antagonist
+"1-(6-ethoxy-1,3-benzothiazol-2-yl)-4-hydroxy-2-(2-methoxyphenyl)-3-(5-methylfuran-2-carbonyl)-2H-pyrrol-5-one",CCOc1ccc2nc(N3C(=O)C(O)=C(C(=O)c4ccc(C)o4)C3c3ccccc3OC)sc2c1,Topscience,GABAA antagonist
+"2-[(5,6-dimethyl-4-oxo-3H-thieno[2,3-d]pyrimidin-2-yl)sulfanyl]-N-(2-phenylethyl)acetamide",Cc1sc2nc(SCC(=O)NCCc3ccccc3)nc(O)c2c1C,Topscience,GABAA antagonist
+"5,7-dimethyl-2-[(5-phenyl-1,2,4-triazin-3-yl)sulfanylmethyl]imidazo[1,2-a]pyrimidine",Cc1cc(C)n2cc(CSc3nncc(-c4ccccc4)n3)nc2n1,Topscience,GABAA antagonist
+"N-(3-imidazo[1,2-a]pyridin-2-ylphenyl)-2-methyl-5-nitrobenzenesulfonamide",Cc1ccc([N+](=O)[O-])cc1S(=O)(=O)Nc1cccc(-c2cn3ccccc3n2)c1,Topscience,GABAA antagonist
+"2,4,5-trimethyl-N-[3-(8-methylimidazo[1,2-a]pyridin-2-yl)phenyl]benzenesulfonamide",Cc1cc(C)c(S(=O)(=O)Nc2cccc(-c3cn4cccc(C)c4n3)c2)cc1C,Topscience,GABAA antagonist
+"3,4-dimethyl-N-[4-(8-methylimidazo[1,2-a]pyridin-2-yl)phenyl]benzenesulfonamide",Cc1ccc(S(=O)(=O)Nc2ccc(-c3cn4cccc(C)c4n3)cc2)cc1C,Topscience,GABAA antagonist
+"3-benzylsulfanyl-[1,2,4]triazolo[4,3-c]quinazoline",c1ccc(CSc2nnc3c4ccccc4ncn23)cc1,Topscience,GABAA antagonist
+"N-(6-ethoxy-1,3-benzothiazol-2-yl)-2-oxo-1H-benzo[cd]indole-6-sulfonamide",CCOc1ccc2nc(NS(=O)(=O)c3ccc4c5c(cccc35)C(=O)N4)sc2c1,Topscience,GABAA antagonist
+N-[4-(cyclohexylsulfamoyl)phenyl]pyridine-4-carboxamide,O=C(Nc1ccc(S(=O)(=O)NC2CCCCC2)cc1)c1ccncc1,Topscience,GABAA antagonist
+"2-[2-[2-(1,3-dioxobenzo[de]isoquinolin-2-yl)ethoxy]ethyl]benzo[de]isoquinoline-1,3-dione",O=C1c2cccc3cccc(c23)C(=O)N1CCOCCN1C(=O)c2cccc3cccc(c23)C1=O,Topscience,GABAA antagonist
+"2-[1-(3-chloro-4-fluorophenyl)-2,5-dioxopyrrolidin-3-yl]sulfanylbenzoic acid",O=C(O)c1ccccc1SC1CC(=O)N(c2ccc(F)c(Cl)c2)C1=O,Topscience,GABAA antagonist
+"3-phenyl-6-[(E)-2-[3-(trifluoromethyl)phenyl]ethenyl]-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",FC(F)(F)c1cccc(/C=C/c2nn3c(-c4ccccc4)nnc3s2)c1,Topscience,GABAA antagonist
+"3-phenyl-6-[(E)-2-thiophen-2-ylethenyl]-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",C(=C/c1nn2c(-c3ccccc3)nnc2s1)\c1cccs1,Topscience,GABAA antagonist
+"2-(indolo[3,2-b]quinoxalin-6-ylmethyl)-5-phenyl-1,3,4-oxadiazole",c1ccc(-c2nnc(Cn3c4ccccc4c4nc5ccccc5nc43)o2)cc1,Topscience,GABAA antagonist
+"N-(6-bromo-1,3-benzothiazol-2-yl)-2-[1-(4-chlorophenyl)tetrazol-5-yl]sulfanylacetamide",O=C(CSc1nnnn1-c1ccc(Cl)cc1)Nc1nc2ccc(Br)cc2s1,Topscience,GABAA antagonist
+"2-(naphthalen-2-yloxymethyl)-5-phenyl-1,3,4-oxadiazole",c1ccc(-c2nnc(COc3ccc4ccccc4c3)o2)cc1,Topscience,GABAA antagonist
+"N-(3,4-dimethylphenyl)-2-(1-naphthalen-1-yltetrazol-5-yl)sulfanylacetamide",Cc1ccc(NC(=O)CSc2nnnn2-c2cccc3ccccc23)cc1C,Topscience,GABAA antagonist
+"N-(2,5-dimethylphenyl)-2-[1-(2,4-dimethylphenyl)tetrazol-5-yl]sulfanylacetamide",Cc1ccc(-n2nnnc2SCC(=O)Nc2cc(C)ccc2C)c(C)c1,Topscience,GABAA antagonist
+"2-[1-(2-fluorophenyl)tetrazol-5-yl]sulfanyl-N-(5-propylsulfanyl-1,3,4-thiadiazol-2-yl)acetamide",CCCSc1nnc(NC(=O)CSc2nnnn2-c2ccccc2F)s1,Topscience,GABAA antagonist
+3-[(1-methyl-2-oxobenzo[cd]indol-6-yl)sulfonylamino]benzoic acid,CN1C(=O)c2cccc3c(S(=O)(=O)Nc4cccc(C(=O)O)c4)ccc1c23,Topscience,GABAA antagonist
+N-(4-methoxyphenyl)-N-(1-methyl-2-oxobenzo[cd]indol-6-yl)sulfonylpyridine-3-carboxamide,COc1ccc(N(C(=O)c2cccnc2)S(=O)(=O)c2ccc3c4c(cccc24)C(=O)N3C)cc1,Topscience,GABAA antagonist
+"N-(2,5-dimethoxyphenyl)-1-ethyl-2-oxobenzo[cd]indole-6-sulfonamide",CCN1C(=O)c2cccc3c(S(=O)(=O)Nc4cc(OC)ccc4OC)ccc1c23,Topscience,GABAA antagonist
+2-[methyl-[(2-oxo-1H-benzo[cd]indol-6-yl)sulfonyl]amino]benzoic acid,CN(c1ccccc1C(=O)O)S(=O)(=O)c1ccc2c3c(cccc13)C(=O)N2,Topscience,GABAA antagonist
+(2-naphthalen-2-yl-2-oxoethyl) quinoline-2-carboxylate,O=C(COC(=O)c1ccc2ccccc2n1)c1ccc2ccccc2c1,Topscience,GABAA antagonist
+ethyl 3-(2-chlorophenyl)-3-[(2-oxochromene-3-carbonyl)amino]propanoate,CCOC(=O)CC(NC(=O)c1cc2ccccc2oc1=O)c1ccccc1Cl,Topscience,GABAA antagonist
+4-chloro-N-[3-(1-prop-2-enylbenzimidazol-2-yl)propyl]benzamide,C=CCn1c(CCCNC(=O)c2ccc(Cl)cc2)nc2ccccc21,Topscience,GABAA antagonist
+"4-[2,3-dihydro-1,4-benzodioxin-6-yl(hydroxy)methylidene]-1-[3-(dimethylamino)propyl]-5-(5-methylfuran-2-yl)pyrrolidine-2,3-dione",Cc1ccc(C2C(C(=O)c3ccc4c(c3)OCCO4)=C(O)C(=O)N2CCCN(C)C)o1,Topscience,GABAA antagonist
+"2-[(3,5-dimethyl-1,2-oxazol-4-yl)methylsulfanyl]-7,7-dimethyl-5-oxo-4-phenyl-6,8-dihydroquinoline-3-carbonitrile",Cc1noc(C)c1CSc1nc2c(c(-c3ccccc3)c1C#N)C(=O)CC(C)(C)C2,Topscience,GABAA antagonist
+"6-[5-(2-nitrophenyl)furan-2-yl]-3-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",O=[N+]([O-])c1ccccc1-c1ccc(-c2nn3c(-c4ccccc4)nnc3s2)o1,Topscience,GABAA antagonist
+"6-(2-methylquinolin-4-yl)-3-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Cc1cc(-c2nn3c(-c4ccccc4)nnc3s2)c2ccccc2n1,Topscience,GABAA antagonist
+"(2Z)-2-[5-[(4-chlorophenyl)methyl]-4-oxo-1,3-thiazolidin-2-ylidene]-4-methyl-3-oxopentanenitrile",CC(C)C(=O)/C(C#N)=C1/NC(=O)C(Cc2ccc(Cl)cc2)S1,Topscience,GABAA antagonist
+"6-(3-methyl-1-benzofuran-2-yl)-3-pyridin-4-yl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Cc1c(-c2nn3c(-c4ccncc4)nnc3s2)oc2ccccc12,Topscience,GABAA antagonist
+2-(6-chloro-7-hydroxy-4-methyl-2-oxochromen-3-yl)-N-[2-(4-methoxyphenyl)ethyl]acetamide,COc1ccc(CCNC(=O)Cc2c(C)c3cc(Cl)c(O)cc3oc2=O)cc1,Topscience,GABAA antagonist
+"N-[2-(3,4-dimethoxyphenyl)ethyl]-2-(2,3,5,9-tetramethyl-7-oxofuro[3,2-g]chromen-6-yl)acetamide",COc1ccc(CCNC(=O)Cc2c(C)c3cc4c(C)c(C)oc4c(C)c3oc2=O)cc1OC,Topscience,GABAA antagonist
+1-(2-bromophenyl)-4-(1-ethylbenzimidazol-2-yl)pyrrolidin-2-one,CCn1c(C2CC(=O)N(c3ccccc3Br)C2)nc2ccccc21,Topscience,GABAA antagonist
+"2-(2-chlorophenyl)-5-(naphthalen-2-yloxymethyl)-1,3,4-oxadiazole",Clc1ccccc1-c1nnc(COc2ccc3ccccc3c2)o1,Topscience,GABAA antagonist
+"2-(indolo[3,2-b]quinoxalin-6-ylmethyl)-1,3-benzoxazole",c1ccc2nc3c(nc2c1)c1ccccc1n3Cc1nc2ccccc2o1,Topscience,GABAA antagonist
+"2,5-dimethoxy-N-[3-(8-methylimidazo[1,2-a]pyridin-2-yl)phenyl]benzenesulfonamide",COc1ccc(OC)c(S(=O)(=O)Nc2cccc(-c3cn4cccc(C)c4n3)c2)c1,Topscience,GABAA antagonist
+"6-phenyl-3-(2-phenylethyl)-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",c1ccc(CCc2nnc3sc(-c4ccccc4)nn23)cc1,Topscience,GABAA antagonist
+"3-(3-bromophenyl)-6-pyridin-3-yl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Brc1cccc(-c2nnc3sc(-c4cccnc4)nn23)c1,Topscience,GABAA antagonist
+"3-(3-bromophenyl)-6-pyridin-4-yl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Brc1cccc(-c2nnc3sc(-c4ccncc4)nn23)c1,Topscience,GABAA antagonist
+"3-[(4-chlorophenyl)methyl]-6-pyridin-3-yl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Clc1ccc(Cc2nnc3sc(-c4cccnc4)nn23)cc1,Topscience,GABAA antagonist
+"3-[(4-chlorophenyl)methyl]-6-pyridin-4-yl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Clc1ccc(Cc2nnc3sc(-c4ccncc4)nn23)cc1,Topscience,GABAA antagonist
+"3-[(2-methoxyphenoxy)methyl]-6-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",COc1ccccc1OCc1nnc2sc(-c3ccccc3)nn12,Topscience,GABAA antagonist
+"3-[(4-chlorophenyl)methyl]-6-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Clc1ccc(Cc2nnc3sc(-c4ccccc4)nn23)cc1,Topscience,GABAA antagonist
+"3-benzyl-6-[5-methyl-1-[3-(trifluoromethyl)phenyl]triazol-4-yl]-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Cc1c(-c2nn3c(Cc4ccccc4)nnc3s2)nnn1-c1cccc(C(F)(F)F)c1,Topscience,GABAA antagonist
+"N-(5-ethyl-1,3,4-thiadiazol-2-yl)-5-methyl-1-(3-phenyl-2,1-benzoxazol-5-yl)triazole-4-carboxamide",CCc1nnc(NC(=O)c2nnn(-c3ccc4noc(-c5ccccc5)c4c3)c2C)s1,Topscience,GABAA antagonist
+1-(2-chlorophenyl)-5-methyl-N-[4-(5-methyltriazol-1-yl)phenyl]triazole-4-carboxamide,Cc1cnnn1-c1ccc(NC(=O)c2nnn(-c3ccccc3Cl)c2C)cc1,Topscience,GABAA antagonist
+"1-(2,5-dimethylphenyl)-5-methyl-N-[4-(5-methyltriazol-1-yl)phenyl]triazole-4-carboxamide",Cc1ccc(C)c(-n2nnc(C(=O)Nc3ccc(-n4nncc4C)cc3)c2C)c1,Topscience,GABAA antagonist
+"4-(3-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazol-6-yl)benzonitrile",N#Cc1ccc(-c2nn3c(-c4ccccc4)nnc3s2)cc1,Topscience,GABAA antagonist
+"3-phenyl-6-[4-(trifluoromethyl)phenyl]-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",FC(F)(F)c1ccc(-c2nn3c(-c4ccccc4)nnc3s2)cc1,Topscience,GABAA antagonist
+"6-(2-chloro-4,5-difluorophenyl)-3-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Fc1cc(Cl)c(-c2nn3c(-c4ccccc4)nnc3s2)cc1F,Topscience,GABAA antagonist
+"6-(4-phenoxyphenyl)-3-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",c1ccc(Oc2ccc(-c3nn4c(-c5ccccc5)nnc4s3)cc2)cc1,Topscience,GABAA antagonist
+"6-[(2,4-dichlorophenoxy)methyl]-3-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Clc1ccc(OCc2nn3c(-c4ccccc4)nnc3s2)c(Cl)c1,Topscience,GABAA antagonist
+"6-(6-chloro-2-methylquinolin-4-yl)-3-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Cc1cc(-c2nn3c(-c4ccccc4)nnc3s2)c2cc(Cl)ccc2n1,Topscience,GABAA antagonist
+"6-cyclopropyl-3-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",c1ccc(-c2nnc3sc(C4CC4)nn23)cc1,Topscience,GABAA antagonist
+"3,6-diphenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",c1ccc(-c2nn3c(-c4ccccc4)nnc3s2)cc1,Topscience,GABAA antagonist
+"2-(3-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazol-6-yl)benzenethiol",Sc1ccccc1-c1nn2c(-c3ccccc3)nnc2s1,Topscience,GABAA antagonist
+"6-[(E)-2-(3-chlorophenyl)ethenyl]-3-phenyl-[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole",Clc1cccc(/C=C/c2nn3c(-c4ccccc4)nnc3s2)c1,Topscience,GABAA antagonist
+"2-[1-(4-bromophenyl)-5-methyltriazol-4-yl]-5-phenyl-1,3,4-oxadiazole",Cc1c(-c2nnc(-c3ccccc3)o2)nnn1-c1ccc(Br)cc1,Topscience,GABAA antagonist
+"N-(5-ethylsulfanyl-1,3,4-thiadiazol-2-yl)-5-methyl-1-benzofuran-2-carboxamide",CCSc1nnc(NC(=O)c2cc3cc(C)ccc3o2)s1,Topscience,GABAA antagonist
+"N-(5-ethyl-1,3,4-thiadiazol-2-yl)-2-[5-(4-methylphenyl)tetrazol-2-yl]acetamide",CCc1nnc(NC(=O)Cn2nnc(-c3ccc(C)cc3)n2)s1,Topscience,GABAA antagonist
+"2-phenyl-5-[(1-phenyltetrazol-5-yl)sulfanylmethyl]-1,3,4-oxadiazole",c1ccc(-c2nnc(CSc3nnnn3-c3ccccc3)o2)cc1,Topscience,GABAA antagonist
+"1-[3-(4-chlorophenyl)-2,1-benzoxazol-5-yl]-N-(5-ethyl-1,3,4-thiadiazol-2-yl)-5-methyltriazole-4-carboxamide",CCc1nnc(NC(=O)c2nnn(-c3ccc4noc(-c5ccc(Cl)cc5)c4c3)c2C)s1,Topscience,GABAA antagonist
+"2-(7-hydroxy-5,13-dioxo-6,12-diazatetracyclo[6.5.2.04,15.011,14]pentadeca-1(14),2,4(15),7,9,11-hexaen-6-yl)-4-methylsulfanylbutanoic acid",CSCCC(C(=O)O)N1C(=O)c2ccc3c4c(ccc(c24)C1=O)C(=O)N3,Topscience,GABAA antagonist
+6-chloro-2-(4-fluorophenyl)chromen-4-one,O=c1cc(-c2ccc(F)cc2)oc2ccc(Cl)cc12,Topscience,GABAA antagonist
+6-chloro-2-(2-chlorophenyl)chromen-4-one,O=c1cc(-c2ccccc2Cl)oc2ccc(Cl)cc12,Topscience,GABAA antagonist
+ethyl 4-oxo-6-(trifluoromethyl)-1H-quinoline-3-carboxylate,CCOC(=O)c1cnc2ccc(C(F)(F)F)cc2c1O,Topscience,GABAA antagonist
+"3-[2-(5,6-dimethylbenzimidazol-1-yl)ethyl]-5-phenyl-1,2,4-oxadiazole",Cc1cc2ncn(CCc3noc(-c4ccccc4)n3)c2cc1C,Topscience,GABAA antagonist
+1-(4-fluorophenyl)-4-[1-[2-(4-methoxyphenoxy)ethyl]benzimidazol-2-yl]pyrrolidin-2-one,COc1ccc(OCCn2c(C3CC(=O)N(c4ccc(F)cc4)C3)nc3ccccc32)cc1,Topscience,GABAA antagonist
+N-[3-[1-(naphthalen-1-ylmethyl)benzimidazol-2-yl]propyl]furan-2-carboxamide,O=C(NCCCc1nc2ccccc2n1Cc1cccc2ccccc12)c1ccco1,Topscience,GABAA antagonist
+1-[(4-fluorophenyl)methyl]-4-[1-(2-methylprop-2-enyl)benzimidazol-2-yl]pyrrolidin-2-one,C=C(C)Cn1c(C2CC(=O)N(Cc3ccc(F)cc3)C2)nc2ccccc21,Topscience,GABAA antagonist
+"N-(3-carbamoyl-4,5,6,7-tetrahydro-1-benzothiophen-2-yl)-5-chloro-2-ethylsulfonylpyrimidine-4-carboxamide",CCS(=O)(=O)c1ncc(Cl)c(C(=O)Nc2sc3c(c2C(N)=O)CCCC3)n1,Topscience,GABAA antagonist
+"5-ethyl-N-(5-ethylsulfanyl-1,3,4-thiadiazol-2-yl)-3-methyl-1-benzofuran-2-carboxamide",CCSc1nnc(NC(=O)c2oc3ccc(CC)cc3c2C)s1,Topscience,GABAA antagonist
+"6,7-dimethyl-4-oxo-N-[2-(phenylcarbamoyl)-1-benzofuran-3-yl]chromene-2-carboxamide",Cc1cc2oc(C(=O)Nc3c(C(=O)Nc4ccccc4)oc4ccccc34)cc(=O)c2cc1C,Topscience,GABAA antagonist
+"2-(4-chloro-3,5-dimethylphenoxy)-N-(oxolan-2-ylmethyl)-N-[(3,4,5-trimethoxyphenyl)methyl]acetamide",COc1cc(CN(CC2CCCO2)C(=O)COc2cc(C)c(Cl)c(C)c2)cc(OC)c1OC,Topscience,GABAA antagonist
+methyl 2-[(7-methyl-4-oxochromene-2-carbonyl)amino]benzoate,COC(=O)c1ccccc1NC(=O)c1cc(=O)c2ccc(C)cc2o1,Topscience,GABAA antagonist
+"7-methyl-4-oxo-N-[3-(pyridin-3-ylmethylcarbamoyl)-4,5,6,7-tetrahydro-1-benzothiophen-2-yl]chromene-2-carboxamide",Cc1ccc2c(=O)cc(C(=O)Nc3sc4c(c3C(=O)NCc3cccnc3)CCCC4)oc2c1,Topscience,GABAA antagonist
+7-methyl-4-oxo-N-[2-(phenylcarbamoyl)-1-benzofuran-3-yl]chromene-2-carboxamide,Cc1ccc2c(=O)cc(C(=O)Nc3c(C(=O)Nc4ccccc4)oc4ccccc34)oc2c1,Topscience,GABAA antagonist
+"methyl 2-[(7,8-dimethyl-4-oxochromene-2-carbonyl)amino]benzoate",COC(=O)c1ccccc1NC(=O)c1cc(=O)c2ccc(C)c(C)c2o1,Topscience,GABAA antagonist
+N-[(2-fluorophenyl)methyl]-N-(furan-2-ylmethyl)-3-methoxybenzamide,COc1cccc(C(=O)N(Cc2ccco2)Cc2ccccc2F)c1,Topscience,GABAA antagonist
+"N-(5-benzylsulfanyl-1,3,4-thiadiazol-2-yl)-6,8-dimethyl-4-oxochromene-2-carboxamide",Cc1cc(C)c2oc(C(=O)Nc3nnc(SCc4ccccc4)s3)cc(=O)c2c1,Topscience,GABAA antagonist
+"N-(4,6-dimethyl-1,3-benzothiazol-2-yl)-4-methylthiadiazole-5-carboxamide",Cc1cc(C)c2nc(NC(=O)c3snnc3C)sc2c1,Topscience,GABAA antagonist
+"methyl 2-[(6-chloro-7-methyl-4-oxochromene-2-carbonyl)amino]-5,6-dihydro-4H-cyclopenta[b]thiophene-3-carboxylate",COC(=O)c1c(NC(=O)c2cc(=O)c3cc(Cl)c(C)cc3o2)sc2c1CCC2,Topscience,GABAA antagonist
+"2-(1H-indol-3-ylmethyl)-[1,2,4]triazolo[1,5-c]quinazoline",c1ccc2c(c1)ncn1nc(Cc3c[nH]c4ccccc34)nc21,Topscience,GABAA antagonist
+"2-[(3-methyl-2-oxo-[1,2,4]triazino[2,3-c]quinazolin-6-yl)sulfanyl]-N-(1,3-thiazol-2-yl)acetamide",Cc1nn2c(SCC(=O)Nc3nccs3)nc3ccccc3c2nc1=O,Topscience,GABAA antagonist
+"N-(6-methoxy-1,3-benzothiazol-2-yl)-2-(tetrazolo[1,5-c]quinazolin-5-ylsulfanyl)acetamide",COc1ccc2nc(NC(=O)CSc3nc4ccccc4c4nnnn34)sc2c1,Topscience,GABAA antagonist
+3-(4-methyl-3-oxoquinoxalin-2-yl)-N-(pyridin-2-ylmethyl)propanamide,Cn1c(=O)c(CCC(=O)NCc2ccccn2)nc2ccccc21,Topscience,GABAA antagonist
+"N-(1H-benzimidazol-2-yl)-3-(6-methoxy-[1,2,4]triazolo[4,3-b]pyridazin-3-yl)propanamide",COc1ccc2nnc(CCC(=O)Nc3nc4ccccc4[nH]3)n2n1,Topscience,GABAA antagonist
+"4-(6-methoxy-[1,2,4]triazolo[4,3-b]pyridazin-3-yl)-N-(1,3,4-thiadiazol-2-yl)butanamide",COc1ccc2nnc(CCCC(=O)Nc3nncs3)n2n1,Topscience,GABAA antagonist
+"N-[2-(6-fluoroindol-1-yl)ethyl]-4-(4-oxo-1,2,3-benzotriazin-3-yl)butanamide",O=C(CCCn1nnc2ccccc2c1=O)NCCn1ccc2ccc(F)cc21,Topscience,GABAA antagonist
+N-[2-(5-chloro-1H-indol-3-yl)ethyl]-2-(3-methyl-2-oxoquinoxalin-1-yl)acetamide,Cc1nc2ccccc2n(CC(=O)NCCc2c[nH]c3ccc(Cl)cc23)c1=O,Topscience,GABAA antagonist
+"N-[2-(1H-indol-3-yl)ethyl]-3-(6-propan-2-yloxy-[1,2,4]triazolo[4,3-b]pyridazin-3-yl)propanamide",CC(C)Oc1ccc2nnc(CCC(=O)NCCc3c[nH]c4ccccc34)n2n1,Topscience,GABAA antagonist
+N-[1-(2-methylpropyl)indol-4-yl]-2-(4-oxo-3-propan-2-ylphthalazin-1-yl)acetamide,CC(C)Cn1ccc2c(NC(=O)Cc3nn(C(C)C)c(=O)c4ccccc34)cccc21,Topscience,GABAA antagonist
+"(2S)-3-methyl-2-(3-oxo-1H-isoindol-2-yl)-N-[(1,3,5-trimethylpyrazol-4-yl)methyl]butanamide",Cc1nn(C)c(C)c1CNC(=O)[C@H](C(C)C)N1Cc2ccccc2C1=O,Topscience,GABAA antagonist
+4-chloro-N-[1-(2-methoxyethyl)indol-4-yl]-2-(tetrazol-1-yl)benzamide,COCCn1ccc2c(NC(=O)c3ccc(Cl)cc3-n3cnnn3)cccc21,Topscience,GABAA antagonist
+"N-(3,4-dimethylphenyl)-1-(4-fluoro-1H-indazol-3-yl)-5-oxopyrrolidine-3-carboxamide",Cc1ccc(NC(=O)C2CC(=O)N(c3n[nH]c4cccc(F)c34)C2)cc1C,Topscience,GABAA antagonist
+"N-(1,3-benzothiazol-2-yl)-1-(4-fluoro-1H-indazol-3-yl)-5-oxopyrrolidine-3-carboxamide",O=C(Nc1nc2ccccc2s1)C1CC(=O)N(c2n[nH]c3cccc(F)c23)C1,Topscience,GABAA antagonist
+"1-(1H-indazol-3-yl)-5-oxo-N-[3-([1,2,4]triazolo[4,3-a]pyridin-3-yl)propyl]pyrrolidine-3-carboxamide",O=C(NCCCc1nnc2ccccn12)C1CC(=O)N(c2n[nH]c3ccccc23)C1,Topscience,GABAA antagonist
+"2-(5-methoxy-1-benzofuran-3-yl)-N-(5-prop-2-enylsulfanyl-1,3,4-thiadiazol-2-yl)acetamide",C=CCSc1nnc(NC(=O)Cc2coc3ccc(OC)cc23)s1,Topscience,GABAA antagonist
+1-methyl-5-oxo-N-[3-(tetrazol-1-yl)phenyl]pyrrolidine-3-carboxamide,CN1CC(C(=O)Nc2cccc(-n3cnnn3)c2)CC1=O,Topscience,GABAA antagonist
+"2-cyclobutyl-7-(3-methoxyphenyl)-[1,2,4]triazolo[1,5-a]pyrimidine",COc1cccc(-c2ccnc3nc(C4CCC4)nn23)c1,Topscience,GABAA antagonist
+"7-(2-fluoro-4-methoxyphenyl)-2-(methoxymethyl)-[1,2,4]triazolo[1,5-a]pyrimidine",COCc1nc2nccc(-c3ccc(OC)cc3F)n2n1,Topscience,GABAA antagonist
+"7-(5-bromothiophen-2-yl)-[1,2,4]triazolo[1,5-a]pyrimidine",Brc1ccc(-c2ccnc3ncnn23)s1,Topscience,GABAA antagonist
+"(2Z)-2-(1H-indol-3-ylmethylidene)-[1,3]thiazolo[3,2-a]benzimidazol-1-one",O=c1/c(=C/c2c[nH]c3ccccc23)sc2nc3ccccc3n12,Topscience,GABAA antagonist
+"methyl 2-[3-(1,3-dioxobenzo[de]isoquinolin-2-yl)propanoylamino]-3-phenylpropanoate",COC(=O)C(Cc1ccccc1)NC(=O)CCN1C(=O)c2cccc3cccc(c23)C1=O,Topscience,GABAA antagonist
+"N-(2,6-dimethylphenyl)-2-([1,2,4]triazolo[3,4-b][1,3]benzothiazol-1-ylsulfanyl)acetamide",Cc1cccc(C)c1NC(=O)CSc1nnc2sc3ccccc3n12,Topscience,GABAA antagonist
+"N-(4-acetamidophenyl)-2-[(5-methyl-[1,2,4]triazolo[4,3-a]quinolin-1-yl)sulfanyl]acetamide",CC(=O)Nc1ccc(NC(=O)CSc2nnc3cc(C)c4ccccc4n23)cc1,Topscience,GABAA antagonist
+"ethyl 4-(furan-2-yl)-2-[[2-([1,2,4]triazolo[3,4-b][1,3]benzothiazol-1-ylsulfanyl)acetyl]amino]thiophene-3-carboxylate",CCOC(=O)c1c(-c2ccco2)csc1NC(=O)CSc1nnc2sc3ccccc3n12,Topscience,GABAA antagonist
+"5,6-dimethyl-4-[2-(5-methyl-2-nitrophenoxy)ethylsulfanyl]thieno[2,3-d]pyrimidine",Cc1ccc([N+](=O)[O-])c(OCCSc2ncnc3sc(C)c(C)c23)c1,Topscience,GABAA antagonist
+"5,6-dimethyl-2-[(E)-3-phenylprop-2-enyl]sulfanylthieno[2,3-d]pyrimidin-4-amine",Cc1sc2nc(SC/C=C/c3ccccc3)nc(N)c2c1C,Topscience,GABAA antagonist
+"N-(4,6-dimethylpyrimidin-2-yl)-4-[[4-(2-methylimidazo[1,2-a]pyridin-3-yl)-1,3-thiazol-2-yl]amino]benzenesulfonamide",Cc1cc(C)nc(NS(=O)(=O)c2ccc(Nc3nc(-c4c(C)nc5ccccn45)cs3)cc2)n1,Topscience,GABAA antagonist
+"dimethyl 3-methyl-5-[[2-[(5-methyl-[1,2,4]triazolo[4,3-a]quinolin-1-yl)sulfanyl]acetyl]amino]thiophene-2,4-dicarboxylate",COC(=O)c1sc(NC(=O)CSc2nnc3cc(C)c4ccccc4n23)c(C(=O)OC)c1C,Topscience,GABAA antagonist
+"2-[[2-(6-phenylthieno[2,3-d]pyrimidin-4-yl)sulfanylacetyl]amino]-5,6-dihydro-4H-cyclopenta[b]thiophene-3-carboxamide",NC(=O)c1c(NC(=O)CSc2ncnc3sc(-c4ccccc4)cc23)sc2c1CCC2,Topscience,GABAA antagonist
+"5,6-dimethyl-4-(4-naphthalen-2-ylsulfonylpiperazin-1-yl)thieno[2,3-d]pyrimidine",Cc1sc2ncnc(N3CCN(S(=O)(=O)c4ccc5ccccc5c4)CC3)c2c1C,Topscience,GABAA antagonist
+2-benzyl-4-phenylphthalazin-1-one,O=c1c2ccccc2c(-c2ccccc2)nn1Cc1ccccc1,Topscience,GABAA antagonist
+"1-[2-(3-methoxyphenoxy)ethylsulfanyl]-[1,2,4]triazolo[3,4-b][1,3]benzothiazole",COc1cccc(OCCSc2nnc3sc4ccccc4n23)c1,Topscience,GABAA antagonist
+"4-(3,4-dimethylphenoxy)-2-pyridin-3-ylquinazoline",Cc1ccc(Oc2nc(-c3cccnc3)nc3ccccc23)cc1C,Topscience,GABAA antagonist
+"N-(3-chloro-4-fluorophenyl)-2-(5,6-dimethylthieno[2,3-d]pyrimidin-4-yl)sulfanylacetamide",Cc1sc2ncnc(SCC(=O)Nc3ccc(F)c(Cl)c3)c2c1C,Topscience,GABAA antagonist
+"methyl 2-[[2-(5,6,7,8-tetrahydro-[1]benzothiolo[2,3-d]pyrimidin-4-ylsulfanyl)acetyl]amino]-5,6-dihydro-4H-cyclopenta[b]thiophene-3-carboxylate",COC(=O)c1c(NC(=O)CSc2ncnc3sc4c(c23)CCCC4)sc2c1CCC2,Topscience,GABAA antagonist
+"N-(3-chloro-4-fluorophenyl)-2-[(2-methyl-5,6,7,8-tetrahydro-[1]benzothiolo[2,3-d]pyrimidin-4-yl)sulfanyl]acetamide",Cc1nc(SCC(=O)Nc2ccc(F)c(Cl)c2)c2c3c(sc2n1)CCCC3,Topscience,GABAA antagonist
+4-naphthalen-1-yloxy-2-pyridin-3-ylquinazoline,c1cncc(-c2nc(Oc3cccc4ccccc34)c3ccccc3n2)c1,Topscience,GABAA antagonist
+"4-[(4-chlorophenyl)-hydroxymethylidene]-5-pyridin-3-yl-1-(pyridin-3-ylmethyl)pyrrolidine-2,3-dione",O=C(C1=C(O)C(=O)N(Cc2cccnc2)C1c1cccnc1)c1ccc(Cl)cc1,Topscience,GABAA antagonist
+"2-[3-[4-(1,3-benzodioxol-5-ylmethyl)piperazin-1-yl]-3-oxopropyl]benzo[de]isoquinoline-1,3-dione",O=C(CCN1C(=O)c2cccc3cccc(c23)C1=O)N1CCN(Cc2ccc3c(c2)OCO3)CC1,Topscience,GABAA antagonist
+"2-[2-(4-quinolin-8-ylsulfonylpiperazin-1-yl)ethyl]benzo[de]isoquinoline-1,3-dione",O=C1c2cccc3cccc(c23)C(=O)N1CCN1CCN(S(=O)(=O)c2cccc3cccnc23)CC1,Topscience,GABAA antagonist
+"2-[3-(1,3-dioxobenzo[de]isoquinolin-2-yl)propylsulfanyl]benzoic acid",O=C(O)c1ccccc1SCCCN1C(=O)c2cccc3cccc(c23)C1=O,Topscience,GABAA antagonist
+"2-[2-[4-[2-(4-chlorophenyl)-2-oxoethyl]piperazin-1-yl]ethyl]benzo[de]isoquinoline-1,3-dione",O=C(CN1CCN(CCN2C(=O)c3cccc4cccc(c34)C2=O)CC1)c1ccc(Cl)cc1,Topscience,GABAA antagonist
+"ethyl 2-[[5-[(4-amino-5,6-dimethylthieno[2,3-d]pyrimidin-2-yl)sulfanylmethyl]-4-phenyl-1,2,4-triazol-3-yl]sulfanyl]acetate",CCOC(=O)CSc1nnc(CSc2nc(N)c3c(C)c(C)sc3n2)n1-c1ccccc1,Topscience,GABAA antagonist
+"N-(2,6-dichlorophenyl)-2-[(5,7-dimethyl-[1,2,4]triazolo[4,3-a]pyrimidin-3-yl)sulfanyl]acetamide",Cc1cc(C)n2c(SCC(=O)Nc3c(Cl)cccc3Cl)nnc2n1,Topscience,GABAA antagonist
+2-methoxyethyl 5-[(2-chloro-5-nitrophenyl)sulfonylamino]-2-methyl-1-benzofuran-3-carboxylate,COCCOC(=O)c1c(C)oc2ccc(NS(=O)(=O)c3cc([N+](=O)[O-])ccc3Cl)cc12,Topscience,GABAA antagonist
+ethyl 5-[(2-oxo-1H-benzo[cd]indol-6-yl)sulfonylamino]-2-propyl-1-benzofuran-3-carboxylate,CCCc1oc2ccc(NS(=O)(=O)c3ccc4c5c(cccc35)C(=O)N4)cc2c1C(=O)OCC,Topscience,GABAA antagonist
+"N-(3-cyano-5,6-dihydro-4H-cyclopenta[b]thiophen-2-yl)-2-[(5-methyl-[1,2,4]triazolo[4,3-a]quinolin-1-yl)sulfanyl]acetamide",Cc1cc2nnc(SCC(=O)Nc3sc4c(c3C#N)CCC4)n2c2ccccc12,Topscience,GABAA antagonist
+"N-(3-cyano-4,5-dimethylthiophen-2-yl)-2-([1,2,4]triazolo[3,4-b][1,3]benzothiazol-1-ylsulfanyl)acetamide",Cc1sc(NC(=O)CSc2nnc3sc4ccccc4n23)c(C#N)c1C,Topscience,GABAA antagonist
+"5-(3-fluorophenyl)-2-(3-methylphenyl)-5,6-dihydro-[1,2,4]triazolo[5,1-b][1,3]thiazin-7-one",Cc1cccc(-c2nc3n(n2)C(=O)CC(c2cccc(F)c2)S3)c1,Topscience,GABAA antagonist
+"5-(benzenesulfonyl)-6-imino-11-methyl-7-(pyridin-3-ylmethyl)-1,7,9-triazatricyclo[8.4.0.03,8]tetradeca-3(8),4,9,11,13-pentaen-2-one",Cc1cccn2c(=O)c3cc(S(=O)(=O)c4ccccc4)c(=N)n(Cc4cccnc4)c3nc12,Topscience,GABAA antagonist
+"5-(3-bromophenyl)-4-[hydroxy(phenyl)methylidene]-1-(5-methyl-1,2-oxazol-3-yl)pyrrolidine-2,3-dione",Cc1cc(N2C(=O)C(O)=C(C(=O)c3ccccc3)C2c2cccc(Br)c2)no1,Topscience,GABAA antagonist
+"4-[(4-bromophenyl)-hydroxymethylidene]-5-(2,5-dimethoxyphenyl)-1-(5-methyl-1,2-oxazol-3-yl)pyrrolidine-2,3-dione",COc1ccc(OC)c(C2C(C(=O)c3ccc(Br)cc3)=C(O)C(=O)N2c2cc(C)on2)c1,Topscience,GABAA antagonist
+"N-(3-acetyl-2-methyl-1-benzofuran-5-yl)-1,3-dioxobenzo[de]isoquinoline-5-sulfonamide",CC(=O)c1c(C)oc2ccc(NS(=O)(=O)c3cc4c5c(cccc5c3)C(=O)NC4=O)cc12,Topscience,GABAA antagonist
+"N-[3-(1,3-benzothiazol-2-yl)phenyl]-2-[(5-methyl-1,3,4-thiadiazol-2-yl)sulfanyl]acetamide",Cc1nnc(SCC(=O)Nc2cccc(-c3nc4ccccc4s3)c2)s1,Topscience,GABAA antagonist
+"N-[3-(1,3-benzothiazol-2-yl)phenyl]-2-([1,2,4]triazolo[4,3-a]pyridin-3-ylsulfanyl)acetamide",O=C(CSc1nnc2ccccn12)Nc1cccc(-c2nc3ccccc3s2)c1,Topscience,GABAA antagonist
+"N-[2-(3,4-dimethoxyphenyl)ethyl]-2,5-dimethylbenzenesulfonamide",COc1ccc(CCNS(=O)(=O)c2cc(C)ccc2C)cc1OC,Topscience,GABAA antagonist
+"4-[[4-chloro-1-(2,3-dimethylphenyl)-2,5-dioxopyrrol-3-yl]amino]benzenesulfonamide",Cc1cccc(N2C(=O)C(Cl)=C(Nc3ccc(S(N)(=O)=O)cc3)C2=O)c1C,Topscience,GABAA antagonist
+"3-chloro-1-(4-ethylphenyl)-4-[3-(trifluoromethyl)anilino]pyrrole-2,5-dione",CCc1ccc(N2C(=O)C(Cl)=C(Nc3cccc(C(F)(F)F)c3)C2=O)cc1,Topscience,GABAA antagonist
+"2-[(4-amino-5-methyl-1,2,4-triazol-3-yl)sulfanyl]-1-(3,4-dihydro-2H-quinolin-1-yl)ethanone",Cc1nnc(SCC(=O)N2CCCc3ccccc32)n1N,Topscience,GABAA antagonist
+4-hydroxy-N-(3-methylpyridin-2-yl)-2-oxo-1-propylquinoline-3-carboxamide,CCCn1c(=O)c(C(=O)Nc2ncccc2C)c(O)c2ccccc21,Topscience,GABAA antagonist
+3-[[5-chloro-3-(4-methylphenyl)imidazol-4-yl]methyl]triazole-4-carboxylic acid,Cc1ccc(-n2cnc(Cl)c2Cn2nncc2C(=O)O)cc1,Topscience,GABAA antagonist
+"3-(6-methoxy-[1,2,4]triazolo[4,3-b]pyridazin-3-yl)-N-[2-(2-methylpropyl)-3H-benzimidazol-5-yl]propanamide",COc1ccc2nnc(CCC(=O)Nc3ccc4[nH]c(CC(C)C)nc4c3)n2n1,Topscience,GABAA antagonist
+N-[2-[2-(6-bromoindol-1-yl)ethylamino]-2-oxoethyl]pyrazine-2-carboxamide,O=C(CNC(=O)c1cnccn1)NCCn1ccc2ccc(Br)cc21,Topscience,GABAA antagonist
+"2-(4-oxo-1,2,3-benzotriazin-3-yl)-N-[2-([1,2,4]triazolo[4,3-a]pyridin-3-yl)ethyl]acetamide",O=C(Cn1nnc2ccccc2c1=O)NCCc1nnc2ccccn12,Topscience,GABAA antagonist
+"6-fluoro-4-oxo-N-[2-([1,2,4]triazolo[4,3-a]pyridin-3-yl)ethyl]-1H-quinoline-3-carboxamide",O=C(NCCc1nnc2ccccn12)c1cnc2ccc(F)cc2c1O,Topscience,GABAA antagonist
+N-[3-(1H-benzimidazol-2-yl)propyl]-2-(tetrazol-1-yl)benzamide,O=C(NCCCc1nc2ccccc2[nH]1)c1ccccc1-n1cnnn1,Topscience,GABAA antagonist
+"N-(7-methoxyquinolin-3-yl)-2,3-dimethylquinoxaline-6-carboxamide",COc1ccc2cc(NC(=O)c3ccc4nc(C)c(C)nc4c3)cnc2c1,Topscience,GABAA antagonist
+"2-[3-(2-chlorophenyl)-6-oxopyridazin-1-yl]-N-(5-propan-2-yl-1H-1,2,4-triazol-3-yl)acetamide",CC(C)c1nc(NC(=O)Cn2nc(-c3ccccc3Cl)ccc2=O)n[nH]1,Topscience,GABAA antagonist
+"2-(2-phenylethyl)-7-pyridin-2-yl-[1,2,4]triazolo[1,5-a]pyrimidine",c1ccc(CCc2nc3nccc(-c4ccccn4)n3n2)cc1,Topscience,GABAA antagonist
+"methyl 5-methyl-2-[[(2S)-2-phenyl-2-(tetrazol-1-yl)acetyl]amino]-1,3-thiazole-4-carboxylate",COC(=O)c1nc(NC(=O)[C@H](c2ccccc2)n2cnnn2)sc1C,Topscience,GABAA antagonist
+"methyl 5-(2-methylpropyl)-2-[4-(4-oxo-1,2,3-benzotriazin-3-yl)butanoylamino]-1,3-thiazole-4-carboxylate",COC(=O)c1nc(NC(=O)CCCn2nnc3ccccc3c2=O)sc1CC(C)C,Topscience,GABAA antagonist
+"2-(3-chloro-4-fluorophenyl)-7-thiophen-3-yl-[1,2,4]triazolo[1,5-a]pyrimidine",Fc1ccc(-c2nc3nccc(-c4ccsc4)n3n2)cc1Cl,Topscience,GABAA antagonist
+"2-(3-chloro-4-fluorophenyl)-7-(furan-2-yl)-[1,2,4]triazolo[1,5-a]pyrimidine",Fc1ccc(-c2nc3nccc(-c4ccco4)n3n2)cc1Cl,Topscience,GABAA antagonist
+"3-(1-methylbenzimidazol-5-yl)-N-[5-(oxolan-2-yl)-1H-1,2,4-triazol-3-yl]propanamide",Cn1cnc2cc(CCC(=O)Nc3n[nH]c(C4CCCO4)n3)ccc21,Topscience,GABAA antagonist
+"2-(4-oxothieno[2,3-d]pyrimidin-3-yl)-N-[3-([1,2,4]triazolo[4,3-a]pyridin-3-yl)propyl]acetamide",O=C(Cn1cnc2sccc2c1=O)NCCCc1nnc2ccccn12,Topscience,GABAA antagonist
+"3-(6-methoxy-[1,2,4]triazolo[4,3-b]pyridazin-3-yl)-N-[2-(1-methylbenzimidazol-2-yl)ethyl]propanamide",COc1ccc2nnc(CCC(=O)NCCc3nc4ccccc4n3C)n2n1,Topscience,GABAA antagonist
+(2S)-N-(1-butylbenzimidazol-5-yl)-3-phenyl-2-(tetrazol-1-yl)propanamide,CCCCn1cnc2cc(NC(=O)[C@H](Cc3ccccc3)n3cnnn3)ccc21,Topscience,GABAA antagonist
+"2-[(3,5-difluorophenyl)methyl]-7-(4-methoxyphenyl)-[1,2,4]triazolo[1,5-a]pyrimidine",COc1ccc(-c2ccnc3nc(Cc4cc(F)cc(F)c4)nn23)cc1,Topscience,GABAA antagonist
+"3-[(4S)-1-[(3-fluorophenyl)methyl]-2,5-dioxoimidazolidin-4-yl]-N-[3-([1,2,4]triazolo[4,3-a]pyridin-3-yl)propyl]propanamide",O=C(CC[C@@H]1NC(=O)N(Cc2cccc(F)c2)C1=O)NCCCc1nnc2ccccn12,Topscience,GABAA antagonist
+"3-[2-(1,2-dimethylindol-3-yl)-2-oxoethyl]-2,3-diazatetracyclo[7.6.1.05,16.010,15]hexadecan-4-one",Cc1c(C(=O)Cn2nc3c4c(cccc4c2=O)-c2ccccc2-3)c2ccccc2n1C,Topscience,GABAA antagonist
+5-chloro-3-methyl-N-[2-methyl-5-(tetrazol-1-yl)phenyl]-1-benzofuran-2-carboxamide,Cc1ccc(-n2cnnn2)cc1NC(=O)c1oc2ccc(Cl)cc2c1C,Topscience,GABAA antagonist
+5-bromo-3-methyl-N-[2-methyl-5-(tetrazol-1-yl)phenyl]-1-benzofuran-2-carboxamide,Cc1ccc(-n2cnnn2)cc1NC(=O)c1oc2ccc(Br)cc2c1C,Topscience,GABAA antagonist
+Tetrodotoxin,C(C1(C2C3C(N=C(NC34C(C1OC(C4O)(O2)O)O)N)O)O)O,Literature,GABAA antagonist
+Pentetrazol,C1CCC2=NN=NN2CC1,Literature,GABAA antagonist
+Salicylidene Salicylhydrazide,C1=CC=C(C(=C1)/C=N/NC(=O)C2=CC=CC=C2O)O,Literature,GABAA antagonist
+RU5135,C[C@]12CC[C@H](C[C@H]1CC[C@@H]3[C@@H]2C(=O)C[C@]4([C@H]3CC(=N4)N)C)O,Literature,GABAA antagonist
+Bilobalide,CC(C)(C)[C@@]1(C[C@H]2[C@@]3([C@]14[C@H](C(=O)O[C@H]4OC3=O)O)CC(=O)O2)O,Literature,GABAA antagonist
+Clozapine,CN1CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42,DrugBank,GABAA antagonist
+SGS-742,CCCCP(=O)(CCCN)O,DrugBank,GABAA antagonist

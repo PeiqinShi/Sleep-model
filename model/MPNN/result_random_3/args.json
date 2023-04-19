@@ -26,7 +26,7 @@
     "crossval_index_file": null,
     "crossval_index_sets": null,
     "cuda": false,
-    "data_path": "../../data/refined_gabaa.csv",
+    "data_path": "../../data/stan_data_mpnn.csv",
     "data_weights_path": null,
     "dataset_type": "classification",
     "depth": 3,
@@ -42,9 +42,9 @@
     "evidential_regularization": 0,
     "explicit_h": false,
     "extra_metrics": [
-        "auc",
-        "ba",
-        "mcc"
+        "accuracy",
+        "pre",
+        "rec"
     ],
     "features_generator": null,
     "features_only": false,
@@ -67,12 +67,12 @@
     "loss_function": "binary_cross_entropy",
     "max_data_size": null,
     "max_lr": 0.001,
-    "metric": "f1",
+    "metric": "auc",
     "metrics": [
-        "f1",
         "auc",
-        "ba",
-        "mcc"
+        "accuracy",
+        "pre",
+        "rec"
     ],
     "minimize_score": false,
     "mpn_shared": false,
@@ -96,8 +96,8 @@
     "reaction_mode": "reac_diff",
     "reaction_solvent": false,
     "reproducibility": {
-        "command_line": "python 'D:\\anaconda\\envs\\chemprop\\Scripts\\chemprop_train' --data_path ../../data/refined_gabaa.csv --dataset_type classification --metric f1 --extra_metrics auc ba mcc --split_sizes 0.56 0.14 0.3 --seed 400 --save_dir result_random_3",
-        "time": "Mon Apr 10 23:04:30 2023"
+        "command_line": "python 'D:\\anaconda\\envs\\chemprop\\Scripts\\chemprop_train' --data_path ../../data/stan_data_mpnn.csv --dataset_type classification --metric auc --extra_metrics accuracy pre rec --seed 400 --save_dir result_random_3",
+        "time": "Wed Apr 19 21:55:03 2023"
     },
     "resume_experiment": false,
     "save_dir": "result_random_3",
@@ -123,15 +123,15 @@
     "spectra_target_floor": 1e-08,
     "split_key_molecule": 0,
     "split_sizes": [
-        0.56,
-        0.14,
-        0.3
+        0.8,
+        0.1,
+        0.1
     ],
     "split_type": "random",
     "target_columns": null,
     "target_weights": null,
     "task_names": [
-        "label"
+        "target"
     ],
     "test": false,
     "test_fold_index": null,

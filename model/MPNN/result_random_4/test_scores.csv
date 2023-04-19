@@ -1,2 +1,2 @@
-Task,Mean f1,Standard deviation f1,Fold 0 f1,Mean auc,Standard deviation auc,Fold 0 auc,Mean ba,Standard deviation ba,Fold 0 ba,Mean mcc,Standard deviation mcc,Fold 0 mcc
-label,0.8353982300884956,0.0,0.8353982300884956,0.9288753237143914,0.0,0.9288753237143914,0.8463928967813541,0.0,0.8463928967813541,0.690913856039332,0.0,0.690913856039332
+Task,Mean auc,Standard deviation auc,Fold 0 auc,Mean accuracy,Standard deviation accuracy,Fold 0 accuracy,Mean pre,Standard deviation pre,Fold 0 pre,Mean rec,Standard deviation rec,Fold 0 rec
+target,0.8207426376440461,0.0,0.8207426376440461,0.7698412698412699,0.0,0.7698412698412699,0.75,0.0,0.75,0.7090909090909091,0.0,0.7090909090909091
