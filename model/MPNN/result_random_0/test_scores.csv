@@ -1,2 +1,0 @@
-Task,Mean auc,Standard deviation auc,Fold 0 auc,Mean accuracy,Standard deviation accuracy,Fold 0 accuracy,Mean pre,Standard deviation pre,Fold 0 pre,Mean rec,Standard deviation rec,Fold 0 rec
-target,0.854040404040404,0.0,0.854040404040404,0.7857142857142857,0.0,0.7857142857142857,0.782608695652174,0.0,0.782608695652174,0.8181818181818182,0.0,0.8181818181818182
