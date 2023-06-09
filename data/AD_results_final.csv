@@ -1,0 +1,2398 @@
+smiles,InDomain,Volatile_compounds
+CC(C)CCCC(C)CCCC(C)CCCC(=O)C,FALSE,"6,10,14-Trimethylpentadecan-2-one"
+CC(=O)CC(C)(C)O,FALSE,Diacetone alcohol
+CCCCCO,TRUE,1-Pentanol
+CCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Tetracosane
+CCCCCCCCCCCCCCCCCCCCCCC,FALSE,Tricosane
+CCC=CCC=CCC=CCCCCCCCC(=O)OC,FALSE,Methyl linolenate
+CCCCCCCCCCCCCCCC(=O)O,TRUE,Palmitic Acid
+CCCCCCCCCCCCCCCC(=O)OC,TRUE,Methyl palmitate
+CC(C)CC=O,FALSE,3-Methylbutanal
+CCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Hexacosane
+CCC(C)C=O,FALSE,2-Methylbutyraldehyde
+CC(C)CCCC(C)CCCC(C)CCCC(=CCO)C,FALSE,Phytol
+CCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Heptacosane
+CC(C)CCCC(C)CCCC(C)CCCC(=C)C=C,FALSE,Neophytadiene
+CC=CC(=O)C1=C(CCCC1(C)C)C,TRUE,"(Z)-1-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-2-buten-1-one"
+CC1=CCCC(=C)C2CC(C2CC1)(C)C,FALSE,Caryophyllene
+CC1(CC2C1CCC3(C(O3)CCC2=C)C)C,FALSE,Caryophyllene oxide
+CC(=CCCC(=CCC=C(C)C=C)C)C,FALSE,"(Z,E)-alpha-Farnesene"
+CC1CCC2C(CC=CC2(O1)C)(C)C,FALSE,Dihydroedulan I
+CC1=CCC(C=CCC(=CCC1)C)(C)C,FALSE,Humulene
+CC1(C2CCC1(C(C2)OC=O)C)C,TRUE,Bornyl formate
+CC1=CCC(CC1)C(=CCC=C(C)C)C,FALSE,alpha-Bisabolene
+CC1=CCC2C(C1C2(C)C)O,FALSE,Chrysanthenol
+CC1=CCC(C=CCC2(C(O2)CC1)C)(C)C,FALSE,Humulene epoxide II
+CC(C)C1CCC2(C1C3C2CCC3=C)C,FALSE,beta-Bourbonene
+CC1=CCC2C3C1C2(CCC3C(C)C)C,TRUE,alpha-Copaene
+CC1(C2CCC(C2)(C1=O)C)C,TRUE,Fenchone
+CC1=CCC(CC1)C2(CCC(C(O2)(C)C)O)C,FALSE,"Tetrahydro-2,2,6-trimethyl-6-(4-methyl-3-cyclohexen-1-yl)-2H-pyran-3-ol"
+CC1=CC2C(CCC(=C2CC1)C)C(C)C,TRUE,(+)-delta-Cadinene
+CC(=CCCC(C)(C=C)OC(=O)C)C,FALSE,Linalyl acetate
+CC(=CCCC(C)(C=C)O)C,TRUE,Linalool
+CC(=CCC(COC(=O)C)C(=C)C)C,FALSE,Lavandulyl acetate
+CC1=CCC(CC1)C(C)(C)O,FALSE,alpha-TERPINEOL
+CC(=CCCC(=CCOC(=O)C)C)C,TRUE,Geranyl acetate
+CC1(C2CCC(O1)(CC2)C)C,FALSE,Eucalyptol
+CC1(C2CCC1(C(C2)O)C)C,TRUE,Borneol
+CC1=CC2C(CCC(C2CC1)(C)O)C(C)C,FALSE,Cedrelanol
+CC(=CCCC(=CCO)C)C,TRUE,Nerol
+CC1=CCC(CC1)(C(C)C)O,FALSE,4-Carvomenthenol
+CC(=CCCC(=C)C=C)C,FALSE,Myrcene
+CC1=CCC(CC1)C(=C)C,FALSE,Limonene
+CC1(C2CCC1(C(=O)C2)C)C,TRUE,Camphor
+CC(=CCC(CO)C(=C)C)C,FALSE,(R)-Lavandulol
+CC(=O)OC1CC2CCC1(C2(C)C)C,TRUE,Bornyl acetate
+CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C,FALSE,beta-Elemene
+CC1=C(C=C(C=C1)C(C)C)OC,TRUE,Carvacrol methyl ether
+CC1(C2CCC(=C)C1C2)C,FALSE,beta-Pinene
+CC1=CC=C(C=C1)C(C)C,FALSE,p-Cymene
+CC(=CCC=C(C)C=C)C,FALSE,Ocimene
+CC1=CCC2CC1C2(C)C,TRUE,alpha-Pinene
+CC1=CCCC(=C)C=CC(CC1)C(C)C,FALSE,Germacrene D
+CC1(C2CC3C1(C3C2)C)C,FALSE,Tricyclene
+CC1=CC2C(CC1)C(=C)CCC2C(C)C,FALSE,(-)-gamma-Cadinene
+CC1=C(C=C(C=C1)C(C)C)O,TRUE,Carvacrol
+CC1=CC(=C(C=C1OC)C(C)C)OC,TRUE,"2,5-Dimethoxy-p-cymene"
+CC1(C2C1C3C(CCC3(C)O)C(=C)CC2)C,FALSE,Spathulenol
+CC(=CCCC(=CCCC(=C)C=C)C)C,TRUE,beta-Farnesene
+CC1=C2CC(CCC2(CCC1)C)C(C)(C)O,FALSE,gamma-Eudesmol
+CC(CCC=C(C)C)CCO,TRUE,Citronellol
+CC(CCC=C(C)C)CCOC=O,TRUE,Citronellyl formate
+CC(=CCCC(=CCOC=O)C)C,TRUE,Geranyl formate
+CC=C(C)C(=O)OCC=C(C)CCC=C(C)C,FALSE,Geranyl tiglate
+CC1CCC2=C(CCC3C(C12)C3(C)C)C,TRUE,Viridiflorene
+C[Si]1(O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)C,FALSE,Octadecamethylcyclononasiloxane
+C[Si](C)(C)N=C(C(F)(F)F)O[Si](C)(C)C,FALSE,"N,O-bis trimethylsilyl trifluoroacetamide"
+C[Si]1(O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)C,FALSE,"Cyclodecasiloxane, eicosamethyl-"
+CC1=CCC(CC1)C(=C)CCC=C(C)C,FALSE,beta-Bisabolene
+CC1=CCCC(=CC2C(C2(C)C)CC1)C,FALSE,Bicyclogermacrene
+CC(C)C1CCC2(C(C1=O)O2)C,FALSE,trans-Piperitone epoxide
+CC1=CCC2C(C1)C2(C)C,FALSE,3-Carene
+CC1=CCC(CC1O)C(=C)C,FALSE,trans-Carveol
+CCCCCC(C=C)O,TRUE,1-Octen-3-OL
+CC(=C)C1CC(CCC1(C)C=C)C(C)(C)O,FALSE,Elemol
+CC1=CCC(=CC1)C(C)C,FALSE,gamma-Terpinene
+CC(=C1CCC2(C(C1=O)O2)C)C,FALSE,Piperitenone oxide
+CC(C)C12CCC(=C)C1C2,FALSE,Sabinene
+CC1CCC(=C(C)C)C(=O)C1,FALSE,Pulegone
+CC1CCC(C(=O)C1)C(C)C,FALSE,Isomenthone
+CC1(CCC(O1)C(C)(C)O)C=C,TRUE,Linalyl oxide
+COC1=CC(=C(C=C1)OC)OC,TRUE,"1,2,4-Trimethoxybenzene"
+CC1=CC(=O)C(=C(C)C)CC1,FALSE,Piperitenone
+CC1=CC(=O)C(CC1)C(C)C,FALSE,Piperitone
+CCCCCC(CC)O,FALSE,3-Octanol
+CCCCCC(=O)CC,FALSE,3-Octanone
+CC1CCC(C(=O)C1)C(=C)C,FALSE,Isopulegone
+CC1=CCC(CC1=O)C(=C)C,FALSE,Carvone
+CC1CCC(CC1=O)C(C)C,FALSE,Carvomenthone
+CC(C)C12CCC(C1C2)(C)O,TRUE,cis-Sabinene hydrate
+CC12CCCC(=C)C1CC(CC2)C(C)(C)O,FALSE,beta-Eudesmol
+CC1CCC(CC2=C1CCC2C)C(C)(C)O,FALSE,Guaiol
+CC(C)C1CCC(C2C1C(CC2)C(=O)C)(C)O,TRUE,Oplopanone
+CC1=CC2C(CC1)C(=CCC2C(C)C)C,FALSE,(+)-alpha-Cadinene
+CC1CCC2C(C2(C)C)C3C1CCC3C,FALSE,"1H-Cycloprop[e]azulene, decahydro-1,1,4,7-tetramethyl-"
+CC(=C)C1CCC2(CCCC(=C)C2C1)C,FALSE,beta-Selinene
+CC1(C2CCC(C2)C1=C)C,FALSE,Camphene
+CC(C)C1CCC(=C)C=C1,FALSE,beta-Phellandrene
+CC1=CC=C(CC1)C(C)C,FALSE,alpha-Terpinene
+CC(CCC=C(C)C)CCOC(=O)C,TRUE,Citronellyl acetate
+CC1=CC(=C(C=C1)C(C)C)OC(=O)C,FALSE,Thymol acetate
+CC1=C(C=C(C=C1)C(C)C)OC(=O)C,FALSE,Carvacryl acetate
+COC1=CC(=CC(=C1OC)OC)CC=C,TRUE,Elemicin
+CC=CC1=CC(=C(C(=C1)OC)OC)OC,TRUE,Isoelemicin
+COC1=CC(=CC2=C1OCO2)CC=C,TRUE,Myristicin
+CC1CCC(C2C13C2C(=C)CC3)C(C)C,FALSE,beta-Cubebene
+CC(CCC=C(C)C)C1CCC(=C)C=C1,FALSE,(-)-beta-Sesquiphellandrene
+CC1=CCC2CC1C2(C)CCC=C(C)C,TRUE,alpha-Bergamotene
+CC1=CCC2(C1C2)C(C)C,FALSE,alpha-Thujene
+CC1=CCC(=C(C)C)CC1,FALSE,Terpinolene
+CC1(C2C1CC(CC2)(C)O)C,FALSE,(+)-Caran-3beta-ol
+CC1=CCC(CC1)(C(C)C)OC(=O)C,FALSE,(4R)-4-Isopropyl-1-methyl-1-cyclohexene-4-ol acetate
+CC=C(C)C=CC=C(C)C,FALSE,"2,6-Dimethyl-2,4,6-octatriene"
+CC(=C)C1CCC(CC1)CO,TRUE,[4-(Prop-1-en-2-yl)cyclohexyl]methanol
+COC1=C(C=CC(=C1)CC=C)O,TRUE,Eugenol
+CC1CCC(C2C13C2C(=CC3)C)C(C)C,FALSE,alpha-Cubebene
+COC(=O)C=CC1=CC=CC=C1,FALSE,Methyl cinnamate
+C1=CC=C2C=CC=CC2=C1,FALSE,Naphthalene
+CC1=CCCC(=CCC(=C(C)C)CC1)C,FALSE,Germacrene B
+CC1(C2CC=C(C1C2)CO)C,FALSE,Myrtenol
+C1=CC=C2C=CC=C2C=C1,FALSE,Azulene
+C1CCC=CC1,FALSE,Cyclohexene
+CCOC(=O)C1=CC(=C(N=C1C)C)C(=O)OCC,FALSE,"Diethyl 2,6-dimethylpyridine-3,5-dicarboxylate"
+CC1CCC2=C(CCC(CC12)C(=C)C)C,FALSE,"Guaia-1(10),11-diene"
+CC1CCC(C2C1C=CC(C2)C)C(C)C,FALSE,Cadinene
+CC1CCC(=C(C)C)CC2=C1CCC2C,FALSE,Guaiene
+CC1=CCC=C(CC=CC(CC1)(C)C)C,FALSE,"1,5,9,9-Tetramethyl-1,4,7-cycloundecatriene"
+CC1(C(O1)CCC(=C)C=C)C,FALSE,"2,2-Dimethyl-3-(3-methylenepent-4-enyl)oxirane"
+CC(=CCCC(=CC=O)C)C,FALSE,Citral
+CC1(C2CCC(C2)(C1O)C)C,TRUE,Fenchyl alcohol
+CC(C)(C1CCC(=C)CC1)O,FALSE,"alpha,alpha-Dimethyl-4-methylenecyclohexanemethanol"
+CC(C)CCC(=O)C1=COC=C1,FALSE,Perilla ketone
+CC(C)C=CC(=O)C1=COC=C1,FALSE,Isoegomaketone
+C1=CC=C(C=C1)C=O,FALSE,Benzaldehyde
+CC(=CCCC1=COC=C1)C,FALSE,Perillene
+CCC(=O)CCC(C)C,FALSE,6-Methylheptan-3-one
+CCCC(C)(C)CC,FALSE,"3,3-Dimethylhexane"
+CCCCCCCC(C)CC(C)C,FALSE,"2,4-Dimethylundecane"
+CC(C)CCCCC(C)CCCC(C)C,FALSE,"2,6,11-Trimethyldodecane"
+CCCC(C)CCCCCC(C)C,FALSE,"2,8-Dimethylundecane"
+CCCCC(C)CCC(C)CCC,FALSE,"4,7-Dimethylundecane"
+CCCCC(C)CC(C)CCCC,FALSE,"5,7-Dimethylundecane"
+CC(=CCCC(=CC(=O)OC)C)C,FALSE,Methyl geranate
+CC1(CCCC2(C1=CC(=O)O2)C)C,FALSE,Dihydroactinidiolide
+CCCCCCCCCCCCCCCC(=O)OCC(C1C(=C(C(=O)O1)O)O)OC(=O)CCCCCCCCCCCCCCC,FALSE,"5,6-O-dipalmitoyl-L-ascorbic acid"
+CCCCCCCCCCI,FALSE,1-Iododecane
+CC1CCC(CC2=C1CCC2C)C(=C)C,FALSE,alpha-Guaiene
+CC1CCC2(C(C3CCC2(C1C3)C)(C)C)O,TRUE,Patchouli alcohol
+CC1CCC23C1CC(C2(C)C)CC=C3C,TRUE,alpha-Patchoulene
+CC1CCC2=C1CC3CCC2(C3(C)C)C,TRUE,beta-Patchoulene
+CC1CCC2(C(=C)C3CCC2(C1C3)C)C,FALSE,Seychellene
+CC(C)C1=CC(C(CC1)(C)C=C)C(=C)C,FALSE,delta-Elemene
+CC1=CCCC2(C1CC(CC2)C(=C)C)C,FALSE,alpha-Selinene
+CC(=C)C1CCC2(CCCC(C2C1)(C)O)C,FALSE,Selin-11-en-4alpha-ol
+CC1CCCC2(C1C=C(CC2)C(=C)C)C,FALSE,"naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-1,4a-dimethyl-7-(1-methylethenyl)-, (1R,4aS,8aR)-"
+CC1CCC(C2C1(CCC(=C2)C)O)C(C)C,FALSE,"1,10-Di-epcubenol"
+CC1=CC=C(C=C1)C2(CCCC2(C)C)C,FALSE,Cuparene
+CC(C)C1CCC2(C3C1C2C(=C)CC3)C,FALSE,beta-Copaene
+CC=CC(=O)C1=C(C=CCC1(C)C)C,TRUE,(Z)-beta-Damascenone
+CC1=C(C(CCC1)(C)C)C=CC(=O)C,FALSE,beta-Ionone
+CC(CCC=C(C)C)C12CCC(C1C2)(C)O,FALSE,"(2R,5S)-2-methyl-5-(6-methylhept-5-en-2-yl)bicyclo[3.1.0]hexan-2-ol"
+CC1=CCC(CC1)(C(C)CCC=C(C)C)O,FALSE,6-Epi-beta-bisabolol
+CC1=CC(=O)C2CC1C2(C)C,FALSE,Verbenone
+CC1=CCC(CC1)C(C)(CCC=C(C)C)O,FALSE,Bisabolol
+CC1=CCC(CC1)C(C)(C)OC(=O)C,FALSE,alpha-Terpinyl acetate
+CC(=O)OCC(COC(=O)C)OC(=O)C,FALSE,Triacetin
+CC(=O)OCC1=CC=CC=C1,FALSE,Benzyl acetate
+CC(=O)OCCC1=CCC2CC1C2(C)C,FALSE,Nopyl acetate
+C=CCC1=CC2=C(C=C1)OCO2,TRUE,Safrole
+CC1=CCCC(C=CC(CC1)C(C)C)(C)O,FALSE,Germacrene D-4-ol
+CCCCCC=CCC=CCCCCCCCC(=O)O,FALSE,Linoleic acid
+CCC=CCC=CCC=CCCCCCCCC(=O)O,FALSE,Linolenic acid
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Nonacosane
+CCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Pentacosane
+CC(CCC=C(C)C)C1CCC(=O)C=C1,FALSE,"4-(1,5-Dimethylhex-4-enyl)cyclohex-2-enone"
+CC(CCC=C(C)C)C12CCC(=C)C1C2,FALSE,Sesquisabinene
+CC1=CCCC2(C1CC(CC2)C(C)(C)O)C,FALSE,alpha-Eudesmol
+CC1=CC(=C(C=C1)C(C)C)OC,TRUE,2-Isopropyl-5-methylanisole
+CCCCCCCCC=CCCCCCCCC(=O)O,TRUE,Oleic acid
+CC(=C)C1CCC(CC1)(C)O,FALSE,beta-Terpineol
+CC1=CC=CC=C1C(C)C,FALSE,O-Cymene
+CC(C)C12CCC(O1)(CC2)C,FALSE,"1,4-Cineole"
+CC1=CC2C(C2(C)C)CC1,FALSE,2-Carene
+CCCCCCC=CCCCCCCCC(=O)OCC,FALSE,Ethyl 9-hexadecenoate
+CC1CCC=C2C1(CC(CC2)C(=C)C)C,TRUE,Valencene
+CC1CC=C2C1CC=C(CC2C)C(C)C,FALSE,"Guaia-3,7-diene"
+CC1CCC2C1C3C(C3(C)C)CCC2(C)O,TRUE,Globulol
+CCCCCCC,FALSE,Heptane
+C(=O)O,FALSE,Formic acid
+CC1CCC2C13CC=C(C(C3)C2(C)C)C,TRUE,alpha-Cedrene
+CC1CCCC2=CCC3C(C12C)C3(C)C,TRUE,Aristolene
+CCCCCCC=CCCCCCCCC(=O)O,TRUE,Palmitoleic acid
+CC1CCC2C1C3C(C3(C)C)CCC2=C,FALSE,Allo-Aromadendrene
+CCCCCCCC=O,FALSE,Octanal
+C1=COC(=C1)C=O,FALSE,Furfural
+CCCCCCCC(=O)O,TRUE,Octanoic acid
+CCCCCCCCC=O,FALSE,Nonanal
+CC1=CC=C(O1)C=O,FALSE,5-Methylfurfural
+CCCCCC=O,FALSE,Hexanal
+CCCCCCCCC(=O)O,TRUE,Nonanoic acid
+CCCCCC(=O)O,TRUE,Hexanoic acid
+CCCCCC=CC=CC=O,FALSE,"2,4-Decadienal"
+CCCCCCO,TRUE,1-Hexanol
+CC=CC1=CC=C(C=C1)OC,FALSE,Anethole
+CC1=CC=C(C=C1)C(C)CC(C=C(C)C)O,FALSE,Bisacumol
+CCCCCCC(=O)O,TRUE,Heptanoic acid
+CCCCCC1=CC=CO1,FALSE,2-Pentylfuran
+C1=CC=C(C=C1)CC=O,FALSE,Phenylacetaldehyde
+CCCCCCCCCC=O,FALSE,Decanal
+C1=CC=C(C=C1)NC=O,FALSE,Formanilide
+CC1CC=C2C1C3C(C3(C)C)CCC2=C,FALSE,"Aromadendrene, dehydro-"
+CC(=C)C=CC=C(C)C=C,FALSE,Cosmene
+CCCCCC=C=CC(=O)OCC,FALSE,"Nona-2,3-dienoic acid, ethyl ester"
+C1=CC=C(C=C1)CCN,FALSE,Phenethylamine
+CC(=C)C1CCC(CC1)(C)OC(=O)C,FALSE,beta-Terpinyl acetate
+CC1(C2CC1C(=C)C(C2)O)C,FALSE,trans-Pinocarveol
+CC1(C2CC1C(=C)C(=O)C2)C,FALSE,Pinocarvone
+CC1(C2CC=C(C1C2)C=O)C,FALSE,Myrtenal
+CC=CC1=CC(=C(C=C1)OC)OC,TRUE,Isoeugenyl methyl ether
+COC1=C(C=C(C=C1)CC=C)OC,TRUE,Methyleugenol
+CC1=CCC(C1(C)C)CC=O,FALSE,alpha-Campholenal
+C1=CC=C(C=C1)C=CC=O,FALSE,Cinnamaldehyde
+CC1CC2C(C2(C)C)C=C1,FALSE,"4,7,7-Trimethylbicyclo[4.1.0]hept-2-ene"
+CCC=CCCO,TRUE,cis-3-Hexen-1-ol
+CC1CCC(C2C1=CCC(=C2)C)C(C)C,TRUE,"naphthalene,1,2,3,4,4a,7-hexahydro"
+CCCCCCCCCCCCCC=O,FALSE,Tetradecanal
+CC(C)C1=CCC(=C)CC1,FALSE,beta-Terpinene
+CC1CCC2C(C2(C)C)C3=C(CCC13)C,TRUE,alpha-Gurjunene
+CC1(CC=CC2(C3C1CC2(CC3)C)C)C,FALSE,Longifolene-(V4)
+CC=CCCC(C=C)O,FALSE,"1,6-Octadien-3-ol"
+CC(=CCCC(C)(C1CO1)O)C,FALSE,"Linalool, oxide"
+CC1(C2CCC1(C(C2)OC(=O)CC3=CC=CC=C3)C)C,TRUE,Isobornyl phenylacetate
+C1=CC=C2C(=C1)C=CO2,FALSE,Benzofuran
+C1CC(CC=C1)C=O,FALSE,3-Cyclohexene-1-carboxaldehyde
+CC(C)(CCCC(=C)C=C)O,TRUE,Myrcenol
+CC1(CCCC1)O,FALSE,1-Methylcyclopentanol
+CCOC(=O)CCCCCCC(=O)OCC,FALSE,Diethyl suberate
+CCCCCCCCCCCC=O,FALSE,Dodecanal
+CCCCCCCCCC(=O)O,TRUE,Decanoic acid
+CC1CCC(C(=CCC2C1CC2(C)C)C)O,FALSE,Caryophyllenyl alcohol
+CC1CCC(C2=C1CCC(=C2)C)C(C)C,FALSE,"trans-Cadina-1(6),4-diene"
+CC1=CC=C(C=C1)C(C)CCC=C(C)C,FALSE,alpha-Curcumene
+CCCCCCCCCO,TRUE,Nonan-1-ol
+CC(=CCCC(=O)C)C,FALSE,6-Methyl-5-hepten-2-one
+C1=CC=C(C=C1)CCC=O,TRUE,3-Phenylpropanal
+CC(=O)OCC=CC1=CC=CC=C1,FALSE,Cinnamyl acetate
+CC1(CCCC2(C1CCC3(C2CCC(O3)(C)C=C)C)C)C,FALSE,"Labd-14-ene, 8,13-epoxy-, (13S)-"
+CC1(CCCC2(C1CCC34C2CCC(C3)C(=C)C4)C)C,FALSE,Phyllocladene
+CC1=CC(=CC=C1)C(C)C,FALSE,M-Cymene
+CC1C=CC2(C1C2)C(C)C,FALSE,beta-Thujene
+CC1=CCC2C(C1)C(CC=C2C)C(C)C,FALSE,beta-Cadinene
+CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C,FALSE,Vitamin E
+CCCCCCCCCCCCCCCC(=O)CCCCCCCCCCCCCCC,FALSE,16-Hentriacontanone
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Triacontane
+CCCCCCCCCCCCCCCCCCCCCCCCCC=O,FALSE,Hexacosanal
+CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C,FALSE,Clionasterol
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Hentriacontane
+CC(=O)OC1=C(C=C(C=C1)CC=C)OC,TRUE,Acetyleugenol
+CC1=CCC2(CC1)C(=C)CCCC2(C)C,FALSE,(-)-beta-Chamigrene
+C=CCC1=CC=C(C=C1)O,TRUE,4-Allylphenol
+CC(=O)OC1=CC=C(C=C1)CC=C,TRUE,4-Allylphenyl acetate
+CC(=O)C1=CC=CC=C1C(=O)O,FALSE,2-Acetylbenzoic acid
+CCC(=O)OC(C)(CCC=C(C)C)C=C,FALSE,Linalyl propionate
+CC1CCC2C(=CCC(C2=C1)C(C)C)C,FALSE,"Cadina-4,9-diene"
+CC1=CCC2C3C1C2(CCC3C(C)(C)O)C,FALSE,"2-[(1S,2S,3R,7S)-6,8-dimethyl-3-tricyclo[4.4.0.02,7]dec-8-enyl]propan-2-ol"
+CCCCCCCCCCCCCCCCCC=C,FALSE,1-Nonadecene
+CCCCCCCCCCCCCCCC(=O)OCC,FALSE,Ethyl palmitate
+CCCCCCCCCCCCCCCCCCC,FALSE,Nonadecane
+CCCCCCCCCCCCCCCC,FALSE,Hexadecane
+CCCCCCCCCCCCCCCCC,FALSE,Heptadecane
+CC1(CCCC2(C3C1C(C2=C)CC3)C)C,FALSE,Longifolene
+CC1(C2C1C3C(=C)CCCC3(CC2)C)C,FALSE,gamma-Maaliene
+CC1=CCCC(C1)C(=C)C,FALSE,"(+)-m-Mentha-1(6),8-diene"
+CC1CCC2C3C1C2(CC(C3C(C)C)O)C,TRUE,Dihydro-cis-alpha-copaene-8-ol
+CC(=C1CCC2(CCCC(C2C1)(C)O)C)C,FALSE,Juniper camphor
+CC1=CCCC2(C1CC(=C(C)C)CC2)C,TRUE,"3,7(11)-Eudesmadiene"
+CC(=CCCC(=CCCC(=CCO)C)C)C,TRUE,"(2Z,6E)-Farnesol"
+CC1CCC(=C(C)C)C=C1,FALSE,Isoterpinolene
+CC(=C1CCC(C(C1)C(=C)C)(C)C=C)C,FALSE,gamma-Elemene
+CC(=O)OC1C(C2CCC1(C2)C)(C)C,TRUE,"(1R,2R,4S)-1,3,3-Trimethylbicyclo(2.2.1)heptan-2-yl acetate"
+CC1=CCCC(=CCC(CC1)C(=C)C)C,FALSE,"8-Isopropenyl-1,5-dimethyl-1,5-Cyclodecadiene"
+CC1CCC=C2C1(C3C(C3(C)C)CC2)C,TRUE,Calarene
+CC(C)C1CCC2(C3C1C2C(=CC3)CO)C,FALSE,Ylangenol
+CC(=C)C1CCC2(C(C1)O2)C,FALSE,"(1R,4R,6S)-1-methyl-4-(prop-1-en-2-yl)-7-oxabicyclo[4.1.0]heptane"
+CC1(CC2C1CCC(=C)C(CCC2=C)O)C,FALSE,Caryophylladienol I
+CC1=C(C(=C)C(=C1C)C)C,FALSE,"1,2,3,4-Tetramethylfulvene"
+CC(C)C1CCC(C=C1)(C)O,FALSE,"2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethyl)-, trans-"
+CC1=CC=C(C=C1)C(=C)C,FALSE,1-Methyl-4-(prop-1-en-2-yl)benzene
+C1CCC(CC1)(C(=O)C2=CC=CC=C2)O,FALSE,1-Hydroxycyclohexyl phenyl ketone
+CC(C)(C)C1=CC(=C(C=C1)O)C(C)(C)C,TRUE,"2,4-Di-tert-butylphenol"
+CC(C)(C)C1=CC(=CC=C1)C(C)(C)C,FALSE,"1,3-Di-tert-butylbenzene"
+CCCCC(C)CCC(C)CC,FALSE,"3,6-Dimethyldecane"
+CCCCCCCCCCCCCCCCCCCCC,FALSE,Heneicosane
+CCCCCCCCCCCCCC,FALSE,Tetradecane
+CCCCCCCCCC(C)CCCCCCC,FALSE,8-Methylheptadecane
+CCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Octacosane
+CCCCCCCCCCCCCCCCCCCCCCCCCCC(C)C,FALSE,2-Methyloctacosane
+CCCCCCCCCCCCCCCCCC,FALSE,Octadecane
+CC(C)C1=CC=C(C=C1)C(=O)O,FALSE,4-Isopropylbenzoic acid
+CC1CCC(C(C1)O)C(=C)C,TRUE,Isopulegol
+CCC1=CC=C(C=C1)OC,TRUE,4-Ethylanisole
+CC1=CCCC2(C13CC(C3CC2)(C)C)C,TRUE,alpha-Panasinsene
+CC1=C2CC(CCC2(CCC1)C)C(=C)C,TRUE,"2-Isopropenyl-4a,8-dimethyl-1,2,3,4,4a,5,6,7-octahydronaphthalene"
+CC1(CC2C(C1)C3(CCCC2(C3O)C)C)C,TRUE,alpha-Caryophyllene alcohol
+CC,FALSE,Ethane
+CC1CC2CC(C3CC(C3C(C1)O2)(C)C)C,TRUE,"Caryophyllan-2,6-beta-oxide"
+CCCCCCCCCCCC(=O)O,TRUE,Lauric acid
+CCCCCCCCC,FALSE,Nonane
+CCCCCCCCCC(=O)C,FALSE,2-Undecanone
+CC(=O)O,TRUE,Acetic acid
+CCCCCCCCCC(=O)OCCCCCCCCC,FALSE,Nonyl decanoate
+CCCCCCCCCCCCCCCC=O,FALSE,Hexadecanal
+CCCCCCCCCCCCCO,TRUE,1-Tridecanol
+CCCCCCCCCCCCCC(=O)O,TRUE,Myristic acid
+CCCCCCCCCCCCC=O,FALSE,Tridecanal
+CCCCCCCCCCCCC,FALSE,Tridecane
+CCCCCCCCCCCCCC=CC=O,FALSE,2-Hexadecenal
+CCCCCCCCCCCC,FALSE,Dodecane
+CC1=CC(C2CC1C2(C)C)O,FALSE,cis-Verbenol
+CC1=CCC2(CCCC(C23C1C3)(C)C)C,FALSE,Thujopsene
+C1=CC=C(C=C1)COC(=O)NC(CC(=O)O)C(=O)O,FALSE,N-Carbobenzyloxy-L-aspartic acid
+CC(CCC(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C,TRUE,Ursodeoxycholic acid
+C(CCCCCCCBr)CCCCCCBr,FALSE,"1,14-Dibromotetradecane"
+CC(=CCCC(=CC=CC=C(C)CCC=C(C)C)C)C,FALSE,"2,6,8,10,14-Hexadecapentaene, 2,6,11,15-tetramethyl-, (E,E,E)-"
+CC1CCC2C13CC(C2(C)C)C(=C)C(C3)O,FALSE,Cedr-8(15)-en-9-ol
+CC(C)CC(=O)OCCC(C)CCC=C(C)C,FALSE,Citronellyl isovalerate
+CC1CCCC(C1CC(C)C(C)O)(C)C,TRUE,"Cyclohexanepropanol, alpha,beta,2,2,6-pentamethyl-"
+CC1=C(OC=C1)CC=C(C)CCC=C(C)C,FALSE,Sesquirosefuran
+CC12CCC3C(C4C1(O2)CC5C4(O5)C)OC(=O)C3=C,FALSE,Isoepoxyestafiatin
+CC12CCC(CC1O2)C3(CO3)C,FALSE,Limonene dioxide
+CCCCCCCCCC#CCCCCCCOC1CCCCO1,TRUE,2-(7-Heptadecynyloxy)tetrahydro-2H-pyran
+CC1(CCCC2(C1CCC34C2CCC(O3)(OC4)C)C)C,FALSE,Ambracetal
+CCCCCCCCCCCCCCCCC=C,FALSE,1-Octadecene
+CCCCCCCCCCC=C,FALSE,1-Dodecene
+CCCCCCCCCCCCCCCCC1CO1,FALSE,"1,2-Epoxyoctadecane"
+CCCCCCCCCCCCCCCCO,TRUE,1-Hexadecanol
+CCCCCCCCCCCCCCCCCCCCO,TRUE,1-Eicosanol
+CCCCCCCCC#CCCCCCCCC(=O)OC,FALSE,Methyl octadec-9-ynoate
+CCCCCCCCCCCC=CCOC(=O)C,FALSE,Z-2-Tetradecen-1-ol acetate
+CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC,FALSE,Bis(2-ethylhexyl) phthalate
+CCCCCCCCC=CCCCCCCCCOCCO,FALSE,Emulphor
+CC1=C2C=COC2=C(C=C1)C,FALSE,"4,7-Dimethylbenzofuran"
+CC(=CC1=CC=CC=C1)C(=O)C,FALSE,3-Methyl-4-phenyl-3-buten-2-one
+CC1(C2=CC=CC=C2C(O1)(C)O)C,FALSE,"1,3,3-Trimethyl-2-benzofuran-1-ol"
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Pentatriacontane
+CCOC(=O)C1=CC=CC=C1,FALSE,Ethyl benzoate
+CC1=CC(=C(C=C1)OC)OC,TRUE,"3,4-Dimethoxytoluene"
+CC1CCCC1O,FALSE,"Cyclopentanol, 2-methyl-, trans-"
+CCCCCCCCCCCO,TRUE,1-Undecanol
+CC1=CC=C(C=C1)O,TRUE,P-Cresol
+CCCCCCC=CCO,FALSE,trans-2-Nonen-1-ol
+C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2,FALSE,Benzyl benzoate
+CC1=CC=CC=C1,FALSE,Toluene
+C(Cl)Cl,FALSE,Dichloromethane
+CCCCCC,FALSE,Hexane
+CC(=O)C,TRUE,Acetone
+CC1=CC(=CC(=C1)OC)OC,TRUE,"3,5-Dimethoxytoluene"
+C(Cl)(Cl)Cl,FALSE,Chloroform
+COC(=O)C1=CC=CC=C1,FALSE,Methyl benzoate
+CCOCCCO,FALSE,3-Ethoxy-1-propanol
+COC1=CC=C(C=C1)OC,FALSE,"1,4-Dimethoxybenzene"
+CC=O,FALSE,Acetaldehyde
+CCC(C)O,FALSE,2-Butanol
+CCC1=CC=CO1,FALSE,2-Ethylfuran
+CCC(C)CO,FALSE,2-Methyl-1-butanol
+CC(C)CCO,FALSE,Isoamyl alcohol
+CC(C(C)(C)CO)O,FALSE,"2,2-Dimethyl-1,3-butanediol"
+CC(C(C)O)O,FALSE,"2,3-Butanediol"
+CCC(C=C)O,FALSE,1-Penten-3-OL
+C(CC(=O)O)CO,FALSE,4-Hydroxybutanoic acid
+CCCC=CCO,TRUE,2-Hexen-1-OL
+CCC1CCC(=O)O1,FALSE,gamma-Caprolactone
+CC(C)COC(=O)C,FALSE,Isobutyl acetate
+CC1=CCCC(C1C=CC(=O)C)(C)C,FALSE,alpha-Ionone
+CC(=CCCC(=CCCC(=O)C)C)C,FALSE,Nerylacetone
+CC(C)CCCC(C)CCCC(C)CCCC(C)(C=C)O,FALSE,Isophytol
+COC(=O)C1=CC=CC=C1O,FALSE,Methyl salicylate
+CCCCCCCCCCCC(=O)OCC,FALSE,Ethyl dodecanoate
+CC1=CC2=C(C=CC(=C2C=C1)C)C(C)C,FALSE,Cadalene
+CCCCCOC(=O)C(C)C,FALSE,Pentyl isobutyrate
+CC1CCCC1,FALSE,Methylcyclopentane
+CCCCC(C)C,FALSE,2-Methylhexane
+CC(=CCCC(=CCCC(=CCCC(=O)C)C)C)C,FALSE,Farnesylacetone
+CC(=CCCC(=CCCC(=CCCC=O)C)C)C,FALSE,"4,8,12-Tetradecatrienal, 5,9,13-trimethyl-"
+CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC,FALSE,Dibutyl phthalate
+CCCCC1=CC=CC=C1,FALSE,Butylbenzene
+CC1=CC2=CC=CC=C2O1,FALSE,2-Methylbenzofuran
+COC1=CC=CC=C1CCO,FALSE,2-Methoxyphenethyl alcohol
+CC1=CC=C(CC1)C(C)CCC=C(C)C,FALSE,gamma-Curcumene
+CC(C)(C)OC(=O)N1CCC(=CC(=O)O)CC1,FALSE,1-Boc-piperidin-4-ylideneacetic acid
+C=CCC1=CC=CC=C1O,FALSE,2-Allylphenol
+CC1CCC(=C2C1CCC(=C)C2)C(C)C,FALSE,"Bicyclo[4.4.0]dec-1-ene, 2-isopropyl-5-methyl-9-methylene-"
+CC1CCC2=C(CCC(CC12)C(C)(C)O)C,FALSE,Bulnesol
+CC1CCC(C2=C1C=CC(=C2)C)C(C)C,FALSE,Calamenene
+CCCCCCCCCCCCCCCCCC(=O)OC,TRUE,Methyl stearate
+CCCCCC=CCC=CCCCCCCCC(=O)OC,FALSE,Methyl linoleate
+CC1=C2C=C(CCC2(CCC1)C)C(C)C,FALSE,delta-Selinene
+CC1(C=CC=C2C13CCC(C3)C2(C)C)C,FALSE,"Isolongifolene, 9,10-dehydro-"
+CCCCCCCCCCCC#CC=CCC,FALSE,"3-Heptadecen-5-yne, (Z)-"
+CCCCCCCCCC=CC=CC=CC(=O)OC,FALSE,Methyl hexadecatrienoate
+CCCCCCCCCCCC=CC=CC(=O)OC,FALSE,Methyl hexadecadienoate
+CC(C)C1=CCC2(C(CCC(=C)C2C1)O)C,FALSE,"(1R,4aS,8aR)-6-Isopropyl-8a-methyl-4-methylene-1,2,3,4,4a,5,8,8a-octahydronaphthalen-1-ol"
+CC1=CCC(CC1OC(=O)C(C)(C)C)C(=C)C,FALSE,"Limonen-6-ol, pivalate"
+CC(=CCCC(=CCCC(=C)C1CO1)C)C,FALSE,"Farnesene epoxide, E-"
+CC1=CC2=C(C=C1)C(=C)CCC2C(C)C,FALSE,beta-Calacorene
+CCC=CCCOC(=O)C1=CC=CC=C1,FALSE,cis-3-Hexenyl benzoate
+CC1(CCCC23C14C2CC(C4)C3(C)C)C,FALSE,Cycloisolongifolene
+CC(=C1CCC2(CCCC(=C)C2C1)C)C,FALSE,"Selina-4(15),7(11)-diene"
+CCCCCCCCC=CCCCCCCCC(=O)OCC,FALSE,Ethyl oleate
+CC(=CC(=O)C(C)(C)C=C)C,FALSE,"3,3,6-Trimethyl-1,5-heptadien-4-one"
+CC1=CC=C(C=C1)C(C)(C)O,FALSE,2-(4-Methylphenyl)propan-2-ol
+CCCCCCCCCCCCCCCCCCCC,FALSE,Eicosane
+CCCCCCCCCCCCCCCCCCCCCC,FALSE,Docosane
+CCC(C)CCCCC(C)CCCC(C)CCCC(C)C,FALSE,"2,6,10,15-Tetramethylheptadecane"
+C(=CC(=O)O)C(=O)O,FALSE,Maleic acid
+CC(C)CCCC(C)CCCC(=O)C,FALSE,"6,10-Dimethylundecan-2-one"
+C=CCCCCCCCCC(=O)OCC=C,FALSE,Allyl 10-undecenoate
+CC(=CCCC(=CCCC(=CCOC(=O)C)C)C)C,FALSE,"3,7,11-Trimethyl-2,6,10-dodecatrienyl acetate"
+C1CCCCOC(=O)CCCCCC=CCCC1,FALSE,Ambrettolide
+CCCCCCCCCCOC(=O)C,FALSE,Decyl acetate
+CCCCCCCCCCCCOC(=O)C,FALSE,Dodecyl acetate
+C1CCCCOC(=O)CCCC=CCCC1,FALSE,(Z)-5-Tetradecen-14-olide
+CCC(=O)OCC=C(C)CCC=C(C)CCC=C(C)C,FALSE,"(E,E)-3,7,11-Trimethyl-2,6,10-dodecatrienyl propionate"
+C1CCCCOC(=O)CCCCCCCC=CCCC1,FALSE,Oxacyclononadec-10-en-2-one
+CCCCCCCCCCC=COC(=O)C,FALSE,"1-Dodecen-1-OL, acetate"
+CCCCCCCCCCO,TRUE,1-Decanol
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Hexatriacontane
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O,TRUE,Hexacontane
+CC(C)(C1=CC=CC=C1)C2=CC(=C(C=C2)O)C(C)(C)C3=CC=CC=C3,FALSE,"2,4-Bis(1-methyl-1-phenylethyl)phenol"
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Tetrapentacontane
+CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCC(C)C,FALSE,Butyl isodecyl phthalate
+C1=CC=C(C=C1)NC2=CC=CC3=CC=CC=C32,FALSE,N-Phenyl-1-naphthylamine
+CCCCCCCC(CCCCC)C1CCCCC1,FALSE,(1-Pentyloctyl)cyclohexane
+CC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)C,FALSE,Squalane
+CC(C)CCCC(C)CCCC(C)CCCC(C)CCCC(C)C,FALSE,"2,6,10,14,18-Pentamethylnonadecane"
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Tetratriacontane
+C1COC2=CC=CC=C21,FALSE,"2,3-Dihydrobenzofuran"
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Tetracontane
+C(CCCCCCCCBr)CCCCCCCBr,FALSE,"1,16-Dibromohexadecane"
+CCCCCCC=CCC=CCCCCCCC(=O)OC,FALSE,"8,11-Octadecadienoic acid, methyl ester"
+CCCCCCCC=CCC=CCCCCCC(=O)OC,FALSE,"7,10-Octadecadienoic acid, methyl ester"
+CC(=CCCC(=CCCC(=CCCC=C(C)CCC=C(C)CCC=C(C)C)C)C)C,TRUE,Squalene
+CC1CCC2CC(CCC2C1)C,FALSE,"2,6-Dimethyldecalin"
+CCCCCCC=CCCCCCCCC(=O)OC,FALSE,Methyl palmitelaidate
+CCCCCCCCCCCCC#CCCCC,FALSE,5-Octadecyne
+CCCCCCCCCCCCCCCCCCCC(=O)OC,TRUE,Methyl arachidate
+CC1CCCC(C1C=CC(=O)C)(C)C,FALSE,"4-(2,2,6-Trimethylcyclohexyl)-3-buten-2-one"
+CCCCCCCCC1CC1CCCCCCCC(=O)OC,FALSE,"Cyclopropaneoctanoic acid, 2-octyl-, methyl ester"
+CCCCCCCCCCCCCCCCCCCCCC(=O)OC,TRUE,Methyl behenate
+CCCCCCCCC1=C(C1)CCCCCCC(=O)OC,FALSE,Methyl malvalate
+CCCCCCC1CC1CCCCCCCC(=O)OC,FALSE,Methyl 8-(2-hexylcyclopropyl)octanoate
+COC1=C(C=CC(=C1)C=O)O,TRUE,Vanillin
+CCOCCOC(=O)C,FALSE,2-Ethoxyethyl acetate
+CCCCCCCCCCCCCCCCCCCCCCO,TRUE,Docosanol
+CCCC(C)(C)O,FALSE,2-Methylpentan-2-ol
+CCC(C)(CC)O,FALSE,3-Methyl-3-pentanol
+CC(C)C(=O)OCC=C(C)CCC=C(C)C,FALSE,Geranyl isobutyrate
+C1CCCCC1,FALSE,Cyclohexane
+CCCCCCCCCCCCCCCCCC(=O)O,TRUE,Stearic Acid
+CC=C(C)C(=O)OCCC1=CC=CC=C1,FALSE,2-Phenylethyl 2-methylbut-2-enoate
+C1=CC=C(C(=C1)C(=O)O)C(=O)O,FALSE,Phthalic acid
+CCC(C)C(=O)OCC,FALSE,Ethyl 2-methylbutyrate
+CCC(=O)OCC,FALSE,Ethyl propionate
+CCOC(=O)C,FALSE,Ethyl acetate
+CCCC(=O)OCC,FALSE,Ethyl butyrate
+CCOC(=O)C=CC,FALSE,Ethyl crotonate
+CCSSCC,FALSE,Diethyl disulfide
+CCCOC(=O)C(C)CC,FALSE,Propyl 2-methylbutyrate
+CCOC(=O)C(=CC)C,FALSE,Ethyl tiglate
+CCC(C)C(=O)OC,FALSE,Methyl 2-methylbutyrate
+CC1SC(SS1)C,FALSE,"3,5-Dimethyl-1,2,4-trithiolane"
+CCS,FALSE,Ethanethiol
+CCCCCCCC(=O)OCC,FALSE,Ethyl octanoate
+COC=COC,FALSE,"1,2-Dimethoxyethylene"
+CCOC(=O)C=CC=CC,FALSE,Ethyl sorbate
+CC1CCC2C(C2(C)C)C3=C1CCC3C,TRUE,Isoledene
+CCCC=CC=O,FALSE,2-Hexenal
+CC(C)C12CCC3(C(C1O2)O3)C,TRUE,Isoascaridole
+CC(C)C1CCC(=O)C=C1,FALSE,4-Isopropyl-2-cyclohexenone
+CC(C)C12CCC(C=C1)(OO2)C,FALSE,Ascaridole
+CC1CC(C2C13CCC(=C)C(C3)C2(C)C)O,TRUE,beta-Biotol
+CC1=CCC(CC1)C(=CC(=O)C=C(C)C)C,FALSE,alpha-Atlantone
+CC1CCCC2=C(C=CC(=C12)C)C,FALSE,"1,2,3,4-Tetrahydro-1,5,8-trimethylnaphthalene"
+CC1=C(C2=C(C=C1)C(CC2)(C)C)C,FALSE,"Indan, 1,1,4,5-tetramethyl-"
+CC1=CC2=C(C=C1)C(CC=C2)(C)C,FALSE,"1,1,6-Trimethyl-1,2-dihydronaphthalene"
+CC1CCCC2=C(C=CC=C12)C,FALSE,"1,5-Dimethyltetralin"
+CC1CCC2CCCCC2C1C,FALSE,"Decahydro-1,2-dimethylnaphthalene"
+CCCCC=CC=CC=O,FALSE,"2,4-Nonadienal"
+CC1=C(C(CCC1)(C)C)CCC(=O)C,TRUE,Dihydro-beta-ionone
+CCCCCCCCC=CC=O,FALSE,2-Undecenal
+CCCCCCC=CC=O,FALSE,2-Nonenal
+CCCCCCCCOC(=O)CCCCC(=O)OCCCCCCCC,FALSE,Dioctyl adipate
+CC1=CCC(CC1)C(C)C=O,FALSE,P-Menth-1-en-9-al
+CCCCCCCC=CC=O,FALSE,2-Decenal
+CC1(CCCC(O1)(C)C=C)C,FALSE,"2,6,6-Trimethyl-2-vinyltetrahydropyran"
+CCCC=CC1=C(C=CC=C1O)C(=O)C2=C(C(=CC=C2)O)C=CCCC,FALSE,2-Pentenyl-hydroxy-phenylketone
+CCCCCCCCCCC(=O)OC(C)C,FALSE,Isopropyl undecanoate
+C1=CC=C(C=C1)CCO,TRUE,2-Phenylethanol
+CC=CC1=CC(=C(C=C1)O)OC,TRUE,Isoeugenol
+C1=CC=C2C(=C1)C=CN2,FALSE,Indole
+CCC(=O)CCC(C)C1=CC=C(C=C1)C,FALSE,6p-Tolyl-3-heptanone
+CC(C)OCC=CCC1=CC=CC=C1,FALSE,Isopropyl(4-phenyl-2-butenyl) ether
+C1=CC(=CC=C1Cl)Cl,FALSE,"1,4-Dichlorobenzene"
+CCCCCC=CC=O,FALSE,2-Octenal
+C1=CC=C(C=C1)CO,TRUE,Benzyl Alcohol
+C(CCCCCCCCCCCCCCCCCCCCCCCCCCCBr)CCCCCCCCCCCCCCCCCCCCCCCCCCBr,FALSE,"1,54-Dibromotetrapentacontane"
+CCCCCCCCOC(C)OCC,TRUE,1-(1-Ethoxyethoxy)octane
+CC(C)CCCC(C)CCCC(C)CCCC(C)C,FALSE,Pristane
+C1CC(=O)OC1,FALSE,gamma-Butyrolactone
+CCCCCCOCCO,FALSE,2-(Hexyloxy)ethanol
+CC1CC=CC(CC=C(CCC1=O)C)(C)C,FALSE,Humuladienone
+CC1=CCCC2(C(O2)CC(C=CC1)(C)C)C,FALSE,Humulene epoxide
+CCCCCCCCCCC,FALSE,Undecane
+CC1=CC2C(CC1)C(=C)CCCC2(C)C,FALSE,alpha-Himachalene
+CC(C)CCOC(=O)CC(C)C,FALSE,Isoamyl isovalerate
+CCCCOC(=O)CC(C)C,FALSE,Butyl isovalerate
+CCOC(=O)CC(C)C,FALSE,Ethyl isovalerate
+CCCCOC(=O)C,FALSE,Butyl acetate
+CC(C)CC(=O)OCC(C)C,FALSE,Isobutyl isovalerate
+CCCCCOC(=O)CCC,FALSE,Pentyl butyrate
+CCCC(CCO)SC,FALSE,3-(Methylthio)-1-hexanol
+CCCCOC(=O)CCC,FALSE,Butyl butyrate
+CCCCCC(=O)OCCCC,FALSE,Butyl hexanoate
+CCCCCC(=O)OCCC(C)C,FALSE,3-Methylbutyl hexanoate
+CCC(C)COC(=O)C,FALSE,2-Methylbutyl acetate
+CC1CCC(C2=CC(=C)CCC12)C(C)C,FALSE,"cis-Muurola-4(15),5-diene"
+CCC(C)CCCC(C)CCCC(C)CCCC(C)C,FALSE,Phytane
+CCCCCCCCCCCCCCCCCCCCCCCC=C,FALSE,1-Pentacosene
+CCCCCCCCCCCCCCCCCCCCCCC=C,FALSE,1-Tetracosene
+CC(=CCCC(=CCCC(=CCCC(C)(C=C)O)C)C)C,TRUE,Geranyllinalool
+C1CCCCCCCC(CCCCCC1)O,TRUE,Cyclopentadecanol
+CCCCCCCCCCCCCCCCCCCCC=C,FALSE,1-Docosene
+CC(=C)CCCC(=C)C=C,FALSE,alpha-Myrcene
+CC1=C(C(=C(C=C1OC)OC)C(=O)C(C)C)O,FALSE,Baeckeol
+CC(C)COC(=O)C(C)C,FALSE,Isobutyl isobutyrate
+CC1CCC(C(C1)O)C(C)(C)O,TRUE,"p-Menthane-3,8-diol"
+CC(CCC=C(C)C)C=O,TRUE,"2,6-Dimethyl-5-heptenal"
+CC1CCOC(C1)C=C(C)C,FALSE,"(2S,4R)-4-methyl-2-(2-methylprop-1-en-1-yl)tetrahydro-2H-pyran"
+CC1CCC(=C(C)C)C(C1)O,FALSE,Pulegol
+CC(C)C1=CC=C(C=C1)C=O,FALSE,4-Isopropylbenzaldehyde
+CC1=CCC(C=C1)C(C)C,FALSE,alpha-Phellandrene
+CC1(C(C1C(=O)O)C=C)C,FALSE,"Cyclopropanecarboxylic acid, 3-ethenyl-2,2-dimethyl-, cis-"
+C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O,FALSE,Benzyl salicylate
+CC1(CCCC2C1=CCC3C2(CCC(C3)(C)C=C)C)C,TRUE,rimuene
+CC1=CCCC(=CCC2CCC(C(C2(C)C)CC1)(C)O)C,FALSE,verticiol
+CC(C)C1=CC(=C(C)C)CCC1(C)C=C,FALSE,alpha-Elemene
+CC1=CCC(C(C1CO)(C)C)CC=C(C)C,FALSE,"2,4,4-Trimethyl-3-hydroxymethyl-5a-(3-methyl-but-2-enyl)-cyclohexene"
+CC1=CCC(=C(C)C)C(C1)CC(C)(C=C)O,FALSE,"alpha-ethenyl-alpha,3-dimethyl-6-(1-methylethylidene)-3-cyclohexene-1-ethanol"
+COC(=O)C1=CC=CC=C1N,FALSE,Methyl anthranilate
+CCC=CCC1CCCC(=O)O1,TRUE,"2H-Pyran-2-one, tetrahydro-6-(2-pentenyl)-, (Z)-"
+C[Si](C)(C)OC(=O)CCCCCCCCCF,FALSE,"Decanoic acid, 10-fluoro-, trimethylsilyl ester"
+CCCCC(CC1=CC=CC=C1)O,FALSE,"Benzeneethanol, alpha-butyl-"
+CC(=CCCC(=CCOC(=O)C1=CC=CC=C1)C)C,FALSE,Geranyl benzoate
+CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)O,TRUE,Butyl citrate
+CCCCCC=CCC=CCC=CCCCCC(=O)O[Si](C)(C)C,FALSE,"Linolenic acid, trimethylsilyl ester"
+CC(=CCCC(=CCBr)C)C,FALSE,Geranyl bromide
+CCCCOC(=O)CC(CC(=O)OCCCC)(C(=O)OCCCC)OC(=O)C,FALSE,Acetyl tributyl citrate
+CCCCCC(=O)C1=CC=CO1,FALSE,2-Hexanoylfuran
+CC(=CC(C(C)(C)C=C)O)C,FALSE,Artemisia alcohol
+CC(C)(C=C)C=CC(C)(C)O,FALSE,yomogi alcohol
+CCCCCC1C(CCC1=O)CC(=O)OCCC,TRUE,"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, propyl ester"
+CC1=CC(=C(C=C1)C)C(=O)C,FALSE,"1-(2,5-dimethylphenyl)ethanone"
+C1=COC(=C1)CO,FALSE,Furfuryl alcohol
+C1=CC=C(C=C1)O,TRUE,Phenol
+CC1=CC=C(O1)CO,FALSE,5-Methylfurfuryl alcohol
+CC(=C1CCCCC1=O)C,FALSE,2-(1-Methylethylidene)cyclohexanone
+CC(=O)C1=CC=CO1,FALSE,2-Acetyl furan
+CC1=CC=CC=C1O,TRUE,o-Cresol
+CCCOC(=O)C1=CC=CC=C1C(=O)OC,FALSE,"Phthalic acid, methyl 2-propyl ester"
+CCCCOC(=O)C1=CC=CC=C1C(=O)OCC(C)C,FALSE,butyl isobutyl phthalate
+CC1(C(O1)CCC(C)(C=C)O)C,FALSE,"5-(3,3-Dimethyloxiran-2-yl)-3-methylpent-1-en-3-ol"
+COC1=C(C=CC(=C1)C=C)O,TRUE,2-methoxy-4-vinylphenol
+C1=CC=C(C=C1)NC2=CC=CC=C2,FALSE,Diphenylamine
+CC(=C)C1CCC1C(=C)C,FALSE,"Cyclobutane, 1,2-bis(1-methylethenyl)-, trans-"
+CCCCCCCCCCCCCCCC(=O)OCC(C1C(=C(C(=O)O1)OC(=O)CCCCCCCCCCCCCCC)O)O,FALSE,"l-(+)-Ascorbic acid 2,6-dihexadecanoate"
+CC1=C(C(C=CC1)C=C)C,FALSE,"1,4-Cyclohexadiene, 3-ethenyl-1,2-dimethyl-"
+CC1=CC2CCC1C2(C)C,FALSE,"Bicyclo[2.2.1]hept-2-ene, 2,7,7-trimethyl-"
+CCCCCCCCCCCCCCC(=O)O,TRUE,Pentadecanoic acid
+CCCCCCCCCCCCCCCC=CCC=C,FALSE,"1,4-Eicosadiene"
+CCCCC=CCC=CCCCCCCCCC(=O)O,FALSE,"10,13-Octadecadienoic acid"
+CCCCC=CCCCCCCCCC=CC(C)CO,FALSE,"2-Methyl-Z,Z-3,13-octadecadienol"
+CCCCCCCCCCCCCCCCC(=O)O,TRUE,Heptadecanoic acid
+CCCCCCC=CCCCCCCCCCC(=O)O,TRUE,11-octadecenoic acid
+C(CCCC(=O)O)CCCC(=O)O,TRUE,Azelaic Acid
+CCCCCCCCC#CCCCCCCCC,FALSE,octadec-9-yne
+CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=CC=C,FALSE,Pyrethrin I
+CC=CCC1=C(C(CC1=O)OC(=O)C2C(C2(C)C)C=C(C)C)C,FALSE,Cinerin I
+CC=CCC1=C(C(CC1=O)OC(=O)C2C(C2(C)C)C=C(C)C(=O)OC)C,FALSE,Cinerin II
+CCC=CCC1=C(C(CC1=O)OC(=O)C2C(C2(C)C)C=C(C)C)C,FALSE,Jasmolin I
+CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)C,TRUE,Lupeol
+CCC=CCC1=C(C(CC1=O)OC(=O)C2C(C2(C)C)C=C(C)C(=O)OC)C,FALSE,Jasmolin II
+CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C)C,FALSE,beta-amyrin
+CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C(=O)OC)CC=CC=C,FALSE,Pyrethrin II
+CCCCCC(=O)OCC,FALSE,ethyl hexanoate
+CCCCCCCCCCCCCCC,FALSE,n-pentadecane
+CC1=CC(=C(C(=C1C)C)O)C,TRUE,"2,3,4,6-Tetramethylphenol"
+CC1=CC(=CC(=C1)OC(=O)NC)C(C)C,FALSE,Promecarb
+CC1=CC(=C(C=C1)OC)C(C)C,TRUE,"Benzene, 1-methoxy-4-methyl-2-(1-methylethyl)-"
+CC1=C(C=CC(=C1)O)C(C)C,FALSE,3-Methyl-4-isopropylphenol
+CC(C)C1CCC(=C)C2C1C(CC2)C(=O)C,FALSE,oplopenone
+CC(C)C1CCC2(C1C3C2CCC3(C)O)C,TRUE,endo-1-bourbonanol
+CC1(C2CCC1C(=C)C2)C,FALSE,alpha-Fenchene
+CC1=CCC(CC1)C(C)C,FALSE,"Cyclohexene, 1-methyl-4-(1-methylethyl)-"
+CC1(CCCC2(C1=CCC34C2CCC(C3)C(=C)C4)C)CO,FALSE,"Kaura-5,16-dien-18(or 19)-ol"
+CC1CCC2C13CCC(C(C3)C2(C)C)(C)O,TRUE,Cedrol
+CC(C)C1=CC2=C(C=C1)C3(CCCC(C3CC2)(C)C)C,FALSE,"7-Isopropyl-1,1,4a-trimethyl-1,2,3,4,4a,9,10,10a-octahydrophenanthrene"
+C1CCC=CCCC=CC1,FALSE,"1,5-Cyclodecadiene"
+CCCCCCCCCCCCCCCO,TRUE,1-Pentadecanol
+C(CCO)CC=O,FALSE,5-hydroxypentanal
+C=CC=CCC1=CC=CC=C1,FALSE,"1-Phenyl-2,4-pentadiyne"
+CC1(CCCC2(C1CCC(C2CCC(C)(C=C)O)(C)O)C)C,TRUE,Sclareol
+CCC=CCCOC(=O)C,FALSE,(Z)-3-hexenol acetate
+CCC=CCCOC(=O)CC,FALSE,(Z)-3-hexenyl propanoate
+CCC=CCCOC(=O)CC(C)C,FALSE,(Z)-3-hexenyl isovalerate
+CNC1=CC=CC=C1C(=O)[O-],FALSE,N-Methylanthranilate
+CCCC(=O)OCCC(=CCC)C,FALSE,3-methyl-3-hexen-1-yl butanoate
+CC1(C(=O)CCC(O1)(C)C=C)C,FALSE,"2H-Pyran-3(4H)-one, 6-ethenyldihydro-2,2,6-trimethyl-"
+CCCCCC(C=C)OC(=O)C,FALSE,1-octen-3-yl acetate
+CCCCCCOC(=O)CC(C)C,FALSE,hexyl isovalerate
+CC1=CCCC(C1C=O)(C)C,FALSE,alpha-cyclocitral
+CCCC=CCOC(=O)C,FALSE,(E)-2-hexenyl acetate
+CCCCCCOC(=O)C,FALSE,n-hexyl acetate
+CCCCCCCCCCCCC=C,FALSE,Tetradecene
+CC1=CC(=C(C=C1)O)C(=O)C,TRUE,2-hydroxy-5-methylacetophenone
+C1CC(CC=C1)O,FALSE,3-Cyclohexen-1-ol
+CC(C)(C)[Si](C)(C)OCC1=CC=CC=C1,FALSE,"Silane, (1,1-dimethylethyl)dimethyl(phenylmethoxy)-"
+CCCCCCCCCCC=CCCCCCC(=O)OC,FALSE,"7-Octadecenoic acid, methyl ester"
+CC1=CC(=C(C=C1)OC)C(C)C=O,FALSE,2-(2-Methoxy-5-methyl-phenyl)-propionaldehyd
+CCC(C)CCCCCCCCCCC(=O)OC,FALSE,"Tetradecanoic acid, 12-methyl-, methyl ester"
+COC1=CC=CC=C1N=C=O,FALSE,"Benzene, 1-isocyanato-2-methoxy-"
+CCCCCCCCCC=CCCCCCCC(=O)OC,FALSE,"8-Octadecenoic acid, methyl ester"
+CCCC(C)CCCCCCCCCCCCC(=O)OC,FALSE,Methyl 14-methylheptadecanoate
+CCCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC,FALSE,Butyl decyl phthalate
+CC(C)CCCCCCCCCCCCC(=O)OC,TRUE,"Pentadecanoic acid, 14-methyl-, methyl ester"
+COC1=CC=CC(=C1)N=C=O,FALSE,"Benzene, 1-isocyanato-3-methoxy-"
+CC1=CC(=CC=C1)NC(=O)OC,FALSE,"Carbamic acid, (3-methylphenyl)-, methyl ester"
+CCCCCCC=CCCCCCCCCCC(=O)OC,FALSE,"11-Octadecenoic acid, methyl ester"
+CCCCCCCCC=CCCCCCCCCCCCCO,FALSE,"13-Docosen-1-ol, (13Z)-"
+CCCCCCCCC=CCCCCCCCCCCO,FALSE,11-Eicosenol
+CCCCCCC=CCCCCCCCCCCO,FALSE,11-Octadecen-1-ol
+CCCCCCCCCCCCCCCCCCO,TRUE,Octadecanol
+CCCCCCCCC=CCCCCCCCCCC(=O)O,TRUE,Eicos-11-enoic acid
+CCCCCCCCC=CCCCCCCCCCCCCCC(=O)O,TRUE,Tetracos-15-enoic acid
+CCCCCCCCCCCCCCCCCCCCCC(=O)O,TRUE,Docosanoic acid
+CCCCCCCCC=CCCCCCC(=O)O,TRUE,Hypogeic acid
+CCCCCCCCC=CCCCCCCCC(=O)OC,FALSE,Methyl oleate
+CCCCCCOC=O,FALSE,Hexyl formate
+CCCCCCCCCCCC=C,FALSE,1-Tridecene
+CCCCCCCCCCCCCCC=O,FALSE,n-Pentadecanal
+C[Si]1(O[Si](O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)(C)C)C,FALSE,Cyclohexasiloxane
+O1[SiH2]O[SiH2]O[SiH2]O[SiH2]O[SiH2]1,FALSE,Cyclopentasiloxane
+O[SiH2]O,FALSE,Silanediol
+CC1CCC23C1C4C(C4(C)C)CCC2(O3)C,FALSE,Ledene oxide-(I)
+CC1CCCC23C1(C4C(C4(C)C)CC2O3)C,TRUE,Aristolene epoxide
+CC(=CCCC(=CCOC=C)C)C,TRUE,Geranyl vinyl ether
+COC1=CC=C(C=C1)CC=C,TRUE,Estragole
+CSSC,FALSE,Dimethyl disulfide
+CC(C)C12CCC(=O)C1C2,FALSE,Sabinaketone
+CCC=CCCCCCCCCCCO,FALSE,11-tetradecen-1-ol£¬(11Z) -
+CCCCCCC=CCCCCCC=O,FALSE,7-Tetradecenal£¬(7Z) -
+CC1=C2C3C(C3(C)C)CCC2(CCC1)C,TRUE,1h-cyclopropa£Ûa£Ýnaphthalene£¬1a£¬2£¬3£¬3a£¬4£¬5£¬6£¬7b-octahydro-1£¬1£¬3a£¬ 7-tetramethyl-£¬£Û1ar-( 1a alpha £¬3a 
+C=CCCCCCCC=CCCCCCCCC=O,FALSE,"9,17-Octadecadienal,(Z)"
+CCCCCCCC(CCCCCCC)CCCCCCC,FALSE,"pentadecane,8-heptyl"
+C=CC1CCCC(=O)C1,FALSE,3-Vinylcyclohexanone
+CO.C1=CC=CC=C1,FALSE,Benzene methanol
+C1CC2C(O2)CC1C3CO3,FALSE,4-vinyl cyclohexene dioxide
+CC1=CC(=O)C=C(O1)C,FALSE,"4H-pyran-4-one,2,6-dimethyl"
+C1=CC=C(C=C1)C(=O)O,FALSE,Benzoic Acid
+CCC=CCCOC=O,FALSE,cis-3-hexenyl formate
+C[Si]1(O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)C,FALSE,tetradecamethylcycloheptasiloxane
+CC1CCCC(C1)C,FALSE,"cis-1,3-Dimethylcyclohexane"
+CCC(C)CC(C)C,FALSE,"2,4-Dimethyl hexane"
+CCCCC(C)CC,FALSE,3-methylheptane
+C[Si]1(O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)C,FALSE,hexadecamethylcyclooctasiloxane
+C1=CC=C(C=C1)Cl,FALSE,Chlorobenzene
+CCC1CCCCC1,FALSE,ethylcyclohexane
+CC1=CC=CC2=CC=CC=C12,FALSE,1-Methylnaphthalene
+C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C,FALSE,decamethylcyclopentasiloxane
+CC1=CC(=O)CC(C1)(C)C,FALSE,Isophorone
+CC(C)CCCCCCCCCCCCCCC(=O)OC,TRUE,Methyl 16-methylheptadecanoate
+C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)C,FALSE,Octamethyl cyclotetrasiloxane
+CCCCC(CCCC)CC(C)C,FALSE,5-(2-methylpropyl)nonane
+CC1=CC(=C(C=C1C)C)C,TRUE,"1,2,4,5-Tetramethylbenzene"
+CCC1=CC=CC=C1,TRUE,Ethylbenzene
+CCCCC(C)CCCC(C)CCCC(C)C,FALSE,"Tetradecane,2,6,10-trimethyl-"
+CP(C)Cl,FALSE,butyl2-ethylhexylphthalate
+CCCCCCC=CCCCCCCCC=O,FALSE,cis-9-Hexadecenal
+COC(=O)CCCCC(=O)OC,FALSE,Dimethyl adipate
+CC1=C(C(=C(C=C1)C)C)C,FALSE,"1,2,3,4-Tetramethylbenzene"
+CCCCCCCCC(CCCCCC)CO,FALSE,2-Hexyl-1-decanol
+C=CC#CC1=CC=C(S1)C2=CC=CS2,FALSE,5-(3-Buten-1-ynyl)-2-2¡¯-bithienyl
+CC1=CCC(=C(C)CCC=C(C)C)CC1,FALSE,Bisabolene
+CC1=CC=CC2(C1CC(CC2)C(C)(C)O)C,FALSE,occidentalol
+CC(=C)C1CCC(=CC1)CO,FALSE,Perillyl alcohol
+CC(C)C1CCC(C=C1)CO,FALSE,p-menth-2-en-7-ol
+COC1=CC=C(C=C1)CC2=C3C(=NC(=NC3=NN2)N)N,FALSE,"4,6-Diamino-3-[4-methoxybenzyl]-1H-pyrazolo[3,4-d]pyrimidine"
+CC(=C)C1=CC=CC=C1,FALSE,alpha-Methylstyrene
+COC1=C(C=C(C=C1)C=CC(=O)O)OC,TRUE,"3,4-Dimethoxycinnamic acid"
+CC1=C(C(CCC1O)(C)C)C=CC(=O)C,FALSE,4-Hydroxy-beta-ionone
+CC1=C(C(=C(C(=C1OC)C)C)OC)C,TRUE,"Benzene,1,4-dimethoxy-2,3,5,6-tetramethyl-"
+CC1(C(C(C(C(C1O)O)O)O)O)O,FALSE,"Myo-Inositol, 4-C-methyl-"
+CC(C)COC(=O)C1=CC=CC=C1C(=O)OCC(C)C,FALSE,Diisobutyl phthalate
+CC1=C(C(CCC1)(C)C)C=CC(=CC=CC2=C(CCCC2)C=O)C,FALSE,"2-[4-methyl-6-(2,6,6-trimethylcyclohex-1-enyl)hexa-1,3,5-trienyl]cyclohex-1-en-1-carboxaldehyde"
+CC(C)C1CCC(C(C1O)C(=C)C)(C)C=C,TRUE,6-epi-Shyobunol
+COC(C(C=O)O)C(C(CO)O)O,FALSE,3-O-Methyl-d-glucose
+CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)O,FALSE,2-(((2-Ethylhexyl)oxy)carbonyl)benzoic acid
+CC(C)(C)C1=CC2(CCC(=O)O2)C=C(C1=O)C(C)(C)C,FALSE,"7,9-di-tert-Butyl-1-oxaspiro(4,5)deca-6,9-diene-2,8-dione"
+CC(C)(C)C1=CC(=O)C(=CC1=O)C(C)(C)C,FALSE,"2,5-Di-tert-butyl-1,4-benzoquinone"
+CC(C)CCCC(C)CCCCC(C)CCCC(C)C,FALSE,"2,6,11,15-Tetramethylhexadecane"
+CCCCCCCCCCCCCCCC(=O)OCCC(O)O,FALSE,"Hexadecanoic acid, 2-hydroxy-1-(hydroxymethyl) ethyl ester"
+CC1=CC(=CC=C1)C,FALSE,m-Xylene
+C1COC(C(O1)O)O,FALSE,"1,4-Dioxane-2,3-diol"
+CCC(=O)CO,FALSE,1-hydroxy-2-Butanone
+CCC(=O)O,TRUE,Propanoic acid
+CC(C)CC(=O)O,FALSE,Isovaleric acid
+C1=CC(=CC=C1C=O)O,FALSE,4-hydroxy-Benzaldehyde
+CC1=CC2=C(C=CC=C2C=C1)C,FALSE,"1,7-dimethyl-Naphthalene"
+CC1=CC=C(C2=CC=CC=C12)C,FALSE,"1,4-dimethyl-Naphthalene"
+CC(=C)C1CCC(=O)CC1,FALSE,4-Isopropenylcyclohexanone
+CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC1=C(CCCC1(C)C)C)C,FALSE,10'-Apocarotenal
+CCC=CCC=CCC=CCC=CCC=CCCCC(=O)O,FALSE,Eicosapentaenoic acid
+CCCCCCCCCCCCCCCCCC(=O)OCC,FALSE,ethyl stearate
+CCCCCCCCC1CC1CCCCCCCC=O,FALSE,2-Octylcyclopropaneoctanal
+CC(=O)OC1CCCC1C2CCCC2OC(=O)C,TRUE,bis ( cyclopentane ) £¬2£¬2'-acetoxy ) -£¬1-rel-2-( trans ) -2'-( cis ) -1'-( trans) -
+CC1=CCC2CC1C2(C)CCC=C(C)CO,TRUE,Z-alpha-trans-bergamotol
+CC(=C1C2CCC1C3CCCC2C3O)C,FALSE,11-isopropylidene-tricyclo£Û4 3 1 1( 2£¬5) £Ýundecan-10-ol
+CC(=C1CCC(C(C1)C=C)C=C)C,FALSE,"Cyclohexane, 1,2-diethenyl-4-(1-methylethylidene)-, cis-"
+CC(=O)OCC1=CCC2CC1C2(C)C,FALSE,£Û-£Ý-Myrtenyl acetate
+CC(=CC1CC(=C)CCCC1(C)C=C)C,FALSE,"Cycloheptane,4-methylene-1-methyl-2-£Û2-methyl-1-propen-1-yl£Ý-1-vinyl-"
+CCOC(=O)CCC(=O)OCC,FALSE,Diethyl succinate
+CCOC(=O)CC(C(=O)OCC)O,FALSE,"Butanedioic acid, hydroxy-, diethyl ester"
+CC1=CC(=C(C=C1)O)OC,TRUE,2-Methoxy-4-methylphenol
+CCOC(=O)CC1=CC=CC=C1,FALSE,"Benzeneacetic acid, ethyl ester"
+CCOCC1=CC(=C(C=C1)O)OC,TRUE,"Phenol,4-(ethoxymethyl)-2-methoxy"
+C1=C(OC(=C1)C=O)CO,FALSE,5-Hydroxymethylfurfural
+CC(=O)C1=CC=CN1,FALSE,"Ethanone, 1-(1H-pyrrol-2-yl)-"
+CCOC(=O)CCC(=O)C,FALSE,"Pentanoic acid, 4-oxo-, ethyl ester"
+COC1=CC=C(C=C1)C=O,FALSE,4-Methoxybenzaldehyde
+CCCCCCCCC(=O)OCC,FALSE,Ethyl nonanoate
+CCCCCCCCCC(=O)OCC,FALSE,Ethyl decanoate
+CC(=C)CCC=C(C)C=C,FALSE,"1,3,7-Octatriene,3,7-dimethyl-"
+CC1CCC2C13CC=C(C(C3)C2(C)CO)C,FALSE,"Cedren-13-ol, 8-"
+CC1CC(C=C(C2C1CC(=C(C)C)C2)C)O,FALSE,Vetiverol
+CC(=CC(=O)CC(=C)C=C)C,FALSE,Myrcenone
+CC12CCCCCC1=CC(=O)CC2,FALSE,"4abeta-Methyl-3,4,4a,5,6,7, 8,9-octahydro-2H-benzocycloheptene-2-one"
+CC(C)CC1CCCC=C1,FALSE,3-( 2-methylpropyl) -cyclohexene
+CC1=CCCC(C1=C)(C)C,FALSE,"1,5,5-Trimethyl-6-methylene-cyclohexene"
+CC(C)(C)C1=CC=CC=C1,FALSE,tert-Butylbenzene
+CC1=C2CC=C(C2C(C(CC1)C(=O)C)O)C,FALSE,"Ethanone, 1-(1,3a,4,5,6,7-hexahydro-4-hydroxy-3,8-dimethyl-5-azulenyl)-"
+C1CCC(=CC1)C2=COC=C2,FALSE,3-(Cyclohex-1-enyl)-furan
+CC(=C)C12CCCC3(C1CCC3(C2)C)C,FALSE,Alloisolongifolene
+COCC1=CC(=O)OC2=C1C=CC(=C2)N,FALSE,7-Amino-4-methoxymethylcoumarin
+CC12CCC3C(C1CC=C2)CCC4C3(CC=CC4)C,FALSE,Androst-2£¬16-diene
+CC(=O)C1=CC=CS1,FALSE,2-Acetylthiophene
+CC(C)C(C(=O)C1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C)N,FALSE,"1-Butanone,2-amino-1-[3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl]-3-methyl-"
+CC1CC(C=C(CCCC(C=C1)(C)C)C)O,FALSE,"Humulane-1,6-dien-3-ol"
+CC(C)CCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCC(C)C,FALSE,Diisooctyl phthalate
+CC1CCC2C1C3C(C3(C)C)CC4C2(O4)C,FALSE,Isoaromadendrene epoxide
+CCCCCC=CCC=CCCCCCCCCO,FALSE,"9,12-octadecadienol"
+CCC=CCC=CCC=CCCCCCCCCO,FALSE,"9,12,15-octadecatrienol"
+CC(=CC=CC(C)(C)O)C=C,FALSE,"2,6-dimethyl-3,5,7-octatrien-2-ol"
+CCCCCCCCCCCC(=O)C,FALSE,2-Tridecanone
+C1=CC(=CC=C1O)O,TRUE,Hydroquinone
+CCCCCCCCC=CCCCCCCCCO,FALSE,9-octadecenol
+CCCCCCCCCC(=O)OC=C,FALSE,vinyl decanoate
+CCCCCCCCCCCC(=O)OC=C,FALSE,vinyl laurate
+CCC=CCC=CCC=CCCCCCC=O,FALSE,cis£¬cis£¬cis-7£¬10£¬13-hexadecatrienal
+C1CC2CC(=O)C=C2C1,FALSE,4£¬5£¬6£¬6a-tetrahydro-2( 1H) - pentalenone
+CC1=CCCC(=CCC1)C,TRUE,1£¬5-Cyclooctadiene£¬1£¬5-dimethyl-
+CC1=CC(C(CC1)C(C)C)O,FALSE,2-Cyclohexen-1-ol£¬3-methyl-6-( 1-methylethyl) -£¬cis-
+CC1=CC(=O)C2(C1C2)C(C)C,FALSE,Umbellulone
+CC(C)C1=CC2=CCC3C(CCCC3(C2CC1)C)(C)C,FALSE,Abietadiene
+CC1=CC23CCC4C(CCCC4(C2CCC1C3)C)(C)C,TRUE,Isophyllocladene
+CC1(CCCC2(C1CCC34C2CCC(C3)(C=C4)C)C)C,FALSE,Isohibaene
+CC(C)C=CC#CC(C)C,FALSE,3-octen-5-yne£¬2£¬7-dimethyl-£¬(E) -
+CC(C)C12CC1C(=C)C(C2)OC(=O)C,FALSE,sabinyl acetate
+CC1=CCC2C3C1C2(CCCC3(C)C)C,TRUE,alpha-longipinene
+CC=CC=C(C)C(=CC)C,FALSE,2£¬4£¬6-octatriene£¬3£¬4-dimethyl
+CCCSSSC,FALSE,methyl propyl trisulfide
+CCCSSCCC,FALSE,dipropyl disulfide
+CCCSSSC=CC,FALSE,propyl 1-propenyl trisulfide
+CCCSSC=CC,FALSE,propyl trans-1-propenyl disulfide
+CC=CSSSC,FALSE,methyl cis-1-propenyl trisulfide
+CSSSC,FALSE,dimethyl trisulfide
+CCCSS,FALSE,propyl hydrodisulfide
+CCCSSC,FALSE,methyl propyl disulfide
+CC1CCCC(C1=O)(C)C,FALSE,"2,2,6-trimethyl cyclohexanone"
+CC1=CC2=C(C=C1)C=CC3=C2C=C(C=C3)C,FALSE,"3,6-Dimethylphenanthrene"
+CC1=C2C(=CC=C1)C=CC3=C2C=C(C(=C3)C)C,FALSE,"2,3,5-Trimethylphenanthrene"
+CC1=CC2=CC3=CC=CC=C3C=C2C=C1,FALSE,2-Methylanthracene
+CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC4(C)O)C,FALSE,Methyltestosterone
+CC1=COC2=C1CC3C(=C)CCCC3(C2)C,FALSE,Atractylon
+CC1CC(=O)C=C2C1(CC(CC2)C(=C)C)C,FALSE,Nootkatone
+CCCCCCC1CCCC1=O,FALSE,jasmatone
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,tritriacontane
+COC1=CC=CC=C1,TRUE,anisole
+C1CCCCCCCOC(=O)CCCCCC1,FALSE,cyclopentadecanolide
+CC1CCC(C=C2C1CCC2C)C(=C)C,FALSE,gamma£­Gurjunene
+CCCCCC=CCO,FALSE,trans-2-Octen-1-ol
+CC1=CCC(CC1=O)C(C)C,FALSE,carvotanacetone
+CC(C1=CC=CC=C1)O,FALSE,alpha-Methylbenzyl alcohol
+CC1C(OC2(C1(C=C(C(=O)C2)CC=C)OC)OC)C3=CC(=C(C=C3)OC)OC,FALSE,Piperenone
+CC1=CC2CC(C1)C2(C)C,TRUE,a-pinene
+CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO,TRUE,Betulin
+CC1C(=O)CCC2C1(CCC3C2(CCC4(C3(CCC5(C4CC(CC5)(C)C)C)C)C)C)C,TRUE,Friedelan-3-one
+CCC(CCC(C)C1CCC2C1(CCC3C2CC(=O)C4C3(CCC(=O)C4)C)C)C(C)C,TRUE,"Stigmastane-3,6-dione,(5a)-"
+CCCCCCCC=CCC1CC(=O)OC1=O,FALSE,2- Decen-1-ylsuccinic anhydride
+CC1C2CC(C2(C)C)CC1=O,TRUE,isopinocamphone
+CC(C)CCCC(=CCO)C,FALSE,"3,7-dimethyloct-2-en-1-ol"
+C1=CC2=C(C=CO2)C3=C1C=CC(=O)O3,FALSE,angelicin
+CCCCCCCCCCCCCCC#C,FALSE,1-Hexadecyne
+C1SCSS1,FALSE,"1,2,4-Trithiolane"
+C1SCSSCS1,FALSE,"1,2,4,6-Tetrathiepane"
+C1SSCSS1,FALSE,"1,2,4,5-Tetrathiane"
+CC1CCC2CC1C2(C)C,FALSE,cis-Pinane
+CC(C)CC1C(=O)N2CCCC2C(=O)N1,FALSE,"3-Isobutylhexahydropyrrolo[1,2-a]pyrazine-1,4-dione"
+C[Si](C)(C)CCO,FALSE,2-Trimethylsilyl ethanol
+C1CCCC(=O)CCC1,FALSE,Cyclooctanone
+C1=CC(=C(N=C1)N)N,FALSE,Diaminopyridine
+COC1=CC(=C(C=C1)O)O,TRUE,"4-Methoxybenzene-1,2-diol"
+C1=CC(=C(C(=C1)O)N)O,FALSE,2-Aminoresorcinol
+C#CCCCC#C,FALSE,"1,6-Heptadiyne"
+CC1=CC(C2(C1C2)C(C)C)C=O,FALSE,alpha-Thujenal
+CC(CC1=CC=CC=C1)O,TRUE,1-Phenyl-2-propanol
+CCCCCCCCCCCCC=CCC=CC(=O)OC,FALSE,2£¬5-octadecadienoic acid methyl ester
+CC1(C(CCC(O1)(C)C=C)O)C,TRUE,"2,2,6-TriMethyl-6-vinyltetrahydropyran-3-ol"
+CCCCCCCCCCCCCC(=O)OC,TRUE,methyl myristate
+CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCCC5(C)C)C)C)C2C1)C)C)C,TRUE,olean-12-ene
+CC(C)CCCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C,FALSE,Cholesterol
+CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(=O)C5(C)C(=O)OC)C)C)C2C1C)C)C,FALSE,urs-12-en-24-oic acid£¬3-oxo£¬methyl ester
+CC=C(C)CCC=C(C)C,TRUE,"2£¬6-dimethylocta-2,6-diene"
+CCCCCCCCCCCCCCCCCCC=C,FALSE,Eicosene
+CCCCCCCCCCCCCC=CCCCCCCCC,FALSE,(Z)-9-Tricosene
+COC1=CC=CC=C1CN,FALSE,o-Methoxybenzylamine
+CC(CC(=O)C1=CC(=CC=C1)N)C(=O)O,FALSE,4-(3-Aminophenyl)-2- methyl-4-oxobutyric acid
+C1C(=O)C=CC1=O,FALSE,"4-Cyclopentene-1,3-dione"
+CCOC(=O)C1=CC=C(C=C1)N,FALSE,Ethyl 4-aminobenzoate
+COCC(CO)O,FALSE,3£­methoxy£­1£¬2£­ Propanediol
+CC1CCOCO1,FALSE,4£­methyl£­1£¬3£­Dioxane
+CCCCC=O,FALSE,Pentanal
+CC(C(=O)O)O,TRUE,2£­hydroxypropanoic acid
+COC(=O)CCC(=O)O,FALSE,Butanedioic acid monomethyl ester
+CCCCC(=O)OCC,FALSE,Ethyl valerate
+CC(COC)OC(=O)C,FALSE,1-Methoxy-2-propyl acetate
+CC1=COC2=C1CC(C(C2)(C)C=C)C(=C)C,FALSE,curzerene
+CC(=C1CC(C(CC1=O)(C)C=C)C(=C)C)C,FALSE,beta-elemenone
+CC1CC(=O)C2=C1C=C(C=C2)O,FALSE,5-hydroxy-3-methyl-1-indanone
+CC1=C2CCCCC2=C(C3=C1CCCC3)C,FALSE,9£¬10-dimethyl-1£¬2£¬3£¬4£¬5£¬6£¬7£¬8-octahydro-anthracene
+CC1CC(=O)C=C(C12CCC(C2)C(=C)C)C,FALSE,solavetivone
+CC1=CCC(=C(C)C)C(=O)CC(=CCC1)C,TRUE,germacrone
+CC1(C2CCC(O1)(C=C2)C)C,FALSE,"Dehydro-1,8-cineole"
+CC1CCCCC1,FALSE,Methylcyclohexane
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCO,TRUE,1£­heptatriacotanol
+CC1=CC=C(C=C1)C,FALSE,p-Xylene
+CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CCC6C5(CCCC6)C)C)C)OC1,FALSE,5alpha-spirostane
+CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C,FALSE,Campesterol
+CC(=C1CC2C(=C)CCCC2(CC1=O)C)C,FALSE,"Eudesma-4(14),7(11)-dien-8-one"
+C1CCCCCCCCCCCCC1,FALSE,Cyclotetradecane
+CC1(CCC2C3(C14CCC(C4)C3(C)C)O2)C,TRUE,"octahydro-4,4,8,8-tetramethyl-4a,7-methano-4aH-naphth[1,8a-b]oxirene"
+CC1CCC=C(C12CCC(C2)C(C)(C)O)C,FALSE,Hinesol
+CC(=CCC1=CC=C(C(=O)C=C1C(=C)C)O)C,FALSE,Procerin
+CC1=CC(=C2CCC(=O)OC2=C1C)C,FALSE,"Dihydrocoumarin, 5,7,8-trimethyl-"
+CCCC=C1C2=CC=CC=C2C(=O)O1,FALSE,Butylidenephthalide
+CC1=CCC2C(C3C1CCC3=C)OC(=O)C2=C,FALSE,Eremanthin
+CC1CCC2=C(C1)OC=C2C,FALSE,Menthofurane
+CCCCCCCC1=CC=C(C=C1)O,TRUE,p£­Heptylphenol
+CC1=CCC2C(=O)C1C2(C)C,FALSE,chrysanthenone
+CC(C)CC(=C1C=CC=C1)C,FALSE,5-(1£¬3-Dimethylbutylidene)-1£¬3-cyclopentadiene
+CC(C)C1=CC(=CC=C1)C(C)C,FALSE,m-Diisopropylbenzene
+CC(=CCCC(=CCCC(=CCC=C(C)C=C)C)C)C,FALSE,alpha-Springene
+CC(=O)C(=CC1=CC=CC=C1)C(=O)C,FALSE,Benzalacetylacetone
+C1=CC=C(C=C1)C2=CC=CC=C2,FALSE,Biphenyl
+CC1=CC=C(C=C1)C(C)CCC=C(C)CO,FALSE,6£­(p£­Tolyl)£­2£­methyl£­2£­heptenol
+CC1=CC2=C(C=C1)C(=C)CCCC2(C)C,FALSE,alpha-dehydro-ar-himachalene
+CC(C)CC(=O)OCC=C(C)CCC=C(C)C,FALSE,geranyl isovalerate
+CCC1=CC2=C(C=CC2=C(C=C1)C)C,FALSE,chamazulene
+CC1=C2CC(C2(C)C)CC1,TRUE,Pinene
+CCC=CCC=CCC=CCCCCCC=C,FALSE,aplotaxene
+C=C1CCC2C(C3C1CCC3=C)OC(=O)C2=C,FALSE,Dehydrocostus lactone
+CC1C(CCC1=C)C(=C)C,FALSE,2-methyl-1-methylene-3-(1-methylethenyl) cyclopentane
+CC12CCCC(=C)C1CC(CC2)C(=C)CO,FALSE,beta-costol
+CC1CCC(C2=C(CCC12)C)C=C(C)C,TRUE,"valerena-4,7(11)-diene"
+CCCCCCCCCCCCCC=C,FALSE,1-pentadecene
+CC1C2CCC(=C)C3CCC(=C)C3C2OC1=O,FALSE,Dihydrodehydrocostus lactone
+CC1=CCC(C=C1)C(C)(C)O,FALSE,"p-Mentha-1,5-dien-8-ol"
+CC1=C(CC2C(C1)C2(C)C)C(=C)C,FALSE,"3-Carene,4-isopropenyl"
+CC(=C)C1CC=CCCC=CCC1=O,FALSE,3£¬7£­Cyclodecadien£­1£­one£¬10£­(1£­methylethenyl)£­£¬(E£¬E)£­
+CC1CC2C(C2(C)C)C3C1O3,FALSE,Carane£¬4£¬5£­epoxy£­£¬trans
+CC=C=C1CCC=CCC(=C)C1,FALSE,Cyclooctene£¬4 £­ methylene £­ 6 £­ ( 1 £­ propenylidene) £­
+CC1CCC2C1C3C(C3(C)C)CCC24CO4,FALSE,Aromadendrene oxide£­(2)
+CC1CCC(C1C=O)C(=C)C=O,FALSE,Dolichodial
+CCC1(CCC(=O)C=C1C)C,FALSE,2£­Cyclohexen£­1£­one£¬4£­ethyl£­3£¬4£­dimethyl£­
+CC1=CCC(CC1)C2(C(O2)CC=C(C)C)C,FALSE,cis£­Z£­alpha£­Bisabolene epoxide
+CC1=CCC2C(C1C2(C)C)OC(=O)C,FALSE,trans-Chrysanthenyl acetate
+CC(C)CC(=O)OC(C)(CCC=C(C)C)C=C,FALSE,"Butanoic acid ,3-methyl-, 1-ethenyl-1, 5-dimethyl-4-hexenyl ester"
+CCCC(=O)CC1=CC=CC=C1,FALSE,1-Phenylpentan-2-one
+CC1(CCCC(=O)C1)C,FALSE,"3,3-Dimethylcyclohexanone"
+CC=CC=C1C(=CC(=O)CC1(C)C)C,FALSE,Megastigmatrienone 2
+CC1=C(C(CCC1)(C)C)C=CC(C)O,FALSE,beta-Ionol
+C[Si](C)(C)OC1=CC(=C(C=C1)C=O)O[Si](C)(C)C,FALSE,Benzaldehyde£¬2£¬4-bis£¨trimethylsiloxy£©-
+CC(C)C1=CCC(CC1)(C)O,FALSE,3-Cyclohexen-1-ol£¬1-methyl-4-£¨1-methylethyl£©-
+C[Si](C)(C)OC(=O)CS[Si](C)(C)C,FALSE,Mercaptoacetic acid£¬bis£¨trimethylsilyl£©-
+CC1=CC=C(C=C1)C(=O)OCCC(C)C,FALSE,Benzoic acid£¬4-methyl£¬3-methylbutyl ester
+CCCCCCCCCCCC(C)(CC)CO,FALSE,Tridecanol£¬2-ethyl-2-methyl
+CCCCCC=CCC=CCCCCCCCC(=O)OCC,FALSE,Ethyl linoleate
+CCCCCCCCCCCCCC(=O)OCC,FALSE,"tetradecanoic acid, ethyl ester"
+CCCCCCCCCCCCCCC(=O)OCC,FALSE,"pentadecanoic acid, ethyl ester"
+CCCCC=CCCCCCCCCCC(=O)OCC,FALSE,"£¨E)-11-hexadecenoic acid, ethyl ester"
+COC(=CC(C1=CC=CC=C1)(OC)OC)OC,FALSE,tetramethoxyallylbenzene
+CC1(C2CC3C1C3(C2)C)C,FALSE,Cyclofenchene
+CC=CCCCCCO,FALSE,6-Octen-1-ol
+CCC(=O)OCCC(C)CCC=C(C)C,FALSE,Citronellyl propionate
+CCCCCCCCCCCCCC=CC=C,FALSE,heptadecadiene
+C1=CC=C2C(=C1)C=CC3=CC=CC=C32,FALSE,Phenanthrene
+CC1CCC(C12CCC(=CC2)C)C(=C)C,FALSE,Acoradiene
+CC1CCC(C=C1)C(C)C,FALSE,p-Menth-2-ene
+CC(C)C1CCC(C(C1=O)C(=C)C)(C)C=C,FALSE,shyobunone
+CCCCCCCCCCCCCCCCC(=O)OCC,FALSE,ethyl heptadecanoate
+CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,FALSE,Bis(2-ethylhexyl) adipate
+CCCCC=CCCCCCCCCCC(=O)O,TRUE,11-Hexadecenoic acid
+CCC=CCC=CCC=CCCCCCCCC(=O)OCC,FALSE,Ethyl linolenate
+CCCCCCCCCCCCCCCCCC(=O)CCCCCCCCCCCCCCCCC,FALSE,18-Pentatriacontanone
+CCCCCCCCCCCCCC(=O)CCCCCCCCCCCCC,FALSE,14-Heptacosanone
+CCCCCCCCC=CCC=CCCCCC(=O)OC,FALSE,"6,9-Octadecadienoic acid,methyl ester"
+CC1(CCC=C2C13CCC(C3)C2(C)C)C,TRUE,Isolongifolene
+CCCCCCC=O,FALSE,Heptanal
+CCCCCCCC(=O)C,FALSE,2-Nonanone
+CCCCCC(C)O,TRUE,2-Heptanol
+CCCCCC(=O)C,FALSE,2-Heptanone
+CC(=O)C1=C(C(=C(C=C1)OC)OC)OC,FALSE,"2',3',4'-TriMethoxyacetophenone"
+CC1CCC(C12CCC(=CC2)C)C(C)(C)O,FALSE,Acorenol
+CCCCCCCCCCCCC#CCC#CC(=O)OC,FALSE,"2,5-Octadecadiynoic acid methyl ester"
+CC(C)C1CCC(=C)C(CCC(=C)C=C1)O,FALSE,£¨1R£¬7S£¬E£©-7-isopropyl-4£¬10-dimethylenecyclodec-5-enol
+CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=O)C)C,FALSE,Retinal
+CCCCCCC=CC#CCCCCCCC(=O)OC,FALSE,10-heptadecen-8-ynoic acid£¬methyl ester£¬£¨E£©-
+CCCCCCC#CC#CCCCCCCCC(=O)OC,FALSE,"methyl-9,11-octadecadiynoate"
+CC(CCC(C(C)(C)O)O)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C,FALSE,Secalciferol
+CCCOC(=O)CCCCCCCCC(=O)OCCC,FALSE,Dipropyl sebacate
+CCCCC(=O)OCCC=CCC,FALSE,cis-3-hexenyl valerate
+CCCCCCOC(=O)C(C)CC,FALSE,hexyl 2-methylbutyrate
+CCCC(=O)OCCC=CCC,FALSE,cis-3-Hexenyl butyrate
+CCCC(=O)OCCC(C)C,FALSE,Isoamyl n-Butyrate
+CCCCCCOC(=O)CCC,FALSE,Hexyl butyrate
+CC(C)CCOC(=O)C1=CC=CC=C1,FALSE,Isopentyl benzoate
+CC=CCCCO,TRUE,4-hexen-1-ol
+CC=C(C)C(=O)OCC(C)C,FALSE,Isobutyl Tiglate
+CCCCCCC(=O)OCC,FALSE,Ethyl heptanoate
+CCCCC(CC)CO,FALSE,2-Ethylhexan-1-ol
+CCCCCCCCCCCCCCCC=CCC=CCCCCC,FALSE,"6,9-pentacosadiene"
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Tetratetracontane
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Dotriacontane
+CCCCCCC(CCCCCC)CO,FALSE,"1-Octanol, 2-hexyl-"
+C(C(CO)O)O,FALSE,Glycerol
+CCCCCCCC=CCC#CC#CC(C=C)O,FALSE,Falcarinol
+CC1(CCC=CC1)C=O,FALSE,"3-Cyclohexene-1-carboxaldehyde, 1-methyl-"
+CCCCCCCC=CC=CC=O,FALSE,"2,4-Dodecadienal"
+CCCCCCC1CCC(=O)O1,TRUE,gamma-Decalactone
+CCCCCCCCCCCCCCCCCCCCCCCCC(C)C,FALSE,2-methylhexacosane
+CCCCCCCCCCCCCCCOC(=O)C,FALSE,1-Pentadecanol acetate
+CCCCCCCCCCCCC#CCO,FALSE,pentadec-2-yn-1-ol
+CC(C)CC(=O)OC1CC2CCC1(C2(C)C)C,TRUE,Isobornyl isovalerate
+CCCCCCCCC=CCCCCCCCC(=O)N,FALSE,9-Octadecenamide
+CCCCCCC(=C)C,FALSE,2-Methyl-1-octene
+CC(C)C1=C(C=C2C(=C1)CCC3C2(CCCC3(C)C)C)O,FALSE,Ferruginol
+CCCCCCOC(=O)C1=CC=CC=C1,FALSE,Hexyl benzoate
+C1=CC=C(C=C1)C(C(=O)C2=CC=CC=C2)O,FALSE,Benzoin
+CC1=CC(=CC=C1)OC(=O)CC2=CC=CC=C2,FALSE,m-Cresyl phenylacetate
+CC1=CC=CC=C1C,FALSE,o-Xylene
+CCCCCCCCCC=C,FALSE,1-undecene
+CCCCCCCC,FALSE,Octane
+C[Si]1(O[Si](O[Si](O1)(C)C)(C)C)C,FALSE,Hexamethylcyclotrisiloxane
+CCC1=CC(=C(C=C1)C)C,FALSE,1£¬2-Dimethyl-4-ethylbenzene
+CC1=C(C2CCC1C2)C,FALSE,santene
+CC1(CC2C1CCC3(CCCC2(C3)O)C)C,TRUE,Caryophyllenol
+C1=CC2=CC=COC2=C1,FALSE,oxalene
+CCCCCCC(C)CCC=C,FALSE,5-methyl-1-undecene
+CC1=CC2=CC=CC=C2C3=CC=CC=C13,FALSE,9-Methyl-phenanthrene
+CC1=CC2=C(C=C1)C3=C(C=CC=C3C=C2)C,FALSE,"2,5-Dimethyl-phenanthrene"
+CCCCC=CCCCCCCCCC=CCCO,FALSE,"(Z,Z)-3,13-Octadecadien-1-ol"
+CC1=C(C(CCC1)(C)C)CCC(C)O,TRUE,dihydro-beta-ionol
+CC(=C)C1CCC(=C)CC1,FALSE,1-methylene-4-(1-methylvinyl)cyclohexane
+CCCCCCCCC=CCCCCCCCCCCCC(=O)N,FALSE,Erucamide
+CC=C,FALSE,Propylene Tetramer
+CCCCCCCCCCCCCCC=C,FALSE,1-hexadecene
+CC1=CCCC(C1C=CC(C)O)(C)C,FALSE,alpha-Ionol
+CCCCCCCCCCCCCCCCCCCCCCCCCCCC(C)C,FALSE,melissane
+CCCC(=O)OCCC1=CC=CC=C1,FALSE,Phenethyl butyrate
+CCCCCCCCCCC=CCCCCCCCC,FALSE,9-Eicosene
+CCCCCCOC(=O)CCCCC,FALSE,hexyl hexanoate
+CC1CCCC2=CCC(CC12C)C(=C)C,TRUE,5£­epi£­aristolochene
+CC1=CCC(C2=C1C=CC(=C2)C)C(C)C,FALSE,alpha£­calacorene
+CC1CCCCCCCCCCCCCC(=O)O1,FALSE,15-hexadecanolide
+CC1CCC(CC1O)C(=C)C,TRUE,dihydro carveol
+CC1(CC2(CC1CC2O)C)C,TRUE,isofenchol
+CC(C)C12CCC(C1C2)CO,FALSE,isothujanol
+CC(C)(C)C1=CC(=CC(=C1)O)C(C)(C)C,TRUE,"3,5-di-tert-butylphenol"
+CCC#CCCCCC(=O)OC,FALSE,Methyl 6-nonynoate
+CC(=C)CCC(=C)C,FALSE,"2,5-Dimethyl-1,5-hexadiene"
+CCCCCCCCCC,FALSE,Decane
+CC(CO)C1CCC(O1)(C)C=C,TRUE,Lilac alcohol C
+CCCCCCCCCCCCCCCCCCCCCCCC=O,FALSE,Tetracosanal
+CCC(C)C(=O)O,FALSE,2-Methylbutanoic acid
+CCCCCCCCCCCCCCCCCCCCCC=O,FALSE,Docosanal
+CCCCCCCCCCCCCCCCCC=O,FALSE,Octadecanal
+CCC(C)C(=O)C1C(=O)C(C(=O)C(C1=O)(C)C)(C)C,FALSE,Isoleptospermone
+CC1(C2CCC(C2)C1(C)O)C,TRUE,Camphene hydrate
+CC1CCC(C2=C(CCC12)C)C=C(C)CO,TRUE,Valerenol
+CC1CCC(C=C1)C(=C)C,FALSE,Trans-isolimonene
+CC(C)CCCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC=C4)C)C,FALSE,Cholesterilene
+CC=C(C)C=O,FALSE,Tiglic aldehyde
+CC=C(C)CO,FALSE,(E)-2-methyl-2-buten-1-ol
+CCCC(=O)C,FALSE,2-Pentanone
+CC(=C)C=CCC(C)(C=C)O,FALSE,hotrienol
+C1=CC=C(C=C1)C=CCO,FALSE,(E)-cinnamyl alcohol
+CCCCCCCCCCCCCCCOC(=O)C=C,FALSE,pentadecyl acrylate
+CCCCCCCCCCOC(=O)CC,FALSE,propionic acid decyl ester
+CC1=C(C(CC=C1)(C)C)C=O,TRUE,safranal
+C1CCC(=O)CC1,FALSE,Cyclohexanone
+CCCCCCCCCCCCCCO,TRUE,1-Tetradecanol
+CC1=C2CC(CCC2(CC(=O)C1)C)C(=C)C,FALSE,"6-Isopropenyl-4,8a-dimethyl-3,5,6,7,8,8a-Hexahydro-2(1H)-naphthalenone"
+CC1CC=C(C2(C1CCC(=C)C2)O)C(C)C,FALSE,Dehydroxy-isocalamendiol
+CC1CCC(C12CC=C(C(=O)C2)C)C(C)C,FALSE,"1-Isopropyl-4,8-dimethylspiro [4.5]dec-8-en-7-one"
+CC1CCC23C(CCC2C(C1C3=O)(C)C)C,TRUE,9-Cedranone
+CCC1=CC(=C(C=C1)O)OC,TRUE,4-Ethyl-2-methoxyphenol
+CC1=CC(=C(C=C1)OC)O,TRUE,2-Methoxy-5-methylphenol
+CCC1=CC=C(C=C1)O,TRUE,4-Ethylphenol
+CC1=CC2=CC=CC=C2C=C1,FALSE,2-Methylnaphthalene
+CCCCCCCC#CCCCCCCC,FALSE,8-hexadecyne
+CCCCCCCCC=CCCCCCCC,FALSE,8-heptadecene
+CCCCCCCCCCC(=O)C,FALSE,2-dodecanone
+CCCCCCCCCCCCC(CCC)OC(=O)C(Cl)Cl,FALSE,"Dichloroacetic acid,4-hexadecyl ester"
+CC1=CC(=O)CC(C1C=CC(C)O)(C)C,FALSE,"2-Cyclohexen-1-one,4-(3-hydroxy-1-butenyl)-3,5,5-
+trimethyl"
+CC(C)CCCC(C)CCCC(C)CCCC(=CCOC(=O)C)C,FALSE,"Phytol,acetate"
+CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC,FALSE,Cocaine
+CCOC(=O)C1=CC=CC=C1N,FALSE,Ethyl anthranilate
+CC1=CCCC(=CCC(CC1)C(C)(C)O)C,FALSE,hedycaryol
+CCCCCCCCCCCCCCCCCO,TRUE,1-Heptadecanol
+CCCCCC=CCC=CCCCCCCCCCC(=O)OC,FALSE,"11,14-Eicosadienoic acid, methyl ester"
+CCC=CCC=CCC=CCCCCCCCC=O,FALSE,"9,12,15-Octadecatrienal"
+CCOC(=O)C1=CC=CC=C1O,FALSE,ethyl salicylate
+C1=CC=C(C=C1)C(CO)O,TRUE,Styrene glycol
+CC(C)C=CCCCCC(=O)NCC1=CC(=C(C=C1)O)OC,FALSE,Capsaicin
+CCCOC1=C(C=C(C(=C1)OC)CC(C)N)OC,FALSE,"4-Propoxy-2, 5-dimethoxy amphetamine"
+C1=CC=C2C(=C1)C3=C(N2)C4=C(C5=CC=CC=C5N4C=C3)C=O,FALSE,Homofascaplysin C
+CN1CC(=CC2C1CC3=CNC4=CC=CC2=C34)CO,FALSE,Elymoclavine
+CC1(C(CCC2(C1C(=O)C3C(C2CO)(O3)C)C)O)C,FALSE,Uvidin B
+COC1=CC2=NC3=CC=CC=C3N=C2C=C1,FALSE,2-Methoxyphenazine
+C1CC(=O)NC(=O)C1,FALSE,"2,6-Dioxopiperidine"
+CC(=O)OCC(C(C(COC)OC(=O)C)OC)OC,FALSE,"1,4-Di-O-acetyl-2, 3, 5-tri-O-methylribitol"
+CC1=CC(=O)OC2=CC(=CC(=C12)O)O,FALSE,"5,7-Dihydroxy-4-methylcoumarin"
+COC(=O)CC1=CC=CC=C1,FALSE,methyl phenylacetate
+CC(=O)OCCC1=CC=CC=C1,TRUE,phenethyl acetate
+CCC(C)CCCC(C)C,FALSE,"2,6-Dimethyloctane"
+CC(C)C1=NC=CN=C1OC,FALSE,2-Isopropyl-3-methoxypyrazine
+CCC=CCCC=CC=O,FALSE,"trans-2,cis-6-Nonadienal"
+CCCCCCCCCCCCO,TRUE,1-Dodecanol
+CCC=CCCC=CCO,FALSE,"(E,Z)-2,6-Nonadienol"
+CC1=C(C=CC(=C1)O)N,FALSE,4-Amino-3-methylphenol
+CC(C(=O)C)O,FALSE,acetoin
+C(C(CO)CO)O,FALSE,"2-(hydroxymethyl)-1,3-propanediol"
+CC(C)(CO)[N+](=O)[O-],FALSE,2-Methyl-2-nitro-1-propanol
+CN(C1=CC=CC=C1)N,FALSE,"hydrazine,1-methyl-1-phenyl-"
+CC(=O)CO,FALSE,"2-Propanone, 1-hydroxy-"
+CCC=CCC1C(CCC1=O)CC(=O)OC,TRUE,Methyl 2-(3-oxo-2-(pent-2-en-1-yl)cyclopentyl)acetate
+COC(=O)CC1CCC(=O)C1,TRUE,Methyl 2-(3-oxocyclopentyl)acetate
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,FALSE,Arachidonic acid
+CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O,FALSE,Docosahexaenoic acid
+CC(C)OC(=O)C=C(C)C=CCC(C)CCCC(C)(C)OC,FALSE,S-Methoprene
+CC(=CCCC1(C2CCC(C2)C1=C)C)CO,FALSE,"2-Methyl-5-((1S,2S,4R)-2-methyl-3-methylenebicyclo[2.2.1]heptan-2-yl)pent-2-en-1-ol"
+CC(=CCCC(=CCCC(=CC=O)C)C)C,FALSE,Farnesal
+CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)OC,FALSE,"4,7,10,13,16,19-Docosahexaenoic acid, methyl ester"
+CC1=CCC2(CC1)C(=CCCC2(C)C)C,TRUE,.alpha.-Chamigrene
+CCC#CCC1C(CCC1=O)CC(=O)OC,TRUE,Methyl [3-oxo-2-(2-pentynyl)cyclopentyl]acetate
+CC1=CC2=C(C=C1)C(CCC2)(C)C,FALSE,Aromatic compounds
+CCCCCCCCCCCCCCCCCCCCCCCCCCCO,TRUE,1-Heptacosanol
+CC1(CCCC2(C1CCC(=C)C2CCC(C)(C=C)O)C)C,FALSE,Manool
+CCC(CCC(C)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(C)C,FALSE,Stigmast-4-en-3-one
+CC(C)C(C)C=CC(C)C1CCC2C1(CCC3C2=CC=C4C3(CCC(C4)O)C)C,FALSE,Ergosterol
+CCC(C=CC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C,FALSE,beta.-Stigmasterol
+CCOC(=O)CC(CC(=O)OCC)(C(=O)OCC)O,TRUE,Triethyl citrate
+CC(C)C1CCC2(CCCC(=O)C2(C1)C)C,TRUE,Valeranone
+CC1CCCC2(C1(CCCC2)O)C,TRUE,Geosmin
+C1=CC=C2C(=C1)C=NC(=N2)N,FALSE,2-quinazolinamine
+CC1=CC2C(=C(CCCC2(C)C)C)CC1,FALSE,Himachalene
+CCCCCC(=O)OCCC=CCC,FALSE,cis-3-Hexenyl hexanoate
+CC(C)C1CCC2(C13CCC(O3)(C(C2)O)C)C,FALSE,Daucol
+CC1=C2CCC(CC2=C(C=C1)C)C(C)(C)OC(=O)C,FALSE,Occidol acetate
+CC(=O)C1=C(C=C(C=C1)OC)O,TRUE,Paeonol
+CC(=C)C1CCC(=CC1)C=O,FALSE,Perillaldehyde
+CC1=CCCC(C1CO)(C)C,FALSE,alpha-Cyclogeraniol
+CC1(C2CCC(=O)C1C2)C,FALSE,( 1R)-(+)-Nopinone
+CCCCC=CCCCCCCCCO,FALSE,(Z)-9-Tetradecen-1-ol
+CCCCCCCCCCCCCCCCCCCCC(C)CC,FALSE,3-Methyltricosane
+CC(=C)CCOC(=O)C=CC1=CC=CC=C1,FALSE,3-Methyl-3-buten- 1-yl cinnamate
+CC(=C)CCOC(=O)C,FALSE,3-Methyl-3-buten- 1-yl acetate
+CC(=CCOC(=O)C=CC1=CC=CC=C1)C,FALSE,3-Methyl-2-buten- 1-yl cinnamate
+C1=CC=C(C=C1)CC#N,FALSE,Phenylacetonitrile
+C1=CC=C(C(=C1)O)O,TRUE,Catechol
+C1=CC(=CC=C1C=CC(=O)O)O,FALSE,p-Hydroxy-cinnamicacid
+CC(=CCC1C(O1)(C)C2(C(C(=O)CCC2(C)O)OC)O)C,FALSE,Palmiticacid
+CCC(C=CC(C)C1CCC2C1(CCC3C2=CCC4C3(CCC(C4)O)C)C)C(C)C,FALSE,alpha-Spinasterol
+C1=CC(=CC=C1CCO)O,TRUE,2-(4-Hydroxyphenyl)ethanol
+C=CCCCCCCCCCCCCC=C,FALSE,"1,15-Hexadecadiene"
+CC=CCCC=CCO,FALSE,"2,6-Octadien-1-ol"
+CCCCCCCCCCCCCCCCCCCO,TRUE,1-Nonadecanol
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCO,TRUE,Nonacosanol
+COC1=C(C=CC=C1O)CC=C,TRUE,"phenol, 2-methoxy-3-(2-propenyl)"
+COC1=C(C=C(C=C1)O)OC,TRUE,"phenol, 3,4-dimethoxy-"
+CCOC(=O)C1=CC=CC=C1C(=O)OCC,FALSE,Diethyl phthalate
+CC(=O)NC1=C(C=CC=C1[N+](=O)[O-])[N+](=O)[O-],FALSE,"2',6'-Dinitroacetanilide"
+CCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCC)OC(=O)CCCCCCCCCCC,FALSE,"Dodecanoic acid, 1,2,3- propanetriyl ester"
+CC(=O)C1=CC=CC=C1,FALSE,Acetophenone
+CC(C)C1=CCC(=CC1)C=O,FALSE,"p-Mentha-1,4-dien-7-al"
+CC(C)C12CCC(C1C2)(C)OC(=O)C,TRUE,sabinene hydrate acetate
+CC1CCC(=CC1=O)C(C)C,FALSE,carvenone
+CC1=CC(=CC=C1)C#N,FALSE,3-methylbenzonitrile
+CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,TRUE,Butylated Hydroxytoluene
+CC1(C2CCC1(C=C2)C)C,FALSE,bornylene
+CC1=CCC(C=C1)C(C)CCC=C(C)C,FALSE,Zingiberene
+CC1=CC=CC=C1C(=C)C,FALSE,1-Methyl-2-(1-methylethenyl)-benzene
+CC1=C2CCC(C2C3C(C3(C)C)CC1)(C)O,FALSE,Isospathulenol
+CCCCO,FALSE,1-Butanol
+C1=CC=C2C(=C1)C=CC(=O)O2,FALSE,2H£­1£­benzopyran£­2£­one
+CC1(C=CC2=C(O1)C=C(C=C2)OC)C,FALSE,"7£­methoxy£­2,2£­dimethyl£­2H£­1£­benzopyran"
+CC1C2C(CC(=C3C(C2OC1=O)C(=CC3=O)C)C)OC(=O)C,FALSE,matricarin
+CC(CC1=CC=C(C=C1)OC)O,FALSE,1-(4-Methoxyphenyl)-2-propanol
+CCC(C1=CC=CC=C1O)OC,FALSE,2-(1-Methoxypropyl)phenol
+CC1=C(C(C(CC1)C(C)C)O)O,FALSE,"Menthen-2,3-diol"
+CCCCCC(=O)C=C,FALSE,Pentyl vinyl ketone
+CC(=C)C=CCCCC(=CCCC(C)(C=C)O)C,TRUE,Fokienol
+CCCCCCCCCCCC(=O)OC,TRUE,Methyl dodecanoate
+CCCCCCCCC(=O)OC,TRUE,methyl nonanoate
+CCCCCCCC(=O)OC,TRUE,methyl octanoate
+CCCC(=O)OC,FALSE,methyl butyrate
+CCCCCC(=O)OC,TRUE,methyl hexanoate
+CC(C)C(C)O,FALSE,3-methyl-2-butanol
+CC(=O)C=CC12C(CCCC1(O2)C)(C)C,FALSE,"4-(2£¬2£¬6-trimethyl-7-oxabicyclo£Û4, 1, 0 £Ýhept-1-yl) -3-buten-2-one"
+C1CN(CCC1C(=O)C2=CC=CC=C2)C(=O)C3=CC=CC=C3,FALSE,5£¬ 6£¬ 7£¬ 7a-tetrahydro-4£¬ 4£¬ 7a-trimethyl-2(4H) benzofuranone
+CC(=CC(=O)C1CC(CC1C(=C)C)(C)C)C,FALSE,1-isopropenyl-3£¬3-dimethyl-5-( 3-methyl-1-oxo-2-butenyl) cyclopentane
+CC(=C)CC(C#N)N(C)C,FALSE,2-dimethylamino-4-methyl-pent-4-enenitrile
+CCCCCCC1CC2CCCC2CC1CCCC,FALSE,"Bicyclo[4,3,0]-nonane,3-butyl-4-hexyl"
+C1=CC=NC=C1,FALSE,Pyridine
+CCC(=O)N,FALSE,Propanamide
+C1=CC2=C(C(=C1)N3C(=C(N=N3)C(=O)N)N)N=CC=C2,FALSE,"5-Amino-1-(quinolin-8-yl)-1,2,3-triazole-4-carboxamide"
+CN(C(=O)C1=CCCCS1)OC,FALSE,"N-Methoxy-N-methyl-3,4-dihydro-2H-thiopyran-6-carboxamide"
+CCCCCCCCCCCCCC(=O)OCC(CO)O,FALSE,"2,3-Dihydroxypropyl tetradecanoate"
+CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)O,FALSE,"1,3-Dioctanoin"
+COC1=C(C=C(C=C1)CC=C)O,TRUE,m-eugenol
+CC1CCC(CC1=O)C(=C)C,FALSE,cis-Dihydrocarvone
+CCC=CCO,TRUE,cis-2-Penten-1-ol
+COC1=C(C=C(C=C1)C=O)O,TRUE,Isovanillin
+CCCCCCC(CCCCCC)CCCCCC,FALSE,"tridecane,7-hexyl-"
+CCCCCCCCCCCCCCCC(=O)OC(C)C,FALSE,Isopropyl palmitate
+CC1CCCC(C1O)C,TRUE,"2,6-DIMETHYLCYCLOHEXANOL"
+C1=CC=C(C=C1)CNN,FALSE,Benzylhydrazine
+CC1=C(C=CC(=C1)C(=O)C)O,FALSE,4'-Hydroxy-3'-methylacetophenone
+C1CCC(C1)O,FALSE,Cyclopentanol
+CCCCC=C,FALSE,1-hexene
+CCC=CCC(=O)O,FALSE,CIS-3-HEXENOIC ACID
+CCCC=CC(=O)O,FALSE,TRANS-2-HEXENOIC ACID
+CC1C2CC2(CC1O)C(C)C,TRUE,3-neoisothujanol
+CC1=CCC2(CC=CC(C23C1C3)(C)C)C,FALSE,thujopsadiene
+CCCCCCCCCCCCCC(=O)OC(C)C,FALSE,Isopropyl myristate
+CCCCCCCCCCC(=O)O,TRUE,Undecanoic acid
+CC1=C(C=C2CCC(OC2=C1C)(C)CCCC(C)CCCC(C)CCCC(C)C)O,FALSE,gamma-tocopherol
+CC1=CCC2C(CCCC2(C1CO)C)(C)C,FALSE,Drimenol
+CC1(CCCC2(C1CCC3=C2C(=O)OC3)C)C,FALSE,Isodrimenin
+CC1(CCCC2(C1CC=C3C2C(=O)OC3)C)C,FALSE,Drimenin
+CC1CCC(C(C1)C)O,TRUE,"2,4-DIMETHYLCYCLOHEXANOL"
+CC1=CC(=C(C=C1)O)C,TRUE,"2,4-Dimethylphenol"
+C1CCC(=C=CC=O)CC1,FALSE,3-Cyclohexylideneprop-2-Enal
+CC1=CC(=CC=C1)C=O,FALSE,m-Tolualdehyde
+CC(=O)C1=CC(=CC(=C1)O)O,TRUE,"3',5'-Dihydroxyacetophenone"
+C1CC(=CC(=O)C1)N,FALSE,3-AMINO-2-CYCLOHEXEN-1-ONE
+CC(CO)O,FALSE,Propylene Glycol
+CC1(CC23C1CCC2(CCCC3=C)C)C,FALSE,beta-Panasinsene
+CC1(CCC=C2C13CC(C2(C)C)C=C3)C,FALSE,"4,5-Dehydro-isolongifolene"
+CC1=CC(=O)C2C3C1C2(CCCC3(C)C)C,FALSE,Longiverbenone
+CCCCCCCCCCCCCCC=CCCCC,FALSE,"5-Eicosene, (E)-"
+CCCCCCCCCCCCC=CCCCC,FALSE,trans-5-Octadecene
+CCCCCCC(C)C,FALSE,Isononane
+C1CCCNC(=O)CC1,FALSE,2-Azacyclooctanone
+CC1=C(C(=CC=C1)C)C,FALSE,Hemimellitene
+CCCCC(C)CCC,FALSE,4-Methyloctane
+CCCCCC(C)CC,FALSE,3-Methyloctane
+CCC1=C(C=CC(=C1)C)C,FALSE,"2,5-Dimethylethylbenzene"
+C1=CC=C(C(=C1)C=O)O,TRUE,Salicylaldehyde
+CCC=CC=CC=O,FALSE,"2,4-heptadienal"
+CC=CC=CC=O,FALSE,"2,4-Hexadienal"
+CCCCCCCO,TRUE,1-Heptanol
+CC(C)C1CCCCC1,FALSE,(1-Methylethyl)-cyclohexane
+CCCCCCCCCCC=O,FALSE,Undecanal
+CC1CCC(C(C1)O)C,TRUE,"2,5-dimethylcyclohexanol"
+C=CCCCCCCCCC=O,FALSE,10-Undecenal
+COC1=CC2=C(C=CC=C2OC)C=C1,FALSE,Naphthalene£¬1£¬7-dimethoxy-
+CCCCCCCCCCCCOC(=O)C(=O)OCCCCCC,FALSE,Oxalic acid£¬dodecyl hexyl ester
+CC12CCC3C(C1CC=C2)CCC4=CC(=O)CCC34C,FALSE,Androsta-4£¬16-dien-3-one
+CC(C)SC1=CC=CC=C1O,FALSE,Phenol£¬2-£Û(1-methylethyl)thio£Ý-
+CC(C=C)C1=CC=CC=C1C=C,FALSE,Benzene£¬1-(1-buten-3-yl)-2-vinyl-
+CC#CC(C1=CC=CC=C1)OC(=O)C,FALSE,1-Acetoxy-1-phenylbut-2-yne
+CC(C(C(C)Br)Br)Br,FALSE,2£¬3£¬4-Tribromopentane
+CC1=C(C=C(O1)OC)C2=CC=CC=C2,FALSE,Furan£¬2-methoxy-5-methyl-4-phenyl-
+CC1CCC(CC1)C(=C)C,FALSE,Cyclohexane£¬1-methyl-4-(1-methylethenyl)-£¬cis
+CNC(=O)C1C(=C1C2=CC=CC=C2)C3=CC=CC=C3,FALSE,3-Methylaminocarbonyl-1£¬2-diphenyl-cyclopropene
+CC(=O)NC1CCC2=CC(=C(C(=C2C3=C1C4C3C=C(C4=O)OC)OC)OC)OC,TRUE,gamma.-Lumicolchicine
+CCCCCC=CCC=CCCCCCC(=O)OC,FALSE,7£¬10-Hexadecadienoic acid£¬methyl ester
+CCOC(C)OCC,TRUE,"1,1-Diethoxyethane"
+CCCCCCCCCCCCCC=CC(=O)O,FALSE,cis-Hexadecenoic acid
+COC1=C(C=C(C=C1)C=C)OC,TRUE,"3,4-Dimethoxystyrene"
+CC(C)CCCCCCO,TRUE,isononyl alcohol
+CC1CCC(CC1C)O,TRUE,"3,4-DIMETHYLCYCLOHEXANOL"
+CCCCCC(CC(=O)CCC1=CC(=C(C=C1)O)OC)O,FALSE,Gingerol
+CCC(=O)C,FALSE,2-butanone
+CCCCCC=CCC=CCCCCCCCC(=O)OCCC,FALSE,Linoleic acid propyl ester
+CCOC(=O)CCCCCCCCC=C,FALSE,Ethyl 10-undecenoate
+CCCCCCCCCCCCC(=O)OCC,FALSE,Ethyl tridecanoate
+CCCCCCCCCCCC(=O)OC(C)C,FALSE,ISOPROPYL LAURATE
+COC1=CC=C(C=C1)C(=O)OC,FALSE,Methyl 4-methoxybenzoate
+CCCCCCCCCCCCCCCCCCCCCC=C,FALSE,tricosene
+C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,TRUE,Kaempferol
+C1=CC(=CC=C1C(=O)O)O,FALSE,4-Hydroxybenzoic acid
+COC1=C(C=CC(=C1)C=CC(=O)O)O,TRUE,Ferulic acid
+CC(=O)OCC1C(C(C(C(O1)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C,FALSE,Penta-O-acetyl-beta-D-glucopyranose
+COC1=C(C2=C(C(=C1)O)C(=O)C(=C(O2)C3=CC=C(C=C3)O)O)O,FALSE,Pollenitin
+C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,FALSE,DECAMETHYLTETRASILOXANE
+CC(=C1CCC(CC1)(C)O)C,FALSE,gamma-Terpineol
+CCCCCCCCC1CCC(=O)O1,TRUE,gamma-Dodecalactone
+CCCCCCCCOC(=O)C,FALSE,Octyl acetate
+CC(C)CCOC(=O)C,FALSE,Isoamyl acetate
+CCCCCCC(C)CCCCC,FALSE,6-Methyldodecane
+CCCCCCCCCCCCCCCC=C,FALSE,Ê®ÆßÏ©-1
+COC1=C(C=CC(=C1)CO)O,TRUE,Vanillyl alcohol
+CCC1=CC=CC=C1O,TRUE,2-Ethylphenol
+CC(CC(=O)C=C(C)C)C1CCC(=C)C=C1,FALSE,curlone
+CCCCCC=CCCCCCCCCCCC(=O)OC,FALSE,"12-octadecenoic acid,methyl ester"
+CC=CCCCOC(=O)C,FALSE,"4-Hexen-1-ol,acetate"
+CCCCCCCCCC=CCCCCCCCC,FALSE,9-Nonadecene
+CCCCCCCCCC(C)(C)S,FALSE,2-Undecanethiol£¬ 2-methyl-
+COC1=CC(=C2C=CC(=N[N+]#N)C(=C2)OC)C=CC1=NN=[N-],FALSE,4£¬4'-Diazido-3£¬3'-dimethoxy-biphenyl
+CCC1(CC2(CCO1)CNCCN2)C,FALSE,1£¬4-Diaza-9-oxaspiro[5.5]undecane£¬8-ethyl-8-methyl-
+CCCC1CC(CCO1)C2=CSC(=N2)N,FALSE,4-(2-Propyl-tetrahydro-pyran-4-yl)-thiazol-2-ylamine
+CCN1C2C(N(C(=O)N2C)C)N(C1=O)CC3CO3,FALSE,Imidazo[4£¬5-d]imidazole-2£¬5-dione£¬perhydro-1-ethyl-4£¬6-dimethyl-3-£¨ 2-oxiranylmethyl£© -
+CC1(C2CCC1(C(C23OCCO3)O)C)C,FALSE,"Spiro[bicyclo[2.2.1]heptane-2,2'-[1,3]dioxolane]-3-ol, 4,7,7-trimethyl-"
+CC1CCC(C2C1CCC(=C2)C)(C(C)C)O,FALSE,cis-Cadin-4-en-7-ol
+C=CC1=CC=C(C=C1)O,FALSE,¦Ñ-Vinylphenol
+C1=CNC=C1,FALSE,1H-Pyrrole
+CCCCC=C1C(=C(C(=O)O1)C)C,FALSE,"3,4-dimethyl-5-pentylidene-2(5H)-furanone"
+COCCOCCO,FALSE,2-(2-Methoxyethoxy)ethanol
+CC(=O)CC(=O)C,FALSE,"2,4-Pentadione"
+CCCC=CCOC(=O)C(=CC)C,FALSE,z-3-hexenyl tiglate
+CCCCCCOC(=O)C(=CC)C,FALSE,Hexyl tiglate
+CC(C)C1CCC2(C3C1C4C2(C4C3)C)C,FALSE,Cyclosativene
+CC=C(C)C(=O)OCC1=CC=CC=C1,FALSE,Benzyl tiglate
+CC1CCC(C2C13C2C(CC3)(C)O)C(C)C,TRUE,4-epi-Cubebol
+CC=CC=C1C(=CCCC1(C)C)C,FALSE,"Megastigma-4,6(E),8(E)-triene"
+CCCCCCCC(=O)OCCC(C)C,FALSE,3-methylbutyl octanoate
+CC1=CC2=C(C=C1)C(=O)C3=CC=CC=C3C2=O,FALSE,2-Methylanthraquinone
+CCCCCCCCCCCCCCC1CCC(=O)O1,TRUE,gamma¨CStearolactone
+CC1(C=CC2=C(O1)C3=CC=CC=C3C(=C2C(=O)OC)O)C,FALSE,Mollugin
+CC(C)(C)C1CCC2=CC=CC=C2C1=O,FALSE,"2-(1,1-dimethylethyl)-3,4-dihydro-1(2H)-naphthalenone"
+CC1=C(C2=C(C=C1)C(=O)C3=CC=CC=C3C2=O)[N+](=O)[O-],FALSE,2-Methyl-1-nitroanthraquinone
+CC(C)(C)C1=C(C=CC(=C1)C(C)(C)C2=CC=CC=C2)O,FALSE,2-t-butyl-4-(dimethylbenzyl) phenol
+CC1=C2C(=C(C=C1)O)C(=O)C3=CC=CC=C3C2=O,FALSE,1-hydroxy-4-methylanthraquinone
+CC1=CC2=C(C=C1)C(=O)C3=C(C2=O)C=C(C=C3O)OC,FALSE,1-Hydroxy-3-methoxy-6-methylanthraquinone
+CCCCCC1=CC(=C2C(=C1)OC(C3=C2C=C(C=C3)CO)(C)C)O,FALSE,11-hydroxycannabinol
+CC1(CCCC(=C)C(CCC(=C)CC1)O)C,FALSE,"Caryophylla-4(14),8(15)dien-5-alpha-ol"
+CC(=C)C1C=CCCC1(C)C=C,FALSE,Geijerene
+CCCCCCCCCC(C)O,TRUE,2-Undecanol
+CC1(CCC2C1C=CCCC2=C)O,FALSE,Dictamnol
+CCOC(=O)C=CC1=CC=C(C=C1)OC,FALSE,Ethylp-methoxycinnamate
+CC(=C)C1CCC(C=C1)(C)O,FALSE,"p-Mentha-2,8-dien-1-ol"
+CC1=CCC2C(C1)C(CCC2(C)O)C(C)C,FALSE,gamma-Cadinol
+CCCCCCC(CCCBr)CBr,FALSE,1-Bromo-4-bromomethyl decane
+CC(=C)C1CCC(C(C1)O)(C)O,TRUE,"1,2-Cyclohexanediol, 1-methyl-4-(1-methylethenyl)-"
+CC(C)CCCC(=CCOC(=O)C(C)C)C,FALSE,"2-Octen-1-ol, 3,7-dimethyl-, isobutyrate, (Z)-"
+CC(CCCC(C)(C)OC)CC=CC(=CC(=O)OC)C,FALSE,"2,4-Dodecadienoic acid, 11-methoxy-3,7,11-trimethyl-,methyl ester, (E,E)-"
+CC(=CCCC(=CCOC)C)C,TRUE,Geranyl methyl ether
+CC(C=C(C)CCC=C(C)C)O,TRUE,"3,7-Nonadien-2-ol, 4,8-dimethyl-"
+CCCCC#CC(C)O,FALSE,3-Octyn-2-ol
+C1CCCC(CCC1)O,TRUE,Cyclooctyl alcohol
+CC(=CCCC(=C)C=C)CCC=C(C)C=O,FALSE,Sinensal
+CCCCCCCCCCCCCCCCCC(=O)N,FALSE,Stearamide
+CCCCCCCCCCCCCCCC(=O)N,FALSE,Palmitamide
+CC(=CCCC1(C2CC3C1(C3C2)C)C)CO,FALSE,alpha-Santalol
+COC1=CC=C(C=C1)C2(C3CCC2C=C3)O,FALSE,"2-Norbornen-7-ol, 7-(p-methoxyphenyl)-, syn-"
+CC1=CCCC(=CC=CCC1)C,FALSE,Pregeijerene
+CC1CCC2C13CCC(C(C3)C2(C)CO)(C)O,TRUE,"8S,13-Cedranediol"
+CC1=CC2CCC1(C(=C2C)C)C,FALSE,"Bicyclo[2.2.2]octa-2,5-diene, 1,2,3,6-tetramethyl-"
+CC1=C2C(=C(C=C1)C(C)C)C=C(C(=O)C2=O)C,FALSE,Mansonone C
+CC1(C=CCCC1C=C)C=C,FALSE,"3-Methyl-3,4-divinylcyclohexene"
+CC1CCC2C13CCC(=C)C(C3)C2(C)C,FALSE,beta-Cedrene
+CC(=C1CCC(C(=C(C)C)C1)(C)C=C)C,FALSE,"1-Ethenyl-1-methyl-2,4-bis(1-methylethylidene)cyclohexane"
+CC1(C=CC2C1C2(C)C)C,FALSE,"4,4,6,6-Tetramethylbicyclo[3.1.0]hex-2-ene"
+CC1=CCCC(=CCC=C(C=CC(CC1)C(C)C)C)C,FALSE,Cembrene
+CCCCCCCC(C)OC(=O)C,FALSE,1-Methyloctyl acetate
+COC1=C2C=CC(=O)OC2=CC3=C1C=CO3,FALSE,Bergapten
+CC(=O)CCC1=CC2=C(C=C1)OCO2,TRUE,Piperonyl acetone
+CCCCCCCCCC(C)OC(=O)C,FALSE,1-Methyldecyl acetate
+C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,FALSE,Psoralen
+CCCCCCCCC(=O)C,FALSE,2-Decanone
+CCCCCCCC(C)O,TRUE,2-Nonanol
+CCCCCC(C)CC(C)CCC,FALSE,"4,6-Dimethylundecane"
+COC1=CC=CC(=C1O)CC=C,TRUE,2-Allyl-6-methoxyphenol
+COC1=C2C=COC2=C(C3=C1C=CC(=O)O3)OC,FALSE,Isopimpinellin
+CC(C)C1CCC(=CC1)C=O,FALSE,Phellandral
+C1CCC2C=CC=CC2C1,FALSE,"1,2,3,4,4a,8a-Hexahydronaphthalene"
+CC(C)C1CCC(CC1)OC(=O)C,FALSE,"Cyclohexanol, 4-(1-methylethyl)-, acetate, cis-"
+CC1=C(CCCC1)C,FALSE,"1,2-Dimethylcyclohexene"
+CC1CC(=O)C=C1C,FALSE,"3,4-Dimethylcyclopent-2-en-1-one"
+CCCC,FALSE,Butane
+CC(C)C,FALSE,Isobutane
+CC1CCC2(C1(C2)O)C(C)C,TRUE,3-Thujanol
+CCCCC,FALSE,Pentane
+C=CC1=CC=CC=C1,FALSE,Styrene
+CCCCCCCCCCOC(=O)OCC(CC)CCCC,FALSE,"Carbonic acid, decyl 2-ethylhexyl ester"
+C1CCC(C(C1)O)O,FALSE,"1,2-Cyclohexanediol"
+COC(=NO)C1=CC=CC=C1,FALSE,"Oxime-, methoxy-phenyl-"
+CC=C(C)C(=O)O,FALSE,Tiglic acid
+CC1CCC(=C2C1CCC(=C2)C)C(C)C,FALSE,Epizonarene
+C1CCC(=O)C(=O)C1,FALSE,"1,2-Cyclohexanedione"
+COC1=CC=CC=C1C=O,FALSE,2-Methoxybenzaldehyde
+C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O,FALSE,Chlorogenic Acid
+C1C(C(OC2=C1C(=CC(=C2C3C(C(OC4=CC(=CC(=C34)O)O)C5=CC(=C(C=C5)O)O)O)O)O)C6=CC(=C(C=C6)O)O)O,FALSE,Procyanidin B2
+C1C(C(OC2=C1C(=CC(=C2C3C(C(OC4=C(C(=CC(=C34)O)O)C5C(C(OC6=CC(=CC(=C56)O)O)C7=CC(=C(C=C7)O)O)O)C8=CC(=C(C=C8)O)O)O)O)O)C9=CC(=C(C=C9)O)O)O,FALSE,Procyanidin C1
+C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O,FALSE,Epigallocatechin
+C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,FALSE,(-)-Epigallocatechin gallate
+CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)OC)O)O)O)O)O)O,FALSE,Narcissoside
+C1=CC(=C(C(=C1)O)O)O,TRUE,Pyrogallol
+C(C(C(C(C(C=O)O)O)O)O)O,TRUE,"(2R,3R,4R,5R)-2,3,4,5,6-pentahydroxyhexanal"
+C1C(C(C(CC1(C(=O)O)O)O)O)O,FALSE,Quinic acid
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C,FALSE,Caffeine
+CCCCCCCCC=CCCCCCC(=O)OC,FALSE,cis-7-Hexadecenoic Acid methyl ester
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,FALSE,Tritetracontane
+CCCCCCCCC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCCCCCCCC)OC(=O)CCCCCCCC=CCCCCCCCC,FALSE,Trielaidin
+CCCCCCCCCCCCCCCCOC1CCOC(O1)CCCCCCCCCCCCCCC,FALSE,"1,3-Dioxane, 4-(hexadecyloxy)-2-pentadecyl-"
+CC(C)CCCCCCCCCCC(=O)OC,TRUE,Methyl 12-methyltridecanoate
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCO,TRUE,1-Pentacontanol
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC=O,FALSE,Dotriacontanal
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC=O,FALSE,Triacontanal
+CCCCCCCCCCCCCCCCCCCCCCCCCCCC=O,FALSE,Octacosanal
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCO,TRUE,Dotriacontanol
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCO,TRUE,1-Triacontanol
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O,TRUE,Dotriacontanoic acid
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O,TRUE,Triacontanoic acid
+CCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O,TRUE,Octacosanoic acid
+CC(=O)C1=CC=C(C=C1)O,TRUE,4-Hydroxyacetophenone
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC=O,FALSE,Tetracontanal
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC=O,FALSE,Nonacosanal
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O,TRUE,Nonacosanoic acid
+CCCCC(CC)CCC(CC(C)C)O,TRUE,7-Ethyl-2-methyl-4-undecanol
+C1(=NC(=NC(=N1)N)N)N,FALSE,Melamine
+CC(=CCCC1(C2CC3C1(C3C2)C)C)C=O,FALSE,alpha-Santalal
+CC1=CCC(CC1)C(=C)CCC=C(C)CO,FALSE,cis-Lanceol
+CC(=CCCC1(C2CCC(C2)C1=C)C)C,FALSE,beta-Santalene
+CC(=CCCC1(C2CC3C1(C3C2)C)C)C,FALSE,alpha-Santalene
+CC(=CCCC1(C2CCC(C2)C1=C)C)C=O,FALSE,beta-Santalal
+CCCCC(=O)O,TRUE,Valeric acid
+CCOC=O,FALSE,Ethyl formate
+COC1=CC=CC=C1O,TRUE,Guaiacol
+CC(=O)C1=CC(=C(C(=C1)OC)O)OC,TRUE,Acetosyringone
+CC12CC(=O)C3CC1(OC(C3COC(=O)C4=CC=CC=C4)O2)O,FALSE,Paeoniflorigenone
+C1=CC=C(C=C1)COC=O,TRUE,Benzyl formate
+CCCCCCCCCC=CCO,FALSE,trans-2-Dodecen-1-ol
+CCCCCCCCCCC=CCO,FALSE,trans-2-Tridecen-1-ol
+CCF,FALSE,Fluoroethane
+CC(C)CO,FALSE,Isobutanol
+C1C=COC1=O,FALSE,2(3H)-Furanone
+C(C(C1C(=C(C(=O)O1)O)O)O)O,FALSE,Ascorbic acid
+CCCCCCCCCCCCCCCC=CC(=O)O,FALSE,Octadecenoic acid
+CCCCCCC(CC=CCCCCCCCC(=O)O)O,FALSE,Ricinoleic acid
+C1CCC(=O)C1,FALSE,Cyclopentanone
+CC(=CCO)C,FALSE,3-Methyl-2-buten-1-OL
+CCCC(=O)O,TRUE,Butyric acid
+CCCCCCCCC(=C)CC,FALSE,2-Ethyl-1-decene
+CCCCCCCCCC(=O)CCC,FALSE,4-Tridecanone
+CCCCCCCCCCCCCCCCCCCCCC(=O)OCC,FALSE,Ethyl docosanoate
+CC(=O)OC1CC2CC(C1=C)C2(C)C,FALSE,"6,6-Dimethyl-2-methylenebicyclo[3.1.1]hept-3-yl acetate"
+CC1CCC2C13CC(CC2(C)C)C(C(C3)O)(C)O,TRUE,Cedrane diol
+CCCCCC(C)CCCCCCCC(=O)OC,FALSE,Methyl 9-methyltetradecanoate
+C1OC2=CC=CC=C2O1,TRUE,"1,3-Benzodioxole"
+C1CCC=CC=CC=CCC1,FALSE,Cycloundecatriene
+CC1=CN=C(C=N1)C,FALSE,"2,5-Dimethylpyrazine"
+CC1=CC2=C(S1)C(=CC=C2)C(=O)O,FALSE,2-Methylbenzo[B]thiophene-7-carboxylic acid
+CC=CCCC=CCCC=CCCC=CCO,FALSE,"2,6,10,14-Hexadecatetraen-1-ol"
+COC1=C2C(=C(C(=C1)CC=C)OC)OCO2,FALSE,Apiole
+CC1(CCCC2(C3C1C(C2CO)CC3)C)C,TRUE,Longifolol
+CC(C)C1CCC2(C3C1C(C2=C)CC3)C,FALSE,Sativene
+CC(C)CCCCOC(=O)C,FALSE,5-Methylhexyl acetate
+CC(C)C12CC1C(=C)C(C2)O,FALSE,"4(10)-Thujen-3-ol, (1S,3R,5S)-(+)-"
+CC1=CC(=CC(=C1)C=C)C,TRUE,"3,5-Dimethylstyrene"
+CC(=C)C(CC=C(C)C=C)O,FALSE,"1,5,7-octatrien-3-ol-2,6-dimethyl"
+COC1=CC=CC(=C1)C=O,FALSE,3-Methoxybenzaldehyde
+CC=CC1=CC=C(C=C1)OCC=C(C)C,FALSE,Foeniculin
+CC1=CC2C(CC1)C(=CCCC2(C)C)C,FALSE,gamma-Himachalene
+CC(C)C(=O)C(=O)C(C)(C)C,FALSE,"2,2,5-Trimethylhexane-3,4-dione"
+CCCCCCC(C)CCCC,FALSE,5-Methylundecane
+CCCCCCCC(C)CCC,FALSE,4-Methylundecane
+CCCCCCCCCCC(C)CC,FALSE,3-Methyltridecane
+CCC(C)CCC(C)CC(C)C(C)C,FALSE,"2,3,5,8-Tetramethyldecane"
+CC(C)C1=C(C=CC2=C1CCC3C2(CCCC3(C)C)C)O,FALSE,(+)-Totarol
+CCCCCCC(C)C(C)C,FALSE,"2,3-Dimethylnonane"
+C1CCCCCCCC(=O)OCCCCCCC1,FALSE,Oxacycloheptadecan-2-one
+CC1CCC2(CC1=O)C(CC(=O)C2C(C)C)C,TRUE,Acorone
+CC(C=O)C1CCC(O1)(C)C=C,TRUE,Lilac aldehyde
+CC1=CC(=O)CC(C1=O)(C)C,FALSE,"2,6,6-Trimethyl-2-cyclohexene-1,4-dione"
+CCCCOC(=O)C=C,FALSE,Butyl acrylate
+CCCCCCCC=CC(=O)O,FALSE,2-Decenoic acid
+CCCCOCCCC,FALSE,Dibutyl ether
+CCCCOC(=O)CC,FALSE,Butyl propionate
+CCCCCC=CCC=CCC=CCCCCC(=O)O,FALSE,gamma-Linolenic acid
+CCCCCC=CCC=CCC=CCCCCC(=O)OCC,FALSE,Ethyl gamma-linolenate
+CC1=C2C=CC3=C(C2=CC=C1)C=CC(=C3)C(C)C,FALSE,Retene
+COC1=CC(=CC=C1)OC,FALSE,"1,3-Dimethoxybenzene"
+CC1=CCC(C2C1CCC(=C)C2)C(C)C,FALSE,trans-gamma-Cadinene
+CC1=CCCC(=C)C2CC(C2CC1)(C)CO,FALSE,14-Hydroxy-9-epi-(E)-caryophyllene
+CC(C)CCCC(C)CCCC(C)CCCC1(CCC(=O)O1)C,TRUE,"4,8,12,16-Tetramethylheptadecan-4-olide"
+CC(C)CCCCCCCCCCCCCC(=O)OC,TRUE,Methyl 15-methylhexadecanoate
+CCCCCCCCC=CCCCCCCCCCC(=O)OC,FALSE,Methyl cis-11-eicosenoate
+CCCCCCCCCCCCCCCCCCCCCCCC(=O)OC,TRUE,Methyl tetracosanoate
+C1=C(N=C2C(=O)NC(=NC2=N1)N)C(=O)O,FALSE,Pterin-6-carboxylic acid
+CC1CCCC=CC(CC(=O)O1)O,FALSE,"4-Hydroxy-10-methyl-3,4,7,8,9,10-hexahydro-2H-oxecin-2-one"
+C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,FALSE,Maltose
+CC1(CCCC2=C1C3C(C2)CC(=O)O3)C,FALSE,"8,8-Dimethyl-3,3a,4,5,6,7,8,8b-octahydro-2H-indeno[1,2-b]furan-2-one"
+C(C(C(C(C(C(C(C=O)O)O)O)O)O)O)O,TRUE,Octose
+CCCCC=CC(C)CCCCCCCCC=CCO,FALSE,"12-Methyl-E,E-2,13-octadecadien-1-ol"
+CCCCCCCCCCCC(=O)OCC(COC(=O)C)OC(=O)C,FALSE,"Dodecanoic acid, ester with 1,2,3-propanetriol diacetate"
+CCCCCC=CCC=CCC=CCCCCCCC(=O)O,FALSE,"(8E,11E,14E)-icosa-8,11,14-trienoic acid"
+CCCCCC=CCC=CCCCCCCCC(=O)Cl,FALSE,Linoleoyl chloride
+CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CCC7(C6(CCC7C8=CC(=O)OC8)O)C)C)C)C)O)O,FALSE,Digitoxin
+CC1=CC(=CC(=C1)C2=CC(=CC(=C2)C)C)C,FALSE,"3,3',5,5'-Tetramethylbiphenyl"
+CCCCCCCCCCCC(C)CCCCCC,FALSE,7-Methyl-octadecane
+CCCCCCCCCCCCCCCCOCCCCCCCCCCCCCCCC,FALSE,Dihexadecyl ether
+CC1=C(C(CCC1)(C)C)C=O,FALSE,beta-Cyclocitral
+COC1=CC(=CC(=C1O)OC)CC=C,TRUE,"4-Allyl-2,6-dimethoxyphenol"
+CCCCC=CC=O,FALSE,2-Heptenal
+CCCCCCCCCCCCCCCC(=O)OC(CO)CO,FALSE,2-Palmitoylglycerol
+CCCCCC=CCC=CCCCCCCCC(=O)OC(CO)CO,FALSE,2-Linoleoylglycerol
+CCCCCCCCC=CCCCCCCCC(=O)OCCCO,FALSE,"Oleic acid, 3-hydroxypropyl ester"
+CCCCCCCCCCC=CCC,FALSE,"3-Tetradecene, (Z)-"
+CN1C2CCC1CC(C2)O,FALSE,Pseudotropine
+CN1C2CC(CC1C(C2)O)O,FALSE,"3,6-Dihydroxytropane"
+CC=C(C)C(=O)OC1CC2CC(C(C1)N2C)O,FALSE,3-Tigloyloxy-6-acetoxypropane
+CC=C(C)C(=O)OC1CC2CC(CC1N2C)O,FALSE,3-Hydroxy-6-Tigloyloxytropane isomer
+CC=C(C)C(=O)OC1CC2C(C(C(C1)N2C)O)O,FALSE,Meteloidine
+CN1C2CCC1CC(C2)OC(=O)C(=C)C3=CC=CC=C3,FALSE,Apoatropine
+CN1C2CC(CC1C(C2)O)OC(=O)C(CO)C3=CC=CC=C3,FALSE,6-Hydroxy-8-methyl-8-azabicyclo[3.2.1]octan-3-yl 3-hydroxy-2-phenylpropanoate
+CC=C(C)C(=O)OC1CC2C(C(C(C1)N2C)OC(=O)C(C)C)O,FALSE,3-Tigloyloxy-6-isobutyryloxy-7-hydroxytropane
+CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3,FALSE,Hyoscyamine
+CN1C2CC(CC1C(C2)O)OC(=O)C(=C)C3=CC=CC=C3,FALSE,6-Hydroxy-8-methyl-8-azabicyclo[3.2.1]octan-3-yl 2-phenylacrylate
+CN1C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4,FALSE,Scopolamine
+CC=C(C)C(=O)OC1CC2C(C(C(C1)N2C)OC(=O)C(=CC)C)O,FALSE,"3,6-Ditigloyloxytropan-7-ol"
+CN1C2CCC1CC(C2)OC(=O)CC3=CC=CC=C3,FALSE,3beta-Phenylacetoxytropane
+CN1C2CC(CC1C3C2O3)OC(=O)CC4=CC=CC=C4,FALSE,"3-Phenylacetoxy-6,7-epoxytropane"
+CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC(=CC=C3)OC,FALSE,3-(3'-Methoxytropoyloxy)tropane
+CN1C2CC(CC1C3C2O3)OC(=O)C(=C)C4=CC=CC=C4,FALSE,Apohyoscine
+CN1C2CC3CC1C(C2O)O3,FALSE,Scopoline
+CN1C2CC(CC1C3C2O3)O,FALSE,Scopine
+CN1C2CC(CC1C=C2)OC(=O)C(CO)C3=CC=CC=C3,FALSE,"6,7-Dehydrohyoscyamine"
+CCCCC=CC(=O)C,FALSE,3-Octen-2-one
+CCCCCC(=O)CCCCC,FALSE,6-Undecanone
+CCCCCC=C(CCCC)C=O,FALSE,2-Butyl-2-octenal
+CCCCCCCCCCCCCC(=O)C,FALSE,2-Pentadecanone
+COC1CC(CC(=C)C1)Br,FALSE,5-Bromo-3-methylidene-1-methoxycyclohexane
+CCCCCCCOS(=O)(=O)C1=CC=C(C=C1)C,FALSE,Heptyl p-toluenesulfonate
+CC1=CCCC(C=CC(CCC(=CCC1)C)C(C)C)(C)O,TRUE,Thunbergol
+CC1=CCCC(=CC(CC(C=CC(CC1)C(C)C)(C)O)O)C,FALSE,"4,8,13-Cyclotetradecatriene-1,3-diol, 1,5,9-trimethyl-12-(1-methylethyl)-"
+CCCCCCCC(=O)OCCCC,FALSE,Butyl octanoate
+CCCCCCCCCC(=O)OC,TRUE,Methyl decanoate
+CCCCCCCCCCCCCCCCCCCCCCC(=O)O,TRUE,Tricosanoic acid
+CCCCCCCC(CCCCCC)CCCCCCC,FALSE,"Pentadecane, 8-hexyl-"
+CCC(=CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C,FALSE,"Stigmasta-5,23-dien-3beta-ol"
+C1=CC=C2C(=C1)C(=C3C=CC=CC3=C2C#N)C#N,FALSE,"9,10-Dicyanoanthracene"
+C1=CC=C2C(=C1)C=CC3=CC4=CC5=CC=CC=C5C=C4C=C32,FALSE,Benzo(a)naphthacene
+COC1=CC2=CC(=CC(=C2C(=C1)OC)OC)C(=O)OC,FALSE,"4,5,7-Trimethoxy-2-naphthalenecarboxylic acid methyl ester"
+CCC1C2C3CCC(N3CCCC2OC14C=C(C(=O)O4)C)C5CC(C(=O)O5)C,FALSE,Stemonine
+C1CCCCCCC1,FALSE,Cyclooctane
+CCCC1=CC(=C(C=C1)O)OC,TRUE,2-Methoxy-4-propylphenol
+C1=CC2=C3C(=C1)C=CC3=CC=C2,FALSE,Acenaphthylene
+C1=CC=C(C=C1)C2=CC=C(C=C2)C=O,FALSE,4-Phenylbenzaldehyde
+C=CCCCCCCCCCCCCCCCC=O,FALSE,17-Octadecenal
+C1=CC=C2C=C3C=CC=CC3=CC2=C1,FALSE,Anthracene
+CC1=CC(=C(C(=C1)OC)OC)OC,TRUE,"3,4,5-Trimethoxytoluene"
+CCCCCC1CCC(CC1)C2CCC(CC2)C(=O)OC3=CC=C(C=C3)F,FALSE,"[1,1'-Bicyclohexyl]-4-carboxylic acid, 4'-pentyl-, 4-fluorophenyl ester"
+CCCCCC(=O)OCC=CCCC,FALSE,(E)-2-Hexenyl hexanoate
+CC1(CCCC2(C3C1C4C2(C4C3)C)C)C,FALSE,Longicyclene
+CC(C)(C1=C(C=C(C=C1OC)CC2=CN=C(N=C2N)N)OC)O,FALSE,"Benzyl alcohol, 4-(2,4-diamino-5-pyrimidinylmethyl)-2,6-dimethoxy-alpha,alpha-dimethyl-"
+CCC1=CC=CC=C1C,FALSE,1-Ethyl-2-methylbenzene
+CCOP(=O)(OCC)OCC,FALSE,Triethyl phosphate
+C(=C(Cl)Cl)(Cl)Cl,FALSE,Tetrachloroethylene
+C1=CC=C(C=C1)N,FALSE,Aniline
+CC1=CC(=C(C=C1)Cl)Cl,FALSE,"1,2-dichloro-4-methyl-benzene"
+CCCCCCCCCCCCCCCCCC(=O)OCC(CO)O,FALSE,Glyceryl monostearate
+CCCCCCCCCCCC(CCCCCCCCCC)CCCCCCCCCC,FALSE,11-Decyldocosane
+CCCCCCCCCCCCCCCCOCC1CO1,FALSE,Cetyl glycidyl ether
+CN(C)C,FALSE,Trimethylamine
+CC(=CCCC(C)(C=C)OC(=O)C1=CC=CC=C1N)C,FALSE,Linalyl anthranilate
+CC(=CCCC(=CC(=O)O)C)C,TRUE,Geranic acid
+CC1C(=C(C(=C1C)C)C)C,FALSE,"1,2,3,4,5-Pentamethylcyclopentadiene"
+CCCCCCC=C(C)C(=O)C,FALSE,3-Methyl-3-decen-2-one
+C1=CC=C(C=C1)CC(=O)N,FALSE,2-Phenylacetamide
+CC(=O)NCC1=CC=CC=C1,FALSE,N-Benzylacetamide
+CC1=CC2=C(C=CC(=C2C=C1)C)C,FALSE,"1,4,6-Trimethylnaphthalene"
+CC=CC#CC#CC=CC1=CC=CO1,FALSE,Atractylodin
+C=CCCCCCCCCCCCCC(=O)O,TRUE,14-Pentadecenoic acid
+C1CCCCCCCC(=O)CCCCCC1,FALSE,Cyclopentadecanone
+B(OCC)(OCC)OCC,FALSE,Triethyl borate
+C1=CC(=C(C(=C1CNNC(=O)C(CO)N)O)O)O,FALSE,Benserazide
+COC1=C(C(=CC=C1)OC)O,TRUE,"2,6-Dimethoxyphenol"
+CC(C)(C)C(=S)N,FALSE,"2,2-Dimethylpropanethioamide"
+C1=CC(=CC=C1C#N)N,FALSE,4-Aminobenzonitrile
+C1COCCOCCOCCO1,FALSE,"1,4,7,10-Tetraoxacyclododecane"
+CCCCCC1C(=C(C(=O)O1)C)C,FALSE,"3,4-Dimethyl-5-pentylfuran-2(5H)-one"
+CC(C)C1=CC=CC=C1,FALSE,Cumene
+CCCCCC=CCCO,TRUE,cis-3-Nonen-1-ol
+CCC=CCCCCCO,FALSE,(Z)-Non-6-en-1-ol
+CCCCCC(=O)C=C(C)C,FALSE,2-Methylnon-2-en-4-one
+CCCCC=CCCCCCCCCCCO,FALSE,(E)-Hexadec-11-en-1-ol
+CSC,FALSE,Dimethyl sulfide
+CC1=CC=CC=C1CO,TRUE,2-Methylbenzyl alcohol
+CC1=CCC(CC1)C2(CCC(O2)C(C)(C)O)C,FALSE,Bisabolol oxide B
+CC1=CCC(CC1)C2(CCC(=O)C(O2)(C)C)C,TRUE,"[S-(R*,R*)]-dihydro-2,2,6-trimethyl-6-(4-methyl-3-cyclohexen-1-yl)-2H-pyran-3(4H)-one"
+C12C3C4C1=C5C2C3=C45,FALSE,"Pentacyclo[4.2.0.0~2,5~.0~3,8~.0~4,7~]octa-1,3-diene"
+CC1=CCC2(CCC(C2(CC1)O)C(C)C)C,FALSE,Carotol
+CC1CCC2C1C=C(CC=C2C)C(C)C,FALSE,"Guaia-6,9-diene"
+CC1CCC2C13CC(C2(C)C)C4(C(C3)O4)C,TRUE,alpha-Cedrene epoxide
+CC1(CC2C(C1)C3(C(CC3=C(C2O)CO)O)C)C,FALSE,Illudol
+CC1CC=C(CCC=C(CCC1=O)C)C,FALSE,"4,8-Cycloundecadien-1-one, 2,5,9-trimethyl-, (4E,8E)-"
+CC1(CC(C=C2C13CCC(C3)C2(C)C)O)C,FALSE,"Isolongifolene, 9-hydroxy-"
+CC1=CCC(C=C1)C(=C)C,FALSE,"p-Mentha-1,5,8-triene"
+CC1(C2CCC3(CCCC(=C)C3(C2)O1)C)C,FALSE,beta-Agarofuran
+CC1=CCCC2(C13CC(CC2)C(O3)(C)C)C,FALSE,alpha-Agarofuran
+CC1=C(C(CC=C1)(C)C)C=CC(=CC=CC(=CC=O)C)C,FALSE,3-Dehydroretinal
+CC(=O)CCC1=CC=CC=C1,FALSE,Benzylacetone
+CC(C)C1=CC=C(C=C1)CO,FALSE,4-Isopropylbenzyl alcohol
+CC(C)C1=CC2C(=C)CCCC2(CC1)C,FALSE,Sibirene
+CCC(C)CCCC(C)CCCC(C)C,FALSE,"2,6,10-Trimethyldodecane"
+CCC(C)(CCC=C(C)C)O,TRUE,"3,7-Dimethyloct-6-en-3-ol"
+CC1=CC=C(CC1)C(=C)C,FALSE,"p-Mentha-1,3,8-triene"
+CC(C)(C=C)O,FALSE,2-Methyl-3-buten-2-OL
+CC(=CCCC(=CCCC(C)(C=C)OC(=O)C)C)C,FALSE,Nerolidyl acetate
+CC(=CCC=C(C)C1CCC2(C(C1)O2)C)C,FALSE,trans-Z-alpha-Bisabolene epoxide
+CC1C=C(C(=CC2C1CC(C2)(C)C)C=O)C=O,FALSE,Velleral
+CC1=CCC(=CC1)C(C)CCC=C(C)C,FALSE,beta-Curcumene
+CC1=CC=C(C=C1)C(C)CC(=O)C=C(C)C,FALSE,ar-Turmerone
+CC1=CCC(C=C1)C(C)CC(=O)C=C(C)C,FALSE,alpha-Turmerone
+CC1CCC23C1CC(C2(C)C)CCC3C,FALSE,Patchoulane
+CC(C)(C=CCC(=C)C=C)O,FALSE,"3,7-Octadien-2-ol, 2-methyl-6-methylene-, (E)-"
+CC(=C)C1C2C3C4(C(C1C(=O)O2)(CC5C4(O5)C(=O)O3)O)C.CC12C3C4C(C(C1(CC5C2(O5)C(=O)O3)O)C(=O)O4)C(C)(C)O,FALSE,Picrotoxin
+COC1=C(C=C(C=C1)C=O)OC,TRUE,"3,4-Dimethoxybenzaldehyde"
+CC1=C(C=CC(=C1CC=C)OC)OC,FALSE,"2-Allyl-1,4-dimethoxy-3-methyl-benzene"
+COC12C=CC3C1C(C=C3)(C=C2)OC,FALSE,"Triquinacene, 1,4-bis(methoxy)-"
+COC1=C2CCC(=O)C2=C(C=C1)OC,FALSE,"4,7-Dimethoxy-1-indanone"
+COC12C=CC3(C1C(C=C2)(C=C3)OC)OC,FALSE,"Triquinacene, 1,4,7-tris(methoxy)-"
+CC(C=C)C1=CC=C(C=C1)C(=O)C,FALSE,"Ethanone, 1-[4-(1-methyl-2-propenyl)phenyl]-"
+COC1=C(C=CC(=C1)C=CC(=O)OC)O,TRUE,Methyl ferulate
+CC1CCCC(CCC(CC1)C(C)C)C,FALSE,"1,7-Dimethyl-4-(1-methylethyl)cyclodecane"
+CC(=CCCC(=CCCC(=CCCC(=C)C=C)C)C)C,TRUE,"(E,E)-7,11,15-Trimethyl-3-methylene-hexadeca-1,6,10,14-tetraene"
+CC(CCC=C(C)C)C1CCC(C=C1)(C)O,FALSE,Zingiberenol
+CC1(CCCC2(C1CCC3=CC(CCC32)(C)C=C)C)C,TRUE,Sandaracopimaradiene
+CC1=COC2=C1C(=O)C(C(C2)(C)C=C)C(=C)C,FALSE,"4(5H)-Benzofuranone, 6-ethenyl-6,7-dihydro-3,6-dimethyl-5-(1-methylethenyl)-, trans-"
+CC1=CCC(C=CC(=O)C(=CCC1)C)(C)C,FALSE,Zerumbone
+CC(=C)C=CC(C)(C)C=C,FALSE,Artemisiatriene
+CCCCC=CO,FALSE,(3z)-Hexenol
+CSSCC=C,FALSE,Allyl methyl disulfide
+CCCCCSSC,FALSE,Amyl methyl disulfide
+CCC1SC(SS1)CC,FALSE,"trans-3,5-Diethyl-1,2,4-trithiolane"
+CCCCCCCCCCCC(C)O,TRUE,2-Tridecanol
+CCCCCCC1C(=O)C=C(O1)C,FALSE,"3(2H)-Furanone, 2-hexyl-5-methyl-"
+CCCCCCCCC1C(=O)C=C(O1)C,FALSE,"3(2H)-Furanone, 5-methyl-2-octyl-"
+CC1=CC=C(S1)C,FALSE,"2,5-Dimethylthiophene"
+CCCSSCC=C,FALSE,Allyl propyl disulfide
+CCCSSSCCC,FALSE,Dipropyl trisulfide
+CCCCC(C)O,FALSE,2-Hexanol
+CCCCCC=CCCCO,FALSE,cis-4-Decen-1-ol
+C1CCC2CC(=O)CC2C1,FALSE,"2H-Inden-2-one, octahydro-, cis-"
+CC(C)C1=CC=CC=C1C=O,FALSE,2-Isopropylbenzaldehyde
+CC(=CC1=CC=CC=C1)C=O,FALSE,1C647N9853
+CCCCCCCCCC=CC=O,FALSE,2-Dodecenal
+CC(=O)OC,FALSE,Methyl acetate
+CCCCCC1CCCC(=O)O1,TRUE,delta-Decalactone
+CC1CC=CC2=CCC(CC12C)C(=C)C,FALSE,Nootkatene
+CC1CCC2C(C2(C)C)C3C1CCC3=C,FALSE,beta-Gurjunene
+CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,FALSE,Osthole
+CCCCC1C2CCCC=C2C(=O)O1,FALSE,Neocnidilide
+CC1=CC(=CC=C1)O,FALSE,m-Cresol
+CC1=C(C=CC(=C1)O)C(=O)C,FALSE,4-Hydroxy-2-methylacetophenone
+CCCCCC=CCCCCCCCCO,FALSE,Z-9-Pentadecenol
+CC(C)CC(C(=O)OC)O,TRUE,Methyl 2-hydroxy-4-methylpentanoate
+CC(=CC=CC(=O)C)C,FALSE,"6-Methyl-3,5-heptadien-2-one"
+CC(C)C1=C(C(=CC=C1)C(C)C)O,TRUE,Propofol
+CC1=CC(=CC(=C1OC)OC)OC,TRUE,"2,3,5-Trimethoxytoluene"
+CC(C)C1=CC(=CC=C1)O,TRUE,3-Isopropylphenol
+COC1=C(C=CC(=C1)C2C3COC(C3CO2)C4=CC5=C(C=C4)OCO5)O,FALSE,Piperitol
+CC(C)C1CC=C(C=C1)CO,FALSE,"p-Mentha-1,5-dien-7-ol"
+CC1=CCC2CC1C2(C)C.CC1=CCC2CC1C2(C)C,TRUE,"Bicyclo(3.1.1)hept-2-ene, 2,6,6-trimethyl-, dimer"
+CC1=CCC2C(C1)C2(C)C.CC1=CCC2C(C1)C2(C)C,FALSE,CID 159901413
+CC1=CC=CC(CC1=O)(C)C,FALSE,Eucarvone
+CCC(=O)C1=CC2=C(C=C1)OCO2,FALSE,"1-(1,3-Benzodioxol-5-yl)-1-propanone"
+CCCCCCCCCCCCCCCCCOC(=O)C,FALSE,Heptadecyl acetate
+CCC(C)CCCCC=CCCCCCCC=O,FALSE,(Z)-14-Methylhexadec-8-enal
+COC1=CC(=C(C=C1)N=C=O)OC,FALSE,"2,4-Dimethoxyphenyl isocyanate"
+CCCCCCCCCCCCCCCCC(=O)OC,TRUE,Methyl heptadecanoate
+COC(=O)CCCCCCCCC(=O)OC,TRUE,Dimethyl sebacate
+COC(=O)CCCCCCCC(=O)OC,TRUE,Dimethyl azelate
+COC(=O)CC(=O)OC,FALSE,Dimethyl malonate
+CC(=O)CCC(=O)OC,FALSE,Methyl levulinate
+COC(=O)CCC(=O)OC,FALSE,Dimethyl succinate
+CCCCCCCCCCCCCCC(=O)OC,TRUE,Methyl pentadecanoate
+CC1CCCC2=CC(=O)C(=C(C)C)CC12C,FALSE,Dehydrofukinone
+CCCCCCCCCCCCCCCCOC(=O)C,FALSE,Hexadecyl acetate
+CC1(CC23CCC1C2(CCC(C3=C)O)C)C,FALSE,"Tricyclo[5.2.2.0(1,6)]undecan-3-ol, 2-methylene-6,8,8-trimethyl-"
+CCCCOS(=O)OCCCC(C)C,FALSE,"Sulfurous acid, butyl isohexyl ester"
+CCCOC,FALSE,Methyl propyl ether
+CC(=O)OC1=CC=CC(=C1)OC,FALSE,3-Methoxyphenyl acetate
+CC1CC(=O)C(=C(C1(C)C)C=CC(=O)C)C,FALSE,"2,4,4,5-Tetramethyl-3-(3-oxobut-1-en-1-yl)cyclohex-2-en-1-one"
+CC1(CC2(CC2(C1=O)C(C)(C)C)C(C)(C)C)C,TRUE,"Bicyclo[3.1.0]hexan-2-one, 1,5-di-tert-butyl-3,3-dimethyl-"
+CC1(CCC2(CCC3(C(=C2C1)CCC4C3(CCC5C4(CCCC5(C)C)C)C)C)C)C,TRUE,Olean-13(18)-ene
+CC1CCC2(CCC34CC3(C2C1C)CCC5C4(CCC6C5(CCC(=O)C6(C)C)C)C)C,TRUE,"13,27-Cycloursan-3-one"
+CC(CCC=C(C)C)C1CCC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)OC(=O)C)C)C)C,TRUE,Lanosteryl acetate
+CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)OC(=O)C)C)C,TRUE,Lupeol acetate
+CC(CN(C)C)OC(=O)C,FALSE,1-(Dimethylamino)propan-2-yl acetate
+CC(C(=O)C1=CC(=CC=C1)OC)NC,FALSE,3-Methoxymethcathinone
+CC(C)(CN(C)C)CO,FALSE,"3-Dimethylamino-2,2-dimethyl-1-propanol"
+CN1CC(CC1C(=O)O)O,FALSE,l-[-]-4-Hydroxy-1-methylproline
+C(C1C(C(C(=O)O1)O)O)O,FALSE,"D-Ribono-1,4-lactone"
+CC1C(C(C(C(O1)OC)O)O)O,FALSE,Methyl 6-deoxy-L-galactopyranoside
+CC1C(C(C(C(O1)O)O)O)O,FALSE,alpha-L-Rhamnose
+COC1=C(C=CC(=C1)C=CCO)O,TRUE,Coniferyl alcohol
+COC1=CC(=CC(=C1O)OC)C=CCO,TRUE,Sinapyl alcohol
+CC(=CC(=O)C=C(C)C=C)C,FALSE,(Z)-Ocimenone
+CCC=CCC=CCC=CCCCCCC(=O)OC,FALSE,"7, 10, 13-Hexadecatrienoic acid methyl ester"
+CC1CCC2C13CCC(C(C3)C2(C)C)(C)OC(=O)C,TRUE,Cedryl acetate
+CCC1(CCCC(=C1CC(C)C(=C)C)C)C,TRUE,"Selina-4,11-Diene"
+CC=C(C)C=CCC(C)CCC=C(C)C,FALSE,Caparratriene
+CC1CCC(C12CCC(=CC2)C)C(C)C,FALSE,alpha-Neocallitropsene
+CC1(C2CC1C3(C(C2)O3)C)C,FALSE,alpha-Pinene oxide
+CC1(C2CC1C(=C)C=C2)C,FALSE,Verbenene
+CC(C)CC(CC(=C)C=C)O,FALSE,Ipsenol
+CCCC(=O)OC1CC2CCC1(C2(C)C)C,TRUE,Bornyl Butyrate
+CCCC(=O)OCCC(C)CCC=C(C)C,FALSE,Citronellyl butyrate
+CC12CCC(C(C1CCC(=C)C2CC=C3C(COC3=O)O)(C)CO)O,FALSE,Andrographolide
+CC(C)C1=C(C=CC2=C1CCC3C2(CCCC3(C)C)C)OC(=O)C,FALSE,Totarol acetate
+CC1=CCC(CC1OC(=O)C)C(=C)C,FALSE,Carvyl acetate
+C1CC2CC1CC2=O,FALSE,Norcamphor
+CC1=C(N=C(C(=N1)C)C)C,FALSE,"2,3,5,6-Tetramethylpyrazine"
+CC(=C)CCCC(C)(C=C)O,TRUE,alpha-Linalool
+COC1=CC=C(C=C1)C=C,FALSE,p-Vinylanisole
+CC1CCC2C(C2(C)C)C3=C(C(=O)CC13)C,FALSE,Cyclocolorenone
+C1(C(C(C(C(C1O)O)O)O)O)O,FALSE,Scyllitol
+B(O)(O)O,FALSE,Boric Acid
+C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CCN,TRUE,Didesethylflurazepam
+C1CC(C=CC1=O)(C2=CC=CC=C2)C3=CC=CC=C3,FALSE,"4,4-Diphenyl-2-cyclohexen-1-one"
+C1=CC=C2C(=C1)C=CC3=C2C=C(C4=CC=CC=C34)N=[N+]=[N-],FALSE,6-azidochrysene
+CC(C)C1CCC2(C(CCC(=C)C2C1O)O)C,FALSE,Platambin
+CC1=CCC(C=CCC(=C)CCC1)(C)C,FALSE,beta-humulene
+C1CC2CC1CC2O,TRUE,Bicyclo[2.2.1]heptan-2-ol
+CCC(C)CCC(C)CCCCC(C)C,FALSE,"2,7,10-trimethyl dodecane"
+CC1(CC2(C3(CCCC2(C1CC3)C)C)O)C,TRUE,"3,3,7,11-Tetramethyltricyclo[5.4.0.0(4,11)]Undecan-1-Ol"
+CC(=O)OC1CC2CCC1C2(C)C,TRUE,"Bicyclo[2.2.1]heptan-2-ol, 7,7-dimethyl-, acetate"
+CC1=C(C=CC=C1NC(=O)C2=CC=C(C=C2)OC(=O)C)C(=O)O,FALSE,STK156237
+CC1=CC(CC(C1=O)(C)C)O,FALSE,"4-Hydroxy-2,6,6-trimethylcyclohex-2-en-1-one"
+CC(=CC(C=C)C(=C)C)C,FALSE,Santolina triene
+C1CO1,FALSE,Oxirane
+CC(=CCCC(=CCCC(=O)OC1=CC=CC=C1)C)C,FALSE,Neryl phenylacetate
+CC(=CCCC(C)(C=C)OC(=O)CC1=CC=CC=C1)C,FALSE,Linalyl phenylacetate
+C1C2=CC=CC=C3C1=CC=C23,FALSE,"1,4-methanoazulene"
+CC1CCC(CC1)C(C)CCCC(C)C,FALSE,Bisabolane
+CC(=O)C1=CC=CCCC1,FALSE,"1,3-Cycloheptadien-1-Ylmethyl-Ketone"
+C1=CC=C(C=C1)SCC[NH3+].[Cl-],FALSE,PAES
+C1CC(C1)C(=O)O,FALSE,cyclobutanecarboxylic acid
+C(CCCCC(=O)O)CCCC(=O)O,TRUE,Sebacic acid
+C(CC(C(=O)O)N)CN=C(N)N,FALSE,Arginine
+CCN(CC)CCNC(=O)C1=CC=C(C=C1)N,FALSE,Procainamide
+CC1=CC(=O)CCC1(C2=CC=CC=C2)C3=CC=CC=C3,FALSE,"3-Methyl-4,4-diphenyl-2-cyclohexen-1-one"
+CC1=C(C=C(C=C1)O)C,TRUE,"3,4-Dimethylphenol"
+CCCN=C=S,FALSE,Propyl Isothiocyanate
+C1CCCC2CC2CCC1,FALSE,Bicyclo[7.1.0]Decane
+CC1CCC(=O)C(=C(C)C)C2=C(CCC12)C,FALSE,Zierone
+CCCCCCC(=O)C,FALSE,2-octanone
+CC1=C(C(=O)C(CO1)O)O,FALSE,"4H-Pyran-4-one, 2,3-dihydro-3,5-dihydroxy-6-methyl-"
+CCOC(=O)COC(C)C,FALSE,Ethyl 2-(Propan-2-Yloxy)Acetate
+COC1=CC=C(C=C1)C=NO,FALSE,4-Methoxybenzaldehyde Oxime
+CC1CC2=CC=CC=C2N1C,FALSE,"1,2-Dimethylindoline"
+CC1CCC2C1COC(=O)C2C,FALSE,Iridomyrmecin
+CC1CCC2C1C(=O)OCC2C,FALSE,Dihydronepetalactone
+CC(=O)CCC1=CCC2C(C1)C2(C)C,FALSE,"(+)-3-Carene, 10-(Acetylmethyl)-"
+CC1(C(=O)CCC2(C1=CCCC2)C)C,FALSE,4668-61-5
+CCCCCCCCC=CCCCCCCCC(=O)OCC1=CC=CC=C1,FALSE,Benzyl Oleate
+CC1=C(C(CC=C1)(C)C)C=CC(=O)C,FALSE,"4-(2,6,6-Trimethylcyclohexa-1,3-dienyl)but-3-en-2-one"
+CCC(=O)OCC=CC1=CC=CC=C1,FALSE,Cinnamyl Propionate
+C1=CC=C(C=C1)C(=O)OC2=CC=CC=C2,FALSE,Phenyl benzoate
+CC(=O)C1=CC=CC=C1OCC2=CC=CC=C2,FALSE,2'-Benzyloxyacetophenone
+C1=CC=C(C=C1)CCOC(=O)CC2=CC=CC=C2,FALSE,Phenethyl phenylacetate
+CCCCC(=O)OC,FALSE,Methyl pentanoate
+CC1=CC2C(CCC(=C)C2C(C1)O)C(C)C,FALSE,khusinol
+CC(C)C1=CC2C(CCC2(C)O)C(=C)CC1,FALSE,alismol
+CC1=CCC2C(C1)CC(CC=C2C)(C)C,FALSE,"3,6,6,9-Tetramethyl-4,4a,5,6,7,9a-hexahydro-1h-benzo[7]annulene"
+CC=C(C)C=CCC(C)C,FALSE,"(2E,4E)-3,7-Dimethylocta-2,4-diene"
+CC1=CCC2C(CC2(C)C)C(=C)CCC1OC(=O)C,FALSE,"Bicyclo[7.2.0]undec-3-en-5-ol, 4,11,11-trimethyl-8-methylene-, acetate"
+COC1=CC(=C(C=C1C=O)OC)OC,TRUE,"2,4,5-Trimethoxybenzaldehyde"
+CC1C(CCC2C1(CCC3C2(CCC4(C3(CCC5(C4CC(CC5)(C)C)C)C)C)C)C)O,TRUE,beta-Friedelinol
+CCC(CC(C)C)CC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C,FALSE,23-Ethyl-(3beta-23s)-cholest-5-en-3-ol
+CCC(C=CC(C)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(C)C,FALSE,"4,22-Stigmastadiene-3 one"
+CCCCCC=CC(=O)C,FALSE,3-Nonen-2-one
+CC(C)CC1=NC=CN=C1OC,FALSE,2-Isobutyl-3-methoxypyrazine
+CC1CC(=CC(C1C=O)C)C.CC1C=C(CC(C1C)C=O)C,FALSE,Iso-CYCLOCITRAL
+CCCCCCCCCCCCCCCCCCCC=O,FALSE,Eicosanal
+CC1(C2CCC(C1C2)(C)O)C,TRUE,2-Pinanol
+C=CCSSSCC=C,FALSE,Diallyl trisulfide
+C=CCSSCC=C,FALSE,Diallyl disulfide
+CSSSCC=C,FALSE,Allyl methyl trisulfide
+CC=CSSCC=C,FALSE,(E)-1-Propenyl Allyl Disulfide
+C=CC1SCC=CS1,FALSE,"2-Vinyl-4H-1,3-dithiine"
+C=CCSCC=C,FALSE,Diallyl sulfide
+C=CCSSSSCC=C,FALSE,Diallyl tetrasulfide
+C=CC1CC=CSS1,FALSE,"3-Vinyl-4H-1,2-dithiine"
+C1C=CSSS1,FALSE,"1,2,3-Trithia-4-cyclohexene"
+CCC(SSC)S(=O)C=CC,FALSE,Methyl 1-(1-propenylsulfinyl)propyl disulfide
+C1CSSC1,FALSE,"1,2-Dithiolane"
+CSSC1=CC=CC=C1,FALSE,Methyl phenyl disulfide
+C1C2=CC=CC=C2CS(=O)O1,FALSE,"1,4-Dihydro-2,3-benzoxathiin 3-oxide"
+S1SSSSSSS1,FALSE,cyclooctasulfur
+CC(C)SSSC(C)C,FALSE,diisopropyl trisulfide
+CCCCN(C)N=O,FALSE,Methylbutylnitrosamine
+C1CN(CCC1N2C3=CC=CC=C3NC2=O)CC4=CC=C(C=C4)C5=C(N=C6C=C7C(=NC=N7)C=C6N5)C8=CC=CC=C8,FALSE,Akt inhibitor VIII
+CSCC=C,FALSE,Allyl Methyl Sulfide
+CCCCCCCCCCCCCCCCI,FALSE,"Hexadecane, 1-iodo-"""
+CSSSSC,FALSE,Dimethyl Tetrasulfide
+C1CSCSC1,FALSE,"1,3-Dithiane"
+C1=NC2=C(N1)C(=NC=N2)Cl,FALSE,6-Chloropurine
+CCC(SC)SSSC=CC,FALSE,1-(Methylthio)propyl 1-propenyl disulfide
+CC=CSSC,FALSE,"Disulfide, Methyl 1-Propenyl"
+CC1=CSC=C1C,FALSE,"3,4-dimethylthiophene"
+CCC(SC)SSSC,FALSE,"5-ethyl-2,3,4,6-tetrathiaheptane"
+CC1=CC(=CS1)C,FALSE,"2,4-Dimethylthiophene"
+CCCSSSCC=C,FALSE,Allyl Propyl Trisulfide
+CC(C)SSC,FALSE,2-(Methyldisulfanyl)Propane
+CC1=C(SC=C1)C,FALSE,"2,3-Dimethylthiophene"
+CC1=CC(=C(C(=C1)C(C)(C)C)O)CC2=C(C(=CC(=C2)C)C(C)(C)C)O,FALSE,"2,2'-Methylenebis(4-methyl-6-tert-butylphenol)"
+CC=C(C=O)C1=CC=CC=C1,FALSE,2-Phenylbutenal
+CCCSSCC,FALSE,ETHYL PROPYL DISULFIDE
+CCCS,FALSE,1-Propanethiol
+CC1CC(CSC1)C,FALSE,"Trans-3,5-Dimethylthiane"
+CC=C(C)CC(=O)OC,FALSE,(Z)-3-Methyl-3-pentenoic acid methyl ester
+CCCCCCCCCCC(CC)CO,FALSE,2-Ethyl-1-Dodecanol
+CCC(CC)OC,FALSE,3-Methoxypentane
+CSCSSC,FALSE,"2,4,5-Trithiahexane"
+CSC(SC)SC,FALSE,Tris(methylthio)methane
+CCCC(CN(C)C)C1=C(C=CC(=C1)Cl)OCC,FALSE,"2-(5-chloro-2-ethoxyphenyl)-N,N-dimethylpentan-1-amine"
+CC1CC(=O)CC(C1)(C)C,FALSE,"3,3,5-Trimethylcyclohexanone"
+C=CC1CCC=CC1,FALSE,4-Vinylcyclohexene
+CCCCCCCCCCCC(=O)CCCCCCCCCCC,FALSE,12-TRICOSANONE
+CC1CCC(C(C1)OC(=O)C(C)O)C(C)C,TRUE,Menthyl Lactate
+CCCCCCCCCCC(C)O,TRUE,2-DODECANOL
+CCCCCCCCCCCCC(C(=O)OC)Br,FALSE,Methyl 2-Bromotetradecanoate
+CCCCCCCCCCCCCCCC1=CC(=CC=C1)O,FALSE,3-Pentadecylphenol
+C[Si](C)(C)C1=CC(=CC(=C1)[Si](C)(C)C)[Si](C)(C)C,FALSE,"1,3,5-Tris(Trimethylsilyl)Benzene"
+C1CCCCCC(=O)CCCCC1,FALSE,Cyclododecanone
+CCCCOC(=O)CCCC(=O)OCCCC,FALSE,Dibutyl glutarate
+CCCCCCCCC=CCCCCCC=O,FALSE,(Z)-7-Hexadecenal
+CC(COC(=O)CCCCC(=O)OCC(C)OC)OC,FALSE,Adipic Acid Bis(2-Methoxypropyl) Ester
+CC(C)COC(=O)CCC(=O)OCC(C)C,FALSE,Diisobutyl Succinate
+CC1CCC=C(C12CCC(C2)(C(C)C)O)C,FALSE,(+)-1(10)-Spirovetiven-7beta-Ol
+CC(=C)C1C2C(C2(C)C)CCC1(C)C=C,FALSE,Bicycloelemene
+COC1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC,FALSE,"4',5,6,7-Tetramethoxyflavone"
+CC(C)(C)C1=C(C(=CC=C1)C(C)(C)C)O,TRUE,"2,6-DI-Tert-butylphenol"
+CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CCC(=O)OC,TRUE,Metilox
+CCCCCCCCCCCCCCCCCCCCC(=O)OC,TRUE,Methyl Henicosanoate
+CCCCCCCCCCCC=CCCCCC(=O)OC,FALSE,Methyl Trans-6-Octadecenoate
+CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)OC,TRUE,Methylcodeine
+CCCC=C1C2=C(C=CCC2)C(=O)O1,FALSE,ligustilide
+C1OC2=C(O1)C=C(C=C2)C=O,TRUE,Piperonal
+C1CC=CCC=CCC=CC1,FALSE,"1,4,7,-Cycloundecatriene"
+CC12CCC(=C)C(C1)C3(C2(CCC3)C)C,FALSE,beta-barbatene
+CC1=C(C(=C(C=C1)C)C=O)C,FALSE,"2,3,6-Trimethylbenzaldehyde"
+CCCCCC1=CC=CC=C1,FALSE,Pentylbenzene
+CC1CCC2C(CCC(=C2C1)C(=C)C)C,FALSE,"Muurola-4,11-diene"
+CC(C)(C)C(CC(=O)C1=CC=C(C=C1)Cl)N2C=CN=C2,FALSE,"1-(4-Chlorophenyl)-3-imidazol-1-yl-4,4-dimethylpentan-1-one"
+CCCCCC#CCC=CCCCCCCCC(=O)OC,FALSE,9-Octadecen-12-Ynoic Acid Methyl Ester
+CCCCC(CC)COC(=O)COC1=C(C=C(C=C1)Cl)Cl,FALSE,"2,4-D 2-Ethylhexyl ester"
+CCCCCCCCCCCCCCC(CO)(C#CC1=CC=CC=C1)O,FALSE,3-(Hydroxymethyl)-1-phenyl-1-heptadecyn-3-ol
+CC(C)(C)C1COC2=CC=CC=C2OC1,FALSE,SCHEMBL406192
+CCCC=CCCCCCCCCCOC(=O)C,FALSE,"10-Tetradecen-1-ol, acetate, (Z)-"
+CCCCOCCCCO,FALSE,4-Butoxybutan-1-Ol
+CC(C)CCCC=CC=O,FALSE,2-Isononenal
+C(COC(=O)CS)OC(=O)CS,FALSE,Glycol dimercaptoacetate
+CCCCCCCCCCCCOC(=O)C=C,FALSE,Dodecyl Acrylate
+CC1=C(C=C(C(=C1C)O)C(F)(F)F)O,FALSE,"Phen-1,4-Diol, 2,3-Dimethyl-5-Trifluoromethyl-"
+CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCO,FALSE,Octaethylene glycol monododecyl ether
+CC(=C)C1CCC(=CC1)COC(=O)C,FALSE,Perillyl Acetate
+CC(=O)CC(=O)OC1CC2C(C2(C)C)CC1=C,FALSE,"3(10)-caren-4-ol,acetoacetic acid ester"
+CC1(C2CC=C(C1C2)C(=O)Br)C,FALSE,Myrtene Acid Bromide
+CC=CC1=CC2=C(C(=C1)OC)OCO2,TRUE,Isomyristicin
+CCCCC1CC=CCC=C1,FALSE,"6-butyl-1,4-cycloheptadiene"
+CCCC=O,FALSE,Butanal
+CCCCCCCC=CCO,FALSE,2-Decen-1-Ol
+CCCCCCCCCCC=CC=O,FALSE,2-Tridecenal
+CCCCCCCCC=CCO,FALSE,Trans-2-Undecen-1-ol
+CCCCCCCCC=CCC=O,FALSE,3-Dodecen-1-al
+CC1(C2C1C=C(CC2)C=O)C,FALSE,2-Caren-10-al
+CC1=CCC2(CCC(=C2CC1)C(C)C)C,TRUE,Daucene
+CC(=CCCC1(C2CCC(=C)C1C2)C)C,FALSE,Trans-beta-bergamotene
+CC1=CC(=C(C=C1C)C=O)C,FALSE,"2,4,5-trimethylbenzaldehyde"
+CC1=CC(=C(C(=C1)C)C=O)C,FALSE,"2,4,6-trimethylbenzaldehyde"
+CCCC(=O)OC1C2CC=C(C1C2(C)C)C,FALSE,cis-Chrysanthenyl butanoate
+CC1(C2C1C3C(CCC3(C)O)C(CC2)(C)O)C,FALSE,"4,10-Aromadendranediol"
+CC1=C(C(=C(C=C1)C=O)C)C,FALSE,"2,3,4-Trimethylbenzaldehyde"
+CC1=CCC(=C(C)CC(=O)C=C(C)C)CC1,FALSE,(E)-gamma-Atlantone
+CCC(=O)OC1C2CC=C(C1C2(C)C)C,FALSE,cis-Chrysanthenyl propionate
+C1CCC2CC=CCC2C1,FALSE,1123-77-9
+CC1(CCC(C23C1=CC(C2(C)C)CC3)O)C,FALSE,Neoisolongifolene-8-ol
+CCCCCCCC(=O)OCCC,FALSE,Propyl octanoate
+CCCCCCCCCCCCCC=CC(=O)OC,FALSE,methyl hexadecenoate
+C1=CC(=CC(=C1)N)N,FALSE,m-Phenylenediamine
+C1CCC2C(C1)CC3C2C(=O)C=CC3,FALSE,5-Oxo-.Delta.4-Decahydrobenzindene
+CCCCC=CC1CC1C=C,FALSE,"(1S,2S)-Dictyopterene?A"
+COC1=CC(=C(C=C1CC=C)OC)OC,TRUE,gamma-Asarone
+CC1CC(C=CC1O)(C)C,FALSE,"4,4,6-Trimethyl-cyclohex-2-en-1-ol"
+CCC(C)C(=O)OC1=C(C=C(C=C1)OC)C=CC,FALSE,trans-Pseudoisoeugenyl 2-methylbutyrate
+C1C=CC=C2C1=CC=CC=C2,FALSE,1H-Benzocycloheptene
+C1CCCC=CC=CCC1,FALSE,cyclodecadiene
+CC1=C2CC(CCC2(CCC1=O)C)C(=C)C,FALSE,(+)-alpha-Cyperone
+CC1(CCCC2(C1=CCC(CC2)(C)O)C)C,FALSE,Widdrol
+CC1(CCC(C2C13CCC(C3)C2(C)C)O)C,TRUE,Isolongifolan-8-ol
+CC1=CC(=CC(=C1)C)C,FALSE,Mesitylene
+CC1=CC(=C(C=C1)C)C,TRUE,"1,2,4-Trimethylbenzene"
+CC(C)C1=CC2=C(C=C1)C3(CCCC(C3CC2)(C)C(=O)O)C,FALSE,Dehydroabietic acid
+CC(C)(C)C1=CC(=O)C=C(C1=O)C(C)(C)C,FALSE,"2,6-Di-tert-butyl-P-benzoquinone"
+CC(=CCCC(=CCOC(=O)CC1=CC=CC=C1)C)C,FALSE,Geranyl phenylacetate
+CC1(CCC2(CC=C3C4(CCC5C(C(=O)CCC5(C4CCC3(C2C1)C)C)(C)C)C)C)C,FALSE,Taraxerone
+CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C,FALSE,alpha-Amyrin
+CC(C)O,FALSE,Isopropanol
+CC1CCC2(O1)C(=CCCC2(C)C)C,FALSE,Theaspirane
+CC1(CCC(=O)O1)C=C,FALSE,Lavender lactone
+CCC=CCC1=C(CC=C1OC(=O)C)C,FALSE,Jasmonyl acetate
+CCC=C(C)C(=O)OCC,FALSE,Ethyl 2-Methyl-2(Z)-Pentenoate
+CC1CCOC(C1)CC(C)C,FALSE,Dihydroroseoxide
+CC(=CCCC(C)(C=C)O)CO,TRUE,"(Z)-2,6-Dimethyl-2,7-Octadien-1,6-Diol"
+CCCCCCCC(C)CCCCC,FALSE,6-Methyl-tridecane
+CC1C2CCC(C2)C1(C)C,FALSE,Isocamphane
+CC1C2CCC(C(C2OC1=O)C(=C)C)(C)C=C,FALSE,saussurea lactone
+CCCCCC#CCC#CCCCCCCCC(=O)O,TRUE,"9,12-Octadecadiynoic Acid"
+CC1=CCC2C1C3C(C3(C)C)CCC2=C,FALSE,Beta-Spathulene
+CCCCOC(=O)C1=CC=CC=C1,FALSE,Butyl benzoate
+C1CCCCC=CCCC1,FALSE,cyclodecene
+CCCCOC(=O)C1=CC=CC=C1C(=O)OCC2=CC=CC=C2,FALSE,Benzyl Butyl Phthalate
+CC1(OCCO1)C2=CC=C(C=C2)OC,FALSE,"2-(4-Methoxyphenyl)-2-methyl-1,3-dioxolane"
+C1OC2=C(O1)C=C(C=C2)C3=NOC(=N3)CN4C=C(C=N4)I,FALSE,"3-(1,3-Benzodioxol-5-yl)-5-[(4-iodo-1H-pyrazol-1-yl)methyl]-1,2,4-oxadiazole"
+CC1C(CC(C2=CCC(CC12C)C(=C)C)O)O,FALSE,Capsidiol
+C=C1C2C=CC(C1=C)C(=C)C2=C,FALSE,62234-75-7
+CO,FALSE,methanol
+CCC=O,TRUE,propanal
+CC(C)C=O,FALSE,Isobutyraldehyde
+CCCO,FALSE,1-propanol
+CCC(=O)C=C,FALSE,1-penten-3-one
+CCC(=O)CC,FALSE,3-Pentanone
+CCC(CC)O,FALSE,3-pentanol
+CCC=CC=O,FALSE,2-Pentenal
+C=CCCN=C=S,FALSE,3-Butenyl isothiocyanate
+CCCCCC(=O)C(=O)C,FALSE,"2,3-octanedione"
+CC1=CCC(C(C=C(CCC1)C)O)C(C)C,FALSE,"1,6-Germacradien-5-ol"
+CC(=O)C1CCCC1=O,FALSE,2-Acetylcyclopentanone
+CC(C)C12CC1C(=O)C=C2,FALSE,Dehydrosabinaketone
+CCOC(=O)C(=O)C,FALSE,Ethyl pyruvate
+CC(C)C1(C2CC(=C)CCC2C3(C1C3)C)O,FALSE,beta-Copaen-4-alpha-ol
+CC1CCC23C1C2C(CCC3C)C(C)(C)O,TRUE,Cubeban-11-ol
+CC(C)C1CCC2(CCCC(=C)C2C1O)C,TRUE,Junenol
+CCC(=O)OC1CC2CCC1(C2(C)C)C,TRUE,Isobornyl propionate
+CC1(C2CCC1C(=O)C2)C,TRUE,"Bicyclo[2.2.1]heptan-2-one, 7,7-dimethyl-"
+CCC=C=CCC(C)C,FALSE,"3,4-Octadiene, 7-methyl-"
+COC1=CC=C(C=C1)O,FALSE,4-Methoxyphenol
+C1CCC(C1)CCCO,FALSE,3-Cyclopentyl-1-propanol
+CC1=CC=C(C=C1)C(=O)C,FALSE,4'-Methylacetophenone
+CCCCCCC#CC(C)O,FALSE,3-Decyn-2-ol
+CCCCCCCCCC(CC)O,TRUE,3-Dodecanol
+CCC(C)CCO,FALSE,3-Methyl-1-pentanol
+CC(C)CCCCC=C,FALSE,7-Methyl-1-octene
+CCCCCCCC(C)CC,FALSE,3-Methyldecane
+CC(C)CCCC(C)CCCC(C)CCCC(C)(C#C)O,FALSE,"3,7,11,15-Tetramethylhexadec-1-yn-3-ol"
+CCCCC=CC(C)CCCCCCC(=O)O,FALSE,Z-8-Methyl-9-tetradecenoic acid
+CCCCC(C)CCCC(C)CCCC(C)CCCC(C)C,FALSE,"2,6,10,14-Tetramethyloctadecane"
+CCOC(=O)C1=C(C=CC(=C1)C)O,FALSE,Ethyl 2-hydroxy-5-methylbenzoate
+CC(=O)C(=O)O,TRUE,Pyruvic acid
+CCCCCCCCCCCCCC(C)CCC,FALSE,4-Methylheptadecane
+CCCCCCCCCCCCCCCC(C)C,FALSE,2-Methylheptadecane
+CC1CCCC23C1(CC4C(C2)C4(C3)C)C,FALSE,Ishwarane
+CC(C)C(=O)O,FALSE,Isobutyric acid
+C=CCN=C=S,FALSE,Allyl isothiocyanate
+CC(C)CCN=C=S,FALSE,1-Isothiocyanato-3-methylbutane
+C1=CC=C(C=C1)CCN=C=S,FALSE,2-phenethylisothiocyanate
+CS(=O)(=O)C1=CC(=C(C=C1)Cl)C(=O)O,FALSE,2-Chloro-5-(methylsulfonyl)benzoic acid
+CCC(C)N=C=S,FALSE,sec-Butyl isothiocyanate
+C1=CC=C(C=C1)CN=C=S,FALSE,Benzyl isothiocyanate
+CCCCCN=C=S,FALSE,Pentyl isothiocyanate
+C=CCNC(=S)NCC=C,FALSE,"1,3-Diallyl-2-thiourea"
+CCCCCC(CCCCC)O,FALSE,6-Undecanol
+C1=CC=C(C=C1)CCC#N,FALSE,Benzenepropanenitrile
+CC(C)CCCC=O,FALSE,5-Methylhexanal
+CCCCCCCC=CCC,FALSE,cis-3-Undecene
+CCC(=O)C(C)CC=C,FALSE,"6-Hepten-3-one, 4-methyl-"
+CC1=CCCC2(C13CCC2C(C3)(C)C)C,TRUE,"(1S,6S,7R)-2,6,8,8-Tetramethyltricyclo[5.2.2.01,6]undec-2-ene"
+CC1CCC2CC3=C(CCC13C2(C)C)C,TRUE,Cyperene
+C1CCC=CC=CC1,FALSE,"1,3-Cyclooctadiene"
+CCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCC(C)C,FALSE,"Phthalic acid, isobutyl octyl ester"
+CCCCC=CCC=CCCCCCCCCC(=O)OC,FALSE,"10,13-Octadecadienoic acid, methyl ester"
+CCCCCCCCCCCCCCCCCCC(=O)O,TRUE,646-30-0
+CCCCC(CC)CCC(=O)CC(C)C,FALSE,2-METHYL-7-ETHYL-4-UNDECANONE
+CCCCCCCC=CC#C,FALSE,"3-Undecen-1-yne, (Z)-"
+C1C(O1)C2=CC=CC=C2,FALSE,(R)-Styrene oxide
+CCCCCCCCCCCC=CCCCCC(=O)O,TRUE,Petroselinic acid
+CC(C)C(=CC=C(C)C1CCC2C1(CCC3C2CCC4C3(CCCC4)C)C)C=CO,FALSE,Stigmastatrienol 
+CCOCC(C)C,FALSE,1-Ethoxy-2-methylpropane
+CCCCCCC1C=CC(=O)O1,FALSE,5-Hexylfuran-2(5H)-one
+C=CCCCCCCCC(=O)O,TRUE,9-Decenoic acid
+CCCCCCC1=CC=CO1,FALSE,2-Hexylfuran
+CCCCCC=CCCC=O,FALSE,4-Decenal
+CC1(C2CCC3(C2)C1C=CC(=O)C3(C)C)C,FALSE,"2,2,7,7-Tetramethyltricyclo[6.2.1.0(1,6)]undec-4-en-3-one"
+CC(=CCCC1(C2CCC(C2)C1=C)C)COC(=O)C,FALSE,"epi-beta-Santalol, acetate"
+CC1CCC2C13CC(C2(C)C)C(=C)C(C3)OC(=O)C,FALSE,Cedrenol acetate
+COC1=C(C=CC2=C1OCO2)CC=C,FALSE,Croweacin
+CCC(=O)C1=CC2=C(C=C1O)OCO2,FALSE,Kakuol
+CC1CCC2(C1C3C(C3(C)C)CCC2C)O,TRUE,Palustrol
+CCC(=C)CCC=C(C)CCC=C(C)C,TRUE,beta Farnesene
+CC1=CC(=C(C=C1OC)OC)OC,TRUE,"2,4,5-Trimethoxytoluene"
+CC1CCC23C1CC(C2(C)C)CCC3=C,FALSE,gamma-Patchoulene
+CC1CCCC2=CC(=O)C3C(C12C)C3(C)C,FALSE,"6,7-Epiaristolone"
+COC1=CC2=C(C=C1CC=C)OCO2,FALSE,Sarisan
+CCNN,FALSE,Ethylhydrazine
+CC(=O)CC1=CC2=C(C=C1)OCO2,TRUE,Methyl piperonyl ketone
+CC1=C(C(=O)C(=CO1)O)O,FALSE,5-Hydroxymaltol
+C1C(O1)C2CO2,FALSE,"1,2,3,4-Diepoxybutane"
+C1=COC(=C1)C(=O)CO,FALSE,Furyl hydroxymethyl ketone
+CC=CC1=CC(=C2C(=C1OC)OCO2)OC,TRUE,"4,7-Dimethoxy-5-(1-propenyl)-1,3-benzodioxol"
+COC(C=C(OC)OC)C1=CC=CC=C1,FALSE,Trimethoxyallylbenzene ¢ñ
+CCCCCCCC=CCC=CCCCCC,FALSE,"6,9-Heptadecadiene"
+C1CCC2(CC1)CCCC2,FALSE,Spiro[4.5]decane
+CCCCCCCCCCCCCCCCC=CCC,FALSE,"3-Eicosene, (E)-"
+C1CCCCCCCCCCCCCCCCCCCCCCC1,FALSE,Cyclotetracosane
+COC1=CC2=C(CCC(O2)C3=CC=C(C=C3)O)C(=C1)OC,TRUE,"4'-Hydroxy-5,7-dimethoxyflavan"
+C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,FALSE,(-)-Epicatechin
+C1=CC(=O)OC=C1C(=O)O,FALSE,Coumalic acid
+C1=CC=C(C=C1)CCOC2C(C(C(C(O2)CO)O)O)O,FALSE,Phenylethyl beta-D-glucopyranoside
+CC(CCC=C(C)C)O,FALSE,6-Methylhept-5-en-2-ol
+C1=COC=C1CO,FALSE,3-Furanmethanol
+C1=COC(=C1)COCC2=CC=CO2,FALSE,"2,2'-DIFURFURYLETHER"
+CC(=O)OCC1=COC=C1,FALSE,3-Furylmethyl acetate
+C1=C(NC=N1)CC(=O)O,TRUE,Imidazoleacetic acid
+C1=COC(=C1)COC=O,FALSE,Furfuryl formate
+C1=COC=C1C=O,FALSE,3-Furaldehyde
+CCCCCC1CCC(=O)O1,TRUE,Gamma-nonalactone
+CC1(C=CC2=CC(=C(C=C2O1)OC)OC)C,TRUE,Precocene II
+CCCCC=CCCO,TRUE,3-Octen-1-OL
+C1CCC(CC1)O,FALSE,Cyclohexanol
+CC(=CCC1=C2C(=C(C=C1O)OC)C(=O)CC(O2)C3=CC=C(C=C3)O)C,TRUE,(2S)-Isoxanthohumol
+CC1(C(CC2=C(C=C(C(=C2O1)C(=O)C=CC3=CC=CC=C3)O)OC)O)C,FALSE,Helichromanochalcone
+C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,TRUE,Apigenin
+COC1=CC(=CC(=C1O)OC)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,TRUE,Tricin
+C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O,FALSE,Astragalin
+C1=CC(=CC=C1C=CC(=O)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O)O)O)O,FALSE,Tiliroside
+CC1(CC(CC2(C1=CC(=O)O2)C)O)C,FALSE,Loliolide
+COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)COC5C(C(C(C(O5)CO)O)O)O)O)O)O)O,FALSE,Astragaloside
+COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,TRUE,Isorhamnetin
+COC1=C(C(=C2C(=C1O)C(=O)C(=C(O2)C3=CC=CC=C3)OC)OC)O,FALSE,"5,7-Dihydroxy-3,6,8-trimethoxyflavone"
+CN1CCC2=CC3=C(C=C2C1C4C5=C(C(=C(C=C5)OC)OC)C(=O)O4)OCO3,FALSE,Hydrastine
+COC1=C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3,TRUE,Galangin 3-methyl ether
+COC1=C(C=C(C2=C1OC(=C(C2=O)OC)C3=CC=CC=C3)O)O,FALSE,Gnaphaliin
+COC1=C(C(=C2C(=C1)OC(=C(C2=O)OC)C3=CC=CC=C3)O)O,FALSE,"5,6-Dihydroxy-3,7-dimethoxyflavone"
+COC1=C(C(=C2C(=C1O)C(=O)C(=C(O2)C3=CC=CC=C3)O)OC)OC,FALSE,"3,5-Dihydroxy-6,7,8-trimethoxyflavone"
+CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C(=O)O,FALSE,Ursolic acid
+CCCCCC=CCC=CCCCCCC=C,FALSE,"1,8,11-Heptadecatriene"
+C1=CC=CC=C1,FALSE,Benzene
+CCOC(=O)C(=O)OCC,FALSE,Diethyl oxalate
+CC1CC2C(CCC(=CCC1=O)C)C(C(=O)O2)C,FALSE,Ketopelenolide b
+CC1(CCC2(CCC3(C(=CCC4C3(CC=C5C4(CC(C(C5(C)O)O)O)C)C)C2C1)C)C(=O)O)C,FALSE,Triterpenoids
+CCC=CCCOC(=O)C(C)C,FALSE,cis-3-Hexenyl isobutyrate
+CC1(C2CCC1(CC2=O)C)C,TRUE,"4,7,7-Trimethylbicyclo[2.2.1]heptan-2-one"
+CC1=CC(=O)OC2=C1C=CC(=C2)N(C)C,FALSE,7-(Dimethylamino)-4-methylcoumarin
+CCCC(C)(C)C(C)(C)C,FALSE,"2,2,3,3-Tetramethylhexane"
+C1=C(C=C(C=C1O)O)C(=O)O,FALSE,"3,5-Dihydroxybenzoic acid"
+CC1CCCCCC1,FALSE,Methylcycloheptane
+CC1CCCC2=C1NN=C2,FALSE,"1H-Indazole, 4,5,6,7-tetrahydro-7-methyl-"
+CCC=CCCCCC(C)CC,FALSE,"3-Undecene, 9-methyl-, (Z)-"
+CC(C)C(C=C(C)C)O,FALSE,"4-Hexen-3-ol, 2,5-dimethyl-"
+CC1=CC(=O)C(CC1)C(=C)C,FALSE,Isopiperitenone
+CCC1=CC=CC1(C)C,FALSE,"1,3-Cyclopentadiene, 5,5-dimethyl-1-ethyl-"
+CC(C)(C)C1CC=CC=C1,FALSE,"1,3-Cyclohexadiene, 5-(1,1-dimethylethyl)-"
+CC1=C2C=C(C(=C2C=C(C=C1)C(C)C)C)O,FALSE,"Azulen-2-ol, 1,4-dimethyl-7-(1-methylethyl)-"
+CC=C(C=CC=C(C)C)C=O,FALSE,"3,5-Heptadienal, 2-ethylidene-6-methyl-"
+CCCCC(C)(C)CO,FALSE,"2,2-Dimethyl-1-hexanol"
+CC(C)(C)CC(=O)C(C)(C)C,FALSE,"2,2,5,5-Tetramethyl-3-hexanone"
+CCC(C)(CC)C(=O)O,FALSE,2-Ethyl-2-methylbutanoic acid
+CC1=CN=C(C=C1)C,FALSE,"2,5-Dimethylpyridine"
+CC1=CC(=C(C=C1)CO)C,FALSE,"2,4-Dimethylbenzyl alcohol"
+CC(C)C1=CC(=CC=C1)C(=C)C,FALSE,1-Isopropenyl-3-isopropylbenzene
+C1=CC2C=CC1C34C2(C=C3)C=C4,FALSE,"2,5-Etheno[4.2.2]propella-3,7,9-triene"
+CC1CC(=O)C=CC1(C)C2=CC=CC=C2,FALSE,"4,5-Dimethyl-4-phenyl-2-cyclohexen-1-one"
+CCCCC(CC)C(C#C)O,FALSE,4-Ethyl-1-octyn-3-ol
+C1=CC=C(C(=C1)C=O)Cl,FALSE,2-Chlorobenzaldehyde
+CC(C1CCC(O1)(C)C=C)C(=O)CC=C(C)C,FALSE,Davanone
+CC(C)CC(C1=C(C(=C(C(=C1O)C=O)O)C=O)O)C2(CCC(=O)C2C3C(C3(C)C)CCC(=O)C)C,FALSE,CID 91885002
+CCC1=CC(=CC(=C1)C)C,FALSE,"1-Ethyl-3,5-dimethylbenzene"
+CC1=CCC23C1C4C(CCC2(O3)C)C(=C)C(=O)O4,FALSE,Arglabin
+CC1C2CCC3(C4(O3)CC=C(C4C2OC1=O)C)C,FALSE,Arborescin
+CCC=CCC=CC,FALSE,"2,5-Octadiene"
+CCC=CC=CCC,FALSE,"(3Z,5Z)-3,5-Octadiene"
+CCC(C)(C)C(C)(C)CC,FALSE,"3,3,4,4-Tetramethylhexane"
+CC1=CCC2C(CC2(C)C)C(=C)CCC1,FALSE,"(1R,3E,9S)-4,11,11-Trimethyl-8-methylenebicyclo[7.2.0]undec-3-ene"
+C1C=CCC1=O,FALSE,3-Cyclopenten-1-one
+CC1(C2CCC3(C1C2)CO3)C,FALSE,"2,10-Epoxypinane"
+CC#CC#CCC1=CC=CC=C1,FALSE,Capillene
+CC1CCC(C2C1CCC(=C2)C)C(=C)CO,FALSE,Artemisinic alcohol
+C1CC2=CC=CC3=C2C1=CC=C3,FALSE,Acenaphthene
+CC1(CC2C1CCC34C2(CCC3O)CC4)C,TRUE,"Tetracyclo[6.3.2.0(2,5).0(1,8)]tridecan-9-ol, 4,4-dimethyl-"
+C1CCCCC=C2CC2CCCC1,FALSE,Bicyclo[10.1.0]tridec-1-ene
+C1CCCCCC#CCCCC1,FALSE,Cyclododecyne
+CCCCC=CCCCCCCC=C,FALSE,"1,9-Tetradecadiene"
+CCCCC=CCCCCCCCCCCCCOC(=O)C,FALSE,Z-13-Octadecen-1-yl acetate
+CC=CCCCCCCCCCCCCC=O,FALSE,E-14-Hexadecenal
+CCCC(=O)OCC=C(C)CCC=C(C)C,FALSE,Geranyl butyrate
+CCCCCCC1CO1,FALSE,"1,2-Epoxyoctane"
+CC(C)CCCCC(C)C,FALSE,"2,7-Dimethyloctane"
+CCCCC(C)(C)CC,FALSE,"3,3-Dimethylheptane"
+CC1=C2CC3C(=C)CCCC3(CC2OC1=O)C,FALSE,Atractylenolide II
+CC1=C2CC3C(=C)CCCC3(C=C2OC1=O)C,FALSE,Atractylenolide I
+CC1CCC2CC3=C(C(=O)CC13C2(C)C)C,FALSE,Cyperotundone
+CC1=CCCC2(C1=CC(CC2)C(=C)C)C,FALSE,"(3R,8aR)-5,8a-Dimethyl-3-(prop-1-en-2-yl)-1,2,3,7,8,8a-hexahydronaphthalene"
+CC1CC=CC2=CCC(=C(C)C)CC12C,FALSE,beta-Vatirenene
+CCCC#CC#CCCC(=O)OC,FALSE,"Methyl Deca-4,6-diynoate"
+CCCC#CC#CC=CC(=O)OC,FALSE,Lachnophyllum ester
+CCCC#CC#CCCC(=O)O,FALSE,"Deca-4,6-diynoic Acid"
+CC1CCC(=CC1O)C(C)C,FALSE,trans-Carvenol
+CC1=CC(C2CC1C2(C)C)OC(=O)C,FALSE,"4,6,6-Trimethylbicyclo[3.1.1]hept-3-en-2-yl acetate"
+CC1=C(CC(CC1)C=O)C,FALSE,"3,4-Dimethyl-3-cyclohexenylmethanal"
+CC1=C(OC=C1)C(=O)C=C(C)C,FALSE,3-Methyl-1-(3-methylfuran-2-yl)but-2-en-1-one
+CC1(C2CCC1(C(=C)C2)C)C,FALSE,2-Methylenebornane
+CC1(CCC(C=C1)(C)CBr)C,FALSE,"3-Bromomethyl-3,6,6-trimethyl-cyclohexene"
+CC1=CC(=O)CC(C1C=CC=C)(C)C,FALSE,Megastigmatrienone
+CC1CCC23C1CCC2(CC(=C3C)C)C,TRUE,"(1S,5S,9R)-2,3,5,9-tetramethyltricyclo[6.3.0.01,5]undec-2-ene"
+C(CC=O)C=O,FALSE,Succinaldehyde
+C1CCOC(C1)CO,FALSE,Tetrahydropyran-2-methanol
+CC1CCC(C1)(C)O,FALSE,"1,3-Dimethylcyclopentanol"
+CC(C)C(C)(C)O,FALSE,"2,3-Dimethyl-2-butanol"
+CCC(C)C(C(C)C)O,FALSE,"2,4-Dimethyl-3-hexanol"
+CCCCC=CCCCCCCCCOC(=O)C,FALSE,(E)-9-Tetradecen-1-ol acetate
+CCOC1=C(C=C(C=C1)CC#N)OCC,TRUE,"(3,4-Diethoxyphenyl)acetonitrile"
+CC1=CC(=C(C=C1)CC=C)O,TRUE,5-Methyl-2-allylphenol
+CC1=C(C23CCC(C2CC1)C(C3)(C)C)C,TRUE,"6S-2,3,8,8-Tetramethyltricyclo[5.2.2.0(1,6)]undec-2-ene"
+CC(C)(C)C1=C(C=CC(=C1)OC)OC,FALSE,"2-tert-Butyl-1,4-dimethoxybenzene"
+CC1=CC(=C(C=C1OC)C(C)C)OC(=O)C(C)C,FALSE,6-Methoxythymyl isobutyrate
+CC1=CC(=C(C=C1)C(C)C)OC(=O)C(C)C,FALSE,Thymol isobutyrate
+C#CCCCCCC#CCCCCCC#CCCCCCC#C,FALSE,"1,8,15,22-Tricosatetrayne"
+CC1=CC(=C(C=C1O)C(C)C)O,TRUE,Thymohydroquinone
+CCCCCCCCCCCCC(=O)O,TRUE,Tridecanoic acid
+CCCCCCCCC=CCCCCCC=C,FALSE,Tetrahydroaplotaxene
+CCCCCCCCCCCC(=O)N,FALSE,Dodecanamide
+CC1CCC2C1CC3CCC2(OC3(C)C)C,FALSE,Ò°çÓ²ÝÍé
+CC1CCC2CC3(C1CCC3C)OC2(C)C,FALSE,Epi-ligulyl oxide
+CC1=CCCC(=CC2C(CC1)C(=C)C(=O)O2)C,FALSE,Costunolide
+CC1CCCC2(C1=CC(CC2)C(C)(C)O)C,FALSE,Rosifoliol
+CCCCCCCC=C,FALSE,1-Nonene
+CCCCCCCCC=C,FALSE,1-Decene
+CC1(CCCC(=C)C1C=C)C,FALSE,"1,1-Dimethyl-3-methylene-2-vinylcyclohexane"
+CC1CCCC2(C1=CC3C(C2)OC(=O)C3=C)C,FALSE,Alantolactone
+CC12CCCC(=C)C1CC3C(C2)OC(=O)C3=C,FALSE,Isoalantolactone
+CC1C2CC3C(=C)CCCC3(CC2OC1=O)C,FALSE,Dihydroisoalantolactone
+CC1=CC(=C(C(=C1)OC)O)OC,TRUE,"2,6-¶þ¼×»ù-4-¼×Ñõ»ù¼×»ù±½·Ó"
+CC1CCC2C3(C1(C4C(C4(C)C)CC3)C)O2,TRUE,Calarene epoxide
+CC(CCCC(=O)C)CCC=C(C)C,TRUE,"6,10-Dimethylundec-9-en-2-one"
+CC1C2CCC3(C=CC(=O)C(=C3C2OC1=O)C)C,FALSE,Sesquiterpenes
+CC1=CC(=C(C(=C1C)O)C)C,TRUE,"2,3,5,6-Tetramethylphenol"
+COCCOC(=O)C1=CC=CC=C1C(=O)OCCOC,FALSE,±½¶þËá£¨2-¼×Ñõ»ùÒÒ»ù£© Ë«õ¥
+C1C=CC=CC=C1,FALSE,Cycloheptatriene
+C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2,FALSE,Phenethyl benzoate
+CCCCCCCCCCCCC(=O)OC,TRUE,Methyl tridecanoate
+CC1=CC(=C(C=C1)C(C)CCC=C(C)C)O,TRUE,Curcuphenol
+CCCCCCC(C=C)OC(=O)C,FALSE,1-Hexylallyl acetate
+CC1CCC2(C13CCCC3(C=C2C)C)C,TRUE,Isocomene
+CC1CCC2=C1CC(CC2=C(C)C)C,FALSE,"Brasila-1(6),5(10)-diene"
+CC1CCCC2C1(CC(=C(C)C)C(=O)C2)C,FALSE,Fukinone
+CC1CCC2(C13CCCC3(CC2=C)C)C,FALSE,"(2R,5S,8S)-2,5,8-trimethyl-6-methylidenetricyclo[6.3.0.01,5]undecane"
+CCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC,FALSE,Butyl n-pentyl phthalate
+CCCC(C)OC(=O)C1=CC=CC=C1C(=O)OCC(C)C,FALSE,"Phthalic acid, isobutyl 2-pentyl ester"
+C1=CC=C2C=C3C=CC=CC3=C2C=C1,FALSE,Benz[a]azulene
+CCCCCCCC#CCCCCCC,FALSE,7-Pentadecyne
+C1C2=CC=CC=C2C3=CC=CC=C31,FALSE,Fluorene
+CCCCCC=CCC=CCC=CCCCCO,FALSE,"5,8,11-Heptadecatrien-1-OL"
+CCCCCCC#CC=CCCC,FALSE,"4-Tridecen-6-yne, (Z)-"
+CCCCCCCCC(CCCCCC)CCCCCCCC,FALSE,"Heptadecane, 9-hexyl-"
+C1=CC=C2C=C(C=CC2=C1)N,FALSE,2-Naphthylamine
+CSCCCCN=C=S,FALSE,Erucin
+CSCCCN=C=S,FALSE,3-(Methylthio)propyl isothiocyanate
+CC(C)CCCN=C=S,FALSE,1-Isothiocyanato-4-methylpentane
+CCCCN=C=S,FALSE,Butyl isothiocyanate
+CSCCCCCN=C=S,FALSE,Berteroin
+C=CCCCN=C=S,FALSE,4-Pentenyl isothiocyanate
+C1C(S1)CCC#N,FALSE,Thiiranepropanenitrile
+C1CC(=O)N(C1=O)C(=N)N,FALSE,l-Guanidinosuccinimide
+CC(C)(C)C1=CC(=C(C=C1)C(C)(C)C)O,TRUE,"2,5-Di-tert-butylphenol"
+CN(C)C=O,FALSE,N-¶þ¼×»ù-¼×õ£°·
+C(CCCCl)CCC#N,FALSE,7-Chloroheptanonitrile
+C(CCCN=C=S)CCN=C=S,FALSE,"1,6-Diisothiocyanatohexane"
+C1CCC(CC1)CC(=O)O,FALSE,Cyclohexylacetic acid
+C1CCC(CC1)CBr,FALSE,(Bromomethyl)cyclohexane
+C=CCCC#N,FALSE,4-Pentenenitrile
+CC(C)CCCC#N,FALSE,5-Methylhexanenitrile
+C(CC#N)CC#N,FALSE,Glutaronitrile
+CC1CCC2=C1C=NC=C2C,FALSE,Actinidine
+C1=CC(=CC=C1CCl)C#N,FALSE,4-(Chloromethyl)benzonitrile
+C1=CC=NC(=C1)C#N,FALSE,2-Cyanopyridine
+CCCCCCC=CC=CCC=CCCCCC(=O)OC,FALSE,"Methyl 6-cis,9-cis,11-trans-octadecatrienoate"
+CC(C)C=C(C=O)C1=CC=CC=C1,FALSE,4-Methyl-2-phenylpent-2-enal
+COCC(C(COC)OC)O,FALSE,"1,3,4-Trimethoxy-butan-2-ol"
+COC1=CC(=CC(=C1O)OC)C=C,TRUE,"2,6-Dimethoxy-4-vinylphenol"
+C1=CC(=CC=C1C(=O)N)Cl,FALSE,4-Chlorobenzamide
+CCC=CCCCCC=O,FALSE,cis-6-Nonenal
+CC=CC(=O)C1C(=CC=CC1(C)C)C,FALSE,alpha-Damascenone
+CC1=CCCCCCCCCCC1,FALSE,"Cyclododecene, 1-methyl-"
+C1=CC=C(C=C1)CSC#N,FALSE,Benzyl thiocyanate
+CC(C)C1CCC(C2C1(CC(=C)CC2)O)(C)O,FALSE,Isocalamendiol
+CCCCCCN=C=S,FALSE,Hexyl isothiocyanate
+CSCCC=CN=C=S,FALSE,4-Methylthio-(3z)-butenyl isothiocyanate
+C1CC1N=C=S,FALSE,Isothiocyanatocyclopropane
+CC(C)CN=C=S,FALSE,Isobutyl isothiocyanate
+CC=CCC#N,FALSE,3-Pentenenitrile
+CSCCCC#N,FALSE,"Butanenitrile, 4-(methylthio)-"
+CCC(C)C#N,FALSE,2-Methylbutanenitrile
+COC(=O)CCSC,FALSE,Methyl 3-(methylthio)propionate
+CC1CCCC(=O)O1,FALSE,delta-Hexalactone
+CCCOC(=O)C,FALSE,Propyl acetate
+CC1C(=O)C(=C(O1)C)OC,FALSE,"2,5-Dimethyl-4-methoxy-3(2H)-furanone"
+CC(=O)COC(=O)C,FALSE,Acetoxyacetone
+CC(=CCCC(=CCCC(=CCCC(=CCO)C)C)C)C,TRUE,Geranylgeraniol
+CC(=CCCC(=CCCC1=COC=C1)C)C,FALSE,Dendrolasin
+CC(=CCCC(=CCCC(=C)C)C)C,TRUE,"1,5,9-Undecatriene, 2,6,10-trimethyl-,(Z)-"
+CC(=C)C1CCC(CC1C(=C)C)(C)C,FALSE,"Cyclohexane, 3,4-bis(1-methylethenyl)-1,1-dimethyl-"
+CC(=C)C1CCC(C(C1)C(=C)C)(C)C,FALSE,"Cyclohexane, 1,1-dimethyl-2,4-bis(1-methylethenyl)-, cis-"
+CCCCCCCCN(CCCCCCCC)CCCCCCCC,FALSE,Trioctylamine
+C(C(C(C(C(CO)O)O)O)O)O,FALSE,d-Mannitol
+CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,FALSE,Estradiol
+CCC(C)CCCC(C)(C)C,FALSE,"2,2,6-Trimethyloctane"
+CCCCCCC(C)C(C)(C)C,FALSE,"2,2,3-Trimethylnonane"
+CCCCC(CCC)CC(C)CC,FALSE,3-Methyl-5-propylnonane
+CCCCCC(C)CCC(C)(C)C,FALSE,"2,2,5-Trimethyldecane"
+CCCCC(C)CCCC(C)(C)C,FALSE,"2,2,6-Trimethyldecane"
+C1CC2CC3C1CCC2C3,FALSE,"Tricyclo[4.4.0.0(3,9)]decane"
+CCCCCCCCCCC(C)(C)O,FALSE,2-Methyl-2-dodecanol
+CC1CCCC2(C13CC(CC2)C(O3)(C)C)C,TRUE,Dihydro-beta-agarofuran
+CC1CCC2C1CC3CCC2(C=C3)C,FALSE,Norrotundene
+CC1=CCC2(CC1C3(C2(CCC3)C)C)C,TRUE,(+)-alpha-Barbatene
+CC1(C2CCC1(C(=O)C2=O)C)C,TRUE,Camphorquinone
+CC(C)CCCC(C)CCC(C)C,FALSE,"2,5,9-Trimethyldecane"
+CCCCCCCCC(=O)OCC=C,FALSE,Allyl nonanoate
+CC1=CCC(CC1)C(=CC(=O)C)C,FALSE,Vestitenone
+COC1=CC=CC=C1C=CC=O,FALSE,2-Methoxycinnamaldehyde
+CC1(CCCC2(C13CC3C(CC2)(C)O)C)C,TRUE,Thujopsan-2-beta-ol
+CCCCC(CC)C(CCCC)OC(=O)C1=CC=CC=C1C(=O)O,FALSE,"1,2-Benzenedicarboxylic acid butyl-2-ethylhexyl ester"
+CCCCCC=CC(C)CCCCCCOC(=O)C,FALSE,7-Methyl-Z-tetradecen-1-ol acetate
+CCCCCCC(=O)OC,TRUE,Methyl heptanoate
+CCC(C)COC(=O)C(C)C,FALSE,2-Methylbutyl isobutyrate
+CC1=CC2=CC=CC(=C2C=C1)C,FALSE,"1,6-dimethylnaphthalene"
+CC(=O)C(OC)OC,FALSE,"1,1-Dimethoxyacetone"
+C1C(N=C(S1)C2=NC3=C(S2)C=C(C=C3)O)C(=O)O,FALSE,Firefly luciferin
+CC1C(OC2C1C3(CCC4C(C3C2)CC=C5C4(CCC(C5)OC(=O)C)C)C)CCC(C)CNC(=O)C,FALSE,Pseudosolasodine diacetate
+CC(C)(C)C1=CC(=C(C(=C1)C(C)(C)C)O)CC2=CC=CC=C2,FALSE,"Phenol, 2,4-bis(1,1-dimethylethyl) "
+CCCCCCCCCC(C)CI,FALSE,1-Iodo-2-methylundecane 
+C1CCC(C1)CCCCCCCCCCC(=O)O,TRUE,Cyclopentaneundecanoic acid
+CCCCCCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCCCCCCC,FALSE,Ditridecyl phthalate
+CCCCCCCCCCCCCCCCCOS(=O)OCCCC,FALSE,"Sulfurous acid, butyl heptadecyl ester"
+CC1=C(CC(CC1)C(C)C)C=O,FALSE,Carvomenthenal
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCl,FALSE,1-Chloroheptacosane
+C1C2CC3CC1CC(C2)C3Br,FALSE,2-Bromoadamantane
+CCCCCOCCC=CC,FALSE,3-Pentenyl pentyl ether
+CC1=CC(=C(C(=C1)C)C)C,FALSE,"1,2,3,5-Tetramethylbenzene"
+CC1COC2C1CCC(=C2)C,FALSE,Anethofuran
+CC1=NC2=C(C=C1)C=C(C=C2)O,FALSE,2-Methylquinolin-6-ol
+CC1(CCCC2(C1=CCCO2)C)C,FALSE,"5,5,8a-Trimethyl-3,5,6,7,8,8a-hexahydro-2H-chromene"
+CCCC12CC3CC(C1)CC(C3)(C2)C=CC,FALSE,1-Propyl-3-(propen-1-yl)adamantane
+CC1(CCCC2(C3C1C2C(=C)CC3)C)C,FALSE,beta?Longipinene
+CC1(C2C1C3C(CCCC3(C)O)(CC2)C)C,TRUE,Maaliol
+CC1C(OC(O1)C)C,FALSE,"2,4,5-Trimethyl-1,3-dioxolane"
+CC1CCOC(O1)C,FALSE,"2,4-Dimethyl-1,3-dioxane"
+C(CO)[N+](=O)[O-],FALSE,2-Nitroethanol
+C(C[N+](=O)[O-])C(=O)O,FALSE,3-Nitropropanoic acid
+C1COC(O1)CCCC2OCCO2,TRUE,"1,3-Dioxolane, 2,2'-(1,3-propanediyl)bis-"
+CCOCCSCC(=O)O,FALSE,6-Oxa-3-thiaoctanoic acid
+CC=CC=CC(=O)O,FALSE,Sorbic acid
+CC1=CC=C(C=C1)C=O,FALSE,4-Methylbenzaldehyde
+CC1=C(CCC1)C(=O)C,FALSE,"Ethanone, 1-(2-methyl-1-cyclopenten-1-yl)-"
+CC(C)C1CCC2(C3C1C(C2(CC3)C)O)C,TRUE,Copaborneol
+CCCCCCCCCCCCCCCC(=O)CC(=O)CCCCC,FALSE,"6,8-Tricosanedione"
+CC1C=CC(C2C13C2C(CC3)(C)O)C(C)C,FALSE,epi-Cubebol
+CC(C)C1C2C1C3C(=C)CCC(C3(C2)C)O,FALSE,Torilenol
+CC1(CCCC2(C13CC3C(=CC2)C=O)C)C,FALSE,Thujopsenal
+C1=CC=C(C=C1)CCCCCCCO,FALSE,7-Phenylheptan-1-ol
+CC(=O)C(=O)C1=CC=CC=C1,FALSE,"1-Phenyl-1,2-propanedione"
+CC(=O)C(C1=CC=CC=C1)O,FALSE,1-Hydroxy-1-phenylacetone
+CC(=C)C1C(CCCC1=C)O,TRUE,"o-Mentha-1(7),8-dien-3-ol"
+CC1=CCC2=C(CC(=CCC1)C)OC=C2C,FALSE,Furanodiene
+CC1=C2C(=O)C(CCC2(CCC1)C)(C(C)C)O,FALSE,7alpha-Hydroxyeudesm-4-en-6-one
+CC=C(C)C(=O)C,FALSE,3-Methylpent-3-en-2-one
+CCCCCCCCC=CCCCCCCCCCCCC(=O)O,TRUE,13-Docosenoic acid
+COC(=O)C1=CC=CC=C1C(=O)OC,FALSE,Dimethyl phthalate
+CC(=CC(C)(C)C1=CC=CC=C1)C2=CC=CC=C2,FALSE,"2,4-Diphenyl-4-methyl-2(E)-pentene"
+CC(C)CCCC(C)CCCC(C)CCO,FALSE,"3,7,11-Trimethyl-1-dodecanol"
+C1CCCCCOCCCCOC(=O)CCCC1,FALSE,"1,6-Dioxacycloheptadecan-7-one"
+CC=CCO,FALSE,Crotyl alcohol
+CCCC(CCC)CO,FALSE,2-Propyl-1-pentanol
+CCCCCCCCOC=O,FALSE,Octyl formate
+CCCCCCCCC=CCCO,FALSE,(Z)-Dodec-3-en-1-ol
+CCCCCC=CCC=O,FALSE,3-Nonenal
+CC(=O)CC1CCCCN1,FALSE,Pelletierine
+CC(C)(C)C1CCC(CC1)O,TRUE,4-tert-Butylcyclohexanol
+CCC(C)CC,FALSE,3-Methylpentane
+CCC(=C)CC(CC)(CC)CC,FALSE,"1-Hexene, 2,4,4-triethyl-"
+CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)C=O,TRUE,"3,5-Di-tert-butyl-4-hydroxybenzaldehyde"
+CC(C)CCCO,FALSE,4-Methyl-1-pentanol
+CC(CCO)O,FALSE,"1,3-Butanediol"
+CCC=CCC=O,FALSE,3-Hexenal
+CC(C)CC=C,FALSE,4-Methyl-1-pentene
+CCCCCCC=CCC,FALSE,cis-3-Decene
+CCCC=CCC=C,FALSE,"1,4-Octadiene"
+CCCC#CCCC,FALSE,4-Octyne
+C=CCCCCC1CO1,TRUE,"1,2-Epoxy-7-octene"
+C1=CC(=CC=C1C=O)C=O,FALSE,Terephthalaldehyde
+CNCCO,FALSE,2-(Methylamino)ethanol
+C1CC(C1)O,FALSE,Cyclobutanol
+CCCC(C)C=C,FALSE,3-Methyl-1-hexene
+C1CCCCCC1,FALSE,Cycloheptane
+CC1CCC(C1)(C)C,FALSE,"1,1,3-Trimethylcyclopentane"
+CCCCCCCCNC,FALSE,n-Methyloctan-1-amine
+CCOCC,FALSE,Ether
+CCCCCCOC(=O)Cl,FALSE,Hexyl chloroformate
+C1=CC(=O)OC=C1,FALSE,2H-Pyran-2-one
+C1CC(C1)(C(=O)O)C(=O)O,FALSE,"1,1-Cyclobutanedicarboxylic acid"
+CC1=CC(=C(C=C1)C=O)C,FALSE,"2,4-Dimethylbenzaldehyde"
+CC=CC=O,FALSE,2-Butenal
+CCC(C)CCC(C)CC,FALSE,"3,6-Dimethyloctane"
+CCCC(C)O,FALSE,2-Pentanol
+CCCCC=C=CC(C)C=O,FALSE,"(E,E)-2,4-Nonadienal"
+CC1=CC2=C(C=C1)C=CC3=CC=CC=C32,FALSE,3-Methylphenanthrene
+CC1=CC2=C(C=C1C)C3=CC=CC=C3C=C2,FALSE,"2,3-Dimethylphenanthrene"
+C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,FALSE,Fluoranthene
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,FALSE,Pyrene
+C1CC1C2=CC=CS2,FALSE,2-Cyclopropylthiophene
+CC1=CCC2C(CC2(C)C)C(=C)CCC1O,FALSE,Caryophyllenol II
+CC1=CC(C2C3C1C2(CCCC3(C)C)C)O,FALSE,Vulgarol B
+CCCCCC=C,FALSE,1-Heptene
+C(C=O)O,FALSE,Glycolaldehyde
+CCCCOCCOCCO,FALSE,2-(2-Butoxyethoxy)ethanol
+C1=C(OC(=C1)C=O)C=O,FALSE,"Furan-2,5-dicarbaldehyde"
+CC(=O)CCCCC(=O)OC,FALSE,6-Ñõ¸ýËá¼×õ¥
+CCCCCCCCCCCCCCC(C)CO,TRUE,2-Methyl-1-hexadecanol
+C1CCC#CCCOCCC#CCC1,FALSE,"Oxacyclotetradeca-4,11-diyne"
+CC(=C)C(=O)CCC1=COC=C1,FALSE,Lepalone
+CC(=C)C(CCC1=COC=C1)O,FALSE,Lepalol
+CC(C)(C=CCC1=COC=C1)O,FALSE,2-Methyl-5(fur-3-yl)-pent-3--en-2-ol
+CC1=CC(=C(C(=C1C)C)C=CC(=O)C)C,FALSE,"4-(2,3,4,6-Tetramethylphenyl)-3-buten-2-one"
+CC=CC,FALSE,2-Butene
+CC(C)CC(C)(C)C,FALSE,"2,2,4-Trimethylpentane"
+CC(C)(C)CC(C)(C)N,FALSE,tert-Octylamine
+CC(C)(C)N=C=O,FALSE,tert-Butylisocyanate
+CCC(C)Cl,FALSE,2-Chlorobutane
+CCC(C(C(=O)O)N)O,FALSE,3-Hydroxynorvaline
+CCCC#CCO,FALSE,2-Hexyn-1-ol
+CC(C)(C)C1CCCCC1,FALSE,tert-Butylcyclohexane
+CCCC(C)CC(C)C,FALSE,"2,4-Dimethylheptane"
+CC(C)C(C)(C=CC=CC(=O)C)C(=O)C,FALSE,"7-Isopropyl-7-methyl-nona-3,5-diene-2,8-dione"
+CC1CCC=C2C1(CC(CC2)C(C)(C)O)C,FALSE,Valerianol
+CCCCCCCCCCCCCCCCCCCCCCCCCCC=C,FALSE,1-Octacosene
+CN1C=CC=C1,FALSE,1-Methylpyrrole
+CN(C)CC1=CC=CC=C1,FALSE,"N,N-Dimethylbenzylamine"
+CCC(=CC)C(C)(C)C,FALSE,"2-Pentene, 3-ethyl-4,4-dimethyl-"
+C=CC(C(C1=CC=CO1)O)O,FALSE,"3-Butene-1,2-diol, 1-(2-furanyl)-"
+CCCCCCC=CC=CC=O,FALSE,"2,4-Undecadienal"
+CCCCCC(=O)C(=O)CCCCC,FALSE,"6,7-Dodecanedione"
+CC1(C2CCC1(C(=C3CC3)C2)C)C,TRUE,"Bicyclo[2.2.1]heptane, 2-cyclopropylidene-1,7,7-trimethyl-"
+COC(=O)CCCCCCCCCCCCCCCC#C,TRUE,Methyl octadec-17-ynoate
+C#CCCCCCCCCCCCCCCCC(=O)O,TRUE,17-Octadecynoic acid
+CCCCCCCCC=CCCCCCCCC(=O)OC(C)C,FALSE,i-Propyl 9-octadecenoate
+CC(=O)OCCCCCCCCCCC=CC1CO1,FALSE,"Z-(13,14-Epoxy)tetradec-11-en-1-ol acetate"
+CCCCCCCCC=CCCCCCCCCOC(=O)CCCCCCCC=CCCCCCCCC,FALSE,Oleyl oleate
+CCCCOCCO,FALSE,2-butoxy ethanol
+CCCC#CCCCCCCCCCCCCO,FALSE,13-Heptadecyn-1-ol
+CCCCCCCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC,FALSE,"Phthalic acid, butyl tetradecyl ester"
+CCCCCCC=CCCCCCCCCO,FALSE,9-Hexadecen-1-ol
+CCC1(CCC2(C(C1)CCC3C2CCC4(C3CCC4=O)C)C)O,TRUE,3-Ethyl-3-hydroxy-5alpha-androstan-17-one
+CC1C(=O)C(=C(O1)C)O,FALSE,Furaneol
+CC(CCC=C(C)C)C1CCC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)O)C)C)C,FALSE,Lanosterol
+C=C1CC2(CCCCC2)OC1=O,FALSE,3-Methylene-1-oxaspiro[4.5]decan-2-one
+CCCCCCCCCCCCCCCC(=O)C,FALSE,2-Heptadecanone
+CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CO,TRUE,"3,5-Di-tert-butyl-4-hydroxybenzyl alcohol"
+CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCCCC,FALSE,Butyl 2-ethylhexyl phthalate
+C1CCC2CCCC(C1)C2=O,FALSE,Bicyclo[4.3.1]decan-10-one
+CCC=CCC=CCC=CCCCCCCCCCC(=O)OC,FALSE,"Methyl icosa-11,14,17-trienoate"
+C1CCCCCCC(C(=O)CCCCCC1)O,FALSE,2-Hydroxycyclopentadecanone
+CCCCCCCCCCCCCCOS(=O)OC(C)C,FALSE,"Sulfurous acid, 2-propyl tetradecyl ester"
+CCCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCC(C)C,FALSE,"Phthalic acid, decyl isobutyl ester"
+CCCCCCCCCC(C)CCCCCCCCC,FALSE,10-Methylnonadecane
+CCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC,FALSE,Butyl octyl phthalate
+CC(=CCCC(C)(C1CCC(O1)(C)C=C)O)C,TRUE,Nerolidol oxide
+C1CN1,FALSE,Aziridine
+CC(=C)C#N,FALSE,Methacrylonitrile
+C1=CN=CC=C1N,FALSE,4-Aminopyridine
+C(C(C(=O)O)N)C(=O)O,FALSE,Aspartic acid
+CC(CC1=CC=C(C=C1)O)N,TRUE,"Phenol, 4-(2-aminopropyl)-"
+C1=CN=CC=C1C(=O)NN,FALSE,Isoniazid
+CCN(CC)C(=O)C1=CC=CC(=C1)C,FALSE,Diethyltoluamide
+CC12CCC3C(C1CCC2=O)CC=C4C3(CCC(C4)O)C,FALSE,Dehydroepiandrosterone
+CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCO)C)C,FALSE,Retinol
+C1=CC2=C(C(=C(C=C2I)I)O)N=C1,FALSE,Iodoquinol
+CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O,FALSE,Warfarin
+CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,FALSE,trans-Permethrin
+C1=C[N+](=O)C=CN1[O-],FALSE,"Pyrazine, 1,4-dioxide"
+C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,FALSE,Hydrochlorothiazide
+CCCC(=O)C1=CC=CO1,FALSE,2-Butyrylfuran
+CCC=CCC(C=C)O,FALSE,"(Z)-1,5-Octadien-3-ol"
+CC(CCC(CO)C(=C)C)C=C,TRUE,2-Isopropenyl-5-methyl-6-hepten-1-ol
+CCCCCCCCCCC=CCC=CCCCCC,FALSE,"6Z,9Z-Eicosadiene"
+C=CCCCCCCCCCCCCCCCCC=C,FALSE,"1,19-Eicosadiene"
+CCC(C)CCCCCCCCCCC(=O)O,TRUE,12-Methyltetradecanoic acid
+B1(C2=CC=CC=C2C=NN1)C,FALSE,"1,2-dihydro-1-methyl-2,3,1-benzodiazaborine"
+C1=CC(=CC(=C1)O)C=O,FALSE,3-Hydroxybenzaldehyde
+CC1C2CC(C1C3=CC=CC=C23)(C)OC,FALSE,"2-Methoxy-2,9-dimethylbenzonorbornene"
+COC1=CC(=C(C=C1)S)OC,FALSE,"2,4-Dimethoxythiophenol"
+C1C2=CC=CC=C2C3=C1C=C(C=C3)O,FALSE,9H-Fluoren-2-ol
+CCCCCCCCCCCCCC(=O)OCCCC,FALSE,Butyl myristate
+CCCC=CCC=CCCCCCCCCCC(=O)OC,FALSE,"11,14-Octadecadienoic acid, methyl ester"
+CCCC(CCC=C)O,TRUE,7-Octen-4-OL
+CCCC(C)CCCC(C)CCCC(C)CCCC(C)C,FALSE,"2,6,10,14-Tetramethylheptadecane"
+CCCC(C)CCCC(C)CCC,FALSE,"4,8-Dimethylundecane"
+CCCCCC=CCC=CCCCCCCCC=O,FALSE,"9,12-Octadecadienal"
+C1CCC(CC1)Br,FALSE,Bromocyclohexane
+C(CCO)CC(CO)O,FALSE,"1,2,6-Hexanetriol"
+CC(C)C1=CC2=C(C=C1)C=C(C=C2)C(C)C,FALSE,"2,6-Diisopropylnaphthalene"
+C1CNC(C2=C1C=C(C=C2)O)C(=O)O,FALSE,"6-Hydroxy-1,2,3,4-tetrahydroisoquinoline-1-carboxylic acid"
+CC1(C2=C(C=C(C=C2)F)C(O1)(C)C)C,FALSE,"5-Fluoro-1,1,3,3-tetramethyl-1,3-dihydroisobenzofuran"
+CCCCCC1C(CCC1=O)CC(=O)OC,TRUE,Methyl dihydrojasmonate
+CCCCC(=CC(C)(C)C)C(=CC(C)(C)C)CCCC,FALSE,"Decane, 5,6-bis(2,2-dimethylpropylidene)-, (E,Z)-"
+CC1C=CC(C2C1CCC(=C)C2OO)C(C)C,FALSE,"Murolan-3,9(11)-diene-10-peroxy"
+CCOC1=C2CCCN2C(=C3N1CCC3)OCC,FALSE,"5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a;1',2'-d]pyrazine"
+CCCCCCCCC1C(O1)CCCCCCCC(=O)OC,FALSE,"Oxiraneoctanoic acid, 3-octyl-, methyl ester, cis-"
+CCCCCCCCCCCCCCCC(=O)OCC1=CC=CC=C1,FALSE,Benzyl palmitate
+CC1(CCC2=C1C=CC3=C2C(=O)CC3(C)C)C,FALSE,"As-Indacen-1(2H)-one, 3,6,7,8-tetrahydro-3,3,6,6-tetramethyl-"
+CC1=C2C(=C(N(C2=C(C=C1)C)C)C)C,FALSE,"1,2,3,4,7-Pentamethylindole"
+CC1=CC2=C(CCC2(C)C)C(=C1C)C,FALSE,"Indan, 1,1,4,5,6-pentamethyl-"
+CCOC1=CC=C(C=C1)NC(=O)C,FALSE,Phenacetin
+CC(C=C)(C=O)C1=CC=CO1,FALSE,2-(2-Furyl)-2-methyl-3-butenal
+CC1=CC(=O)OC2=C1C=CC(=C2)O,FALSE,Hymecromone
+CCOC(=O)C1=C(C(=CC(=C1)O)O)Cl,FALSE,Diisobutyladipate
+C1COC(=O)C2=CC=CC(=C21)C=O,FALSE,Erythrocentaurin
+CCCCCCCCCCCCCCCCC#CCC,FALSE,3-Eicosyne
+CCCCC=CC=CCCCCCCCCC=C,FALSE,"1,E-11,Z-13-Octadecatriene"
+CCCCC(CC)C(=O)O,FALSE,2-Ethylhexanoic acid
+CCCCC1CCC(=O)O1,TRUE,gamma-Octalactone
+CCN1CCCC(=O)C1,FALSE,1-Ethylpiperidin-3-one
+C(C(CCl)Cl)OC(CCl)CCl,FALSE,"Propane,1,2-dichloro-3-[2-chloro-1-(chloromethyl) ethoxy]"
+CCCCCCCCC(CC)CO,FALSE,2-Ethyl-1-decanol
+CC1=C(C(=O)C=CO1)O,FALSE,Maltol
+CC1=C(C(=O)C(CC1)C(C)C)O,FALSE,Diosphenol
+CC(=C1CCC2(CC(=CC1)CCC2O)C)C,FALSE,"7R,8R-8-Hydroxy-4-isopropylidene-7-methylbicyclo[5.3.1]undec-1-ene"
+CC1(C2CC(C1=C)C(C2)O)C,TRUE,"Camphenol, 6-"
+CC1(C2CC(C1(CC2O)C)O)C,TRUE,"2,5-Bornanediol"
+CC1CCC=C(CC(=O)C(CC1=O)C(C)C)C,FALSE,Neocurdione
+CC1=CC(=O)OC1=O,FALSE,Citraconic anhydride
+CCOC(=O)C1=CC(=C(C(=C1)O)O)O,FALSE,Ethyl gallate 
+CCCCCCC(C)CC,FALSE,3-Methylnonane
+CCCCCCCCC(C)C,FALSE,2-Methyldecane
+CC1=CC(CC(=O)C1)(C)C,FALSE,beta-Isophorone
+CC(=C(C=O)C(=CC=C)C)C,FALSE,"2-Isopropylidene-3-methylhexa-3,5-dienal"
+CC1=C(C(=O)CC(C1)(C)C)O,FALSE,"2-Hydroxy-3,5,5-trimethyl-2-cyclohexen-1-one"
+CC1=C(C(=O)OC(=C1C)C)C,FALSE,"3,4,5,6-Tetramethyl-2H-pyran-2-one"
+CCCCCCCCCCCCCC=CC=CC(=O)O,FALSE,Octadecadienoic acid
+C1=CC=C(C=C1)C(=O)C2=CC(=CC(=C2)C(=O)C3=CC=CC=C3)C(=O)C4=CC=CC=C4,FALSE,"1,3,5-Tribenzoylbenzene"
+CC(=O)C1=CC(=C(C=C1)OC)O,TRUE,1-(3-Hydroxy-4-methoxyphenyl)ethanone
+CC1CC=C(C(C1(C)C)C=CC(=O)C)C,FALSE,alpha-Irone
+CCC(=O)C=CC1=C(CCCC1(C)C)C,FALSE,beta-Methylionone
+CC(=O)CCO,FALSE,4-Hydroxy-2-butanone
+CC1=NC=CN=C1C,FALSE,"2,3-Dimethylpyrazine"
+CC1=CN=C(C(=N1)C)C,FALSE,"2,3,5-Trimethylpyrazine"
+CCC1=NC=C(N=C1)C,FALSE,2-Ethyl-5-methylpyrazine
+CC1=CCOC1=O,FALSE,3-Methyl-2(5H)-furanone
+CCCCCOC(=O)C,FALSE,Pentyl acetate
+CC1=CCC2(C1C2)C(C)CCC=C(C)C,FALSE,7-epi-Sesquithujene
+CC1=CC2C(CCC(=C)C2(CC1)O)C(C)C,FALSE,"Muurola-4,10(14)-dien-1beta-ol"
+CC1=C2C=CC(=C2C=C(C=C1)C(C)C)C,FALSE,Guaiazulene
+CC1=C(OC=C1)C(=O)CC(C)C,FALSE,3-Methyl-1-(3-methylfuran-2-yl)butan-1-one
+CCC=CCC=CCC=CCCCCC=CCCCC(=O)OC,FALSE,"Methyl (Z)-5,11,14,17-eicosatetraenoate "
+CC1=CC=C(O1)C(=O)C,FALSE,2-Acetyl-5-methylfuran
+CC1C(CCC1=C)C(=O)OC,FALSE,"Cyclopentanecarboxylic acid, 2-methyl-3-methylene-, methyl ester"
+CC1(C2CCC1(C(C2)Cl)C)C,FALSE,Bornyl chloride
+CC1CCCC(=C1)C,FALSE,"1,3-Dimethylcyclohexene "
+CN1C=CC=CC1=O,FALSE,1-Methyl-2-pyridone
+CC1=CCC2C1C3C2(CCC3C(C)C)C,FALSE,alpha-Bourbonene
+CC1=C2CC(C(CC2OC1=O)(C)C=C)C(=C)C(=O)OC,FALSE,Deoxysericealactone 
+CC1=CCCC(C1=CCC(=O)C)(C)C,FALSE,"2-Butanone, 4-(2,6,6-trimethyl-2-cyclohexen-1-ylidene)-"
+CC1(C2CC=C(C1C2)CCO)C,TRUE,Nopol 
+CC1C2CC(C1=O)CC2(C)C,TRUE,"3,5,5-Trimethylbicyclo[2.2.1]heptan-2-one"
+CC(=O)C1CC(C1(C)C)CC(=O)O,TRUE,cis-Pinonic acid
