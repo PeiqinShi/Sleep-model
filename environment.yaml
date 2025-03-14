@@ -1,0 +1,20 @@
+name: sleep-model
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy=1.23.5
+  - pandas=2.0.3
+  - matplotlib-base=3.7.1
+  - seaborn=0.12.2
+  - scikit-learn=1.0.2
+  - rdkit=2023.3.1
+  - xlrd=2.0.1
+  - pycirclize=1.6.0
+  - pubchempy=1.0.4
+  - xgboost=1.7.6
+  - deepchem=2.7.1
+  - pip:
+    - pycirclize==1.6.0
+    - pubchempy==1.0.4
