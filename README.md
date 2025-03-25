@@ -1,8 +1,7 @@
-# GABAA_positive
-![positive](https://github.com/PeiqinShi/GABAA_agonist/assets/99592001/0b8b3183-47d0-4f59-8a93-25f7f14b1919)
-# GABAA_negative
-![negative](https://github.com/PeiqinShi/GABAA_agonist/assets/99592001/2121b35f-838a-46b6-b552-4ac9c9b92a52)
 
-Stacking
+![image](https://github.com/user-attachments/assets/3dfb4859-edea-4bf4-9305-8a9a927bbb8b)
 
-![image](https://github.com/PeiqinShi/GABAA/assets/99592001/d24920c7-2580-4f0f-9cf4-a2a7e72f3966)
+
+
+![image](https://github.com/user-attachments/assets/7376b414-609c-4159-b5d6-e6cf32281c51)
+
