@@ -1,16 +1,8 @@
 # Machine Learning-Guided Mapping Sleep-Promoting Volatiles in Aromatic Plants
 
 ## Project Description
-This repository contains a machine learning pipeline for predicting GABAA receptor modulators using:
-- Molecular fingerprinting (MACCS keys and RDKit descriptors)
-- Feature selection with Variance Threshold
-- Stacked ensemble modeling combining Random Forest, SVM, and XGBoost predictions
-
-## Features
-- Dual molecular featurization (MACCS fingerprints and RDKit descriptors)
-- Variance-based feature selection
-- Two-level stacked ensemble architecture
-- Pretrained models for immediate inference
+Project Description:
+This repository presents an advanced machine learning pipeline for identifying sleep-promoting volatile organic compounds (VOCs) from aromatic plants. 
 
 ## Installation
 
