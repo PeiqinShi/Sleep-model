@@ -25,8 +25,8 @@ conda activate sleep-model
 Data Preparation
 Place your input files in the data/ directory:
 
-GABAA.csv: Main dataset with SMILES strings and class labels
-plant.xlsx: New compounds for prediction
+-GABAA.csv: Main dataset with SMILES strings and class labels
+-plant.xlsx: New compounds for prediction
 ```
 File Structure
 ├── data/                   # Input data files
