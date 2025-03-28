@@ -21,13 +21,13 @@ conda env create -f environment.yaml -n sleep-model
 conda activate sleep-model
 ```
 
-Usage
+## Usage
 Data Preparation
 Place your input files in the data/ directory:
 
 GABAA.csv: Main dataset with SMILES strings and class labels
 plant.xlsx: New compounds for prediction
-
+```
 File Structure
 ├── data/                   # Input data files
 ├── data_analysis/          # Data processing and analysis
@@ -42,3 +42,4 @@ File Structure
 │   └── stacking_predict.ipynb
 ├── environment.yaml        
 └── README.md              
+```
