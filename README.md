@@ -30,7 +30,7 @@ plant.xlsx: New compounds for prediction
 File Structure
 ├── data/                   # Input data files
 ├── data_analysis/          # Data processing and analysis
-├── models/                 <span style="color:red;">Pretrained base model files for Stacking model training</span>
+├── models/                 # Pretrained base model files for Stacking model training
 │   ├── RF/
 │   │   ├── rf_MACCSkeys_random_0.ipynb
 │   │   ├── rf_RDkit_random_0.ipynb
@@ -39,9 +39,5 @@ File Structure
 │   ├── XGB/
 │   │   ├── xgb_MACCSkeys_random_0.ipynb
 │   └── stacking_predict.ipynb
-├── notebooks/              # Jupyter notebooks for exploration
-├── src/                    # Source code
-│   ├── featurization.py    # Feature generation code
-│   └── stacking.py         # Ensemble modeling code
-├── requirements.txt        # Dependency list
-└── README.md               # This file
+├── environment.yaml        
+└── README.md              
