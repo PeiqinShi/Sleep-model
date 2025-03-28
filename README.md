@@ -30,7 +30,7 @@ plant.xlsx: New compounds for prediction
 File Structure
 ├── data/                   # Input data files
 ├── data_analysis/          # Data processing and analysis
-├── models/                 # <span style="color:red;">Pretrained base model files for Stacking model training
+├── models/                 <span style="color:red;">Pretrained base model files for Stacking model training</span>
 │   ├── RF/
 │   │   ├── rf_MACCSkeys_random_0.ipynb
 │   │   ├── rf_RDkit_random_0.ipynb
