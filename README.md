@@ -3,6 +3,8 @@
 ## Project Description
 Project Description:
 This repository presents an advanced machine learning pipeline for identifying sleep-promoting volatile organic compounds (VOCs) from aromatic plants. 
+![image](https://github.com/user-attachments/assets/967c2866-bf5b-4832-9524-75947ef89c8a)
+
 
 ## Installation
 
