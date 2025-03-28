@@ -1,4 +1,4 @@
-# GABAA Receptor Modulator Prediction using Stacked Ensemble Learning
+# Machine Learning-Guided Mapping Sleep-Promoting Volatiles in Aromatic Plants
 
 ## Project Description
 This repository contains a machine learning pipeline for predicting GABAA receptor modulators using:
@@ -29,13 +29,16 @@ plant.xlsx: New compounds for prediction
 
 File Structure
 ├── data/                   # Input data files
-├── data_analysis/          # Input data files
-├── models/                 # Pretrained model files
-│   ├── rf_maccs_model.pkl
-│   ├── rf_rdkit_model.pkl
-│   ├── svm_maccs_model.pkl
-│   ├── xgb_maccs_model.pkl
-│   └── stacking_model.pkl
+├── data_analysis/          # Data processing and analysis
+├── models/                 # <span style="color:red;">Pretrained base model files for Stacking model training
+│   ├── RF/
+│   │   ├── rf_MACCSkeys_random_0.ipynb
+│   │   ├── rf_RDkit_random_0.ipynb
+│   ├── SVM/
+│   │   ├── svm_MACCSkeys_random_3.ipynb
+│   ├── XGB/
+│   │   ├── xgb_MACCSkeys_random_0.ipynb
+│   └── stacking_predict.ipynb
 ├── notebooks/              # Jupyter notebooks for exploration
 ├── src/                    # Source code
 │   ├── featurization.py    # Feature generation code
