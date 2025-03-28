@@ -19,6 +19,7 @@ First create the environment using the provided `environment.yaml`:
 ```bash
 conda env create -f environment.yaml -n sleep-model
 conda activate sleep-model
+```
 
 Usage
 Data Preparation
