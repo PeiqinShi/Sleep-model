@@ -18,11 +18,6 @@ conda activate sleep-model
 ```
 
 ## Usage
-Data Preparation
-Place your input files in the data/ directory:
-
-- GABAA.csv: Main dataset with SMILES strings and class labels
-- plant.xlsx: New compounds for prediction
 ```
 File Structure
 =======
@@ -69,7 +64,6 @@ uv sync
 
 ## File Structure
 ```
->>>>>>> 1708e6521d4ba76ca3d093a3feb4edc8649289c3
 ├── data/                   # Input data files
 ├── data_analysis/          # Data processing and analysis
 ├── models/                 # Pretrained base model files for Stacking model training
@@ -80,7 +74,6 @@ uv sync
 │   │   ├── svm_MACCSkeys_random_3.ipynb
 │   ├── XGB/
 │   │   ├── xgb_MACCSkeys_random_0.ipynb
-<<<<<<< HEAD
 │   └── stacking_predict.ipynb
 ├── environment.yaml        
 └── README.md              
@@ -95,7 +88,6 @@ These four models (rf_MACCSkeys, rf_RDkit, svm_MACCSkeys, xgb_MACCSkeys) are the
 
 ## Predicting
 
-
 ### From PyPI 
 ```
 pip install sleep-model
@@ -103,20 +95,18 @@ pip install sleep-model
 
 After installation, a console command is available:
 ```
-
 sleep-predict --smiles "CC(=O)OC1=CC=CC=C1C(=O)O"
-
 prediction from CSV
 sleep-predict --csv example/input.csv --out example/preds.csv --smiles-column SMILES
 ```
 
 ### As a Python module
-```bash
+```
 python predict_smiles.py --smiles "CC(=O)OC1=CC=CC=C1C(=O)O"
 ```
 ### Batch prediction from CSV
 Customize the SMILES column name and encoding when needed (e.g., column `SMILES`):
-```bash
+```
 python predict_smiles.py --csv example/input.csv --out example/preds.csv --smiles-column SMILES
 ```
 
@@ -127,4 +117,3 @@ python predict_smiles.py --csv example/input.csv --out example/preds.csv --smile
 - RDKit/DeepChem wheels can be environment-specific. If installation via `pip` fails, prefer the Conda-based installation.
 - If you see a file-not-found error for `models/` or `data/GABAA.csv`, run from the project root or install the project so resources are available in the environment.
 - We strongly recommend running this project using Python 3.8.
->>>>>>> 1708e6521d4ba76ca3d093a3feb4edc8649289c3
