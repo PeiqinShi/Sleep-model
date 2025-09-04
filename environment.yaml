@@ -14,4 +14,8 @@ dependencies:
   - pycirclize=1.6.0
   - pubchempy=1.0.4
   - xgboost=1.7.6
+<<<<<<< HEAD
   - deepchem=2.7.1
+=======
+  - deepchem=2.7.1
+>>>>>>> 1708e6521d4ba76ca3d093a3feb4edc8649289c3
