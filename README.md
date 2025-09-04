@@ -9,11 +9,22 @@ This repository presents an advanced machine learning pipeline for identifying s
 
 ## Installation
 
+## Dependency
+The code has been tested in the following environment:
+
+|  Package    | Version  |
+|  ----  | ----  |
+| Python  | 3.8.16 |
+| conda  | 23.5.0 |
+| RDKit  | 2023.3.1 |
+
 ### Conda Environment Setup
 First create the environment using the provided `environment.yaml`:
 ```bash
 conda env create -f environment.yaml -n sleep-model
 conda activate sleep-model
+pip install jupyter
+jupyter notebook
 ```
 
 ## Usage
