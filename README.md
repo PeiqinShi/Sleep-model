@@ -24,8 +24,12 @@ The code has been tested in the following environment:
 
 ### Option A: Conda environment
 ```bash
-conda create -n sleep python=3.8
+conda create -n sleep_model python=3.8
+conda activate sleep_model
 pip install sleep-model
+conda install jupyter notebook
+conda install ipykernel
+python -m ipykernel install --user --name sleep_model --display-name "sleep_model"
 ```
 
 ### Option B: uv 
@@ -64,21 +68,19 @@ pip install sleep-model
 After installation, a console command is available:
 
 sleep-predict --smiles "CC(=O)OC1=CC=CC=C1C(=O)O"
+
+prediction from CSV
+sleep-predict --csv example/input.csv --out example/preds.csv --smiles-column SMILES
 ```
 
 ### As a Python module
 ```bash
-python -m predict_smiles --smiles "CC(=O)OC1=CC=CC=C1C(=O)O"
+python predict_smiles.py --smiles "CC(=O)OC1=CC=CC=C1C(=O)O"
 ```
-
 ### Batch prediction from CSV
-Predict for a CSV file containing a SMILES column (default column name: `smiles`):
-```bash
-python predict_smiles.py --csv example/input.csv --out example/preds.csv
-```
 Customize the SMILES column name and encoding when needed (e.g., column `SMILES`):
 ```bash
-python predict_smiles.py --csv example/input.csv --out example/preds.csv --smiles-column SMILES --input-encoding utf-8
+python predict_smiles.py --csv example/input.csv --out example/preds.csv --smiles-column SMILES
 ```
 
 ### Notes
