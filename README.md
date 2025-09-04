@@ -8,6 +8,7 @@ This repository provides a machine-learning pipeline for identifying sleep-promo
 ```
 The download address for Miniconda is: https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
 ```
+```
 conda create -n sleep python=3.8
 pip install sleep-model
 ```
