@@ -39,9 +39,7 @@ python -m ipykernel install --user --name sleep_model --display-name "sleep_mode
 ```
 
 ### Option B: uv 
-```bash
-python -m pip install uv
-.venv\Scripts\activate  # Windows PowerShell
+```
 uv sync
 ```
 
