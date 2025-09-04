@@ -47,7 +47,7 @@ conda install ipykernel
 python -m ipykernel install --user --name sleep_model --display-name   "sleep_model"
 jupyter notebook
 ```
-
+```
 # Usage
 Data Preparation
 Place your input files in the data/ directory:
