@@ -18,12 +18,34 @@ The code has been tested in the following environment:
 | conda  | 23.5.0 |
 | RDKit  | 2023.3.1 |
 
-### Conda Environment Setup
-First create the environment using the provided `environment.yaml`:
-```bash
-conda env create -f environment.yaml -n sleep-model
-conda activate sleep-model
-pip install jupyter
+# How to Use
+
+## Installation
+```python
+# Method 1
+# Create a new environment, here is conda as an example
+conda create --name sleep_model python=3.8.10
+
+# Activate the newly created environment
+conda activate sleep_model
+
+# Installation package
+pip install sleep_model==0.0.11
+pip install imblearn
+
+# Suggest the pipeline of Jupyter notebook [optional, recommended]
+conda install jupyter notebook
+conda install ipykernel 
+python -m ipykernel install --user --name sleep_model --display-name   "sleep_model"
+jupyter notebook
+
+# Method2
+# Use the yaml environment file on the GitHub homepage to directly copy the current environment
+conda env create -f environment.yaml -n sleep_model
+conda activate sleep_model
+conda install jupyter notebook
+conda install ipykernel
+python -m ipykernel install --user --name sleep_model --display-name   "sleep_model"
 jupyter notebook
 ```
 
@@ -31,9 +53,6 @@ jupyter notebook
 Data Preparation
 Place your input files in the data/ directory:
 
-- GABAA.csv: Main dataset with SMILES strings and class labels
-- plant.xlsx: New compounds for prediction
-```
 File Structure
 ├── data/                   # Input data files
 ├── data_analysis/          # Data processing and analysis
