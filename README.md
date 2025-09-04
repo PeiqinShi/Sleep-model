@@ -19,21 +19,14 @@ The code has been tested in the following environment:
 
 ## Installation
 
-### Option A: From PyPI 
-```
-pip install sleep-model
-```
 
-### Option B: Conda environment
+### Option A: Conda environment
 ```bash
 conda env create -f environment.yaml -n sleep_model
 conda activate sleep_model
-# install this project from source (editable or regular)
-python -m pip install -e .
-# python -m pip install .
 ```
 
-### Option C: uv 
+### Option B: uv 
 ```bash
 python -m pip install uv
 py -m venv .venv
@@ -62,9 +55,18 @@ These four models (rf_MACCSkeys, rf_RDkit, svm_MACCSkeys, xgb_MACCSkeys) are the
 
 ## Predicting
 
-### Command-line (console script)
+### From PyPI 
+```
+pip install sleep-model
+```
+
+
+### From PyPI 
+```
+pip install sleep-model
+
 After installation, a console command is available:
-```bash
+
 sleep-predict --smiles "CC(=O)OC1=CC=CC=C1C(=O)O"
 ```
 
