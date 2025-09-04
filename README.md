@@ -12,7 +12,7 @@ This repository presents an advanced machine learning pipeline for identifying s
 Download miniconda : https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
 ```
 ```
-conda create -n sleep python=3.8
+conda create -n sleep_model python=3.8
 pip install sleep-model
 ```
 
@@ -39,9 +39,7 @@ python -m ipykernel install --user --name sleep_model --display-name "sleep_mode
 ```
 
 ### Option B: uv 
-```bash
-python -m pip install uv
-.venv\Scripts\activate  # Windows PowerShell
+```
 uv sync
 ```
 
