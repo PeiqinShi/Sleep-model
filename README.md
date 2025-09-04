@@ -19,12 +19,12 @@ The code has been tested in the following environment:
 
 ## Installation
 
-### Option A: From PyPI (simplest)
+### Option A: From PyPI 
 ```
 pip install sleep-model
 ```
 
-### Option B: Conda environment (recommended for RDKit/DeepChem)
+### Option B: Conda environment
 ```bash
 conda env create -f environment.yaml -n sleep_model
 conda activate sleep_model
@@ -33,13 +33,14 @@ python -m pip install -e .
 # python -m pip install .
 ```
 
-### Option C: uv (fast installer; lockfile included)
+### Option C: uv 
 ```bash
 python -m pip install uv
 py -m venv .venv
-.\.venv\Scripts\Activate.ps1  # Windows PowerShell
+.venv\Scripts\activate  # Windows PowerShell
 uv sync
 ```
+
 ## File Structure
 ```
 ├── data/                   # Input data files
@@ -84,7 +85,6 @@ python predict_smiles.py --csv example/input.csv --out example/preds.csv --smile
 
 ### Notes
 - Models and training data are loaded from the installed package resources (project `models/` and `data/GABAA.csv`). Ensure they are present if running from source.
-- If the console command is not found on Windows, re-activate your environment or run the module form.
 
 ## Troubleshooting
 - RDKit/DeepChem wheels can be environment-specific. If installation via `pip` fails, prefer the Conda-based installation.
