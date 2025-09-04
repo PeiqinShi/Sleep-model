@@ -4,6 +4,10 @@
 This repository provides a machine-learning pipeline for identifying sleep-promoting volatile organic compounds (VOCs) from aromatic plants, including pretrained base models and a stacking predictor for quick inference.
 ![image](https://github.com/user-attachments/assets/2fbe4d84-0f63-40aa-b340-3f0d605319bc)
 
+## Installation
+```
+pip install sleep-model
+```
 
 ## Dependency
 The code has been tested in the following environment:
@@ -16,9 +20,6 @@ The code has been tested in the following environment:
 | Scikit-learn  | 1.0.2 |
 
 # How to Use
-
-## Installation
-
 
 ### Option A: Conda environment
 ```bash
@@ -54,11 +55,6 @@ These four models (rf_MACCSkeys, rf_RDkit, svm_MACCSkeys, xgb_MACCSkeys) are the
 ```
 
 ## Predicting
-
-### From PyPI 
-```
-pip install sleep-model
-```
 
 
 ### From PyPI 
