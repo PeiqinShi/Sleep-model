@@ -31,7 +31,6 @@ pip install sleep-model
 ### Option B: uv 
 ```bash
 python -m pip install uv
-py -m venv .venv
 .venv\Scripts\activate  # Windows PowerShell
 uv sync
 ```
