@@ -52,3 +52,8 @@ These four models are the base models that we use to train the final stacking mo
 ```bash
 python predict_smiles.py --smiles "CC(=O)OC1=CC=CC=C1C(=O)O"
 ```
+### Batch prediction from CSV
+Predict for a CSV file containing a SMILES column (default column name: `SMILES`):
+```bash
+python predict_smiles.py --csv example/input.csv --out example/preds.csv --smiles-column SMILES
+```
