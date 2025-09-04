@@ -67,8 +67,10 @@ These four models (rf_MACCSkeys, rf_RDkit, svm_MACCSkeys, xgb_MACCSkeys) are the
 ### From PyPI 
 ```
 pip install sleep-model
+```
 
 After installation, a console command is available:
+```
 
 sleep-predict --smiles "CC(=O)OC1=CC=CC=C1C(=O)O"
 
