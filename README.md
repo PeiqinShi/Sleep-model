@@ -22,7 +22,6 @@ The code has been tested in the following environment:
 
 ## Installation
 ```python
-# Method 1
 # Create a new environment, here is conda as an example
 conda create --name sleep_model python=3.8.10
 
@@ -49,7 +48,7 @@ python -m ipykernel install --user --name sleep_model --display-name   "sleep_mo
 jupyter notebook
 ```
 
-## Usage
+# Usage
 Data Preparation
 Place your input files in the data/ directory:
 
