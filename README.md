@@ -1,7 +1,7 @@
 # Machine Learning-Guided Mapping Sleep-Promoting Volatiles in Aromatic Plants
 
 ## Project Description
-<<<<<<< HEAD
+
 Project Description:
 This repository presents an advanced machine learning pipeline for identifying sleep-promoting volatile organic compounds (VOCs) from aromatic plants. 
 ![image](https://github.com/user-attachments/assets/2fbe4d84-0f63-40aa-b340-3f0d605319bc)
