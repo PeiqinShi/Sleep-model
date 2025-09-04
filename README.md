@@ -58,11 +58,6 @@ uv sync
 │   ├── XGB/
 │   │   ├── xgb_MACCSkeys_random_0.ipynb
 │   └── stacking_predict.ipynb
-├── environment.yaml        
-└── README.md              
-```
-=======
-│   │── stacking_predict.ipynb
 ├── predict_smiles.py 
 └── README.md
 
