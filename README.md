@@ -8,7 +8,9 @@ This repository presents an advanced machine learning pipeline for identifying s
 
 
 ## Installation
-
+```
+pip install sleep-model
+```
 ## Dependency
 The code has been tested in the following environment:
 
@@ -22,7 +24,15 @@ The code has been tested in the following environment:
 # How to Use
 
 ## Installation
+```
+# Method1
+python -m pip install uv
+.venv\Scripts\activate
+uv sync
+```
+
 ```python
+# Method2
 # Use the yaml environment file on the GitHub homepage to directly copy the current environment
 conda env create -f environment.yaml -n sleep_model
 conda activate sleep_model
@@ -49,6 +59,7 @@ jupyter notebook
 
 These four models (rf_MACCSkeys, rf_RDkit, svm_MACCSkeys, xgb_MACCSkeys) are the base models that we use to train the final stacking model.
 ```
+
 ## Predicting
 ```bash
 python predict_smiles.py --smiles "CC(=O)OC1=CC=CC=C1C(=O)O"
