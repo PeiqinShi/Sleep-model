@@ -19,7 +19,7 @@ The code has been tested in the following environment:
 | RDKit  | 2023.3.1 |
 | Scikit-learn  | 1.0.2 |
 
-# How to Use
+# Check the code in detail
 
 ### Option A: Conda environment
 ```bash
