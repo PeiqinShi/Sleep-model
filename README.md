@@ -7,23 +7,6 @@ This repository presents an advanced machine learning pipeline for identifying s
 ![image](https://github.com/user-attachments/assets/2fbe4d84-0f63-40aa-b340-3f0d605319bc)
 
 
-
-## Installation
-
-### Conda Environment Setup
-First create the environment using the provided `environment.yaml`:
-```bash
-conda env create -f environment.yaml -n sleep-model
-conda activate sleep-model
-```
-
-## Usage
-```
-File Structure
-=======
-This repository provides a machine-learning pipeline for identifying sleep-promoting volatile organic compounds (VOCs) from aromatic plants, including pretrained base models and a stacking predictor for quick inference.
-![image](https://github.com/user-attachments/assets/2fbe4d84-0f63-40aa-b340-3f0d605319bc)
-
 ## Installation
 ```
 Download miniconda : https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
