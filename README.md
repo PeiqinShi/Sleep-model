@@ -47,7 +47,7 @@ jupyter notebook
 ├── predict_smiles.py 
 └── README.md
 
-These four models are the base models that we use to train the final stacking model.
+These four models (rf_MACCSkeys, rf_RDkit, svm_MACCSkeys, xgb_MACCSkeys) are the base models that we use to train the final stacking model.
 ```
 ## Predicting
 ```bash
