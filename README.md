@@ -6,6 +6,7 @@ This repository provides a machine-learning pipeline for identifying sleep-promo
 
 ## Installation
 ```
+conda create -n sleep python=3.8
 pip install sleep-model
 ```
 
@@ -23,8 +24,8 @@ The code has been tested in the following environment:
 
 ### Option A: Conda environment
 ```bash
-conda env create -f environment.yaml -n sleep_model
-conda activate sleep_model
+conda create -n sleep python=3.8
+pip install sleep-model
 ```
 
 ### Option B: uv 
