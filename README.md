@@ -30,12 +30,8 @@ conda install ipykernel
 python -m ipykernel install --user --name sleep_model --display-name   "sleep_model"
 jupyter notebook
 ```
-## Usage
+## File Structure
 ```
-Data Preparation
-Place your input files in the data/ directory:
-
-File Structure
 ├── data/                   # Input data files
 ├── data_analysis/          # Data processing and analysis
 ├── models/                 # Pretrained base model files for Stacking model training
@@ -46,7 +42,13 @@ File Structure
 │   │   ├── svm_MACCSkeys_random_3.ipynb
 │   ├── XGB/
 │   │   ├── xgb_MACCSkeys_random_0.ipynb
-│   └── stacking_predict.ipynb
-├── environment.yaml        
-└── README.md              
+│   │── stacking_predict.ipynb
+├── predict_smiles.py 
+└── README.md
+
+These four models are the base models that we use to train the final stacking model.
+```
+## Predicting
+```bash
+python predict_smiles.py --smiles "CC(=O)OC1=CC=CC=C1C(=O)O"
 ```
