@@ -28,6 +28,10 @@ Asteraceae[family],
 		'Tagetes patula',
 		'Tagetes erecta'
 		),
+	Taraxacum
+		(
+		'Taraxacum officinale'
+		),
 	Sphagneticola
 		(
 		'Sphagneticola trilobata'
@@ -189,6 +193,10 @@ Asteraceae[family],
 		(
 		'Blumea balsamifera'
 		),
+	Calendula
+		(
+		'Calendula officinalis'
+		),
 	Carpesium
 		(
 		'Carpesium abrotanoides',
@@ -198,6 +206,10 @@ Asteraceae[family],
 	Carthamus
 		(
 		'Carthamus tinctorius'
+		),
+	Cichorium
+		(
+		'Cichorium intybus'
 		),
 	Cyathocline
 		(
@@ -240,10 +252,6 @@ Asteraceae[family],
 	Matricaria
 		(
 		'Matricaria recutita'
-		),
-	Myripnois
-		(
-		'Myripnois dioica'
 		),
 	Onopordum
 		(

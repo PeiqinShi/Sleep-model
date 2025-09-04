@@ -151,11 +151,6 @@ Lamiaceae[family],
 		'Elsholtzia rugulosa',
 		'Elsholtzia splendens'
 		),
-	Glechoma
-		(
-		'Glechoma hederacea',
-		'Glechoma longituba'
-		),
 	Amethystea
 		(
 		'Amethystea coerulea'
@@ -163,6 +158,15 @@ Lamiaceae[family],
 	Anisochilus
 		(
 		'Anisochilus carnosus'
+		),
+	Dracocephalum
+		(
+		'Dracocephalum moldavica'
+		),
+	Glechoma
+		(
+		'Glechoma hederacea',
+		'Glechoma longituba'
 		),
 	Hyptis
 		(

@@ -1,8 +1,40 @@
-# GABAA_positive
-![positive](https://github.com/PeiqinShi/GABAA_agonist/assets/99592001/0b8b3183-47d0-4f59-8a93-25f7f14b1919)
-# GABAA_negative
-![negative](https://github.com/PeiqinShi/GABAA_agonist/assets/99592001/2121b35f-838a-46b6-b552-4ac9c9b92a52)
+# Machine Learning-Guided Mapping Sleep-Promoting Volatiles in Aromatic Plants
 
-Stacking
+## Project Description
+Project Description:
+This repository presents an advanced machine learning pipeline for identifying sleep-promoting volatile organic compounds (VOCs) from aromatic plants. 
+![image](https://github.com/user-attachments/assets/2fbe4d84-0f63-40aa-b340-3f0d605319bc)
 
-![image](https://github.com/PeiqinShi/GABAA/assets/99592001/d24920c7-2580-4f0f-9cf4-a2a7e72f3966)
+
+
+## Installation
+
+### Conda Environment Setup
+First create the environment using the provided `environment.yaml`:
+```bash
+conda env create -f environment.yaml -n sleep-model
+conda activate sleep-model
+```
+
+## Usage
+Data Preparation
+Place your input files in the data/ directory:
+
+- GABAA.csv: Main dataset with SMILES strings and class labels
+- plant.xlsx: New compounds for prediction
+```
+File Structure
+├── data/                   # Input data files
+├── data_analysis/          # Data processing and analysis
+├── models/                 # Pretrained base model files for Stacking model training
+│   ├── RF/
+│   │   ├── rf_MACCSkeys_random_0.ipynb
+│   │   ├── rf_RDkit_random_0.ipynb
+│   ├── SVM/
+│   │   ├── svm_MACCSkeys_random_3.ipynb
+│   ├── XGB/
+│   │   ├── xgb_MACCSkeys_random_0.ipynb
+│   └── stacking_predict.ipynb
+├── environment.yaml        
+└── README.md              
+```

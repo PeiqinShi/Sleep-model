@@ -1,11 +1,6 @@
 (
 Lauraceae[family],
 	(
-	Camphora
-		(
-		'Camphora bodinieri'
-		),
-	
 	Cinnamomum
 		(
 		'Cinnamomum appelianum',
@@ -30,21 +25,13 @@ Lauraceae[family],
 		'Cinnamomum wilsonii',
 		'Cinnamomum pauciflorum'
 		),
+	Camphora
+		(
+		'Camphora bodinieri'
+		),
 	Laurus
 		(
 		'Laurus nobilis'
-		),
-	Machilus
-		(
-		'Machilus velutina'
-		),
-	Neocinnamomum
-		(
-		'Neocinnamomum delavayi'
-		),
-	Phoebe
-		(
-		'Phoebe zhennan'
 		),
 	Lindera
 		(
@@ -67,6 +54,18 @@ Lauraceae[family],
 		'Litsea monopetala',
 		'Litsea populifolia',
 		'Litsea pungens'
+		),
+	Machilus
+		(
+		'Machilus velutina'
+		),
+	Neocinnamomum
+		(
+		'Neocinnamomum delavayi'
+		),
+	Phoebe
+		(
+		'Phoebe zhennan'
 		),
 	Sassafras
 		(
