@@ -1,9 +1,9 @@
 [project]
 name = "sleep_model"
 version = "0.1.1"
-description = "Your package description"  # 添加描述
-readme = "README.md"  # 确保有README.md文件
-requires-python = ">=3.8"  # 使用更宽松的版本限制
+description = "Your package description"  
+readme = "README.md"  
+requires-python = ">=3.8" 
 authors = [
     {name = "Peiqin Shi"}
 ]
@@ -24,6 +24,7 @@ dependencies = [
     "xgboost==1.7.6",
     "scikit-learn==1.0.2",
     "cryptography==45.0.7"
+    "tqdm>=4.65.0"
 ]
 
 [project.urls]
