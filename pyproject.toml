@@ -24,6 +24,7 @@ dependencies = [
     "xgboost==1.7.6",
     "scikit-learn==1.0.2",
     "cryptography==45.0.7"
+    "openpyxl>=3.0.0",
     "tqdm>=4.65.0"
 ]
 
