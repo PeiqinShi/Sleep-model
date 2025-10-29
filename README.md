@@ -45,6 +45,7 @@ conda activate sleep_model
 pip install uv
 cd /path/to/sleep_model
 uv pip install -e .
+python -m ipykernel install --user --name sleep_model --display-name "sleep_model"
 ```
 
 ## File Structure

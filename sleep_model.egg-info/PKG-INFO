@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: sleep_model
-Version: 0.1.1
+Version: 0.1.2
 Summary: Your package description
 Author: Peiqin Shi
 Project-URL: Homepage, https://github.com/PeiqinShi/Sleep-model
@@ -8,7 +8,7 @@ Project-URL: Bug-Tracker, https://github.com/PeiqinShi/Sleep-model/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.8
+Requires-Python: ==3.8.*
 Description-Content-Type: text/markdown
 Requires-Dist: deepchem==2.7.1
 Requires-Dist: pandas>=2.0.3
@@ -22,6 +22,9 @@ Requires-Dist: requests>=2.25.0
 Requires-Dist: seaborn>=0.13.2
 Requires-Dist: xgboost==1.7.6
 Requires-Dist: scikit-learn==1.0.2
+Requires-Dist: pywinpty==2.0.13
+Requires-Dist: jupyter==1.0.0
+Requires-Dist: ipykernel
 
 # Machine Learning-Guided Mapping Sleep-Promoting Volatiles in Aromatic Plants
 
@@ -65,7 +68,11 @@ python -m ipykernel install --user --name sleep_model --display-name "sleep_mode
 
 ### Option B: uv 
 ```
-uv sync
+conda create -n sleep_model python=3.8
+conda activate sleep_model
+pip install uv
+cd /path/to/sleep_model
+uv pip install -e .
 ```
 
 ## File Structure
