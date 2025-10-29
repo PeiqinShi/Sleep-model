@@ -32,6 +32,7 @@ pip install sleep-model
 conda install jupyter notebook
 conda install ipykernel
 python -m ipykernel install --user --name sleep_model --display-name "sleep_model"
+jupyter notebook
 ```
 
 ### Option B: uv 
@@ -42,6 +43,7 @@ pip install uv
 cd /path/to/sleep_model
 uv pip install -e .
 python -m ipykernel install --user --name sleep_model --display-name "sleep_model"
+jupyter notebook
 ```
 
 ## File Structure
