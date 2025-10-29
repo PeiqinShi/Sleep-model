@@ -11,10 +11,6 @@ This repository presents an advanced machine learning pipeline for identifying s
 ```
 Download miniconda : https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
 ```
-```
-conda create -n sleep_model python=3.8
-pip install sleep-model
-```
 
 ## Dependency
 The code has been tested in the following environment:
