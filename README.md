@@ -40,7 +40,11 @@ python -m ipykernel install --user --name sleep_model --display-name "sleep_mode
 
 ### Option B: uv 
 ```
-uv sync
+conda create -n sleep_model python=3.8
+conda activate sleep_model
+pip install uv
+cd /path/to/sleep_model
+uv pip install -e .
 ```
 
 ## File Structure
