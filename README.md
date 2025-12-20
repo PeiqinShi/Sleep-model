@@ -18,7 +18,7 @@ The code has been tested in the following environment:
 |  Package    | Version  |
 |  ----  | ----  |
 | Python  | 3.8.16 |
-| Conda  | 23.5.0 |
+| Conda  | 25.3.1 |
 | RDKit  | 2023.3.1 |
 | Scikit-learn  | 1.0.2 |
 
