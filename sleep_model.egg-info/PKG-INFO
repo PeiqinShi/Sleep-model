@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: sleep_model
-Version: 0.1.2
+Version: 0.1.3
 Summary: Your package description
 Author: Peiqin Shi
 Project-URL: Homepage, https://github.com/PeiqinShi/Sleep-model
@@ -22,8 +22,8 @@ Requires-Dist: requests>=2.25.0
 Requires-Dist: seaborn>=0.13.2
 Requires-Dist: xgboost==1.7.6
 Requires-Dist: scikit-learn==1.0.2
-Requires-Dist: pywinpty==2.0.13
 Requires-Dist: jupyter==1.0.0
+Requires-Dist: shap==0.44.0
 Requires-Dist: ipykernel
 
 # Machine Learning-Guided Mapping Sleep-Promoting Volatiles in Aromatic Plants
@@ -38,10 +38,6 @@ This repository presents an advanced machine learning pipeline for identifying s
 ## Installation
 ```
 Download miniconda : https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
-```
-```
-conda create -n sleep_model python=3.8
-pip install sleep-model
 ```
 
 ## Dependency
@@ -64,6 +60,7 @@ pip install sleep-model
 conda install jupyter notebook
 conda install ipykernel
 python -m ipykernel install --user --name sleep_model --display-name "sleep_model"
+jupyter notebook
 ```
 
 ### Option B: uv 
@@ -73,6 +70,8 @@ conda activate sleep_model
 pip install uv
 cd /path/to/sleep_model
 uv pip install -e .
+python -m ipykernel install --user --name sleep_model --display-name "sleep_model"
+jupyter notebook
 ```
 
 ## File Structure

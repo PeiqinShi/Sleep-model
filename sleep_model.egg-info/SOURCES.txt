@@ -24,7 +24,6 @@ data/plant_species_Pinaceae.nwk
 data/processed_plant.xlsx
 data_analysis/01_Figure 2.ipynb
 data_analysis/02_Figure 2.ipynb
-data_analysis/Figure 2c-d.ipynb
 data_analysis/Figure 6, figure S9-S14.ipynb
 data_analysis/Figure S1.ipynb
 data_analysis/Figure S15-S16.ipynb
