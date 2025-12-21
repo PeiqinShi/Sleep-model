@@ -15,12 +15,21 @@ Download miniconda : https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
 ## Dependency
 The code has been tested in the following environment:
 
-|  Package    | Version  |
-|  ----  | ----  |
-| Python  | 3.8.16 & 3.10.19 |
-| Conda  | 25.3.1 |
-| RDKit  | 2023.3.1 |
-| Scikit-learn  | 1.0.2 |
+### ✅ Linux / macOS
+| Package | Version |
+|------|------|
+| Python | 3.8.x, 3.10.x |
+| Conda | ≥ 25.x |
+| RDKit | 2023.3.1 |
+| Scikit-learn | 1.0.2 |
+
+### ⚠️ Windows
+| Package | Version |
+|------|------|
+| Python | **3.10.x (required)** |
+| Conda | ≥ 25.x |
+| RDKit | 2023.3.1 |
+| Scikit-learn | 1.0.2 |
 
 # Check the code in detail
 
