@@ -7,10 +7,7 @@ This repository presents an advanced machine learning pipeline for identifying s
 ![image](https://github.com/user-attachments/assets/2fbe4d84-0f63-40aa-b340-3f0d605319bc)
 
 
-## Installation miniconda
-```
-Download miniconda : https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
-```
+
 
 ## Dependency
 The code has been tested in the following environment:
@@ -32,6 +29,11 @@ The code has been tested in the following environment:
 | Scikit-learn | 1.0.2 |
 
 # Check the code in detail
+
+## Installation miniconda
+```
+Download miniconda : https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
+```
 
 ### Installation : uv 
 ```
