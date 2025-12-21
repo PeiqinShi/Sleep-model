@@ -35,7 +35,7 @@ The code has been tested in the following environment:
 
 ### Option A: Conda environment
 ```bash
-conda create -n sleep_model python=3.8
+conda create -n sleep_model python=3.10
 conda activate sleep_model
 pip install sleep-model
 conda install jupyter notebook
@@ -46,7 +46,7 @@ jupyter notebook
 
 ### Option B: uv 
 ```
-conda create -n sleep_model python=3.8
+conda create -n sleep_model python=3.10
 conda activate sleep_model
 pip install uv
 cd /path/to/sleep_model
