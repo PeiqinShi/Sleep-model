@@ -94,4 +94,4 @@ python predict_smiles.py --csv example/input.csv --out example/preds.csv --smile
 ## Troubleshooting
 - RDKit/DeepChem wheels can be environment-specific. If installation via `pip` fails, prefer the Conda-based installation.
 - If you see a file-not-found error for `models/` or `data/GABAA.csv`, run from the project root or install the project so resources are available in the environment.
-- We strongly recommend running this project using Python 3.8.
+- We strongly recommend running this project using Python 3.10.
