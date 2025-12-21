@@ -7,7 +7,7 @@ This repository presents an advanced machine learning pipeline for identifying s
 ![image](https://github.com/user-attachments/assets/2fbe4d84-0f63-40aa-b340-3f0d605319bc)
 
 
-## Installation
+## Installation miniconda
 ```
 Download miniconda : https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
 ```
