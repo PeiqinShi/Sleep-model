@@ -33,18 +33,7 @@ The code has been tested in the following environment:
 
 # Check the code in detail
 
-### Option A: Conda environment
-```bash
-conda create -n sleep_model python=3.10
-conda activate sleep_model
-pip install sleep-model
-conda install jupyter notebook
-conda install ipykernel
-python -m ipykernel install --user --name sleep_model --display-name "sleep_model"
-jupyter notebook
-```
-
-### Option B: uv 
+### Installation : uv 
 ```
 conda create -n sleep_model python=3.10
 conda activate sleep_model
